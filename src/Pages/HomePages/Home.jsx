@@ -2,7 +2,7 @@ import React from 'react';
 import AboutContainer from '../../containers/AboutContainers/AboutContainer';
 import Sliders from '../../containers/SliderContainers/Sliders';
 
-const Home01 = () => {
+const Home = () => {
     return (
         <div className="wrapper">
             <Sliders />
@@ -11,4 +11,4 @@ const Home01 = () => {
     );
 };
 
-export default Home01;
+export default Home;

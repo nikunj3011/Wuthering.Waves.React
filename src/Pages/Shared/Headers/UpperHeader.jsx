@@ -50,8 +50,8 @@ const UpperHeader = () => {
             <div className="container">
                 <div className="header_inner d-flex align-items-center justify-content-between">
                     <div className="logo">
-                        <a href='/' className="light_logo"><img src="images/logo-light.svg" alt="logo" /></a>
-                        <a href='/' className="dark_logo"><img src="images/logo-dark.svg" alt="logo" /></a>
+                        <a href='/' className="light_logo"><img src="images/logo-light-2.png" alt="logo" /></a>
+                        <a href='/' className="dark_logo"><img src="images/logo-dark-2.png" alt="logo" /></a>
                     </div>
 
 
@@ -62,7 +62,7 @@ const UpperHeader = () => {
                             <li className="menu-item"><a href="/echoes">Echoes</a></li>
                             <li className="menu-item"><a href="/weapons">Weapons</a></li>
                             <li className="menu-item"><a href="/gearsets">Gear Sets</a></li>
-                            <li className="menu-item"><a href="/gearsets">News</a></li>
+                            {/* <li className="menu-item"><a href="/gearsets">News</a></li> */}
                             {/* <li className="menu-item menu-item-has-children"><a href="/">Wuthering Waves</a>
                                 <ul className="sub-menu">
                                     <li className="menu-item"><a href="/">Home One</a></li>

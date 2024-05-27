@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import HomeLayout from "../Layouts/HomeLayout";
-import Home01 from "../Pages/HomePages/Home01";
+import Home from "../Pages/HomePages/Home";
 import Characters from "../Pages/ProjectPages/Characters";
 import Echoes from "../Pages/ProjectPages/Echoes";
 import Weapons from "../Pages/ProjectPages/Weapons";
@@ -13,7 +13,7 @@ export const routes = createBrowserRouter([
         children: [
             {
                 path: '/',
-                element: <Home01/>,
+                element: <Home/>,
             },
             {
                 path: '/characters',

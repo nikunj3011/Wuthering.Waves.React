@@ -78,7 +78,7 @@ const Footer = () => {
                                     <div className="footer_elements_inner">
                                         <div className="footer_logo"
                                         >
-                                            <a href="/" className="light_logo"><img src="images/logo-light.svg" alt="logo" /></a>
+                                            <a href="/" className="light_logo"><img height="80"src="images/logo-light-2.png" alt="logo" /></a>
                                         </div>
                                         <div className="footer_social">
                                             <ul className="social_list">
