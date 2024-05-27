@@ -1,5 +1,4 @@
 import React from 'react';
-import Portfolio from '../../components/Portfolio';
 import PageBanner from '../../containers/PageBanner';
 import EchoesGallery from '../../containers/ProjectContainers/EchoesSummary';
 

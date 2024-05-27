@@ -5,11 +5,11 @@ import Paragraph from '../../components/Paragraph';
 import ProjectCard from '../../components/ProjectElements/ProjectCard';
 import SectionGridLines from '../../components/SectionGridLines';
 import SectionHeader from '../../components/SectionHeader';
-import echoesData from '../../jsonData/echoes.json';
+import weaponsData from '../../jsonData/weapons.json';
 import WeaponsCard from '../../components/ProjectElements/WeaponsCard';
 
 const WeaponsSummary = () => {
-    const echoes = echoesData;
+    const weapons = weaponsData;
 
     const [filterKey, setFilterKey] = useState('*')
 
@@ -76,7 +76,7 @@ const WeaponsSummary = () => {
                 </div> */}
                 <div className="section-desc row align-items-center justify-content-center">
                         {
-                            echoes.map(data => <WeaponsCard
+                            weapons.map(data => <WeaponsCard
                                 key={data.id}
                                 data={data}
                             />)
