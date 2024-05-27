@@ -1,11 +1,9 @@
 import Isotope from 'isotope-layout';
 import React, { useEffect, useState } from 'react';
-import PageHeder from '../../components/PageHeder';
-import Paragraph from '../../components/Paragraph';
-import ProjectCard from '../../components/ProjectElements/ProjectCard';
 import SectionGridLines from '../../components/SectionGridLines';
 import SectionHeader from '../../components/SectionHeader';
 import echoesData from '../../jsonData/echoes.json';
+import EchoesCard from '../../components/ProjectElements/EchoesCard';
 
 const EchoesGallery = () => {
     const echoes = echoesData;
@@ -75,7 +73,7 @@ const EchoesGallery = () => {
                 </div> */}
                 <div className="section-desc row align-items-center justify-content-center">
                         {
-                            echoes.map(data => <ProjectCard
+                            echoes.map(data => <EchoesCard
                                 key={data.id}
                                 data={data}
                             />)
