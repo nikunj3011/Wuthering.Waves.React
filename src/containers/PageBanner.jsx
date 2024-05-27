@@ -10,10 +10,11 @@ const PageBanner = (props) => {
                             <h2 className="heading">{props.title}</h2>
                             <ul className="breadcrumb d-flex align-items-center">
                                 <li><a href="/">Home</a></li>
-                                <li><a href="#">{props.pageTitle}</a></li>
                                 <li className="active">{props.activePage}</li>
                             </ul>
                         </div>
+                        <h5 className="">{props.description}</h5>
+                        <br/>
                     </div>
                 </div>
             </div>

@@ -1,0 +1,124 @@
+[
+  {
+      "id": "1",
+      "img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/aero_predator.webp?strip=all&quality=100&w=128",
+      "name": "Aero Predator",
+      "description": "Use the Echo skill to summon the Aero Predator to throw a dart forward. The dart will bounce once when it hits the enemy, up to a maximum of III times, causing 32.40% Aero damage each time it hits.",
+      "Cooldown": "8 seconds",
+      "tag": "interiors"
+  },
+  {
+      "id": "2",
+      "img": "https://www.prydwen.gg/static/3752f18605107b5fdb36835e9e7a2b90/b26e2/baizhi_card.webp",
+      "name": "Baizhi",
+      "tag": "resences"
+  },
+  {
+      "id": "3",
+      "img": "https://www.prydwen.gg/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp",
+      "name": "Calcharo",
+      "tag": "landscape exterior"
+  },
+  {
+      "id": "4",
+      "img": "https://www.prydwen.gg/static/689148c2dc5b0b38aeb2c75ca8b3ef65/b26e2/chixia_card.webp",
+      "name": "Chixia",
+      "tag": "landscape"
+  },
+  {
+      "id": "5",
+      "img": "https://www.prydwen.gg/static/431f962f5a8febb92f44ae9138aa5e01/b26e2/danjin_card.webp",
+      "name": "Danjin",
+      "tag": "interiors"
+  },
+  {
+      "id": "6",
+      "img": "https://www.prydwen.gg/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp",
+      "name": "Encore",
+      "tag": "interiors"
+  },
+  {
+      "id": "7",
+      "img": "https://www.prydwen.gg/static/c215e7a42cbfd78f854553f192dc0e4f/b26e2/jiaxin_card.webp",
+      "name": "Jianxin",
+      "tag": "exterior"
+  },
+  {
+      "id": "8",
+      "img": "https://www.prydwen.gg/static/5020d60083afc09d2fb6bce4a35225bc/b26e2/jiyan_card.webp",
+      "name": "Jiyan",
+      "tag": "exterior"
+  },
+  {
+      "id": "9",
+      "img": "https://www.prydwen.gg/static/672fdaae2b01f8355d5631a989e5f472/b26e2/ling_card.webp",
+      "name": "Lingyang",
+      "tag": "exterior"
+  },
+  {
+      "id": "10",
+      "img": "https://www.prydwen.gg/static/afa511d7b0c173247db7478c15e7e8d7/b26e2/mortefi_card.webp",
+      "name": "Mortefi",
+      "tag": "exterior"
+  },{
+      "id": "11",
+      "img": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+      "name": "Rover (Spectro)",
+      "tag": "interiors"
+  },
+  {
+      "id": "12",
+      "img": "https://www.prydwen.gg/static/f67966dd31af657ac8612d36006d5874/b26e2/senhua_card.webp",
+      "name": "Sanhua",
+      "tag": "resences"
+  },
+  {
+      "id": "13",
+      "img": "https://www.prydwen.gg/static/9759a6ea13fefd1bc632650a0a657e8e/b26e2/taoqi_card.webp",
+      "name": "Taoqi",
+      "tag": "landscape exterior"
+  },
+  {
+      "id": "14",
+      "img": "https://www.prydwen.gg/static/dd5bdface07cef9b868fe8214b0988ed/b26e2/verina_card.webp",
+      "name": "Verina",
+      "tag": "landscape"
+  },
+  {
+      "id": "15",
+      "img": "https://www.prydwen.gg/static/ad90d3bdfacb57e34e7f90367f3823b0/b26e2/yang_card.webp",
+      "name": "Yangyang",
+      "tag": "interiors"
+  },
+  {
+      "id": "16",
+      "img": "https://www.prydwen.gg/static/a2b0c34a81e57a52165da5b356be412c/b26e2/yinglin_card.webp",
+      "name": "Yinlin",
+      "tag": "interiors"
+  },
+  {
+      "id": "17",
+      "img": "https://www.prydwen.gg/static/fb4fc64e05d0d40ef90adc4527dc93ea/b26e2/yuanwu_card.webp",
+      "name": "Yuanwu",
+      "tag": "interiors"
+  },
+  {
+      "id": "18",
+      "img": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+      "name": "Rover (Havoc)",
+      "tag": "interiors"
+  },
+  {
+      "id": "20",
+      "img": "https://www.prydwen.gg/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
+      "name": "Changli",
+      "tag": "interiors"
+  },
+  {
+      "id": "21",
+      "img": "https://www.prydwen.gg/static/136095b0f95ac4be3ddc7e2d585855bf/b26e2/jihni_card.webp",
+      "name": "Jinhsi",
+      "tag": "interiors"
+  }
+
+]

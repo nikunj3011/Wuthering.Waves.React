@@ -22,19 +22,22 @@ const ProjectCard = ({ data }) => {
     let elHeight = Number(dimensions.height);
     // console.log(typeof elHeight);
 
-    const { img, details, tag } = data;
+    const { img, name, tag } = data;
 
     return (
-        <div className={`grid-item ${tag} width-50`}>
-            <div className="thumb">
-                <LazyLoad height={monitorWidth <= 600 ? 500 : monitorWidth <= 1550 ? 680 : monitorWidth <= 2000 ? 810 : 680} once>
-                    <img className="item_image" src={img} alt="" />
-                </LazyLoad>
-                <div className="works-info">
-                    <div className="label-text">
-                        <h6><a href="#">Lake Cabin</a></h6>
-                        <h5><a href="/project-details">{details}</a></h5>
-                        <div className="details_link"><a href="/project-details"><span className="link_text">View Details</span> <span className="link_icon"><span className="line"></span> <span className="circle"></span><span className="dot"></span></span></a></div>
+        <div className="col-lg-3 text-center">
+            <div className={`grid-item ${tag} width-10`}>
+                <div className="thumb">
+                    <LazyLoad height={monitorWidth <= 600 ? 500 : monitorWidth <= 1550 ? 680 : monitorWidth <= 2000 ? 810 : 680} once>
+                        <img className="item_image" src={img} alt="" />
+                        <h5><a href="/project-details">{name}</a></h5>
+                    </LazyLoad>
+                    
+                    <div className="works-info">
+                        <div className="label-text">
+                            <h5><a href="/project-details">{name}</a></h5>
+                            <div className="details_link"><a href="/project-details"><span className="link_text">View Details</span> <span className="link_icon"><span className="line"></span> <span className="circle"></span><span className="dot"></span></span></a></div>
+                        </div>
                     </div>
                 </div>
             </div>

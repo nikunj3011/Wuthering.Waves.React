@@ -5,53 +5,10 @@ import Paragraph from '../../components/Paragraph';
 import ProjectCard from '../../components/ProjectElements/ProjectCard';
 import SectionGridLines from '../../components/SectionGridLines';
 import SectionHeader from '../../components/SectionHeader';
+import charactersData from '../../jsonData/characters.json';
 
 const ProjectGallery = () => {
-    const ProjectData01 = [
-        {
-            id: '1',
-            img: 'images/portfolio/packery/2.jpg',
-            details: 'Sunlight in the Room',
-            tag: 'interiors'
-        },
-        {
-            id: '2',
-            img: 'images/portfolio/packery/3.jpg',
-            details: 'Find your own self invintage lake house',
-            tag: 'residences'
-        },
-        // {
-        //     id: '3',
-        //     img: 'images/portfolio/packery/4.jpg',
-        //     details: 'Well decor house in Sydney',
-        //     tag: 'landscape exterior'
-        // },
-        {
-            id: '4',
-            img: 'images/portfolio/packery/5.jpg',
-            details: 'Huge large area Bedroom',
-            tag: 'landscape'
-        },
-        {
-            id: '5',
-            img: 'images/portfolio/packery/6.jpg',
-            details: 'Clean water in the swiming pool',
-            tag: 'interiors'
-        },
-        {
-            id: '6',
-            img: 'images/portfolio/packery/7.jpg',
-            details: 'Newyork golf club house',
-            tag: 'interiors'
-        },
-        {
-            id: '7',
-            img: 'images/portfolio/packery/8.jpg',
-            details: 'California young menz club',
-            tag: 'exterior'
-        },
-
-    ];
+    const characters = charactersData;
 
     const [filterKey, setFilterKey] = useState('*')
 
@@ -80,23 +37,22 @@ const ProjectGallery = () => {
     }, []);
 
     // handling filter key change
-    useEffect(() => {
-        filterKey === '*'
-            ? Isotope.current.arrange({ filter: `*` })
-            : Isotope.current.arrange({ filter: `.${filterKey}` })
-    }, [filterKey]);
+    // useEffect(() => {
+    //     filterKey === '*'
+    //         ? Isotope.current.arrange({ filter: `*` })
+    //         : Isotope.current.arrange({ filter: `.${filterKey}` })
+    // }, [filterKey]);
 
     const handleFilterKeyChange = key => () => setFilterKey(key)
-
 
     return (
         <section className="projects packery">
             <SectionGridLines></SectionGridLines>
             <div className="large_font">
-                <SectionHeader title="Gallery"></SectionHeader>
+                <SectionHeader title="Characters"></SectionHeader>
             </div>
             <div className="container">
-                <div className="section-header text-center has_line">
+                {/* <div className="section-header text-center has_line">
                     <PageHeder className='text-white' title="Project Gallery"></PageHeder>
                     <div className="section-desc row align-items-center justify-content-center">
                         <div className="col-lg-6 text-end">
@@ -116,17 +72,25 @@ const ProjectGallery = () => {
                         <button className="button" onClick={handleFilterKeyChange('interiors')}>Interiors <sup className="filter-count"></sup></button>
                         <button className="button" onClick={handleFilterKeyChange('landscape')}>Landscape <sup className="filter-count"></sup></button>
                     </div>
+                </div> */}
+                <div className="section-desc row align-items-center justify-content-center">
+                        {
+                            characters.map(data => <ProjectCard
+                                key={data.id}
+                                data={data}
+                            />)
+                        }
                 </div>
-                <div className="grid gutter-20 clearfix">
+                {/* <div className="grid gutter-20 clearfix">
                     <div className="grid-sizer"></div>
 
                     {
-                        ProjectData01.map(data => <ProjectCard
+                        characters.map(data => <ProjectCard
                             key={data.id}
                             data={data}
                         />)
                     }
-                </div>
+                </div> */}
                 {/* <LoadmoreBtn text='Discover All Projects' className='btn olive w-100' /> */}
             </div>
         </section>

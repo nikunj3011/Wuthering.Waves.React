@@ -13,14 +13,14 @@ const Home01 = () => {
     return (
         <div className="wrapper">
             <Sliders />
-            <Services />
+            {/* <Services /> */}
             <AboutContainer />
-            <FunFacts className='funfacts bg_1' />
+            <FunFacts />
             <RunningProjects />
             <ProjectGallery />
-            <Testimonials />
-            <Blogs />
-            <FormContainer />
+            {/* <Testimonials /> */}
+            {/* <Blogs /> */}
+            {/* <FormContainer /> */}
         </div>
     );
 };

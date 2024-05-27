@@ -47,10 +47,10 @@ const Footer = () => {
                         <div className="row align-items-end">
                             <div className="col-lg-4 col-md-2 col-sm-2">
                                 <div className="section-header">
-                                    <h2>Contact</h2>
+                                    <h2>(:</h2>
                                 </div>
                             </div>
-                            <div className="col-lg-4 col-md-5 col-sm-5">
+                            {/* <div className="col-lg-4 col-md-5 col-sm-5">
                                 <div className="communication">
                                     <div className="info_body"
                                     >
@@ -72,9 +72,9 @@ const Footer = () => {
                                         <h5>3 Madison Street NY, USA</h5>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="col-lg-4 col-md-5 col-sm-5">
-                                <div className="footer_elements d-flex align-items-center justify-content-end">
+                            </div> */}
+                            <div className="col-lg-8 col-md-10 col-sm-10">
+                                <div className="footer_elements d-flex align-items-left justify-content-end">
                                     <div className="footer_elements_inner">
                                         <div className="footer_logo"
                                         >
@@ -100,7 +100,7 @@ const Footer = () => {
                                         </div>
                                         <div className="copyright"
                                         >
-                                            <p>Mrittik 2023. All Rights Reserved</p>
+                                            <p>2024. All Rights Reserved</p>
                                         </div>
                                     </div>
                                 </div>

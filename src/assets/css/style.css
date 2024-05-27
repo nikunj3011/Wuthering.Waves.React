@@ -19162,7 +19162,7 @@ body.mr_menu_active .mr_menu_overlay {
 
 .page_header .page_header_inner {
   position: relative;
-  background-image: url(../../../build/images/header_bg.jpg);
+  background-image: url(../../../public/images/main_images/header_img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -19180,7 +19180,7 @@ body.mr_menu_active .mr_menu_overlay {
 .page_header .page_header_inner .page_header_content {
   position: relative;
   margin: 0px;
-  padding: 60px 0px 60px 0px;
+  padding: 150px 0px 60px 0px;
   flex-flow: row wrap;
 }
 

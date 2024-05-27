@@ -8,16 +8,19 @@ const Sliders = () => {
     const SliderCardData = [
         {
             id: '1',
-            bgImg: 'images/slider/14.jpg',
+            bgImg: 'images/main_images/1_.jpg',
+            text: `Wuthering Waves is an action role-playing game set in a futuristic post-apocalyptic open world, where a mysterious catastrophe known as the Lament swept the globe, wiping out most of humanity and leaving it on the verge of extinction. After the calamity, unknown beings and monsters appeared around the world, but humanity soon adapted to the threat and found a way to cope and live with the monsters, slowly rebuilding civilization. The story follows the amnesiac Rover, who has awoken from their deep slumber. On the Rover's journey, they will explore the vast lands and will be greeted by a new world filled with novel sights and new technologies.`
         },
         {
             id: '2',
-            bgImg: 'images/slider/5.jpg',
+            bgImg: 'images/main_images/2_.jpg',
+            text: 'aaa'
         },
         {
             id: '3',
-            bgImg: 'images/slider/8.jpg',
-        },
+            bgImg: 'images/main_images/3_.jpg',
+            text: 'aaa'
+        }
     ];
 
     return (

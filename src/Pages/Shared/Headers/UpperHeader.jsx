@@ -57,7 +57,13 @@ const UpperHeader = () => {
 
                     <div className="mainnav d-none d-lg-block">
                         <ul className="main_menu">
-                            <li className="menu-item menu-item-has-children"><a href="/">Home</a>
+                            <li className="menu-item"><a href="/">Wuthering Waves</a></li>
+                            <li className="menu-item"><a href="/characters">Characters</a></li>
+                            <li className="menu-item"><a href="/echoes">Echoes</a></li>
+                            <li className="menu-item"><a href="/weapons">Weapons</a></li>
+                            <li className="menu-item"><a href="/gearsets">Gear Sets</a></li>
+                            <li className="menu-item"><a href="/gearsets">News</a></li>
+                            {/* <li className="menu-item menu-item-has-children"><a href="/">Wuthering Waves</a>
                                 <ul className="sub-menu">
                                     <li className="menu-item"><a href="/">Home One</a></li>
                                     <li className="menu-item"><a href="/home-2">Home Two</a></li>
@@ -70,8 +76,8 @@ const UpperHeader = () => {
                                     <li className="menu-item"><a href="/home-9">Home Nine</a></li>
                                     <li className="menu-item"><a href="/home-10">Home Ten</a></li>
                                 </ul>
-                            </li>
-                            <li className="menu-item menu-item-has-children"><a href="/">Gallery</a>
+                            </li> */}
+                            {/* <li className="menu-item menu-item-has-children"><a href="/">Gallery</a>
                                 <ul className="sub-menu">
                                     <li className="menu-item"><a href="/project-1">Projects One</a></li>
                                     <li className="menu-item"><a href="/project-2">Projects Two</a></li>
@@ -117,7 +123,7 @@ const UpperHeader = () => {
                                     <li className="menu-item"><a href="/blog">Blog</a></li>
                                     <li className="menu-item"><a href="/blog-details">Blog Details</a></li>
                                 </ul>
-                            </li>
+                            </li> */}
                         </ul>
                     </div>
                     <div className="header_right_part d-flex align-items-center">
@@ -128,15 +134,15 @@ const UpperHeader = () => {
                         </button>
 
                         {/* Header Search */}
-                        <div className="header_search" onClick={handleToggle}>
+                        {/* <div className="header_search" onClick={handleToggle}>
                             <button type="submit" className="form-control-submit"><i className="bi bi-search"></i></button>
-                        </div>
-                        <div id="open_search" className={isActive ? null : "active"}>
+                        </div> */}
+                        {/* <div id="open_search" className={isActive ? null : "active"}>
                             <form className="search_form">
                                 <input type="text" name="search" className="keyword form-control" placeholder="Search..." />
                                 <button type="submit" className="form-control-submit"><i className="bi bi-search"></i></button>
                             </form>
-                        </div>
+                        </div> */}
 
                         {/* Mobile Responsive Menu Toggle Button */}
                         <button type="button" className="mr_menu_toggle d-lg-none">
