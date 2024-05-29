@@ -1,0 +1,104 @@
+[
+  {
+      "id": "1",
+      "img": "images/main_images/characters/thumb_aalto.webp",
+      "name": "Aalto",
+      "tag": "interiors"
+  },
+  {
+      "id": "2",
+      "img": "images/main_images/characters/thumb_baizhi.webp",
+      "name": "Baizhi",
+      "tag": "resences"
+  },
+  {
+      "id": "3",
+      "img": "images/main_images/characters/thumb_calcharo.webp",
+      "name": "Calcharo",
+      "tag": "landscape exterior"
+  },
+  {
+      "id": "4",
+      "img": "images/main_images/characters/thumb_chixia.webp",
+      "name": "Chixia",
+      "tag": "landscape"
+  },
+  {
+      "id": "5",
+      "img": "images/main_images/characters/thumb_danjin.webp",
+      "name": "Danjin",
+      "tag": "interiors"
+  },
+  {
+      "id": "6",
+      "img": "images/main_images/characters/thumb_encore.webp",
+      "name": "Encore",
+      "tag": "interiors"
+  },
+  {
+      "id": "7",
+      "img": "images/main_images/characters/thumb_jianxin.webp",
+      "name": "Jianxin",
+      "tag": "exterior"
+  },
+  {
+      "id": "8",
+      "img": "images/main_images/characters/thumb_jiyan.webp",
+      "name": "Jiyan",
+      "tag": "exterior"
+  },
+  {
+      "id": "9",
+      "img": "images/main_images/characters/thumb_lingyang.webp",
+      "name": "Lingyang",
+      "tag": "exterior"
+  },
+  {
+      "id": "10",
+      "img": "images/main_images/characters/thumb_mortefi.webp",
+      "name": "Mortefi",
+      "tag": "exterior"
+  },{
+      "id": "11",
+      "img": "images/main_images/characters/thumb_rover.webp",
+      "name": "Rover",
+      "tag": "interiors"
+  },
+  {
+      "id": "12",
+      "img": "images/main_images/characters/thumb_sanhua.webp",
+      "name": "Sanhua",
+      "tag": "resences"
+  },
+  {
+      "id": "13",
+      "img": "images/main_images/characters/thumb_taoqi.webp",
+      "name": "Taoqi",
+      "tag": "landscape exterior"
+  },
+  {
+      "id": "14",
+      "img": "images/main_images/characters/thumb_verina.webp",
+      "name": "Verina",
+      "tag": "landscape"
+  },
+  {
+      "id": "15",
+      "img": "images/main_images/characters/thumb_yangyang.webp",
+      "name": "Yangyang",
+      "tag": "interiors"
+  },
+  {
+      "id": "16",
+      "img": "images/main_images/characters/thumb_yinlin.webp",
+      "name": "Yinlin",
+      "tag": "interiors"
+  },
+  {
+      "id": "17",
+      "img": "images/main_images/characters/thumb_yuanwu.webp",
+      "name": "Yuanwu",
+      "tag": "interiors"
+  }
+
+]
