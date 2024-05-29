@@ -22,7 +22,7 @@ const AboutContainer = () => {
                         <div className="about_text_inner">
                             <div className="about_text">
                                 <SubHeading title="ABOUT"></SubHeading>
-                                <Paragraph text="Wuthering Waves is an action role-playing game set in a futuristic post-apocalyptic open world, where a mysterious catastrophe known as the Lament swept the globe, wiping out most of humanity and leaving it on the verge of extinction. After the calamity, unknown beings and monsters appeared around the world, but humanity soon adapted to the threat and found a way to cope and live with the monsters, slowly rebuilding civilization. The story follows the amnesiac Rover, who has awoken from their deep slumber. On the Rover's journey, they will explore the vast lands and will be greeted by a new world filled with novel sights and new technologies."></Paragraph>
+                                <Paragraph text="Wuthering Waves is a game that features open world exploration with rich and diverse narrative and a high degree of freedom of combat. Players act as Rovers, who awake after a long period of slumber, embark on adventures in the whole wide world made up of new era, new environment and new technology. Wuthering Waves is developed by Kuro Game, the creators of Punishing Gray Raven. The game features the best action RPG combat in the mobile genre and now it will be translated to a open world in the style of Genshin Impact."></Paragraph>
                             </div>
 
                             <div className="about_icon_box">
@@ -42,9 +42,9 @@ const AboutContainer = () => {
                                 </div>
                             </div>
 
-                            <div className="btn_group" >
+                            {/* <div className="btn_group" >
                                 <a href="/about" className="btn gray">Read More</a>
-                            </div>
+                            </div> */}
                         </div>
 
                     </div>

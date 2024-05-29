@@ -8,24 +8,23 @@ const SliderCard = ({ data }) => {
                 <div className="slide_content">
                     <div className="slide_content_wrapper mb-0 h-auto bg-dark-500">
                         <div className="slide_content_inner">
-                            <h4></h4>
                             <div className="details_link">
-                                <a href="/project-details">
-                                    <span className="link_text">View Details</span>
-                                    <span className="link_icon">
+                                    <span className="link_text" style={{fontSize:10}}>{text}</span>
+                                {/* <a href="/project-details">
+                                    {/* <span className="link_icon">
                                         <span className="line"></span>
                                         <span className="circle"></span>
                                         <span className="dot"></span>
-                                    </span>
-                                </a>
+                                    </span> 
+                                </a> */}
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div className='slide_content_wrapper mb-0 h-auto bg-dark-500 '>
-                <p><a href="/project-details" className="text-white">{text}</a></p>
-            </div>
+            {/* <div className='slide_content_wrapper mb-0 h-auto bg-dark-500 '>
+                <p style={{ padding: 5 }}><a href="/project-details" className="text-white">{text}</a></p>
+            </div> */}
         </div>
 
     );

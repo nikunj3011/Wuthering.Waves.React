@@ -8,7 +8,7 @@ const Header = () => {
         <div className='test-class'>
             <UpperHeader />
             <MobileResponsiveMenu />
-            <AsideInfo />
+            {/* <AsideInfo /> */}
         </div>
     );
 };
