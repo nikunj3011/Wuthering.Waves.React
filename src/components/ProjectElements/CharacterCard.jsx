@@ -22,14 +22,20 @@ const CharacterCard = ({ data }) => {
     let elHeight = Number(dimensions.height);
     // console.log(typeof elHeight);
 
-    const { img, name, tag } = data;
+    const { img, name, tag, bStyle } = data;
 
     return (
-        <div className="col-lg-3 text-center">
+        <div className="col-lg-2 col-sm-6 col-6 text-center">
             <div className={`grid-item ${tag} width-10`}>
                 <div className="thumb">
                     <LazyLoad height={monitorWidth <= 600 ? 500 : monitorWidth <= 1550 ? 680 : monitorWidth <= 2000 ? 810 : 680} once>
-                        <img className="item_image" src={img} alt="" />
+                        {tag === "Aero" && <img src="images/main_images/elements/element_aero.webp" alt="" height="25px" width="25px" className="iconTopLeft"/>}
+                        {tag === "Electro" && <img src="images/main_images/elements/element_electro.webp" alt="" height="25px" width="25px" className="iconTopLeft"/>}
+                        {tag === "Fusion" && <img src="images/main_images/elements/element_fusion.webp" alt="" height="25px" width="25px" className="iconTopLeft"/>}
+                        {tag === "Glacio" && <img src="images/main_images/elements/element_glacio.webp" alt="" height="25px" width="25px" className="iconTopLeft"/>}
+                        {tag === "Havoc" && <img src="images/main_images/elements/element_havoc.webp" alt="" height="25px" width="25px" className="iconTopLeft"/>}
+                        {tag === "Spectro" && <img src="images/main_images/elements/element_spectro.webp" alt="" height="25px" width="25px" className="iconTopLeft"/>}
+                        <img className="item_image" src={img} alt="" style={{background: bStyle}} />
                         <h5><a href="/project-details">{name}</a></h5>
                     </LazyLoad>
                     

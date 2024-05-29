@@ -1,124 +1,684 @@
 [
-  {
-      "id": "1",
-      "img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/aero_predator.webp?strip=all&quality=100&w=128",
-      "name": "Abyss Surges",
-      "description": "Use the Echo skill to summon the Aero Predator to throw a dart forward. The dart will bounce once when it hits the enemy, up to a maximum of III times, causing 32.40% Aero damage each time it hits.",
-      "Cooldown": "8 seconds",
-      "tag": "interiors"
-  },
-  {
-      "id": "2",
-      "img": "https://www.prydwen.gg/static/3752f18605107b5fdb36835e9e7a2b90/b26e2/baizhi_card.webp",
-      "name": "Baizhi",
-      "tag": "resences"
-  },
-  {
-      "id": "3",
-      "img": "https://www.prydwen.gg/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp",
-      "name": "Calcharo",
-      "tag": "landscape exterior"
-  },
-  {
-      "id": "4",
-      "img": "https://www.prydwen.gg/static/689148c2dc5b0b38aeb2c75ca8b3ef65/b26e2/chixia_card.webp",
-      "name": "Chixia",
-      "tag": "landscape"
-  },
-  {
-      "id": "5",
-      "img": "https://www.prydwen.gg/static/431f962f5a8febb92f44ae9138aa5e01/b26e2/danjin_card.webp",
-      "name": "Danjin",
-      "tag": "interiors"
-  },
-  {
-      "id": "6",
-      "img": "https://www.prydwen.gg/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp",
-      "name": "Encore",
-      "tag": "interiors"
-  },
-  {
-      "id": "7",
-      "img": "https://www.prydwen.gg/static/c215e7a42cbfd78f854553f192dc0e4f/b26e2/jiaxin_card.webp",
-      "name": "Jianxin",
-      "tag": "exterior"
-  },
-  {
-      "id": "8",
-      "img": "https://www.prydwen.gg/static/5020d60083afc09d2fb6bce4a35225bc/b26e2/jiyan_card.webp",
-      "name": "Jiyan",
-      "tag": "exterior"
-  },
-  {
-      "id": "9",
-      "img": "https://www.prydwen.gg/static/672fdaae2b01f8355d5631a989e5f472/b26e2/ling_card.webp",
-      "name": "Lingyang",
-      "tag": "exterior"
-  },
-  {
-      "id": "10",
-      "img": "https://www.prydwen.gg/static/afa511d7b0c173247db7478c15e7e8d7/b26e2/mortefi_card.webp",
-      "name": "Mortefi",
-      "tag": "exterior"
-  },{
-      "id": "11",
-      "img": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
-      "name": "Rover (Spectro)",
-      "tag": "interiors"
-  },
-  {
-      "id": "12",
-      "img": "https://www.prydwen.gg/static/f67966dd31af657ac8612d36006d5874/b26e2/senhua_card.webp",
-      "name": "Sanhua",
-      "tag": "resences"
-  },
-  {
-      "id": "13",
-      "img": "https://www.prydwen.gg/static/9759a6ea13fefd1bc632650a0a657e8e/b26e2/taoqi_card.webp",
-      "name": "Taoqi",
-      "tag": "landscape exterior"
-  },
-  {
-      "id": "14",
-      "img": "https://www.prydwen.gg/static/dd5bdface07cef9b868fe8214b0988ed/b26e2/verina_card.webp",
-      "name": "Verina",
-      "tag": "landscape"
-  },
-  {
-      "id": "15",
-      "img": "https://www.prydwen.gg/static/ad90d3bdfacb57e34e7f90367f3823b0/b26e2/yang_card.webp",
-      "name": "Yangyang",
-      "tag": "interiors"
-  },
-  {
-      "id": "16",
-      "img": "https://www.prydwen.gg/static/a2b0c34a81e57a52165da5b356be412c/b26e2/yinglin_card.webp",
-      "name": "Yinlin",
-      "tag": "interiors"
-  },
-  {
-      "id": "17",
-      "img": "https://www.prydwen.gg/static/fb4fc64e05d0d40ef90adc4527dc93ea/b26e2/yuanwu_card.webp",
-      "name": "Yuanwu",
-      "tag": "interiors"
-  },
-  {
-      "id": "18",
-      "img": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
-      "name": "Rover (Havoc)",
-      "tag": "interiors"
-  },
-  {
-      "id": "20",
-      "img": "https://www.prydwen.gg/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
-      "name": "Changli",
-      "tag": "interiors"
-  },
-  {
-      "id": "21",
-      "img": "https://www.prydwen.gg/static/136095b0f95ac4be3ddc7e2d585855bf/b26e2/jihni_card.webp",
-      "name": "Jinhsi",
-      "tag": "interiors"
-  }
-
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Cosmic Ripples",
+		"type": "Rectifier",
+		"rarity": "5★",
+		"rarityDes": "Star5",
+		"baseAtk": 40,
+		"bonusStat": "ATK+11.90%",
+		"description": "Stormy Resolution:Increases Energy Regen by 12.8%. When hitting a target with Basic Attack, increases Basic Attack DMG Bonus by 3.2%, stacking up to 5 time(s). This effect lasts for 8x and can be triggered 1 time(s) every 0.5s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Stringmaster",
+		"type": "Rectifier",
+		"rarity": "5★",
+		"rarityDes": "Star5",
+		"baseAtk": 40,
+		"bonusStat": "Crit Rate+8.00%",
+		"description": "Electric Amplification:Increases the DMG Bonus of all Resonance Attributes by 12%. When Resonance Skill hits a target, increases ATK by 12%, stacking up to 2. When the equipped character is not on the field, increases their ATK by an additional 12%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Lustrous Razor",
+		"type": "Broadblade",
+		"rarity": "5★",
+		"rarityDes": "Star5",
+		"baseAtk": 47,
+		"bonusStat": "ATK+8.10%",
+		"description": "Incision:Increases Energy Regen by 12.8%. When Resonance Skill is released, increases Resonance Liberation DMG by 7%, stacking up to 2 times. This effect lasts for 12s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Verdant Summit",
+		"type": "Broadblade",
+		"rarity": "5★",
+		"rarityDes": "Star5",
+		"baseAtk": 47,
+		"bonusStat": "Crit DMG+10.80%",
+		"description": "Swordsworn:Increases the DMG Bonus of all Resonance Attributes by 12%. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by 24%, stacking up to 2 time(s). This effect lasts for 14s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Static Mist",
+		"type": "Pistol",
+		"rarity": "5★",
+		"rarityDes": "Star5",
+		"baseAtk": 47,
+		"bonusStat": "Crit Rate+5.40%",
+		"description": "Stormy Resolution:Increases Energy Regen by 12.8%. When Outro Skill is released, increases the switched-in Resonator's ATK by 10%, stacking up to 1 time(s). This effect lasts for 14s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Emerald of Genesis",
+		"type": "Sword",
+		"rarity": "5★",
+		"rarityDes": "Star5",
+		"baseAtk": 47,
+		"bonusStat": "Crit Rate+5.40%",
+		"description": "Stormy Resolution:Increases Energy Regen by 12.8%. When Resonance Skill is released, increases ATK by 6%, stacking up to 2 time(s). This effect lasts for 10s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Abyss Surges",
+		"type": "Gauntlet",
+		"rarity": "5★",
+		"rarityDes": "Star5",
+		"baseAtk": 47,
+		"bonusStat": "ATK+8.10%",
+		"description": "Stormy Resolution:Increases Energy Regen by 12.8%. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by 10%, lasting for 8s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by 10%, lasting for 8s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Helios Cleaver",
+		"type": "Broadblade",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "ATK+6.70%",
+		"description": "Plasma Recoiler:Within 12s after Resonance Skill is released, increases ATK by 3% every 2s stacking up to 4 time(s). When the number of stacks reaches 12, all stacks will be reset within 1s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Undying Flame",
+		"type": "Pistol",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "ATK+6.70%",
+		"description": "Loyalty:When Intro Skill is released, increases Resonance Skill DMG Bonus by 20% for 15s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Thunderbolt",
+		"type": "Pistol",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 31,
+		"bonusStat": "ATK+8.10%",
+		"description": "Unstoppable:When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by 7%, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Cadenza",
+		"type": "Pistol",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 27,
+		"bonusStat": "Energy Regen+11.50%",
+		"description": "Ceaseless Aria:When Resonance Skill is released, restores Resonance Energy by 8. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Stonard",
+		"type": "Gauntlet",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "Crit Rate+4.50%",
+		"description": "Wallbreaker:When Resonance Skill is released, increases the caster's Resonance Liberation DMG Bonus by 18%, lasting for 15s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Marcato",
+		"type": "Gauntlet",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 27,
+		"bonusStat": "Energy Regen+11.50%",
+		"description": "Ceaseless Aria:When Resonance Skill is released, restores Resonance Energy by 8. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Hollow Mirage",
+		"type": "Gauntlet",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "ATK+6.70%",
+		"description": "Celestial Being:When Resonance Liberation is released, grants 3 stack(s) of Iron Armor. Each stack increases ATK and DEF by 3%, stacking up to 3 time(s). When the Resonator takes damage, reduces the number of stacks by 1."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Amity Accord",
+		"type": "Gauntlet",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 27,
+		"bonusStat": "DEF+13.60%",
+		"description": "Camaraderie:When Intro Skill is released, increases Resonance Liberation DMG Bonus by 20%, lasting for 15s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Novaburst",
+		"type": "Pistol",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "ATK+6.75%",
+		"description": "Ever-Changing:When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 time(s). This effect lasts for 8s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Discord",
+		"type": "Broadblade",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 27,
+		"bonusStat": "Energy Regen+11.50%",
+		"description": "Ceaseless Aria:When Resonance Skill is released, restore Concerto Energy by 8. This effect can be triggered 1 time every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Dauntless Evernight",
+		"type": "Broadblade",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 27,
+		"bonusStat": "DEF+13.60%",
+		"description": "Battlebound:When Intro Skill is released, increases ATK by 8% and DEF by 15%, lasting for 15s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Autumntrace",
+		"type": "Broadblade",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "Crit Rate+4.50%",
+		"description": "Edge Direction:Increases ATK by 4% upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Rectifier#25",
+		"type": "Rectifier",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 27,
+		"bonusStat": "Energy Regen+11.50%",
+		"description": "Dawnbringer:When Resonance Skill is released, if the Resonator's HP is below 60%, restores their HP by 5%. This effect can be triggered 1 time(s) every 8s; if the Resonator's HP is above 60%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Sword#18",
+		"type": "Sword",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 31,
+		"bonusStat": "ATK+8.10%",
+		"description": "Daybreak:When Equipped Resonator's HP drops below 40%, increases Heavy Attack DMG by 18% and restores HP by 5% upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Broadblade#41",
+		"type": "Broadblade",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "Energy Regen+7.20%",
+		"description": "Veteran:When the Resonator's HP is above 80%, increases ATK by 12%. When the Resonator's HP is below 40%, restores theri HP by 5% for dealing Basic Attack DMG or Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Gauntlets#21D",
+		"type": "Gauntlet",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 31,
+		"bonusStat": "Energy Regen+8.60%",
+		"description": "Mastermind:When the Resonator dashes or dodges, increases ATK by 8%. Increases Counter Attack DMG by 50%, lasting for 8s. When Counter Attack is performed, restores the Resonator's HP by 5%. This effect can be triggered 1 time(s) every 6s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Pistols#26",
+		"type": "Pistol",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 31,
+		"bonusStat": "ATK+8.10%",
+		"description": "Omniscient:When the Resonator takes no damage, increases ATK by 6% every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by 5%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Variation",
+		"type": "Rectifier",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 27,
+		"bonusStat": "Energy Regen+11.50%",
+		"description": "Ceaseless Aria:When Resonance Skill is released, restores Resonance Energy by 8. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Scale: Slasher",
+		"type": "Sword",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 27,
+		"bonusStat": "Energy Regen+11.50%",
+		"description": "Ceaseless Aria:When Resonance Skill is released, restores Resonance Energy by 8. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Augment",
+		"type": "Rectifier",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "Crit Rate+4.50%",
+		"description": "Forgiving Resilience:When Resonance Liberation is released, increases the caster's ATK by 15%, lasting for 15s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Lunar Cutter",
+		"type": "Sword",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "ATK+6.70%",
+		"description": "Preordained:Equipped Resonator gains 6 stack(s) of Oath upon entering the battlefield. Each stack icnreases ATK by 2%, up to 6 stacks. This effect can be triggered 1 time(s) every 12s. Oath reduces by 1 stack(s) every 2s. Equipped Resonator gains another 6 stack(s) of Oath upon defeating an enemy."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Comet Flare",
+		"type": "Rectifier",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "HP+6.70%",
+		"description": "Luminous Protection:When hitting a target with Basic Attacks or Heavy Attacks, increases Healing Bonus by 3%, stacking up to 3 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.6s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Jinzhou Keeper",
+		"type": "Rectifier",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 31,
+		"bonusStat": "ATK+8.10%",
+		"description": "Guardian:When Intro Skill is released, increases the caster's ATK by 8% and HP by 10%, lasting 15s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Lumingloss",
+		"type": "Sword",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 31,
+		"bonusStat": "ATK+8.10%",
+		"description": "Pale Gale:When Resonance Skill is released, increases Basic Attack DMG and Heavy Attack DMG by 20%, stacking up to 1 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Commando of Conviction",
+		"type": "Sword",
+		"rarity": "4★",
+		"rarityDes": "Star4",
+		"baseAtk": 33,
+		"bonusStat": "ATK+6.70%",
+		"description": "Unyielding:When Intro Skill is released, increases ATK by 15%, lasting for 15s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Rectifier of Night",
+		"type": "Rectifier",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "ATK+5.40%",
+		"description": "Valiance:When Intro Skill is released, increases ATK by 8%, lasting for 10s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Pistols of Voyager",
+		"type": "Pistol",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "ATK+6.70%",
+		"description": "Long Journey:When Resonance Skill is released, restores Resonance Energy by 8. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Rectifier of Voyager",
+		"type": "Rectifier",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "Energy Regen+7.20%",
+		"description": "Crusade:When Resonance Skill is released, restores Resonance Energy by 8. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Originite: type I",
+		"type": "Broadblade",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "DEF+8.55%",
+		"description": "Temperance:When Resonance Skill is released, restores HP by 3%. This effect can be triggered 1 time(s) every 12s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Guardian Broadblade",
+		"type": "Broadblade",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "ATK+5.40%",
+		"description": "Consensus:Increases Basic Attack and Heavy Attack DMG Bonus by 12%"
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Broadblade of Voyager",
+		"type": "Broadblade",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "Energy Regen+7.20%",
+		"description": "Long Journey:When Resonance Skill is released, restores Resonance Energy by 8. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Broadblade of Night",
+		"type": "Broadblade",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "ATK+5.40%",
+		"description": "Arrival:When Intro Skill is released, increases ATK by 8%, lasting for 10s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Guardian Sword",
+		"type": "Sword",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "HP+6.70%",
+		"description": "Unified:Increases Resonance Skill DMG by 12%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Originite: type II",
+		"type": "Sword",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "ATK+5.40%",
+		"description": "Vanquish:When Resonance Liberation is released, restores HP by 5%. This effect can be triggered 1 time(s) every 20 seconds."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Sword of Night",
+		"type": "Sword",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "ATK+5.40%",
+		"description": "Tenacity:When Intro Skill is released, increases ATK by 8%, lasting for 10s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Sword of Voyager",
+		"type": "Sword",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "Energy Regen+7.20%",
+		"description": "Crusade:When Resonance Skill is released, restores Resonance Energy by 8. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Guardian Rectifier",
+		"type": "Rectifier",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "ATK+5.40%",
+		"description": "Companionship:Increases Basic Attack and Heavy Attack DMG Bonus by 12%"
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Originite: type V",
+		"type": "Rectifier",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "HP+6.70%",
+		"description": "Augment:When Intro Skill is released, restores HP by 5%. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Gauntlets of Night",
+		"type": "Gauntlet",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "ATK+5.40%",
+		"description": "Assemble:When Intro Skill is released, increases ATK by 8%, lasting for 10s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Gauntlets of Voyager",
+		"type": "Gauntlet",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "DEF+6.80%",
+		"description": "Crusade:When Resonance Skill is released, restores Resonance Energy by 8. This effect can be triggered 1 time(s) every 20s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Guardian Gauntlets",
+		"type": "Gauntlet",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "DEF+8.50%",
+		"description": "Collective Strength:Increases Resonance Liberation DMG Bonus by 12%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Originite: type IV",
+		"type": "Gauntlet",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "Crit DMG+9.00%",
+		"description": "Rejuvenate:When hitting a target with Basic Attacks, restores HP by 0.5%. This effect can be triggered 1 time(s) every 3s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Pistols of Night",
+		"type": "Pistol",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "ATK+5.40%",
+		"description": "Chivalry:When Intro Skill is released, increases ATK by 8%, lasting for 10s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Originite: type III",
+		"type": "Pistol",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 26,
+		"bonusStat": "ATK+5.40%",
+		"description": "Alacrity:When Counter Attack is released, restores HP by 1.6%. This effect can be triggered 1 time(s) every 6s."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Guardian Pistols",
+		"type": "Pistol",
+		"rarity": "3★",
+		"rarityDes": "Star3",
+		"baseAtk": 24,
+		"bonusStat": "ATK+6.70%",
+		"description": "Unity:Increases Resonance Skill DMG Bonus by 12%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Tyro Sword",
+		"type": "Sword",
+		"rarity": "2★",
+		"rarityDes": "Star2",
+		"baseAtk": 22,
+		"bonusStat": "ATK+3.20%",
+		"description": "Prologue:Increase ATK by 5%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Tyro Pistols",
+		"type": "Pistol",
+		"rarity": "2★",
+		"rarityDes": "Star2",
+		"baseAtk": 22,
+		"bonusStat": "ATK+3.20%",
+		"description": "Prologue:Increase ATK by 5%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Tyro Gauntlets",
+		"type": "Gauntlet",
+		"rarity": "2★",
+		"rarityDes": "Star2",
+		"baseAtk": 22,
+		"bonusStat": "ATK+3.20%",
+		"description": "Prologue:Increase ATK by 5%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Tyro Rectifier",
+		"type": "Rectifier",
+		"rarity": "2★",
+		"rarityDes": "Star2",
+		"baseAtk": 22,
+		"bonusStat": "ATK+3.20%",
+		"description": "Prologue:Increase ATK by 5%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Tyro Broadblade",
+		"type": "Broadblade",
+		"rarity": "2★",
+		"rarityDes": "Star2",
+		"baseAtk": 22,
+		"bonusStat": "ATK+3.20%",
+		"description": "Prologue:Increase ATK by 5%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Training Gauntlets",
+		"type": "Gauntlet",
+		"rarity": "1★",
+		"rarityDes": "Star1",
+		"baseAtk": 20,
+		"bonusStat": "ATK+2.50%",
+		"description": "Persevere:Increase ATK by 4%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Training Sword",
+		"type": "Sword",
+		"rarity": "1★",
+		"rarityDes": "Star1",
+		"baseAtk": 20,
+		"bonusStat": "ATK+2.50%",
+		"description": "Persevere:Increase ATK by 4%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Training Pistols",
+		"type": "Pistol",
+		"rarity": "1★",
+		"rarityDes": "Star1",
+		"baseAtk": 20,
+		"bonusStat": "ATK+2.50%",
+		"description": "Persevere:Increase ATK by 4%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Training Rectifier",
+		"type": "Rectifier",
+		"rarity": "1★",
+		"rarityDes": "Star1",
+		"baseAtk": 20,
+		"bonusStat": "ATK+2.50%",
+		"description": "Persevere:Increase ATK by 4%."
+	},
+	{
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/weapons/abyss_surges.webp?strip=all&quality=100&w=512",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -70%, rgba(255,255,255,0) 100%)",
+		"name": "Training Broadblade",
+		"type": "Broadblade",
+		"rarity": "1★",
+		"rarityDes": "Star1",
+		"baseAtk": 20,
+		"bonusStat": "ATK+2.50%",
+		"description": "Persevere:Increase ATK by 4%."
+	}
 ]

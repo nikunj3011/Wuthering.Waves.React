@@ -47,7 +47,7 @@ const EchoesGallery = () => {
         <section className="projects packery">
             <SectionGridLines></SectionGridLines>
             <div className="large_font">
-                <SectionHeader title="Characters"></SectionHeader>
+                <SectionHeader title="Echoes"></SectionHeader>
             </div>
             <div className="container">
                 {/* <div className="section-header text-center has_line">

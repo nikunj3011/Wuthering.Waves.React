@@ -14644,6 +14644,46 @@ body.mr_menu_active .mr_menu_overlay {
   visibility: visible;
 }
 
+.iconTopLeft{
+  z-index: 2;
+  position: relative;
+  left: -70px;
+  top: 35px;
+}
+
+.Star5{
+  background: linear-gradient(180deg, rgba(234,226,135,1) -130%, rgba(255,255,255,0) 100%);
+}
+
+.Star4{
+  background: linear-gradient(180deg, rgba(124,66,172,1) -130%, rgba(255,255,255,0) 100%);
+}
+
+.Star3{
+  background: linear-gradient(180deg, rgba(0,158,236,1) -130%, rgba(255,255,255,0) 100%);
+}
+
+.Star2{
+  background: linear-gradient(180deg, rgba(156,243,176,1) -130%, rgba(255,255,255,0) 100%);
+}
+
+.Star1{
+  background: linear-gradient(180deg, rgba(199,199,199,1) -130%, rgba(255,255,255,0) 100%);
+}
+
+.Calamity{
+  background: linear-gradient(180deg, rgba(234,226,135,1) -200%, rgba(255,255,255,0) 100%);
+}
+.Overlord{
+  background: linear-gradient(180deg, rgba(124,66,172,1) -130%, rgba(255,255,255,0) 100%);
+}
+.Elite{
+  background: linear-gradient(180deg, rgba(0,158,236,1) -130%, rgba(255,255,255,0) 100%);
+}
+.Common{
+  background: linear-gradient(180deg, rgba(199,199,199,1) -130%, rgba(255,255,255,0) 100%);
+}
+
 /*-------- Grid Gallery ---------*/
 .grid-item img.item_image {
   width: 100%;

@@ -1,0 +1,1250 @@
+[
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://www.prydwen.gg/static/117fbbfb1b1ba83807fb2e564af44562/d8057/340000020.webp",
+		"cooldown": "",
+		"cost": "",
+		"No": "H91",
+		"classEcho": "Overlord",
+		"name": "Bell-Borne Geocheloner",
+		"Possible Sonata Effects": "Rejuvenating Glow Moonlit Clouds",
+		"description": "Activate the protection of Bell-Borne Geochelone, dealing Glacio DMG to nearby enemies based on current character's DEF. Reduce incoming damage, increase damage dealt."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H80",
+		"name": "Crownlessr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Sun-sinking Eclipse",
+		"description": "Transform into Crownless and relentlessly assault enemies, dealing Havoc DMG. Increase current character's Havoc DMG and Resonance Skill DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H81",
+		"name": "Dreamlessr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Sun-sinking Eclipse",
+		"description": "Transform into Dreamless to continuously attack enemies and deal Havoc DMG. This Echo Skill deals more damage after Rover-Havoc casts their Resonance Liberation."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H71",
+		"name": "Feilian Beringalr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Sierra Gale",
+		"description": "Transform into Feilian Beringal to continuously attack enemies, dealing Aero DMG. Increase current character's Aero DMG and Heavy Attack DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H72",
+		"name": "Impermanence Heronr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Moonlit Clouds",
+		"description": "Transform into Impermanence Heron to deal Havoc DMG. Long press to spit flames and continuously deal Havoc DMG. Once the attacks hit any enemy, restore current character's Resonance Energy. Increase next character's damage dealt."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W77",
+		"name": "Inferno Riderr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Molten Rift",
+		"description": "Transform into Inferno Rider to perform consecutive strikes, dealing Fusion DMG. Increase current character's Fusion DMG and Basic Attack DMG. Long press Echo Skill to enter the Riding Mode."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H74",
+		"name": "Lampylumen Myriadr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Freezing Frost",
+		"description": "Transform into Lampylumen Myriad to continuously attack enemies, dealing Glacio damage. Increase current character's Glacio DMG and Resonance Skill DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "R56",
+		"name": "Mech Abominationr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Lingering Tunes",
+		"description": "Deal Electro DMG to enemies nearby and create Mech Waste that explodes in a while. Increase current character's ATK."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H73",
+		"name": "Mourning Aixr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Celestial Light",
+		"description": "Transform into Mourning Aix to continuously attack enemies, dealing Spectro damage. Increase current character's Spectro DMG and Resonance Liberation DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W75",
+		"name": "Tempest Mephisr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Void Thunder",
+		"description": "Transform into Tempest Mephis to continuously attack enemies, dealing Electro damage. Increase current character's Electro DMG & Heavy Attack DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W76",
+		"name": "Thundering Mephisr",
+		"classEcho": "Overlord",
+		"Possible Sonata Effects": "Void Thunder",
+		"description": "Transform into Thundering Mephis to deal Electro DMG. Increase the current character's Electro DMG and Resonance Liberation DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "X53",
+		"name": "Autopuppet Scout",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Freezing Frost Celestial Light",
+		"description": "Transform into Autopuppet Scout, to deal Glacio DMG to enemies nearby and generate Ice Walls."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "R55",
+		"name": "Chaserazor",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Sierra Gale Moonlit Clouds",
+		"description": "Transform into Carapace to perform spinning attacks, dealing Aero DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W62",
+		"name": "Chasm Guardian",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Rejuvenating Glow Lingering Tunes",
+		"description": "Transform into Chasm Guardian to perform a powerful strike that deals Havoc DMG. Lose some HP on hit and then recover HP over time."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H41",
+		"name": "Cyan-Feathered Heron",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Sierra Gale Celestial Light",
+		"description": "Transform into Cyan-Feathered Heron to charge at the enemies, dealing Aero DMG and interrupt enemy Special Skill."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W61",
+		"name": "Flautist",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Void Thunder Lingering Tunes",
+		"description": "Transform into a Flautist to deal Electro DMG and recover Concerto Energy on hit."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H46",
+		"name": "Geohide Saurian",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Molten Rift Moonlit Clouds",
+		"description": "Summon a Viridblaze Saurian to continuously spit fire, dealing Fusion DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H49",
+		"name": "Havoc Dreadmane",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Molten Rift Sun-sinking Eclipse",
+		"description": "Transform into a Havoc Dreadmane to launch tail strikes, dealing Havoc DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H51",
+		"name": "Hoochief",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Sierra Gale Rejuvenating Glow",
+		"description": "Transform into Hoochief Cyclone to deal Aero DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W63",
+		"name": "Rocksteady Guardian",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Celestial Light Rejuvenating Glow",
+		"description": "Transform into the Rocksteady Guardian to enter a Parry Stance. Counterattack when hit by Special Skill to interrupt enemy Special Skills and deal Spectro DMG based on Max HP."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "S06",
+		"name": "Roseshroom",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Freezing Frost Sun-sinking Eclipse",
+		"description": "Summon a Roseshroom to fire a laser, and deal Havoc DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H48",
+		"name": "Spearback",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Moonlit Clouds Lingering Tunes",
+		"description": "Summon a Spearback to perform continuous claw strikes, dealing Physical DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "S55",
+		"name": "Stonewall Bracer",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Rejuvenating Glow Moonlit Clouds",
+		"description": "Transform into Stonewall Bracer and charge forward. Successful hits grant a follow-up strike and a shield."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W60",
+		"name": "Tambourinist",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Freezing Frost Sun-sinking Eclipse",
+		"description": "Summon a Tambourinist to let friendly units inflict additional Havoc DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H42",
+		"name": "Violet-Feathered Heron",
+		"classEcho": "Elite",
+		"Possible Sonata Effects": "Molten Rift Void Thunder",
+		"description": "Transform into Violet-Feathered Heron to block enemy attacks. Counterattack to deal Electro DMG and recover Concerto Energy."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W27",
+		"name": "Aero Predator",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Void Thunder Sierra Gale",
+		"description": "Summon an Aero Predator to deal Aero DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H02",
+		"name": "Chirpuff",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Sierra Gale Sun-sinking Eclipse",
+		"description": "Summon a Chirpuff to blast a powerful gust of wind. Deals Aero DMG and knocks enemies back."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H12",
+		"name": "Cruisewing",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Celestial Light Rejuvenating Glow Moonlit Clouds",
+		"description": "Summon a Cruisewing to heal friendly units."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H11",
+		"name": "Diamondclaw",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Moonlit Clouds Lingering Tunes",
+		"description": "Transform into Diamondclaw to enter a Defense Stance. Counterattack to deal Physical DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W25",
+		"name": "Electro Predator",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Molten Rift Void Thunder",
+		"description": "Summon an Electro Predator to fire a rain of arrows, dealing Electro DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H05",
+		"name": "Excarat",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Freezing Frost Sun-sinking Eclipse",
+		"description": "Transform into Excarat to quickly advance and become immune to damage."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "S09",
+		"name": "Fission Junrock",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Void Thunder Rejuvenating Glow Moonlit Clouds",
+		"description": "Summon a Fission Junrock for healing. If not in combat, it picks up minerals or plants nearby for you."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H09",
+		"name": "Fusion Dreadmane",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Molten Rift Rejuvenating Glow",
+		"description": "Summon a Fusion Dreadmane to fiercely strike the enemies, dealing Fusion DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "N12",
+		"name": "Fusion Prism",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Freezing Frost Molten Rift Lingering Tunes",
+		"description": "Summon a Fusion Prism that deals Fusion DMG with crystal shards."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W30",
+		"name": "Fusion Warrior",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Molten Rift Void Thunder Sierra Gale",
+		"description": "Transform into Fusion Warrior to block enemy attacks. Deal Fusion DMG and reduce this Echo Skill's CD when the block is successful."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W26",
+		"name": "Glacio Predator",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Freezing Frost Celestial Light",
+		"description": "Summon a Glacio Predator to throw ice spears and deal Glacio DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "N11",
+		"name": "Glacio Prism",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Freezing Frost Sun-sinking Eclipse Moonlit Clouds",
+		"description": "Summon a Glacio Prism that deals Glacio DMG with crystal shards."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H01",
+		"name": "Gulpuff",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Freezing Frost Celestial Light",
+		"description": "Summon a Gulpuff to blow bubbles and cause Glacio damage."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "N13",
+		"name": "Havoc Prism",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Void Thunder Celestial Light Sun-sinking Eclipse",
+		"description": "Summon a Havoc Prism that deals Havoc DMG with crystal shards."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "W31",
+		"name": "Havoc Warrior",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Celestial Light Sun-sinking Eclipse",
+		"description": "Transform into a Havoc Warrior to continuously deal Havoc DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H15",
+		"name": "Hoartoise",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Freezing Frost Celestial Light",
+		"description": "Transform into a Hoartoise and slowly restore HP."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H19",
+		"name": "Hooscamp",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Sierra Gale Lingering Tunes",
+		"description": "Transform into Hooscamp Flinger and pounce, dealing Aero DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H08",
+		"name": "Sabyr Boar",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Freezing Frost Sierra Gale Moonlit Clouds",
+		"description": "Summon a Sabyr Boar to charge and deal Physical DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "G02",
+		"name": "Snip Snap",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Molten Rift Rejuvenating Glow Lingering Tunes",
+		"description": "Summon a Snip Snap that throws fireballs, dealing Fusion DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "N14",
+		"name": "Spectro Prism",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Molten Rift Void Thunder Celestial Light",
+		"description": "Summon a Spectro Prism that deals Spectro DMG with laser."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "G04",
+		"name": "Tick Tack",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Sun-sinking Eclipse Rejuvenating Glow Lingering Tunes",
+		"description": "Summon a Tick Tack that deals Havoc DMG and reduces enemy Vibration Strength."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "X54",
+		"name": "Traffic Illuminator",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Molten Rift Void Thunder Sierra Gale",
+		"description": "Summon a Traffic Illuminator to immobilize the enemies."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "S08",
+		"name": "Vanguard Junrock",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Void Thunder Rejuvenating Glow Lingering Tunes",
+		"description": "Summon a Vanguard Junrock that charges forward, dealing Physical DMG to enemies in its path."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "G01",
+		"name": "Whiff Whaff",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Sierra Gale Rejuvenating Glow Moonlit Clouds",
+		"description": "Summon a Whiff Whaff that deals Aero DMG and produces a Low-pressure Zone."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "H06",
+		"name": "Young Geohide Saurian",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Molten Rift Void Thunder Lingering Tunes",
+		"description": "Transform into a Baby Viridblaze Saurian, rest in place to restore HP."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "S05",
+		"name": "Young Roseshroom",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Sierra Gale Sun-sinking Eclipse",
+		"description": "Summon a Baby Roseshroom to fire a laser, and deal Havoc DMG."
+	},
+	{
+		"echoSets": [
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			},
+			{
+				"img": "images/main_images/echoSets/clestial_light.webp",
+				"name": "Celestial Light"
+			}
+		],
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
+		"cooldown": "",
+		"cost": "",
+		"No": "G03",
+		"name": "Zig Zag",
+		"classEcho": "Common",
+		"Possible Sonata Effects": "Celestial Light Moonlit Clouds Lingering Tunes",
+		"description": "Summon a Zig Zag that deals Spectro DMG, and creates a Stagnation Zone."
+	}
+]

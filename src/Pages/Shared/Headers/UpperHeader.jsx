@@ -61,7 +61,7 @@ const UpperHeader = () => {
                             <li className="menu-item"><a href="/characters">Characters</a></li>
                             <li className="menu-item"><a href="/echoes">Echoes</a></li>
                             <li className="menu-item"><a href="/weapons">Weapons</a></li>
-                            <li className="menu-item"><a href="/gearsets">Gear Sets</a></li>
+                            {/* <li className="menu-item"><a href="/gearsets">Gear Sets</a></li> */}
                             {/* <li className="menu-item"><a href="/gearsets">News</a></li> */}
                             {/* <li className="menu-item menu-item-has-children"><a href="/">Wuthering Waves</a>
                                 <ul className="sub-menu">
