@@ -1,4 +1,4 @@
-import { RouterProvider } from 'react-router-dom';
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import 'react-select2-wrapper/css/select2.css';
 import 'swiper/css';
 import 'swiper/css/autoplay';

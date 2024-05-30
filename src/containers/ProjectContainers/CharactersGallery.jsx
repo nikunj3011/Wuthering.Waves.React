@@ -11,27 +11,27 @@ const CharactersGallery = () => {
     const [filterKey, setFilterKey] = useState('*')
 
     useEffect(() => {
-        Isotope.current = new Isotope('.grid', {
-            itemSelector: '.grid-item',
-            percentPosition: true,
-            // layoutMode: 'packery',
-            // masonry: {
-            //     columnWidth: '.grid-sizer'
-            // },
-            transformsEnabled: true,
-            transitionDuration: "700ms",
-            resize: true,
-            fitWidth: true,
-            columnWidth: '.grid-sizer',
-            options: {
-                layoutMode: 'masonry',
-                masonry: { columnWidth: 100 },
-                transitionDuration: '0.5s'
-            }
-        })
+        // Isotope.current = new Isotope('.grid', {
+        //     itemSelector: '.grid-item',
+        //     percentPosition: true,
+        //     // layoutMode: 'packery',
+        //     // masonry: {
+        //     //     columnWidth: '.grid-sizer'
+        //     // },
+        //     transformsEnabled: true,
+        //     transitionDuration: "700ms",
+        //     resize: true,
+        //     fitWidth: true,
+        //     columnWidth: '.grid-sizer',
+        //     options: {
+        //         layoutMode: 'masonry',
+        //         masonry: { columnWidth: 100 },
+        //         transitionDuration: '0.5s'
+        //     }
+        // })
 
         // cleanup
-        return () => Isotope.current.destroy()
+        // return () => Isotope.current.destroy()
     }, []);
 
     // handling filter key change

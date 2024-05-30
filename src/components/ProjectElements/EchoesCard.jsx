@@ -1,7 +1,7 @@
 import React, { useLayoutEffect, useRef, useState } from "react";
 import LazyLoad from 'react-lazyload';
 
-const EchoesCard = ({ data }) => {
+const EchoesCard = ({ key, data }) => {
     const targetRef = useRef();
     const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
     const windowSize = useRef([window.innerWidth, window.innerHeight]);
