@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Wuthering.Waves.React/static/css/main.eb1954f9.css",
-    "main.js": "/Wuthering.Waves.React/static/js/main.cd84b3d8.js",
+    "main.js": "/Wuthering.Waves.React/static/js/main.2f88b4d0.js",
     "static/js/787.a2293376.chunk.js": "/Wuthering.Waves.React/static/js/787.a2293376.chunk.js",
     "static/media/bg-2-light.jpg": "/Wuthering.Waves.React/static/media/bg-2-light.35f6da72c5a431854b5a.jpg",
     "static/media/header_img.jpg": "/Wuthering.Waves.React/static/media/header_img.898533a6a0746b06cb15.jpg",
@@ -17,11 +17,11 @@
     "index.html": "/Wuthering.Waves.React/index.html",
     "static/media/i1.svg": "/Wuthering.Waves.React/static/media/i1.84e4c45354c02d43ba72.svg",
     "main.eb1954f9.css.map": "/Wuthering.Waves.React/static/css/main.eb1954f9.css.map",
-    "main.cd84b3d8.js.map": "/Wuthering.Waves.React/static/js/main.cd84b3d8.js.map",
+    "main.2f88b4d0.js.map": "/Wuthering.Waves.React/static/js/main.2f88b4d0.js.map",
     "787.a2293376.chunk.js.map": "/Wuthering.Waves.React/static/js/787.a2293376.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb1954f9.css",
-    "static/js/main.cd84b3d8.js"
+    "static/js/main.2f88b4d0.js"
   ]
 }
