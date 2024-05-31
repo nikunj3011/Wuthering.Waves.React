@@ -25,7 +25,7 @@ const WeaponsCard = ({ data }) => {
     const { img, name, tag, bStyle, description, rarity, type, baseAtk, bonusStat, rarityDes } = data;
 
     return (
-        <div className="col-lg-4 text-left" style={{padding:10}}>
+        <div className="col-lg-4 col-6 text-left" style={{padding:10}}>
             {/* <div className={`grid-item ${tag} width-10`}>
                 <div className="thumb">
                     <LazyLoad height={monitorWidth <= 600 ? 500 : monitorWidth <= 1550 ? 680 : monitorWidth <= 2000 ? 810 : 680} once>

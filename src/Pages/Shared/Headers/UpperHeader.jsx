@@ -127,11 +127,11 @@ const UpperHeader = () => {
                         </ul>
                     </div>
                     <div className="header_right_part d-flex align-items-center">
-                        <button className="aside_open">
+                        {/* <button className="aside_open">
                             <span className="line"></span>
                             <span className="line"></span>
                             <span className="line"></span>
-                        </button>
+                        </button> */}
 
                         {/* Header Search */}
                         {/* <div className="header_search" onClick={handleToggle}>
