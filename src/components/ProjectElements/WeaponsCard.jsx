@@ -47,7 +47,7 @@ const WeaponsCard = ({ data }) => {
                     <img src={img} alt="Icon Box" className={rarityDes}/>
                 </div>
                 <div className="col-lg-7 ">
-                    <h4 className="text-white"><a href="/service-details">{name}</a></h4>
+                    <h4 className="text-white">{name}</h4>
                     <p className="text-gray"><b>Rarity: </b>{rarity}  &nbsp; {type}</p>
                 </div>
             </div>

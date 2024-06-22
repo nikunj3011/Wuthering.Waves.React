@@ -5,6 +5,7 @@ import Characters from "../Pages/ProjectPages/Characters";
 import Echoes from "../Pages/ProjectPages/Echoes";
 import Weapons from "../Pages/ProjectPages/Weapons";
 import GearSets from "../Pages/ProjectPages/GearSets";
+import Character from "../Pages/ProjectPages/Character";
 
 export const routes = createHashRouter([
     {
@@ -31,6 +32,10 @@ export const routes = createHashRouter([
                 path: '/gearsets',
                 element: <GearSets/>,
             },
+            {
+                path: '/character/:id',
+                element: <Character/>,
+            }
         ]
     }
 ])

@@ -52,7 +52,7 @@ const EchoesCard = ({ key, data }) => {
                     <p className="text-gray-600" style={{paddingTop:3}}><b>Sets: </b>{imageItems}</p>
                 </div>
                 <div className="col-lg-7 ">
-                    <h4 className="text-white"><a href="/service-details">{name}</a></h4>
+                    <h4 className="text-white">{name}</h4>
                     <p className="text-gray-600"><b>Cost: </b>{cost} &nbsp; <b>CD: </b>{cooldown}</p>
                     <p className="text-gray-600"><b >Class: </b>{classEcho}</p>
                 </div>

@@ -10,12 +10,12 @@
 				"name": "Rejuvenating Glow"
 			}
 		],
-		"img": "https://www.prydwen.gg/static/117fbbfb1b1ba83807fb2e564af44562/d8057/340000020.webp",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
 		"cooldown": "20 s",
 		"cost": "4",
 		"No": "H91",
 		"classEcho": "Calamity",
-		"name": "Bell-Borne Geocheloner",
+		"name": "Bell-Borne Geochelone",
 		"Possible Sonata Effects": "Rejuvenating Glow Moonlit Clouds",
 		"description": "Activate the protection of Bell-Borne Geochelone, dealing Glacio DMG to nearby enemies based on current character's DEF. Reduce incoming damage, increase damage dealt."
 	},
@@ -26,7 +26,7 @@
 				"name": "Sun Sinking Eclipse"
 			}
 		],
-		"img": "https://www.prydwen.gg/static/1851f033e189d0b9afb4b6c76e9b8a45/d8057/340000070.webp",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/dreamless.webp?strip=all&quality=100&w=512",
 		"cooldown": "20 s",
 		"cost": "4",
 		"No": "H81",
@@ -42,7 +42,7 @@
 				"name": "Sun Sinking Eclipse"
 			}
 		],
-		"img": "https://www.prydwen.gg/static/43e02bbf30b66f0bb0aaf598d57b96f7/d8057/310000050.webp",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/crownless.webp?strip=all&quality=100&w=512",
 		"cooldown": "20 s",
 		"cost": "4",
 		"No": "H80",
@@ -58,11 +58,11 @@
 				"name": "Sierra Gale"
 			}
 		],
-		"img": "https://www.prydwen.gg/static/46a60e71e5b1974fd608a042484e9a86/d8057/330000050.webp",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/feilian_beringal.webp?strip=all&quality=100&w=512",
 		"cooldown": "20 s",
 		"cost": "4",
 		"No": "H71",
-		"name": "Feilian Beringalr",
+		"name": "Feilian Beringal",
 		"classEcho": "Overlord",
 		"Possible Sonata Effects": "Sierra Gale",
 		"description": "Transform into Feilian Beringal to continuously attack enemies, dealing Aero DMG. Increase current character's Aero DMG and Heavy Attack DMG."
@@ -72,189 +72,62 @@
 			{
 				"img": "images/main_images/echoSets/moonlight_clouds.webp",
 				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/impermanence_heron.webp?strip=all&quality=100&w=512",
+		"cooldown": "20 s",
+		"cost": "4",
 		"No": "H72",
-		"name": "Impermanence Heronr",
+		"name": "Impermanence Heron",
 		"classEcho": "Overlord",
 		"Possible Sonata Effects": "Moonlit Clouds",
 		"description": "Transform into Impermanence Heron to deal Havoc DMG. Long press to spit flames and continuously deal Havoc DMG. Once the attacks hit any enemy, restore current character's Resonance Energy. Increase next character's damage dealt."
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
+			
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/inferno_rider.webp?strip=all&quality=100&w=512",
+		"cooldown": "20 s",
+		"cost": "4",
 		"No": "W77",
-		"name": "Inferno Riderr",
+		"name": "Inferno Rider",
 		"classEcho": "Overlord",
 		"Possible Sonata Effects": "Molten Rift",
 		"description": "Transform into Inferno Rider to perform consecutive strikes, dealing Fusion DMG. Increase current character's Fusion DMG and Basic Attack DMG. Long press Echo Skill to enter the Riding Mode."
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/lampylumen_myriad.webp?strip=all&quality=100&w=512",
+		"cooldown": "20 s",
+		"cost": "4",
 		"No": "H74",
-		"name": "Lampylumen Myriadr",
+		"name": "Lampylumen Myriad",
 		"classEcho": "Overlord",
 		"Possible Sonata Effects": "Freezing Frost",
 		"description": "Transform into Lampylumen Myriad to continuously attack enemies, dealing Glacio damage. Increase current character's Glacio DMG and Resonance Skill DMG."
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/mech_abomination.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "4",
 		"No": "R56",
-		"name": "Mech Abominationr",
+		"name": "Mech Abomination",
 		"classEcho": "Overlord",
 		"Possible Sonata Effects": "Lingering Tunes",
 		"description": "Deal Electro DMG to enemies nearby and create Mech Waste that explodes in a while. Increase current character's ATK."
@@ -262,47 +135,15 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/mourning_aix.webp?strip=all&quality=100&w=512",
+		"cooldown": "20 s",
+		"cost": "4",
 		"No": "H73",
-		"name": "Mourning Aixr",
+		"name": "Mourning Aix",
 		"classEcho": "Overlord",
 		"Possible Sonata Effects": "Celestial Light",
 		"description": "Transform into Mourning Aix to continuously attack enemies, dealing Spectro damage. Increase current character's Spectro DMG and Resonance Liberation DMG."
@@ -310,47 +151,15 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/tempest_mephis.webp?strip=all&quality=100&w=512",
+		"cooldown": "20 s",
+		"cost": "4",
 		"No": "W75",
-		"name": "Tempest Mephisr",
+		"name": "Tempest Mephis",
 		"classEcho": "Overlord",
 		"Possible Sonata Effects": "Void Thunder",
 		"description": "Transform into Tempest Mephis to continuously attack enemies, dealing Electro damage. Increase current character's Electro DMG & Heavy Attack DMG."
@@ -358,47 +167,15 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/thundering_mephis.webp?strip=all&quality=100&w=512",
+		"cooldown": "20 s",
+		"cost": "4",
 		"No": "W76",
-		"name": "Thundering Mephisr",
+		"name": "Thundering Mephis",
 		"classEcho": "Overlord",
 		"Possible Sonata Effects": "Void Thunder",
 		"description": "Transform into Thundering Mephis to deal Electro DMG. Increase the current character's Electro DMG and Resonance Liberation DMG."
@@ -406,45 +183,17 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/autopuppet_scout.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "X53",
 		"name": "Autopuppet Scout",
 		"classEcho": "Elite",
@@ -458,41 +207,13 @@
 				"name": "Moonlit Clouds"
 			},
             {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/chaserazor.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "R55",
 		"name": "Chaserazor",
 		"classEcho": "Elite",
@@ -501,46 +222,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
 			},
             {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/chasm_guardian.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "W62",
 		"name": "Chasm Guardian",
 		"classEcho": "Elite",
@@ -550,45 +243,17 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/cyanfeathered_heron.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "H41",
 		"name": "Cyan-Feathered Heron",
 		"classEcho": "Elite",
@@ -597,46 +262,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
 			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/flautist.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "W61",
 		"name": "Flautist",
 		"classEcho": "Elite",
@@ -645,18 +282,6 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
@@ -664,27 +289,11 @@
             {
 				"img": "images/main_images/echoSets/moonlight_clouds.webp",
 				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/geohide_saurian.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "H46",
 		"name": "Geohide Saurian",
 		"classEcho": "Elite",
@@ -693,46 +302,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
 			},
             {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
 				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/havoc_dreadmane.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "H49",
 		"name": "Havoc Dreadmane",
 		"classEcho": "Elite",
@@ -741,26 +322,6 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
             {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
@@ -768,19 +329,11 @@
             {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/hoochief.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "H51",
 		"name": "Hoochief",
 		"classEcho": "Elite",
@@ -790,45 +343,17 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/rocksteady_guardian.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "W63",
 		"name": "Rocksteady Guardian",
 		"classEcho": "Elite",
@@ -837,46 +362,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
 			},
             {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
 				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/roseshroom.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "S06",
 		"name": "Roseshroom",
 		"classEcho": "Elite",
@@ -885,46 +382,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
 			},
             {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
 				"img": "images/main_images/echoSets/moonlight_clouds.webp",
 				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/spearback.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "H48",
 		"name": "Spearback",
 		"classEcho": "Elite",
@@ -933,22 +402,6 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
             {
 				"img": "images/main_images/echoSets/moonlight_clouds.webp",
 				"name": "Moonlit Clouds"
@@ -956,23 +409,11 @@
             {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/stonewall_bracer.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "S55",
 		"name": "Stonewall Bracer",
 		"classEcho": "Elite",
@@ -981,46 +422,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
 			},
             {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
 				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/tambourinist.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "W60",
 		"name": "Tambourinist",
 		"classEcho": "Elite",
@@ -1029,46 +442,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
 			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/violetfeathered_heron.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "3",
 		"No": "H42",
 		"name": "Violet-Feathered Heron",
 		"classEcho": "Elite",
@@ -1077,46 +462,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
             {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
 			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/aero_predator.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "W27",
 		"name": "Aero Predator",
 		"classEcho": "Common",
@@ -1125,30 +482,6 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
             {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
@@ -1156,15 +489,11 @@
             {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
 				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/chirpuff.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "H02",
 		"name": "Chirpuff",
 		"classEcho": "Common",
@@ -1174,20 +503,8 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/moonlight_clouds.webp",
@@ -1196,23 +513,11 @@
             {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/cruisewing.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "H12",
 		"name": "Cruisewing",
 		"classEcho": "Common",
@@ -1221,46 +526,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
 			},
             {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
 				"img": "images/main_images/echoSets/moonlight_clouds.webp",
 				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/diamondclaw.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "H11",
 		"name": "Diamondclaw",
 		"classEcho": "Common",
@@ -1269,46 +546,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
 			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/electro_predator.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "W25",
 		"name": "Electro Predator",
 		"classEcho": "Common",
@@ -1317,46 +566,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
 			},
             {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
 				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/excarat.webp?strip=all&quality=100&w=512",
+		"cooldown": "2 s",
+		"cost": "1",
 		"No": "H05",
 		"name": "Excarat",
 		"classEcho": "Common",
@@ -1370,41 +591,17 @@
 				"name": "Moonlit Clouds"
 			},
             {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
 			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/fission_junrock.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "1",
 		"No": "S09",
 		"name": "Fission Junrock",
 		"classEcho": "Common",
@@ -1413,46 +610,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
 			},
             {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/fusion_dreadmane.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "H09",
 		"name": "Fusion Dreadmane",
 		"classEcho": "Common",
@@ -1461,10 +630,6 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
@@ -1476,31 +641,11 @@
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/fusion_prism.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "N12",
 		"name": "Fusion Prism",
 		"classEcho": "Common",
@@ -1509,46 +654,22 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
 			},
             {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
 			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/fusion_warrior.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "1",
 		"No": "W30",
 		"name": "Fusion Warrior",
 		"classEcho": "Common",
@@ -1558,45 +679,17 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/glacio_predator.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "W26",
 		"name": "Glacio Predator",
 		"classEcho": "Common",
@@ -1605,46 +698,22 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
 			},
             {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
 				"img": "images/main_images/echoSets/moonlight_clouds.webp",
 				"name": "Moonlit Clouds"
 			},
             {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
 				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/glacio_prism.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "N11",
 		"name": "Glacio Prism",
 		"classEcho": "Common",
@@ -1654,45 +723,17 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/gulpuff.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "H01",
 		"name": "Gulpuff",
 		"classEcho": "Common",
@@ -1701,33 +742,9 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
             {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
@@ -1738,9 +755,9 @@
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/havoc_prism.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "N13",
 		"name": "Havoc Prism",
 		"classEcho": "Common",
@@ -1749,46 +766,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
             {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
 				"name": "Sun Sinking Eclipse"
 			},
 			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/havoc_warrior.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "1",
 		"No": "W31",
 		"name": "Havoc Warrior",
 		"classEcho": "Common",
@@ -1798,45 +787,17 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/freezing_frost.webp",
 				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/hoartoise.webp?strip=all&quality=100&w=512",
+		"cooldown": "2 s",
+		"cost": "1",
 		"No": "H15",
 		"name": "Hoartoise",
 		"classEcho": "Common",
@@ -1845,46 +806,18 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
 			},
             {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/hooscamp.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "H19",
 		"name": "Hooscamp",
 		"classEcho": "Common",
@@ -1902,37 +835,13 @@
 				"name": "Freezing Frost"
 			},
             {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/sabyr_boar.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "H08",
 		"name": "Sabyr Boar",
 		"classEcho": "Common",
@@ -1941,14 +850,6 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
@@ -1958,29 +859,13 @@
 				"name": "Molten Rift"
 			},
             {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/snip_snap.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "G02",
 		"name": "Snip Snap",
 		"classEcho": "Common",
@@ -1989,46 +874,22 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
             {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
 			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/spectro_prism.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "N14",
 		"name": "Spectro Prism",
 		"classEcho": "Common",
@@ -2037,46 +898,22 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
 			},
             {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
 			},
             {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
 				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/tick_tack.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "1",
 		"No": "G04",
 		"name": "Tick Tack",
 		"classEcho": "Common",
@@ -2085,46 +922,22 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
             {
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
 			},
             {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
 			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/traffic_illuminator.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "1",
 		"No": "X54",
 		"name": "Traffic Illuminator",
 		"classEcho": "Common",
@@ -2133,46 +946,22 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
 			},
             {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
 			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/vanguard_junrock.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "S08",
 		"name": "Vanguard Junrock",
 		"classEcho": "Common",
@@ -2186,41 +975,17 @@
 				"name": "Moonlit Clouds"
 			},
             {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
 				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
 				"name": "Rejuvenating Glow"
 			},
             {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/whiff_whaff.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "1",
 		"No": "G01",
 		"name": "Whiff Whaff",
 		"classEcho": "Common",
@@ -2229,14 +994,6 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
@@ -2245,30 +1002,14 @@
 				"img": "images/main_images/echoSets/molten_rift.webp",
 				"name": "Molten Rift"
 			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
 			{
 				"img": "images/main_images/echoSets/void_thunder.webp",
 				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/young_geohide_saurian.webp?strip=all&quality=100&w=512",
+		"cooldown": "2 s",
+		"cost": "1",
 		"No": "H06",
 		"name": "Young Geohide Saurian",
 		"classEcho": "Common",
@@ -2277,30 +1018,6 @@
 	},
 	{
 		"echoSets": [
-			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
-			},
-            {
-				"img": "images/main_images/echoSets/lingering_tunes.webp",
-				"name": "Lingering Tunes"
-			},
-            {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
             {
 				"img": "images/main_images/echoSets/sierra_gale.webp",
 				"name": "Sierra Gale"
@@ -2308,15 +1025,11 @@
             {
 				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
 				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/young_roseshroom.webp?strip=all&quality=100&w=512",
+		"cooldown": "8 s",
+		"cost": "1",
 		"No": "S05",
 		"name": "Young Roseshroom",
 		"classEcho": "Common",
@@ -2326,45 +1039,21 @@
 	{
 		"echoSets": [
 			{
-				"img": "images/main_images/echoSets/moonlight_clouds.webp",
-				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/freezing_frost.webp",
-				"name": "Freezing Frost"
+				"img": "images/main_images/echoSets/celestial_light.webp",
+				"name": "Celestial Light"
 			},
             {
 				"img": "images/main_images/echoSets/lingering_tunes.webp",
 				"name": "Lingering Tunes"
 			},
             {
-				"img": "images/main_images/echoSets/molten_rift.webp",
-				"name": "Molten Rift"
-			},
-            {
 				"img": "images/main_images/echoSets/moonlight_clouds.webp",
 				"name": "Moonlit Clouds"
-			},
-            {
-				"img": "images/main_images/echoSets/rejuvenating_glow.webp",
-				"name": "Rejuvenating Glow"
-			},
-            {
-				"img": "images/main_images/echoSets/sierra_gale.webp",
-				"name": "Sierra Gale"
-			},
-            {
-				"img": "images/main_images/echoSets/sun_sinking_eclipse.webp",
-				"name": "Sun Sinking Eclipse"
-			},
-			{
-				"img": "images/main_images/echoSets/void_thunder.webp",
-				"name": "Void Thunder"
 			}
 		],
-		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/bellborne_geochelone.webp?strip=all&quality=100&w=512",
-		"cooldown": "",
-		"cost": "",
+		"img": "https://i2.wp.com/genshinbuilds.aipurrjects.com/wuthering/echoes/zig_zag.webp?strip=all&quality=100&w=512",
+		"cooldown": "15 s",
+		"cost": "1",
 		"No": "G03",
 		"name": "Zig Zag",
 		"classEcho": "Common",

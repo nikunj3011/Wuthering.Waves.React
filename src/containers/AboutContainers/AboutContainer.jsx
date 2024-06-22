@@ -7,15 +7,16 @@ const AboutContainer = () => {
 
     return (
         <section className="about bg-dark-100">
+            
             <div className="large_font">
                 <h2 className="floating_element text-dark-200 d-flex justify-content-center">About</h2>
             </div>
             <div className="container">
                 <div className="row align-items-center">
-                    <div className="col-lg-5 col-md-5">
-                        <div className="about_image">
-                            <img src='images/main_images/1_.jpg' alt="img" />
-                            <img src="images/about/e1.svg" alt="About" />
+                    <div className="col-lg-5 col-md-5" >
+                        <div className="">
+                            <img src='images/main_images/3_.jpg' alt="img" />
+                            {/* <img src="images/about/e1.svg" alt="About" /> */}
                         </div>
                     </div>
                     <div className="col-lg-6 col-md-7">

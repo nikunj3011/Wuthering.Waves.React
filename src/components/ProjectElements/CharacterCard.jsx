@@ -6,7 +6,6 @@ const CharacterCard = ({ data }) => {
     const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
     const windowSize = useRef([window.innerWidth, window.innerHeight]);
     const monitorWidth = windowSize.current[0];
-
     // console.log(monitorWidth);
 
 
@@ -22,7 +21,8 @@ const CharacterCard = ({ data }) => {
     let elHeight = Number(dimensions.height);
     // console.log(typeof elHeight);
 
-    const { img, name, tag, bStyle } = data;
+    const { img, name, tag, bStyle, id } = data;
+    const characterDetailedLink = `#character/${id}`;
 
     return (
         <div className="col-lg-2 col-sm-6 col-6 text-center">
@@ -36,13 +36,13 @@ const CharacterCard = ({ data }) => {
                         {tag === "Havoc" && <img src="images/main_images/elements/element_havoc.webp" alt="" height="25px" width="25px" className="iconTopLeft"/>}
                         {tag === "Spectro" && <img src="images/main_images/elements/element_spectro.webp" alt="" height="25px" width="25px" className="iconTopLeft"/>}
                         <img className="item_image" src={img} alt="" style={{background: bStyle}} />
-                        <h5><a href="/project-details">{name}</a></h5>
+                        <h5><a href={characterDetailedLink}>{name}</a></h5>
                     </LazyLoad>
                     
                     <div className="works-info">
                         <div className="label-text">
-                            <h5><a href="/project-details">{name}</a></h5>
-                            <div className="details_link"><a href="/project-details"><span className="link_text">View Details</span> <span className="link_icon"><span className="line"></span> <span className="circle"></span><span className="dot"></span></span></a></div>
+                            <h5><a href={characterDetailedLink}>{name}</a></h5>
+                            <div className="details_link"><a href={characterDetailedLink}><span className="link_text">View Details</span> <span className="link_icon"><span className="line"></span> <span className="circle"></span><span className="dot"></span></span></a></div>
                         </div>
                     </div>
                 </div>
