@@ -1,0 +1,94 @@
+{
+	"id": "19",
+	"img": "https://www.prydwen.gg/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
+	"name": "Changli",
+	"tag": "Havoc",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 21st, 2024",
+	"createdAt": "2024-05-27T06:28:29.443Z",
+	"unitId": "19",
+	"devId": null,
+	"slug": "changli",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#d8d8d8",
+					"images": {
+						"fallback": {
+							"src": "/static/0f92245f5d6cae50f613fd247a848785/60b4d/changli_icon.webp",
+							"srcSet": "/static/0f92245f5d6cae50f613fd247a848785/e73fe/changli_icon.webp 40w,\n/static/0f92245f5d6cae50f613fd247a848785/61ca6/changli_icon.webp 80w,\n/static/0f92245f5d6cae50f613fd247a848785/60b4d/changli_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#d8d8d8",
+					"images": {
+						"fallback": {
+							"src": "/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
+							"srcSet": "/static/7eb8b347a3aa1837164c79a5e520d268/84550/card_changli.webp 94w,\n/static/7eb8b347a3aa1837164c79a5e520d268/34f80/card_changli.webp 187w,\n/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Fusion",
+	"weapon": "Sword",
+	"introduction": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Counselor to the Jinzhou Magistrate, Changli excels at leveraging human nature to corner her enemies into traps. Being the mentor to Jinhsi, she is persuasive and patient. She entertains an unwavering aspiration, holding her ground in the endless game against time and chaos.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"dupes": null,
+	"skills": null,
+	"review": null,
+	"pros": null,
+	"cons": null,
+	"voiceActors": {
+		"en": "",
+		"kr": "",
+		"jpn": "",
+		"cn": ""
+	},
+	"buildInfoEcho": null,
+	"buildInfoWeapon": null,
+	"buildInfoOther": null,
+	"attributeBonus": null,
+	"videos": null,
+	"synergies": null,
+	"endgameStats": null,
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": null,
+	"releaseDate": null,
+	"tierCategory": null,
+	"tierTags": null,
+	"ratings": {
+		"tower": 1
+	},
+	"isNew": null,
+	"upcoming": true
+}

@@ -1,0 +1,821 @@
+{
+	"id": "18",
+	"img": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+	"name": "Rover (Havoc)",
+	"tag": "Havoc",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 9th, 2024",
+	"createdAt": "2024-01-18T14:45:24.626Z",
+	"unitId": "2",
+	"devId": 1502,
+	"slug": "rover-havoc",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#585858",
+					"images": {
+						"fallback": {
+							"src": "/static/33d043cdcced39c96b08f210c4c15d4c/60b4d/rover_icon.webp",
+							"srcSet": "/static/33d043cdcced39c96b08f210c4c15d4c/e73fe/rover_icon.webp 40w,\n/static/33d043cdcced39c96b08f210c4c15d4c/61ca6/rover_icon.webp 80w,\n/static/33d043cdcced39c96b08f210c4c15d4c/60b4d/rover_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#383838",
+					"images": {
+						"fallback": {
+							"src": "/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+							"srcSet": "/static/ec3edb26e6df7f128ff8f9d1226c9a76/84550/rover_card.webp 94w,\n/static/ec3edb26e6df7f128ff8f9d1226c9a76/34f80/rover_card.webp 187w,\n/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/210c80d649ccbda3a969fa319b2c535d/3cd29/rover_full.webp",
+							"srcSet": "/static/210c80d649ccbda3a969fa319b2c535d/e7160/rover_full.webp 250w,\n/static/210c80d649ccbda3a969fa319b2c535d/5f169/rover_full.webp 500w,\n/static/210c80d649ccbda3a969fa319b2c535d/3cd29/rover_full.webp 1000w",
+							"sizes": "(min-width: 1000px) 1000px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 1000,
+					"height": 1000
+				}
+			}
+		}
+	},
+	"rarity": "5",
+	"element": "Havoc",
+	"weapon": "Sword",
+	"introduction": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened with an unknown past, Rover embarks on a journey to uncover the truths. As secrets are unveiled, Rover establishes deeper connections with the world.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill DMG Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Reset Resonance Skill's Cooldown when Rover enters the Dark Surge state by casting Heavy Attack Devastation. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the Dark Surge state, Basic Attack V restores HP equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of total HP lost on hit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack Devastation and Resonance Liberation Deadening Abyss reduces enemy \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc RES\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"on hit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"In the Dark Surge state, Basic Attack V deals an additional \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" 50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Basic Attack V damage. \",\"marks\":[],\"data\":{}}]}]}"
+		},
+		"dupe6": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the Dark Surge state, Rover's Crit. Rate is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Tuneslayer",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic Attack\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Rover-Havoc performs up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" consecutive attacks, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG.\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}}]},{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Heavy Attack\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Rover-Havoc consumes Stamina to attack, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG.\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Use Basic Attack after casting Heavy Attack to cast Basic Attack IV.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Mid-air Attack\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Rover-Havoc consumes Stamina to cast a Mid-Air Plunging Attack, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG.\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}}]},{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Dodge Counter\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG.\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}}]}]}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "28.50%",
+					"Lv2": "30.84%",
+					"Lv3": "33.18%",
+					"Lv4": "36.45%",
+					"Lv5": "38.79%",
+					"Lv6": "41.48%",
+					"Lv7": "45.21%",
+					"Lv8": "48.95%",
+					"Lv9": "52.69%",
+					"Lv10": "56.67%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "28.50%*2",
+					"Lv2": "30.84%*2",
+					"Lv3": "33.18%*2",
+					"Lv4": "36.45%*2",
+					"Lv5": "38.79%*2",
+					"Lv6": "41.48%*2",
+					"Lv7": "45.21%*2",
+					"Lv8": "48.95%*2",
+					"Lv9": "52.69%*2",
+					"Lv10": "56.67%*2"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "42.75%",
+					"Lv2": "46.26%",
+					"Lv3": "49.77%",
+					"Lv4": "54.67%",
+					"Lv5": "58.18%",
+					"Lv6": "62.21%",
+					"Lv7": "67.82%",
+					"Lv8": "73.43%",
+					"Lv9": "79.04%",
+					"Lv10": "85.00%"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "20.27%*3",
+					"Lv2": "21.93%*3",
+					"Lv3": "23.60%*3",
+					"Lv4": "25.92%*3",
+					"Lv5": "27.58%*3",
+					"Lv6": "29.50%*3",
+					"Lv7": "32.15%*3",
+					"Lv8": "34.81%*3",
+					"Lv9": "37.47%*3",
+					"Lv10": "40.30%*3"
+				},
+				{
+					"Name": "Part 5 Damage",
+					"Lv1": "47.50%*2",
+					"Lv2": "51.40%*2",
+					"Lv3": "55.29%*2",
+					"Lv4": "60.75%*2",
+					"Lv5": "64.64%*2",
+					"Lv6": "69.12%*2",
+					"Lv7": "75.35%*2",
+					"Lv8": "81.59%*2",
+					"Lv9": "87.82%*2",
+					"Lv10": "94.44%*2"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "48.00%",
+					"Lv2": "51.94%",
+					"Lv3": "55.88%",
+					"Lv4": "61.39%",
+					"Lv5": "65.32%",
+					"Lv6": "69.85%",
+					"Lv7": "76.15%",
+					"Lv8": "82.44%",
+					"Lv9": "88.74%",
+					"Lv10": "95.43%"
+				},
+				{
+					"Name": "Mid-Air Attack Damage",
+					"Lv1": "58.90%",
+					"Lv2": "63.73%",
+					"Lv3": "68.56%",
+					"Lv4": "75.33%",
+					"Lv5": "80.16%",
+					"Lv6": "85.71%",
+					"Lv7": "93.44%",
+					"Lv8": "101.17%",
+					"Lv9": "108.89%",
+					"Lv10": "117.10%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "90.25%",
+					"Lv2": "97.66%",
+					"Lv3": "105.06%",
+					"Lv4": "115.42%",
+					"Lv5": "122.82%",
+					"Lv6": "131.33%",
+					"Lv7": "143.17%",
+					"Lv8": "155.01%",
+					"Lv9": "166.85%",
+					"Lv10": "179.43%"
+				},
+				{
+					"Name": "Heavy Attack Stamina Cost",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Wingblade",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Transforms sound into feathers, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "144.00%*2",
+					"Lv2": "155.81%*2",
+					"Lv3": "167.62%*2",
+					"Lv4": "184.15%*2",
+					"Lv5": "195.96%*2",
+					"Lv6": "209.54%*2",
+					"Lv7": "228.43%*2",
+					"Lv8": "247.32%*2",
+					"Lv9": "266.22%*2",
+					"Lv10": "286.29%*2"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "12",
+					"Lv2": "12",
+					"Lv3": "12",
+					"Lv4": "12",
+					"Lv5": "12",
+					"Lv6": "12",
+					"Lv7": "12",
+					"Lv8": "12",
+					"Lv9": "12",
+					"Lv10": "12"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				}
+			]
+		},
+		{
+			"name": "Deadening Abyss",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gather the echoes between Rover's palms to attack a target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "765.00%",
+					"Lv2": "827.73%",
+					"Lv3": "890.46%",
+					"Lv4": "978.29%",
+					"Lv5": "1041.02%",
+					"Lv6": "1113.16%",
+					"Lv7": "1213.52%",
+					"Lv8": "1313.89%",
+					"Lv9": "1414.26%",
+					"Lv10": "1520.90%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "16",
+					"Lv2": "16",
+					"Lv3": "16",
+					"Lv4": "16",
+					"Lv5": "16",
+					"Lv6": "16",
+					"Lv7": "16",
+					"Lv8": "16",
+					"Lv9": "16",
+					"Lv10": "16"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "125",
+					"Lv2": "125",
+					"Lv3": "125",
+					"Lv4": "125",
+					"Lv5": "125",
+					"Lv6": "125",
+					"Lv7": "125",
+					"Lv8": "125",
+					"Lv9": "125",
+					"Lv10": "125"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Umbra Eclipse",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Devastation\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When \\\"Umbra\\\" is full, hold Basic Attack to cast Devastation to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Heavy Attack damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dark Surge\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After casting Devastation, Rover enters the Dark Surge state. In this state:\\nBasic Attack is replaced with Enhanced Basic Attack, which performs up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack is replaced with Enhanced Heavy Attack.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after casting Enhanced Heavy Attack to cast Heavy Attack Thwackblade to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Heavy Attack damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after casting Heavy Attack Thwackblade to cast Enhanced Basic Attack \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Wingblade is replaced with Resonance Skill Lifetaker, transforming sounds into blades to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Umbra\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"points of Umbra.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Normal Attack Tuneslayer recovers Umbra on hit. Resonance Skill Wingblade recovers Umbra when cast. Resonance Skill Lifetaker recovers Umbra when cast. Intro Skill Instant of Annihilation recovers Umbra when cast.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Devastation Damage",
+					"Lv1": "114.75%",
+					"Lv2": "124.16%",
+					"Lv3": "133.57%",
+					"Lv4": "146.75%",
+					"Lv5": "156.16%",
+					"Lv6": "166.98%",
+					"Lv7": "182.03%",
+					"Lv8": "197.09%",
+					"Lv9": "212.14%",
+					"Lv10": "228.14%"
+				},
+				{
+					"Name": "Umbra: Basic Attack Part 1 Damage",
+					"Lv1": "28.35%",
+					"Lv2": "30.68%",
+					"Lv3": "33.00%",
+					"Lv4": "36.26%",
+					"Lv5": "38.58%",
+					"Lv6": "41.26%",
+					"Lv7": "44.98%",
+					"Lv8": "48.70%",
+					"Lv9": "52.42%",
+					"Lv10": "56.37%"
+				},
+				{
+					"Name": "Umbra: Basic Attack Part 2 Damage",
+					"Lv1": "47.25%",
+					"Lv2": "51.13%",
+					"Lv3": "55.00%",
+					"Lv4": "60.43%",
+					"Lv5": "64.30%",
+					"Lv6": "68.76%",
+					"Lv7": "74.96%",
+					"Lv8": "81.16%",
+					"Lv9": "87.36%",
+					"Lv10": "93.94%"
+				},
+				{
+					"Name": "Umbra: Basic Attack Part 3 Damage",
+					"Lv1": "78.30%",
+					"Lv2": "84.73%",
+					"Lv3": "91.15%",
+					"Lv4": "100.14%",
+					"Lv5": "106.56%",
+					"Lv6": "113.94%",
+					"Lv7": "124.21%",
+					"Lv8": "134.49%",
+					"Lv9": "144.76%",
+					"Lv10": "155.67%"
+				},
+				{
+					"Name": "Umbra: Basic Attack Part 4 Damage",
+					"Lv1": "18.68%*3+56.03%",
+					"Lv2": "20.21%*3+60.62%",
+					"Lv3": "21.74%*3+65.22%",
+					"Lv4": "23.89%*3+71.65%",
+					"Lv5": "25.42%*3+76.24%",
+					"Lv6": "27.18%*3+81.53%",
+					"Lv7": "29.63%*3+88.88%",
+					"Lv8": "32.08%*3+96.23%",
+					"Lv9": "34.53%*3+103.58%",
+					"Lv10": "37.13%*3+111.39%"
+				},
+				{
+					"Name": "Umbra: Basic Attack Part 5 Damage",
+					"Lv1": "14.35%*4+57.38%",
+					"Lv2": "15.52%*4+62.08%",
+					"Lv3": "16.70%*4+66.79%",
+					"Lv4": "18.35%*4+73.38%",
+					"Lv5": "19.52%*4+78.08%",
+					"Lv6": "20.88%*4+83.49%",
+					"Lv7": "22.76%*4+91.02%",
+					"Lv8": "24.64%*4+98.55%",
+					"Lv9": "26.52%*4+106.07%",
+					"Lv10": "28.52%*4+114.07%"
+				},
+				{
+					"Name": "Umbra: Heavy Attack Damage",
+					"Lv1": "64.80%",
+					"Lv2": "70.12%",
+					"Lv3": "75.43%",
+					"Lv4": "82.87%",
+					"Lv5": "88.18%",
+					"Lv6": "94.30%",
+					"Lv7": "102.80%",
+					"Lv8": "111.30%",
+					"Lv9": "119.80%",
+					"Lv10": "128.83%"
+				},
+				{
+					"Name": "Umbra: Thwackblade Damage",
+					"Lv1": "63.70%+5.00%*4",
+					"Lv2": "68.93%+5.41%*4",
+					"Lv3": "74.15%+5.82%*4",
+					"Lv4": "81.46%+6.40%*4",
+					"Lv5": "86.69%+6.81%*4",
+					"Lv6": "92.69%+7.28%*4",
+					"Lv7": "101.05%+7.94%*4",
+					"Lv8": "109.41%+8.59%*4",
+					"Lv9": "117.77%+9.25%*4",
+					"Lv10": "126.65%+9.95%*4"
+				},
+				{
+					"Name": "Umbra: Plunging Attack Damage",
+					"Lv1": "62.00%",
+					"Lv2": "67.09%",
+					"Lv3": "72.17%",
+					"Lv4": "79.29%",
+					"Lv5": "84.37%",
+					"Lv6": "90.22%",
+					"Lv7": "98.36%",
+					"Lv8": "106.49%",
+					"Lv9": "114.62%",
+					"Lv10": "123.27%"
+				},
+				{
+					"Name": "Umbra: Dodge Counter Damage",
+					"Lv1": "159.30%",
+					"Lv2": "172.37%",
+					"Lv3": "185.43%",
+					"Lv4": "203.72%",
+					"Lv5": "216.78%",
+					"Lv6": "231.80%",
+					"Lv7": "252.70%",
+					"Lv8": "273.60%",
+					"Lv9": "294.50%",
+					"Lv10": "316.71%"
+				},
+				{
+					"Name": "Umbra: Heavy Attack Stamina Cost",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Umbra: Plunging Stamina Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				},
+				{
+					"Name": "Umbra: Lifetaker Damage",
+					"Lv1": "139.00%*2+5.00%*4",
+					"Lv2": "150.40%*2+5.41%*4",
+					"Lv3": "161.80%*2+5.82%*4",
+					"Lv4": "177.76%*2+6.40%*4",
+					"Lv5": "189.16%*2+6.81%*4",
+					"Lv6": "202.26%*2+7.28%*4",
+					"Lv7": "220.50%*2+7.94%*4",
+					"Lv8": "238.74%*2+8.59%*4",
+					"Lv9": "256.97%*2+9.25%*4",
+					"Lv10": "276.35%*2+9.95%*4"
+				},
+				{
+					"Name": "Umbra: Lifetaker Cooldown",
+					"Lv1": "12",
+					"Lv2": "12",
+					"Lv3": "12",
+					"Lv4": "12",
+					"Lv5": "12",
+					"Lv6": "12",
+					"Lv7": "12",
+					"Lv8": "12",
+					"Lv9": "12",
+					"Lv10": "12"
+				},
+				{
+					"Name": "Lifetaker Con. Energy Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				}
+			]
+		},
+		{
+			"name": "Metamorph",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"In the Dark Surge state, \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Bonus is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Bleak Crescendo",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"While in the Dark Surge state, Basic Attack recovers \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Resonance Energy when it hits a target, and this effect can be triggered once per second.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Instant of Annihilation",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "100.00%",
+					"Lv2": "108.20%",
+					"Lv3": "116.40%",
+					"Lv4": "127.88%",
+					"Lv5": "136.08%",
+					"Lv6": "145.51%",
+					"Lv7": "158.63%",
+					"Lv8": "171.75%",
+					"Lv9": "184.87%",
+					"Lv10": "198.81%"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Soundweaver",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Summons a Havoc Field to attack a target, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"143.3%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" to targets within range every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"6s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Havoc Rover is a free 5-star cleave DPS everyone can gain access to after completing Chapter 6 of the main story quest. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Unlike most Main DPS, Havoc Rover does not specifically need their Ultimate to access most of their combos and instead relies on their Forte Gauge. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Having said that their Ultimate hits like a freight train. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Using the Rover's Intro, Resonance Skill or standard Basic Attacks will grant them a portion of the Forte and once it's full it can be activated to enter a Dark Angel state. Within the state, the Forte Gauge will begin ticking down but while you're in it all your abilities are enhanced. Additionally, you can use your enhanced Resonance Skill to extend the duration of your Dark Angel state, allowing for even more enhanced abilities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Rovers kit plays out in a builder-spender playstyle that spans roughly 16-18 seconds\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (when played as a main fielder) which is on the longer side for Main DPS but still acceptable. Their ultimate is strong but not needed, meaning they can switch in and crush whenever needed without downtime making them quite consistent similar to the other Havoc Main DPS Danjin.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On the surface, Havoc Rover has a fairly simple playstyle consisting almost entirely of a combination of Basic Attacks and Charged Basic Attacks without much room to mess up. However after unlocking Sequence 2 this can be turned on its head for huge gains which we'll get to in a moment. One of the advantages of utilizing a high field time traditional Main DPS rotation, consisting mostly of Basic Attacks is the ability to take better advantage of Deepen abilities such as Sanhua's 38% Basic Attack buff. Rover has not just Sanhua as an option for Deepen but also Danjin who can grant Rover a 23% Havoc Deepen buff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"After Sequence 2 is unlocked, Havoc Rover \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"gains a tremendous boost to one of their alternative playstyles \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"(shoutout to \",\"nodeType\":\"text\"},{\"data\":{\"uri\":\"https://www.youtube.com/c/zajef77\"},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Zajef\",\"nodeType\":\"text\"}],\"nodeType\":\"hyperlink\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" for sharing it with us),\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" revolving around extreme burst damage thanks to the Sequence effect immediately resetting the cooldown of their Resonance Skill. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"This playstyle is more demanding, but thanks to Sequence 2 can push Rover to much greater heights when executed well. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This playstyle focuses on accumulating Resonance Energy and a portion of Havoc Rover's Forte Gauge with a strategically placed Skill during other characters' rotations - in preparation for an incredibly short insane burst damage sequence. If everything is prepared just right you can Intro into Rover, use your Resonance Skill, Heavy Attack to enter Dark Angel mode, cast your Resonance Liberation then instantly cast your Resonance Skill again, activate your echo Dreamless, and quickly switch cancel out. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This combo yields truly terrifying burst damage and completely ignores Rover's Forte Gauge duration mechanic in favor of explosive results.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With Sequence 2 unlocked, you can use either rotation or a combination of both for top-tier performance but within each of them you absolutely should acquire the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"\\\"Dreamless\\\" echo \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"which unlike other echoes is farmed in an instanced dungeon (Statue of the Crownless: Heart) that is unlocked after completing Chapter 6.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As the main character you can expect to get all of Rover's Sequences for free - all of which are useful but some of which substantially increase Rover's damage. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Havoc Rover is a strong, reasonably easy-to-play character with multiple playstyles and team-building options, who will also get a power-up in future patches making them a strong choice.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Easy to play,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Decent damage output,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has an alternative playstyle with one of the strongest burst damage in the game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Not reliant on Ultimate, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Multiple support options that amplify their damage, making teambuilding easier,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Free Sequences (but limited to S2 in the 1.0 patch).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"One of the longest on-field times in the game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can't unlock all their Sequences until patch 1.1 (or even longer),\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On-field damage is just decent and it lags behind that of 5-star characters and 4-star ones with their Sequences activated.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Jane Jackson / Chase Brown",
+		"kr": "Song Ha Rim / Kim Sin Woo",
+		"jpn": "Tanaka Minami / Toshiki Masuda",
+		"cn": "Du QingQing / Ma Yang"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Havoc DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Havoc DMG"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Havoc Eclipse",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Dreamless"
+			},
+			{
+				"name": "Havoc Eclipse",
+				"name2": "Endless Resonance",
+				"value": "91.34%",
+				"notes": "",
+				"main_echo": "Dreamless"
+			},
+			{
+				"name": "Havoc Eclipse",
+				"name2": "Moonlit Clouds",
+				"value": "87.80%",
+				"notes": "",
+				"main_echo": "Dreamless"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Emerald of Genesis",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Commando of Conviction",
+			"super": "1",
+			"notes": "",
+			"percent": "82.42%"
+		},
+		{
+			"weapon": "Lumingloss",
+			"super": "1",
+			"notes": "",
+			"percent": "80.01%"
+		},
+		{
+			"weapon": "Lunar Cutter",
+			"super": "1",
+			"notes": "",
+			"percent": "79.57%"
+		},
+		{
+			"weapon": "Sword#18",
+			"super": "1",
+			"notes": "",
+			"percent": "77.89%"
+		},
+		{
+			"weapon": "Sword of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "71.63%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "Havoc DMG",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": [
+		{
+			"video": "UrnsviS6EFw"
+		}
+	],
+	"synergies": null,
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1900-2300+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HAVOC DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0-20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"How much energy regeneration you'll want on your S2+ Havoc Rover will depend on how you intend to play them. The longer you keep Rover on the field during their Umbra State, basic attacking the less energy regeneration you'll need. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you intend to play Havoc Rover as a Hyper Carry or have them on-field during Umbra for 2 or more full basic attack sequences you can get away with 0 - 10% Energy regeneration and have access to your ultimate during each Umbra burst window when played correctly. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you plan to play Havoc Rover as a Quick Swap damage dealer completing 1 or 0 full basic attack sequences during Umbra we recommend 10 - 20% Energy Regeneration. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It should be noted in all playstyles of Havoc Rover energy regeneration is never undesirable as their Ultimate has a fairly short cooldown and is always an excellent on-demand nuke so gaining access to it faster is never a bad thing - just a lesser priority than damage-focused stats. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Pecok Flower",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Mysterious Code",
+			"number": 5
+		},
+		"skill": {
+			"name": "Unwarranted Feather",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Whisperin Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Whisperin Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Whisperin Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Whisperin Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Inert Metallic Drip",
+				"number": 25
+			},
+			{
+				"name": "Reactive Metallic Drip",
+				"number": 28
+			},
+			{
+				"name": "Polarized Metallic Drip",
+				"number": 55
+			},
+			{
+				"name": "Heterized Metallic Drip",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "DPS",
+	"tierTags": [
+		"Cleave"
+	],
+	"ratings": {
+		"tower": 10
+	},
+	"isNew": true,
+	"upcoming": null
+}

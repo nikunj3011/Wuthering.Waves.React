@@ -1,0 +1,638 @@
+{
+	"id": "15",
+	"img": "https://www.prydwen.gg/static/ad90d3bdfacb57e34e7f90367f3823b0/b26e2/yang_card.webp",
+	"name": "Yangyang",
+	"tag": "Aero",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(119,61,166,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 17th, 2024",
+	"createdAt": "2024-01-18T14:59:18.147Z",
+	"unitId": "4",
+	"devId": 1402,
+	"slug": "yangyang",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#080808",
+					"images": {
+						"fallback": {
+							"src": "/static/59a6fe9d76b04f11d376f7012784a0f8/e9a79/yang_icon.png",
+							"srcSet": "/static/59a6fe9d76b04f11d376f7012784a0f8/f31ef/yang_icon.png 40w,\n/static/59a6fe9d76b04f11d376f7012784a0f8/1f8a1/yang_icon.png 80w,\n/static/59a6fe9d76b04f11d376f7012784a0f8/e9a79/yang_icon.png 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": [
+							{
+								"srcSet": "/static/59a6fe9d76b04f11d376f7012784a0f8/e73fe/yang_icon.webp 40w,\n/static/59a6fe9d76b04f11d376f7012784a0f8/61ca6/yang_icon.webp 80w,\n/static/59a6fe9d76b04f11d376f7012784a0f8/60b4d/yang_icon.webp 160w",
+								"type": "image/webp",
+								"sizes": "(min-width: 160px) 160px, 100vw"
+							}
+						]
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#181818",
+					"images": {
+						"fallback": {
+							"src": "/static/ad90d3bdfacb57e34e7f90367f3823b0/b26e2/yang_card.webp",
+							"srcSet": "/static/ad90d3bdfacb57e34e7f90367f3823b0/84550/yang_card.webp 94w,\n/static/ad90d3bdfacb57e34e7f90367f3823b0/34f80/yang_card.webp 187w,\n/static/ad90d3bdfacb57e34e7f90367f3823b0/b26e2/yang_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "4",
+	"element": "Aero",
+	"weapon": "Sword",
+	"introduction": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang is an Outrider of the Midnight Rangers. Once sheltered, now a fighter. She soars with the wind to protect others, like a skylark in flight. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Intro Skill Cerulean Song increases Yangyang's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus by an additional \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack recovers an additional \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Resonance Energy for Yangyang when it hits a target, which can be triggered \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"time every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"seconds. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill DMG Bonus is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". The Wind Field's pulling effect on surrounding targets is enhanced, and the pulling range is expanded by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"33%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-Air Attack Feather Release's damage is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"95%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation Wind Spirals's damage is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"85%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After casting Mid-Air Attack Feather Release, the ATK of all team members is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Feather as Blade ",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangayang performs up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang consumes Stamina to lunge forward, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Zephyr Song\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use a Basic Attack after Heavy Attack or Dodge Counter to cast Heave Attack Monsoon to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang consumes Stamina to perform a Plunging Attack from mid-air, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to thrust forward, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "22.50%",
+					"Lv2": "24.34%",
+					"Lv3": "26.18%",
+					"Lv4": "28.77%",
+					"Lv5": "30.61%",
+					"Lv6": "32.73%",
+					"Lv7": "35.69%",
+					"Lv8": "38.64%",
+					"Lv9": "41.59%",
+					"Lv10": "44.73%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "30.00%",
+					"Lv2": "32.46%",
+					"Lv3": "34.92%",
+					"Lv4": "38.36%",
+					"Lv5": "40.82%",
+					"Lv6": "43.65%",
+					"Lv7": "47.58%",
+					"Lv8": "51.52%",
+					"Lv9": "55.46%",
+					"Lv10": "59.64%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "23.55%*2",
+					"Lv2": "25.48%*2",
+					"Lv3": "27.41%*2",
+					"Lv4": "30.11%*2",
+					"Lv5": "32.04%*2",
+					"Lv6": "34.26%*2",
+					"Lv7": "37.35%*2",
+					"Lv8": "40.44%*2",
+					"Lv9": "43.53%*2",
+					"Lv10": "46.81%*2"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "29.86%*2+39.81%",
+					"Lv2": "32.31%*2+43.08%",
+					"Lv3": "34.76%*2+46.34%",
+					"Lv4": "38.19%*2+50.91%",
+					"Lv5": "40.64%*2+54.18%",
+					"Lv6": "43.45%*2+57.93%",
+					"Lv7": "47.37%*2+63.16%",
+					"Lv8": "51.29%*2+68.38%",
+					"Lv9": "55.20%*2+73.60%",
+					"Lv10": "59.36%*2+79.15%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "10.00%*3",
+					"Lv2": "10.82%*3",
+					"Lv3": "11.64%*3",
+					"Lv4": "12.78%*3",
+					"Lv5": "13.60%*3",
+					"Lv6": "14.55%*3",
+					"Lv7": "15.86%*3",
+					"Lv8": "17.17%*3",
+					"Lv9": "18.48%*3",
+					"Lv10": "19.88%*3"
+				},
+				{
+					"Name": "Mid-Air Attack Damage",
+					"Lv1": "46.50%",
+					"Lv2": "50.31%",
+					"Lv3": "54.12%",
+					"Lv4": "59.46%",
+					"Lv5": "63.27%",
+					"Lv6": "67.66%",
+					"Lv7": "73.76%",
+					"Lv8": "79.86%",
+					"Lv9": "85.96%",
+					"Lv10": "92.44%"
+				},
+				{
+					"Name": "Zephyr Song Damage",
+					"Lv1": "53.62%",
+					"Lv2": "58.02%",
+					"Lv3": "62.41%",
+					"Lv4": "68.57%",
+					"Lv5": "72.97%",
+					"Lv6": "78.02%",
+					"Lv7": "85.06%",
+					"Lv8": "92.10%",
+					"Lv9": "99.13%",
+					"Lv10": "106.61%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "43.80%*2",
+					"Lv2": "47.39%*2",
+					"Lv3": "50.98%*2",
+					"Lv4": "56.01%*2",
+					"Lv5": "59.60%*2",
+					"Lv6": "63.73%*2",
+					"Lv7": "69.47%*2",
+					"Lv8": "75.22%*2",
+					"Lv9": "80.97%*2",
+					"Lv10": "87.07%*2"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Zephyr Domain",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang wields her sword to create a whirling vortex of winds that gathers nearby enemies to the center, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "17.37%*4+104.22%",
+					"Lv2": "18.79%*4+112.76%",
+					"Lv3": "20.21%*4+121.31%",
+					"Lv4": "22.21%*4+133.27%",
+					"Lv5": "23.63%*4+141.82%",
+					"Lv6": "25.27%*4+151.65%",
+					"Lv7": "27.55%*4+165.32%",
+					"Lv8": "29.83%*4+178.99%",
+					"Lv9": "32.11%*4+192.67%",
+					"Lv10": "34.53%*4+207.19%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				}
+			]
+		},
+		{
+			"name": "Wind Spirals",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang conjures a mighty Cyclone that gathers nearby enemies, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "23.43%*12+187.46%",
+					"Lv2": "25.35%*12+202.83%",
+					"Lv3": "27.27%*12+218.21%",
+					"Lv4": "29.96%*12+239.73%",
+					"Lv5": "31.88%*12+255.10%",
+					"Lv6": "34.09%*12+272.78%",
+					"Lv7": "37.17%*12+297.37%",
+					"Lv8": "40.24%*12+321.97%",
+					"Lv9": "43.32%*12+346.56%",
+					"Lv10": "46.58%*12+372.70%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "16",
+					"Lv2": "16",
+					"Lv3": "16",
+					"Lv4": "16",
+					"Lv5": "16",
+					"Lv6": "16",
+					"Lv7": "16",
+					"Lv8": "16",
+					"Lv9": "16",
+					"Lv10": "16"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "100",
+					"Lv2": "100",
+					"Lv3": "100",
+					"Lv4": "100",
+					"Lv5": "100",
+					"Lv6": "100",
+					"Lv7": "100",
+					"Lv8": "100",
+					"Lv9": "100",
+					"Lv10": "100"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Echoing Feathers",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Stormy Strike\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Yangyang has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Melodies, she can cast Stormy Strike after Heavy Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack: Feather Release\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Yangyang has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Melodies, casting Basic Attacks in mid-air will cause her to consume all Melodies, perform consecutive strikes, and dive from mid-air, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" As Yangyang lands, she sheathes her sword with an attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This attack is considered as Basic Attack.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Melody\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Melodies\\nYangyang obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Melody with every Basic Attack IV on hit. Yangyang obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Melody for every Zephyr Song on hit. Yangyang obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Melody for every Resonance Skill Zephyr Domain on hit. Yangyang obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Melody upon casting Intro Skill Cerulean Song.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Stormy Strike Damage",
+					"Lv1": "19.12%*2",
+					"Lv2": "20.69%*2",
+					"Lv3": "22.26%*2",
+					"Lv4": "24.45%*2",
+					"Lv5": "26.02%*2",
+					"Lv6": "27.82%*2",
+					"Lv7": "30.33%*2",
+					"Lv8": "32.84%*2",
+					"Lv9": "35.35%*2",
+					"Lv10": "38.02%*2"
+				},
+				{
+					"Name": "Feather Release Damage",
+					"Lv1": "10.93%*5+63.78%*2",
+					"Lv2": "11.83%*5+69.01%*2",
+					"Lv3": "12.72%*5+74.24%*2",
+					"Lv4": "13.98%*5+81.57%*2",
+					"Lv5": "14.88%*5+86.80%*2",
+					"Lv6": "15.91%*5+92.81%*2",
+					"Lv7": "17.34%*5+101.18%*2",
+					"Lv8": "18.78%*5+109.55%*2",
+					"Lv9": "20.21%*5+117.92%*2",
+					"Lv10": "21.73%*5+126.81%*2"
+				},
+				{
+					"Name": "Feather Release Con. Energy Regen",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Compassion",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Yangyang recovers \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"30 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Stamina after she casts a Mid-air Attack Feather Release.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Lazuline Mercy",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Yangyang's \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Aero DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Bonus is increased by\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" 8%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"after casting Intro Skill Cerulean Song.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Cerulean Song",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang sends the target into the air, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "40.00%*2",
+					"Lv2": "43.28%*2",
+					"Lv3": "46.56%*2",
+					"Lv4": "51.15%*2",
+					"Lv5": "54.43%*2",
+					"Lv6": "58.20%*2",
+					"Lv7": "63.45%*2",
+					"Lv8": "68.70%*2",
+					"Lv9": "73.94%*2",
+					"Lv10": "79.52%*2"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Whispering Breeze",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Recovers \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Resonance Energy per second in \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"for the next character (or other characters on a nearby team that activates an Outro Skill).\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang is a free 4-star Aero Sword wielder that can function as either a Hybrid or Support in endgame content. While she is capable of dealing some damage, it falls far below other Hybrids, making her much more suitable for a Support role. A\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"s a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Support character, she has a few things to offer - her Outro skill generates 20 Resonance Energy over 5 seconds for the next character, she also has the ability to inflict CC and gather monsters via her Ultimate and Resonance Skill\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\".\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Of course when played as a support she can further increase her support utility by utilizing Echo's and Sets with team buffing abilities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Forte Gauge can accumulate up to 3 charges, which can be generated by using her Resonance Skill, Intro Skill, Heavy Attack, or 4th Basic Attack - the first two being the best generators by far, followed by Heavy, then 4th Basic bringing up the rear. Once full, she can consume them to execute an enhanced Mid-Air attack that can be used through either Heavy Attack sequence or as standard Mid-Air attack. It is by far preferred to use it the second way as it is quicker and can be Swap-Canceled throughout its duration, which is highly recommended. This attack generates massive amounts of Concerto Energy, which is essential for her playstyle regardless of role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Resonance Skill conjures a small tornado in front of her for a short duration that deals slight damage and functions as small CC and enemy gathering ability (excluding Boss/Elite Monsters), while regenerating her Concerto Energy and filling her Forte Gauge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Ultimate similarly conjures a cyclone in front of her for a short duration that deals moderate damage and functions as a CC and enemy gathering ability (excluding Boss/Elite Monsters) while regenerating her Concerto Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Once mastered, she can finish her job on field using very little time to execute all she needs, however it does require you to be proficient at Swap-Canceling her Aerial Forte plunge. She features a rather quick Concerto Rotation, which allows other characters to spend more time on field while benefiting from her Outro Skill’s Resonance Energy generation effect. Her small CC and gathering abilities can also be useful sometimes.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She is fairly simple to play, but has moments of vulnerabilities throughout her combo that may cause inexperienced players some grief. To maximize her potential alongside keeping her safe, you will need to keep her Resonance Skill on CD whenever possible to reduce her reliance on execution of Basic & Heavy Attacks to generate Forte Gauge. Furthermore, as mentioned earlier, mastering the Swap-Cancel of Yangyang’s Aerial Forte plunge makes her much safer and effective to play in most teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While her preferred choice of set and Echo is none other than the popular combination of Bell-Borne Geochelone Echo & 5P Rejuvenating Glow, which allows her to grant a semi-permanent ATK% boost, temporary DMG% boost and protection from a set number of attacks. However, in order to activate the set effects, Yangyang must use the Originite: Type II weapon and execute her Ultimate Skill at least once every 30 seconds. In case another character is using the above set, she can make use of the 5P Moonlit Glow and Impermanence Heron Echo combo instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, she sees some usage in Tower of Adversary as a Support using either of the support sets, but more often with 5P healer set and healer weapon. She is utilized primarily where her Ultimate & Resonance Skills can disrupt enemies, and much less for bosses where she cannot. Her success is further increased in teams that allow her to Quick-Swap whenever her Resonance Skill is off CD and Swap-Cancel her Aerial Plunge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Requires reasonably low field time to execute a full Concerto combo\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outro provides the next character with resonance energy\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can CC and gather enemies slightly with her Ultimate and Resonance skill\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can use a healing weapon to effectively turn her into a Support which synergizes with a lot of the rest of her kit\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gains great utility and further supportive benefits with Sequences\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She's free!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Not having an amplification buff on Outro puts her in a tough spot against supports and hybrids that do\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Relies heavily on Forte Gauge to execute her fast Concerto rotation which can sometimes be awkward to gain a 3rd charge of quickly\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mediocre damage potential even when built with damage in mind\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In a weird spot between a Hybrid and Support while not being top tier at either of them\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Rebecca Yeo",
+		"kr": "Lee Yu-ri",
+		"jpn": "Yui Ishikawa",
+		"cn": "Chong Chong"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Aero DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Aero DMG"
+			},
+			{
+				"stat": "Energy Regen"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Moonlit Clouds",
+				"name2": "",
+				"value": "-",
+				"notes": "",
+				"main_echo": "Impermanenance Heron"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Emerald of Genesis",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Lunar Cutter",
+			"super": "1",
+			"notes": "",
+			"percent": "80.51%"
+		},
+		{
+			"weapon": "Commando of Conviction",
+			"super": "1",
+			"notes": "",
+			"percent": "80.32%"
+		},
+		{
+			"weapon": "Lumingloss",
+			"super": "1",
+			"notes": "",
+			"percent": "78.00%"
+		},
+		{
+			"weapon": "Sword#18",
+			"super": "1",
+			"notes": "",
+			"percent": "75.50%"
+		},
+		{
+			"weapon": "Sword of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "70.78%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK > Liberation DMG% > Basic DMG%",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "Aero DMG",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": null,
+	"synergies": null,
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang doesn't \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"need\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"any energy generation rate\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to have her ultimate available enough for most teams to make use of her concerto effect when they need it. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"But if you're playing Yangyang in teams that want to use her ultimate on cooldown or want to dedicate less field time to her perhaps only using her skill and Forte aerial plunge building some energy regeneation rate can assist with both of these. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Wintry Bell",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Roaring Rock Fist",
+			"number": 46
+		},
+		"skill": {
+			"name": "Unending Destruction",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "Crude Ring",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "Basic Ring",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "Improved Ring",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "Tailored Ring",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Inert Metallic Drip",
+				"number": 25
+			},
+			{
+				"name": "Reactive Metallic Drip",
+				"number": 28
+			},
+			{
+				"name": "Polarized Metallic Drip",
+				"number": 55
+			},
+			{
+				"name": "Heterized Metallic Drip",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "Support",
+	"tierTags": [
+		"Multirole",
+		"AoE"
+	],
+	"ratings": {
+		"tower": 7
+	},
+	"isNew": null,
+	"upcoming": null
+}

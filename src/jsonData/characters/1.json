@@ -1,0 +1,674 @@
+{
+	"id": "1",
+	"img": "https://www.prydwen.gg/static/28692b3a188f6b7b14a9d28aa90bf3c8/b26e2/aalto_card.webp",
+	"name": "Aalto",
+	"tag": "Aero",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(119,61,166,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 8th, 2024",
+	"createdAt": "2024-01-18T15:22:16.907Z",
+	"unitId": "11",
+	"devId": 1403,
+	"slug": "aalto",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#c8c8c8",
+					"images": {
+						"fallback": {
+							"src": "/static/5db7bb270598da81ce369a217b03c7a4/60b4d/aalto_icon.webp",
+							"srcSet": "/static/5db7bb270598da81ce369a217b03c7a4/e73fe/aalto_icon.webp 40w,\n/static/5db7bb270598da81ce369a217b03c7a4/61ca6/aalto_icon.webp 80w,\n/static/5db7bb270598da81ce369a217b03c7a4/60b4d/aalto_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#d8d8d8",
+					"images": {
+						"fallback": {
+							"src": "/static/28692b3a188f6b7b14a9d28aa90bf3c8/b26e2/aalto_card.webp",
+							"srcSet": "/static/28692b3a188f6b7b14a9d28aa90bf3c8/84550/aalto_card.webp 94w,\n/static/28692b3a188f6b7b14a9d28aa90bf3c8/34f80/aalto_card.webp 187w,\n/static/28692b3a188f6b7b14a9d28aa90bf3c8/b26e2/aalto_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "4",
+	"element": "Aero",
+	"weapon": "Pistols",
+	"introduction": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto is an enigmatic Information Broker, known for his elusive nature and welcoming smile. Rumor has it he'll provide any information at the right price. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The cooldown of Resonance Skill Shift Trick is reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\\"Mist Avatar\\\" inherits \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more HP from Aalto. When Aalto attacks targets taunted by the \\\"Mist Avatar(s)\\\", his ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Aalto's Basic Attack or Mid-Air Attack passes through the \\\"Gate of Quandary\\\", \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more bullets will be generated, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the DMG of Basic Attack or Mid-Air Attack. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The damage of Resonance Skill Mist Bullets is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"; Aalto receives \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" less damage in his Forte Circuit Mistcloak Dash state. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the Forte Circuit Mistcloak Dash state, Aalto's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Liberation Flower in the Mist now additionally increases Crit. Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When Aalto's Heavy Attack passes through the \\\"Gate of Quandary\\\", the damage dealt is additionally increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Half Truths",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto fires up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive shots, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic Attack 4 will spread the \\\"Mist\\\" forward, which lasts for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1.5s. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto enters the aiming state for a more powerful shot. The aimed shot fired after charging finishes deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto consumes Stamina to perform consecutive shots at the target in mid-air, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "16.00%",
+					"Lv2": "17.32%",
+					"Lv3": "18.63%",
+					"Lv4": "20.47%",
+					"Lv5": "21.78%",
+					"Lv6": "23.29%",
+					"Lv7": "25.39%",
+					"Lv8": "27.48%",
+					"Lv9": "29.58%",
+					"Lv10": "31.81%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "26.67%",
+					"Lv2": "28.86%",
+					"Lv3": "31.04%",
+					"Lv4": "34.11%",
+					"Lv5": "36.29%",
+					"Lv6": "38.81%",
+					"Lv7": "42.31%",
+					"Lv8": "45.80%",
+					"Lv9": "49.30%",
+					"Lv10": "53.02%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "24%*2",
+					"Lv2": "25.97%*2",
+					"Lv3": "27.94%*2",
+					"Lv4": "30.7%*2",
+					"Lv5": "32.66%*2",
+					"Lv6": "34.93%*2",
+					"Lv7": "38.08%*2",
+					"Lv8": "41.22%*2",
+					"Lv9": "44.37%*2",
+					"Lv10": "47.72%*2"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "25.34%*2",
+					"Lv2": "27.42%*2",
+					"Lv3": "29.49%*2",
+					"Lv4": "32.4%*2",
+					"Lv5": "34.48%*2",
+					"Lv6": "36.87%*2",
+					"Lv7": "40.19%*2",
+					"Lv8": "43.51%*2",
+					"Lv9": "46.84%*2",
+					"Lv10": "50.37%*2"
+				},
+				{
+					"Name": "Part 5 Damage",
+					"Lv1": "90.40%",
+					"Lv2": "97.82%",
+					"Lv3": "105.23%",
+					"Lv4": "115.61%",
+					"Lv5": "123.02%",
+					"Lv6": "131.55%",
+					"Lv7": "143.41%",
+					"Lv8": "155.27%",
+					"Lv9": "167.13%",
+					"Lv10": "179.73%"
+				},
+				{
+					"Name": "Mid-Air Attack",
+					"Lv1": "30%",
+					"Lv2": "32.46%",
+					"Lv3": "34.92%",
+					"Lv4": "38.37%",
+					"Lv5": "40.83%",
+					"Lv6": "43.66%",
+					"Lv7": "47.59%",
+					"Lv8": "51.53%",
+					"Lv9": "55.47%",
+					"Lv10": "59.65%"
+				},
+				{
+					"Name": "Aimed Shot Damage",
+					"Lv1": "18.00%",
+					"Lv2": "19.48%",
+					"Lv3": "20.96%",
+					"Lv4": "23.02%",
+					"Lv5": "24.50%",
+					"Lv6": "26.20%",
+					"Lv7": "28.56%",
+					"Lv8": "30.92%",
+					"Lv9": "33.28%",
+					"Lv10": "35.79%"
+				},
+				{
+					"Name": "Fully Charged Aimed Shot Damage",
+					"Lv1": "40.50%",
+					"Lv2": "43.83%",
+					"Lv3": "47.15%",
+					"Lv4": "51.80%",
+					"Lv5": "55.12%",
+					"Lv6": "58.94%",
+					"Lv7": "64.25%",
+					"Lv8": "69.56%",
+					"Lv9": "74.88%",
+					"Lv10": "80.52%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "107.70%",
+					"Lv2": "116.54%",
+					"Lv3": "125.37%",
+					"Lv4": "137.73%",
+					"Lv5": "146.56%",
+					"Lv6": "156.72%",
+					"Lv7": "170.85%",
+					"Lv8": "184.98%",
+					"Lv9": "199.11%",
+					"Lv10": "214.12%"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				}
+			]
+		},
+		{
+			"name": "Shift Trick",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mist Avatar\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casts \\\"Mist\\\" and \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \\\"Mist Avatar(s)\\\" to taunt the surrounding targets. The avatars inherit a portion of Aalto's HP and generate \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Mist Bullets around them, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mist Missiles\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Skill damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Mist Missile Damage",
+					"Lv1": "30.00%",
+					"Lv2": "32.46%",
+					"Lv3": "34.92%",
+					"Lv4": "38.37%",
+					"Lv5": "40.83%",
+					"Lv6": "43.66%",
+					"Lv7": "47.59%",
+					"Lv8": "51.53%",
+					"Lv9": "55.47%",
+					"Lv10": "59.65%"
+				},
+				{
+					"Name": "Mist Avatar HP",
+					"Lv1": "100%",
+					"Lv2": "100%",
+					"Lv3": "100%",
+					"Lv4": "100%",
+					"Lv5": "100%",
+					"Lv6": "100%",
+					"Lv7": "100%",
+					"Lv8": "100%",
+					"Lv9": "100%",
+					"Lv10": "100%"
+				},
+				{
+					"Name": "Mist Avatar Duration",
+					"Lv1": "8",
+					"Lv2": "8",
+					"Lv3": "8",
+					"Lv4": "8",
+					"Lv5": "8",
+					"Lv6": "8",
+					"Lv7": "8",
+					"Lv8": "8",
+					"Lv9": "8",
+					"Lv10": "8"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				}
+			]
+		},
+		{
+			"name": "Flower in the Mist",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Generate a \\\"Gate of Quandary\\\" in front of you dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When bullets pass through the \\\"Gate of Quandary\\\", ATK is increased. \\\"Gate of Quandary\\\" lasts for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "200.00%",
+					"Lv2": "216.40%",
+					"Lv3": "232.80%",
+					"Lv4": "255.76%",
+					"Lv5": "272.16%",
+					"Lv6": "291.02%",
+					"Lv7": "317.26%",
+					"Lv8": "343.50%",
+					"Lv9": "369.74%",
+					"Lv10": "397.62%"
+				},
+				{
+					"Name": "Gate Of Quandary ATK Increase",
+					"Lv1": "10.00%",
+					"Lv2": "10.00%",
+					"Lv3": "10.00%",
+					"Lv4": "10.00%",
+					"Lv5": "10.00%",
+					"Lv6": "10.00%",
+					"Lv7": "10.00%",
+					"Lv8": "10.00%",
+					"Lv9": "10.00%",
+					"Lv10": "10.00%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "150",
+					"Lv2": "150",
+					"Lv3": "150",
+					"Lv4": "150",
+					"Lv5": "150",
+					"Lv6": "150",
+					"Lv7": "150",
+					"Lv8": "150",
+					"Lv9": "150",
+					"Lv10": "150"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Misty Cover",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Aalto passes through \\\"Mist\\\" or \\\"Gate of Quandary\\\", he enters \\\"Mistcloak Dash\\\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mistcloak Dash\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Movement speed increased; During this period, \\\"Mist Drops\\\" are continuously consumed, and for each \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \\\"Mist Drop\\\" consumed, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Mist Missile is generated.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mist Drops\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Mist Drops. When Basic Attack or Mid-air Attack passes through \\\"Mist\\\" and hits the target, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Mist Drop\\\" is recovered. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Mist Missile Dmg",
+					"Lv1": "30.00%",
+					"Lv2": "32.46%",
+					"Lv3": "34.92%",
+					"Lv4": "38.37%",
+					"Lv5": "40.83%",
+					"Lv6": "43.66%",
+					"Lv7": "47.59%",
+					"Lv8": "51.53%",
+					"Lv9": "55.47%",
+					"Lv10": "59.65%"
+				},
+				{
+					"Name": "Movement Speed Increase",
+					"Lv1": "40.00%",
+					"Lv2": "40.00%",
+					"Lv3": "40.00%",
+					"Lv4": "40.00%",
+					"Lv5": "40.00%",
+					"Lv6": "40.00%",
+					"Lv7": "40.00%",
+					"Lv8": "40.00%",
+					"Lv9": "40.00%",
+					"Lv10": "40.00%"
+				}
+			]
+		},
+		{
+			"name": "Perfect Performance",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Aalto's Heavy Attack will always critically hit, triggered once every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"30 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"seconds.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Mid-game Break",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Aalto will continuously recover Stamina when he is in the Forte Circuit Miscloak Dash state.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Feint Shot",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto suddenly appears and performs rapid continuous shooting, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "33.34%*3",
+					"Lv2": "36.07%*3",
+					"Lv3": "38.8%*3",
+					"Lv4": "42.63%*3",
+					"Lv5": "45.36%*3",
+					"Lv6": "48.51%*3",
+					"Lv7": "52.88%*3",
+					"Lv8": "57.25%*3",
+					"Lv9": "61.63%*3",
+					"Lv10": "66.27%*3"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Dissolving Mist",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The next character (or other characters on a nearby team that activates an Outro Skill) gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"23%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Aero DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Deepen for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"14 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"seconds or until the Character is switched.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Aalto is a Hybrid character who has a unique playstyle\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - he creates misty gates that empower his attacks when he shoots through them and he can also jump through the gates to turn incorporeal, increasing his movement speed. This combined with the ability to create mist clones that taunt nearby enemies, make him a trickster that is hard to catch if you know what you're doing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The strongest part of his kit is definitely his \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Outro skill that provides the next ally with Aero DMG% Deepen\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", making him a good partner for Jiyan and any other future Aero Main DPS. Unfortunately, to balance out this powerful and generic outro as S0 he takes up quite a bit of field time to access his concerto while also having just “ok” damage output putting him a decent bit behind other hybrid characters in 1.0.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With just these points considered, it’s not enough for Aalto to be placed low performance-wise but what makes him rank him quite a bit lower at S0 than alternatives is his playstyle and immensely high ultimate energy cost (150). To play Aalto effectively, you must shoot through his Mist Gate and then after accumulating 6 charges, dash through it. But doing so, puts him in between the gate and the targets you were just shooting, forcing him to either reposition, create another gate with his skill (which has a long cooldown), or do a full basic string without gaining any charges. All of these options aren’t great and are needed to perform an optimal rotation making Aalto a little awkward to play at S0.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fortunately for Aalto, he gains a lot of power, utility, and most importantly quality of life from his Sequences which will help him later on in the lifetime of players' accounts. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"In conclusion, Aalto has some interesting utility and a good generic outro buff but falls short a bit at S0\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fantastic outro for buffing Aero damage dealers,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can execute a fast concerto rotation when cooldowns are managed effectively,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Becomes smoother to play with more damage with higher Sequences,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Spawns clones that taunt enemies improving endgame survivability,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cool Sunglasses.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Interesting Forte Ability but very hard to use properly in endgame,\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Inherent abilities that essentially do nothing,\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Underwhelming Resonance Liberation at S0 outside of concerto generation,\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Has no place in the meta currently due to being overshadowed in his main team composition.\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"voiceActors": {
+		"en": "James Day",
+		"kr": "Im Chaebin",
+		"jpn": "Iwasaki Ryota",
+		"cn": "Liang Dawei"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Aero DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Aero DMG"
+			},
+			{
+				"stat": "Energy Regen"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Moonlit Clouds",
+				"name2": "",
+				"value": "",
+				"notes": "Offers a 10% unconditional Energy Regen% boost taking some pressure off your gear when aiming at regen breakpoints. Also upon using Outro, grants the next character switching in a 22.5% ATK boost amplifying any of your main damage dealer's burst windows. This set sacrifices personal damage to help the team more.",
+				"main_echo": "Impermanenance Heron"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Static Mist",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Novaburst",
+			"super": "1",
+			"notes": "",
+			"percent": "80.48%"
+		},
+		{
+			"weapon": "Pistols#26",
+			"super": "1",
+			"notes": "",
+			"percent": "79.83%"
+		},
+		{
+			"weapon": "Undying Flame",
+			"super": "1",
+			"notes": "",
+			"percent": "78.59%"
+		},
+		{
+			"weapon": "Thunderbolt",
+			"super": "1",
+			"notes": ".",
+			"percent": "76.51%"
+		},
+		{
+			"weapon": "Pistols of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "71.04%"
+		},
+		{
+			"weapon": "Cadenza",
+			"super": "1",
+			"notes": "",
+			"percent": "-"
+		},
+		{
+			"weapon": "Pistols of Voyager",
+			"super": "5",
+			"notes": "",
+			"percent": "-"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "Aero DMG",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": null,
+	"synergies": [
+		{
+			"char": "",
+			"notes": ""
+		}
+	],
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AERO\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-40%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto's ultimate is essential for achieving his optimal Concerto rotation as such we recommend getting 30-40% Energy Regen so he'll have it every time you need it. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Wintry Bell",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Roaring Rock Fist",
+			"number": 46
+		},
+		"skill": {
+			"name": "Monument Bell",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Howler Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Howler Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Howler Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Howler Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Impure Phlogiston",
+				"number": 25
+			},
+			{
+				"name": "Extracted Phlogiston",
+				"number": 28
+			},
+			{
+				"name": "Refined Phlogiston",
+				"number": 55
+			},
+			{
+				"name": "Flawless Phlogiston",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "Hybrid",
+	"tierTags": [
+		"ST"
+	],
+	"ratings": {
+		"tower": 7
+	},
+	"isNew": false,
+	"upcoming": null
+}

@@ -1,0 +1,754 @@
+{
+	"id": "14",
+	"img": "https://www.prydwen.gg/static/dd5bdface07cef9b868fe8214b0988ed/b26e2/verina_card.webp",
+	"name": "Verina",
+	"tag": "Spectro",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 17th, 2024",
+	"createdAt": "2024-02-18T18:09:45.603Z",
+	"unitId": "12",
+	"devId": 1503,
+	"slug": "verina",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8e8d8",
+					"images": {
+						"fallback": {
+							"src": "/static/f080f057b3854b37385ff45cdd96e670/60b4d/verina_icon.webp",
+							"srcSet": "/static/f080f057b3854b37385ff45cdd96e670/e73fe/verina_icon.webp 40w,\n/static/f080f057b3854b37385ff45cdd96e670/61ca6/verina_icon.webp 80w,\n/static/f080f057b3854b37385ff45cdd96e670/60b4d/verina_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#b8b8a8",
+					"images": {
+						"fallback": {
+							"src": "/static/dd5bdface07cef9b868fe8214b0988ed/b26e2/verina_card.webp",
+							"srcSet": "/static/dd5bdface07cef9b868fe8214b0988ed/84550/verina_card.webp 94w,\n/static/dd5bdface07cef9b868fe8214b0988ed/34f80/verina_card.webp 187w,\n/static/dd5bdface07cef9b868fe8214b0988ed/b26e2/verina_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Spectro",
+	"weapon": "Rectifier",
+	"introduction": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With an extensive knowledge of botany, Verina is always solicitous, always smiling, and always wishing for every flower to be blessed with the miracle of life. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outro Skill Blossom grants the next character a continuous Healing effect, recovering HP equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Verina's ATK every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"seconds for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Botany Experiment additionally grants \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" [Photosynthetic Energy] and \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Concerto Energy. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Healing of Resonance Liberation's Photosynthesis Mark is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack Starflower Blooms, Mid-Air Attack Starflower Blooms, Resonance Liberation Arboreal Flourish and Outro Skill Blossom increases the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus of all team members by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Verina heals a team member with HP less than \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", her Healing is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Heavy Attack Starflower Blooms and Mid-Air Attack Starflower Blooms deal \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" more damage. They will trigger Coordinated Attack \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"time and heal all characters nearby. The DMG of this Coordinated Attack and the Healing are equal to those of the Resonance Liberation's Photosynthesis Mark. \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Cultivation",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina performs up to 5 consecutive attacks with vines, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina consumes Stamina to charge forward, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina consumes Stamina to perform up to 3 consecutive attacks in mid-air, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hold Basic Attack to consume Stamina and perform mid-air Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge, to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "19.04%",
+					"Lv2": "20.61%",
+					"Lv3": "22.17%",
+					"Lv4": "24.35%",
+					"Lv5": "25.91%",
+					"Lv6": "27.71%",
+					"Lv7": "30.21%",
+					"Lv8": "32.70%",
+					"Lv9": "35.20%",
+					"Lv10": "37.86%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "25.73%",
+					"Lv2": "27.84%",
+					"Lv3": "29.95%",
+					"Lv4": "32.91%",
+					"Lv5": "35.02%",
+					"Lv6": "37.44%",
+					"Lv7": "40.82%",
+					"Lv8": "44.19%",
+					"Lv9": "47.57%",
+					"Lv10": "51.16%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "12.87%*2",
+					"Lv2": "13.92%*2",
+					"Lv3": "14.98%*2",
+					"Lv4": "16.46%*2",
+					"Lv5": "17.51%*2",
+					"Lv6": "18.72%*2",
+					"Lv7": "20.41%*2",
+					"Lv8": "22.10%*2",
+					"Lv9": "23.79%*2",
+					"Lv10": "25.58%*2"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "33.86%",
+					"Lv2": "36.64%",
+					"Lv3": "39.42%",
+					"Lv4": "43.30%",
+					"Lv5": "46.08%",
+					"Lv6": "49.27%",
+					"Lv7": "53.72%",
+					"Lv8": "58.16%",
+					"Lv9": "62.60%",
+					"Lv10": "67.32%"
+				},
+				{
+					"Name": "Part 5 Damage",
+					"Lv1": "36.03%",
+					"Lv2": "38.98%",
+					"Lv3": "41.93%",
+					"Lv4": "46.07%",
+					"Lv5": "49.02%",
+					"Lv6": "52.42%",
+					"Lv7": "57.14%",
+					"Lv8": "61.87%",
+					"Lv9": "66.60%",
+					"Lv10": "71.62%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "50.00%",
+					"Lv2": "54.10%",
+					"Lv3": "58.20%",
+					"Lv4": "63.94%",
+					"Lv5": "68.04%",
+					"Lv6": "72.76%",
+					"Lv7": "79.32%",
+					"Lv8": "85.88%",
+					"Lv9": "92.44%",
+					"Lv10": "99.41%"
+				},
+				{
+					"Name": "Mid-Air Attack Part 1 Damage",
+					"Lv1": "28.35%",
+					"Lv2": "30.68%",
+					"Lv3": "33.00%",
+					"Lv4": "36.26%",
+					"Lv5": "38.58%",
+					"Lv6": "41.26%",
+					"Lv7": "44.98%",
+					"Lv8": "48.70%",
+					"Lv9": "52.42%",
+					"Lv10": "56.37%"
+				},
+				{
+					"Name": "Mid-Air Attack Part 2 Damage",
+					"Lv1": "27%",
+					"Lv2": "28.95%",
+					"Lv3": "31.14%",
+					"Lv4": "34.21%",
+					"Lv5": "36.41%",
+					"Lv6": "38.93%",
+					"Lv7": "42.44%",
+					"Lv8": "45.95%",
+					"Lv9": "49.46%",
+					"Lv10": "53.19%"
+				},
+				{
+					"Name": "Mid-Air Attack Part 3 Damage",
+					"Lv1": "12.79%*3",
+					"Lv2": "13.84%*3",
+					"Lv3": "14.88%*3",
+					"Lv4": "16.35%*3",
+					"Lv5": "17.40%*3",
+					"Lv6": "18.61%*3",
+					"Lv7": "20.28%*3",
+					"Lv8": "21.96%*3",
+					"Lv9": "23.64%*3",
+					"Lv10": "25.42%*3"
+				},
+				{
+					"Name": "Mid-Air Heavy Attack Damage",
+					"Lv1": "31.00%",
+					"Lv2": "33.55%",
+					"Lv3": "36.09%",
+					"Lv4": "39.65%",
+					"Lv5": "42.19%",
+					"Lv6": "45.11%",
+					"Lv7": "49.18%",
+					"Lv8": "53.25%",
+					"Lv9": "57.31%",
+					"Lv10": "61.64%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "65.00%",
+					"Lv2": "70.33%",
+					"Lv3": "75.66%",
+					"Lv4": "83.13%",
+					"Lv5": "88.46%",
+					"Lv6": "94.59%",
+					"Lv7": "103.11%",
+					"Lv8": "111.64%",
+					"Lv9": "120.17%",
+					"Lv10": "129.23%"
+				},
+				{
+					"Name": "Heavy Attack Stamina Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Cost",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				},
+				{
+					"Name": "Mid-Air Heavy Attack Stamina Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Botany Experiment",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina converges an energy field in front to grow foliage, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" within the range.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "18.00%*3+36.00%",
+					"Lv2": "19.48%*3+38.96%",
+					"Lv3": "20.96%*3+41.91%",
+					"Lv4": "23.02%*3+46.04%",
+					"Lv5": "24.50%*3+48.99%",
+					"Lv6": "26.20%*3+52.39%",
+					"Lv7": "28.56%*3+57.11%",
+					"Lv8": "30.92%*3+61.83%",
+					"Lv9": "33.28%*3+66.56%",
+					"Lv10": "35.79%*3+71.58%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "12",
+					"Lv2": "12",
+					"Lv3": "12",
+					"Lv4": "12",
+					"Lv5": "12",
+					"Lv6": "12",
+					"Lv7": "12",
+					"Lv8": "12",
+					"Lv9": "12",
+					"Lv10": "12"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Arboreal Flourish",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina nourishes nearby foliage at rapid speed, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" while restoring HP to all team members nearby. A Photosynthesis Mark is applied to the target on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Photosynthesis Mark\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Whenever a team member nearby performs an attack on targets with a Photosynthesis Mark, Verina performs a Coordinated Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" while restoring HP to the party members dealing damage, triggered once per second.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "100.00%",
+					"Lv2": "108.20%",
+					"Lv3": "116.40%",
+					"Lv4": "127.88%",
+					"Lv5": "136.08%",
+					"Lv6": "145.51%",
+					"Lv7": "158.63%",
+					"Lv8": "171.75%",
+					"Lv9": "184.87%",
+					"Lv10": "198.81%"
+				},
+				{
+					"Name": "Arboreal Flourish Healing",
+					"Lv1": "500+11.33%",
+					"Lv2": "600+13.03%",
+					"Lv3": "700+14.17%",
+					"Lv4": "800+15.87%",
+					"Lv5": "825+17.00%",
+					"Lv6": "890+18.13%",
+					"Lv7": "900+19.27%",
+					"Lv8": "915+20.40%",
+					"Lv9": "930+21.53%",
+					"Lv10": "950+23.80%"
+				},
+				{
+					"Name": "Coordinated Attack Damage",
+					"Lv1": "5.00%",
+					"Lv2": "5.41%",
+					"Lv3": "5.82%",
+					"Lv4": "6.40%",
+					"Lv5": "6.81%",
+					"Lv6": "7.28%",
+					"Lv7": "7.94%",
+					"Lv8": "8.59%",
+					"Lv9": "9.25%",
+					"Lv10": "9.95%"
+				},
+				{
+					"Name": "Coordinated Attack Healing",
+					"Lv1": "225+5.10%",
+					"Lv2": "270+5.87%",
+					"Lv3": "315+6.38%",
+					"Lv4": "360+7.14%",
+					"Lv5": "372+7.65%",
+					"Lv6": "401+8.16%",
+					"Lv7": "405+8.67%",
+					"Lv8": "412+9.18%",
+					"Lv9": "419+9.69%",
+					"Lv10": "428+10.71%"
+				},
+				{
+					"Name": "Photosynthesis Mark Duration",
+					"Lv1": "12",
+					"Lv2": "12",
+					"Lv3": "12",
+					"Lv4": "12",
+					"Lv5": "12",
+					"Lv6": "12",
+					"Lv7": "12",
+					"Lv8": "12",
+					"Lv9": "12",
+					"Lv10": "12"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "175",
+					"Lv2": "175",
+					"Lv3": "175",
+					"Lv4": "175",
+					"Lv5": "175",
+					"Lv6": "175",
+					"Lv7": "175",
+					"Lv8": "175",
+					"Lv9": "175",
+					"Lv10": "175"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Starflower Blooms",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Starflower Blooms\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Heavy Attack, if Verina carries \\\"Photosynthesis Energy\\\", Verina consumes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of \\\"Photosynthesis Energy\\\" to recover Concerto Energy and restore HP for all party members nearby;\\nHeavy Attack: Starflower Blooms deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Heavy Attack damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack: Starflower Blooms\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Mid-air Attack, if Verina carries \\\"Photosynthesis Energy\\\", Verina consumes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stack of \\\"Photosynthesis Energy\\\" to recover Concerto Energy and restore HP for all party members nearby;\\nMid-air Attack: Starflower Blooms deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Basic Attack damage. Verina can cast Mid-air Attack: Starflower Blooms by using Basic Attack after casting Heavy Attack: Starflower Blooms.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Photosynthesis Energy\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Photosynthesis Energy\\\".\\nVerina obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of \\\"Photosynthesis Energy\\\" for every Basic Attack V on hit; Verina obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of \\\"Photosynthesis Energy\\\" for every Resonance Skill Botany Experiment on hit; Verina obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of \\\"Photosynthesis Energy\\\" for every Intro Skill Verdant Growth on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Heavy Attack: Starflower Blooms Damage",
+					"Lv1": "32.67%+49.00%",
+					"Lv2": "35.35%+53.02%",
+					"Lv3": "38.03%+57.04%",
+					"Lv4": "41.78%+62.67%",
+					"Lv5": "44.46%+66.68%",
+					"Lv6": "47.54%+71.30%",
+					"Lv7": "51.82%+77.73%",
+					"Lv8": "56.11%+84.16%",
+					"Lv9": "60.40%+90.59%",
+					"Lv10": "64.95%+97.42%"
+				},
+				{
+					"Name": "Mid-Air Attack: Starflower Bloom Part 1 Damage",
+					"Lv1": "34.02%",
+					"Lv2": "36.81%",
+					"Lv3": "39.60%",
+					"Lv4": "43.51%",
+					"Lv5": "46.30%",
+					"Lv6": "49.51%",
+					"Lv7": "53.97%",
+					"Lv8": "58.43%",
+					"Lv9": "62.90%",
+					"Lv10": "67.64%"
+				},
+				{
+					"Name": "Mid-Air Attack: Starflower Bloom Part 2 Damage",
+					"Lv1": "32.10%",
+					"Lv2": "34.74%",
+					"Lv3": "37.37%",
+					"Lv4": "41.05%",
+					"Lv5": "43.69%",
+					"Lv6": "46.71%",
+					"Lv7": "50.93%",
+					"Lv8": "55.14%",
+					"Lv9": "59.35%",
+					"Lv10": "63.82%"
+				},
+				{
+					"Name": "Mid-Air Attack: Starflower Bloom Part 3 Damage",
+					"Lv1": "15.34%*3",
+					"Lv2": "16.60%*3",
+					"Lv3": "17.86%*3",
+					"Lv4": "19.62%*3",
+					"Lv5": "20.88%*3",
+					"Lv6": "22.33%*3",
+					"Lv7": "24.34%*3",
+					"Lv8": "26.35%*3",
+					"Lv9": "28.36%*3",
+					"Lv10": "30.50%*3"
+				},
+				{
+					"Name": "Starflower Blooms Healing",
+					"Lv1": "625+14.17%",
+					"Lv2": "750+16.29%",
+					"Lv3": "875+17.71%",
+					"Lv4": "1000+19.83%",
+					"Lv5": "1032+21.25%",
+					"Lv6": "1113+22.67%",
+					"Lv7": "1125+24.08%",
+					"Lv8": "1144+25.50%",
+					"Lv9": "1163+26.92%",
+					"Lv10": "1188+29.75%"
+				},
+				{
+					"Name": "Photosynthesis Energy\" Con. Energy Regen",
+					"Lv1": "12",
+					"Lv2": "12",
+					"Lv3": "12",
+					"Lv4": "12",
+					"Lv5": "12",
+					"Lv6": "12",
+					"Lv7": "12",
+					"Lv8": "12",
+					"Lv9": "12",
+					"Lv10": "12"
+				}
+			]
+		},
+		{
+			"name": "Grace of Life",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Verina protects a party member from fatal damage and grants a shield with strength equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"120%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Verina's ATK, lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". This can be triggered once every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"minutes.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Gift of Nature",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Verina casts Heavy Attack Starflower Blooms, Mid-air Attack Starflower Blooms, Resonance Liberation Arboreal Flourish or Outro Skill Blossom, ATK for all party members is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Verdant Growth",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina attacks the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "50.00%",
+					"Lv2": "54.10%",
+					"Lv3": "58.20%",
+					"Lv4": "63.94%",
+					"Lv5": "68.04%",
+					"Lv6": "72.76%",
+					"Lv7": "79.32%",
+					"Lv8": "85.88%",
+					"Lv9": "92.44%",
+					"Lv10": "99.41%"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Blossom",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Verina recovers HP to The next character (or other characters on a nearby team that activates an Outro Skill) equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"19%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of her ATK per second for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"6s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". All Characters on nearby teams gain \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" all-Type DMG Deepen for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"30s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina is a 5-star Spectro Rectifier wielder Support that brings a wide array of buffs and healing utilities for her teammates, making her an indispensable member regardless of your team composition. Contrary to other supports, Verina’s buffs are applied to all of her teammates simultaneously. On top of this, they’re not only easy to trigger, but can also maintain their uptime almost indefinitely. She also has an impressive cheat death mechanic with her Inherent Skill - Grace of Life which can save you in a pinch.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Forte Gauge relies on charge mechanics, allowing her to accumulate up to 4 Photosynthesis Energy charges. These are gained by hitting an enemy with either the 5th part of her Basic Attack, her Intro skill or her Resonance skill. She can then expend these charges to enhance her Mid-Air Attacks or Heavy Attacks, allowing them to heal all allies for a considerable amount while also generating significant amounts of Concerto Energy, which is essential to maximize her supportive capabilities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Resonance Skill, which deals a mediocre amount of Spectro damage in a range, generates both 30 Concerto Energy and a considerable amount of Resonance Energy. Plus as an added bonus, utilising her Resonance Skill is one of the two easiest and fastest methods for her to generate charges for her Forte Gauge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Similar to her Resonance Skill, her Ultimate’s damage is nothing to write home about, however it does heal all her allies whilst marking the enemies hit by it with Photosynthesis Mark for 12 seconds. This allows allies attacking marked enemies to trigger an additional attack by Verina for slight damage as well as some healing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina requires minimal time on the field; only enough to conduct her heals, maintain uptime of her buffs and generate the required Concerto Energy for her outro. Despite that, she features not only the best healing capabilities, but also access to a wide array of buffs unmatched by other characters. Combined with her extreme easy to play and master skill set, which only requires managing her Resonance Skill cooldown and Forte Gauge charges, Verina can make combat incredibly forgiving for her teammates, allowing them to take hits without any major concern.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In addition to her healing capabilities, Verina brings unmatched 15% Generic Damage amplification on her Outro Skill, which affects her entire team and lingers even after switching characters - an extremely rare trait among various Outro amplifications present in the game. If all that was not enough, she grants a whopping 20% ATK boost to all characters on the team for 20 seconds whenever she heals! Adding Echo & sets to the mix, Verina prefers a combination of Bell-Borne Geochelone Echo & 5P Rejuvenating Glow set which allows her to grant a semi-permanent ATK% boost, temporary DMG% boost and protection from a set number of attacks. In the instance another character is using the above set, Verina can make use of the 5P Moonlit Glow and Impermanence Heron Echo combo instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, Verina is currently one of the most powerful characters in endgame owing to her unmatched Sustain and Support capabilities. This plus her ease of play and low field time requirement makes her stand head and shoulders above her peers in the same role, cementing her place as best Sustain and Support in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong team-wide heals and buffs\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"One of the best Outros in the game, granting every unit 15% DMG Amplification\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can effortlessly enable the 5P Healer set bonus without sacrificing her weapon choice\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Takes very little field time given her immense benefits\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Easy to use, understand, and play\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cheat death mechanic\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Is the best Support in every single team in the game currently\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Intro causes her to enter in the air, delaying the use of her Echo, Ultimate and Resonance Skill, sometimes limiting her options\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"voiceActors": {
+		"en": "Heather Nicol",
+		"kr": "Kang Sae Bom",
+		"jpn": " Sasahara Yu",
+		"cn": "Zhao Shuang"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "Healing Bonus"
+			},
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Energy Regen"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Energy Regen"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Rejuvenating Glow",
+				"name2": "",
+				"value": "",
+				"notes": "Offers a 10% unconditional Healing% boost and most importantly a 15% ATK% boost for the entire team, lasting 30 seconds whenever you heal yourself or any of your allies. This bonus can be triggered by the character abilities and weapon effects, is easy to keep active 100% of the time, and is a big help for all party members.",
+				"main_echo": "Bell-Borne Geochelone"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Variation",
+			"super": "1",
+			"notes": "",
+			"percent": ""
+		},
+		{
+			"weapon": "Rectifier of Voyager",
+			"super": "5",
+			"notes": "",
+			"percent": ""
+		},
+		{
+			"weapon": "Rectifier#25",
+			"super": "1",
+			"notes": "",
+			"percent": ""
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) > ATK% > Flat ATK",
+		"substats_comments": "",
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "ATK%",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "Healing Bonus",
+			"value": 12
+		}
+	},
+	"videos": null,
+	"synergies": null,
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70-90%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina generates a reasonable amount of resonance energy of her own but has an ultimate that costs a staggering 175 energy meaning she relies on the team-wide 50% energy share and a large amount of ER to gain her ultimate in a timely manner. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina's Ultimate is important for Concerto generation and also has excellent team healing benefits making it worth building around. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To ensure the ultimate is available in a timely manner we recommend as much ER as possible on Verina with \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70-90%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" being a comfortable amount. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Belle Poppy",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Elegy Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Monument Bell",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Howler Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Howler Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Howler Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Howler Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Lento Helix",
+				"number": 25
+			},
+			{
+				"name": "Adagio Helix",
+				"number": 28
+			},
+			{
+				"name": "Andante Helix",
+				"number": 55
+			},
+			{
+				"name": "Presto Helix",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "Support",
+	"tierTags": [
+		"Heal",
+		"Coord"
+	],
+	"ratings": {
+		"tower": 11
+	},
+	"isNew": false,
+	"upcoming": null
+}

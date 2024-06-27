@@ -1,0 +1,749 @@
+{
+	"id": "12",
+	"img": "https://www.prydwen.gg/static/f67966dd31af657ac8612d36006d5874/b26e2/senhua_card.webp",
+	"name": "Sanhua",
+	"tag": "Glacio",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(119,61,166,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 17th, 2024",
+	"createdAt": "2024-01-18T15:13:12.538Z",
+	"unitId": "8",
+	"devId": 1102,
+	"slug": "sanhua",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#080808",
+					"images": {
+						"fallback": {
+							"src": "/static/921950fb2e5677d56ba130d778207a80/60b4d/senhua_icon.webp",
+							"srcSet": "/static/921950fb2e5677d56ba130d778207a80/e73fe/senhua_icon.webp 40w,\n/static/921950fb2e5677d56ba130d778207a80/61ca6/senhua_icon.webp 80w,\n/static/921950fb2e5677d56ba130d778207a80/60b4d/senhua_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#787878",
+					"images": {
+						"fallback": {
+							"src": "/static/f67966dd31af657ac8612d36006d5874/b26e2/senhua_card.webp",
+							"srcSet": "/static/f67966dd31af657ac8612d36006d5874/84550/senhua_card.webp 94w,\n/static/f67966dd31af657ac8612d36006d5874/34f80/senhua_card.webp 187w,\n/static/f67966dd31af657ac8612d36006d5874/b26e2/senhua_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "4",
+	"element": "Glacio",
+	"weapon": "Sword",
+	"introduction": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The bodyguard of Jinzhou’s Magistrate, known for having an icy personality. Once regarded as the Asura of Calamity, Sanhua is now a taciturn guardian. She has learned to maintain inner calmness amidst the chaotic frequencies, and the things that once frightened her now fuel her determination. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack V increases Sanhua's Crit. Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Stamina cost of Heavy Attack Detonate is reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When Sanhua casts Resonance Skill Eternal Frost, her Anti-interruption is enhanced for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Sanhua's damage dealt is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"35%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" against targets with HP below\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" 70%. \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation Glacial Gaze restores \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Resonance Energy. DMG of the next Heavy Attack Detonate within \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Crit. DMG of Forte Circuit Ice Burst is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Ice Creations (Ice Thorn, Ice Prism, and Glacier) will explode even if they are not detonated. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After an Ice Prism or a Glacier is detonated, all team members' ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" times. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Frigid Light",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua performs up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua consumes Stamina to launch attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua consumes Stamina to perform a Mid-Air Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "24.50%",
+					"Lv2": "26.51%",
+					"Lv3": "28.52%",
+					"Lv4": "31.34%",
+					"Lv5": "33.34%",
+					"Lv6": "35.65%",
+					"Lv7": "38.87%",
+					"Lv8": "42.08%",
+					"Lv9": "45.30%",
+					"Lv10": "48.71%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "37.10%",
+					"Lv2": "40.15%",
+					"Lv3": "43.19%",
+					"Lv4": "47.45%",
+					"Lv5": "50.49%",
+					"Lv6": "53.99%",
+					"Lv7": "58.86%",
+					"Lv8": "63.72%",
+					"Lv9": "68.59%",
+					"Lv10": "73.76%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "10.85%*4",
+					"Lv2": "11.74%*4",
+					"Lv3": "12.63%*4",
+					"Lv4": "13.88%*4",
+					"Lv5": "14.77%*4",
+					"Lv6": "15.79%*4",
+					"Lv7": "17.22%*4",
+					"Lv8": "18.64%*4",
+					"Lv9": "20.06%*4",
+					"Lv10": "21.58%*4"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "19.95%*2",
+					"Lv2": "21.59%*2",
+					"Lv3": "23.23%*2",
+					"Lv4": "25.52%*2",
+					"Lv5": "27.15%*2",
+					"Lv6": "29.03%*2",
+					"Lv7": "31.65%*2",
+					"Lv8": "34.27%*2",
+					"Lv9": "36.89%*2",
+					"Lv10": "39.67%*2"
+				},
+				{
+					"Name": "Part 5 Damage",
+					"Lv1": "117.60%",
+					"Lv2": "127.25%",
+					"Lv3": "136.89%",
+					"Lv4": "150.39%",
+					"Lv5": "160.04%",
+					"Lv6": "171.12%",
+					"Lv7": "186.55%",
+					"Lv8": "201.98%",
+					"Lv9": "217.41%",
+					"Lv10": "233.81%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "11.20%*5",
+					"Lv2": "12.12%*5",
+					"Lv3": "13.04%*5",
+					"Lv4": "14.33%*5",
+					"Lv5": "15.25%*5",
+					"Lv6": "16.30%*5",
+					"Lv7": "17.77%*5",
+					"Lv8": "19.24%*5",
+					"Lv9": "20.71%*5",
+					"Lv10": "22.27%*5"
+				},
+				{
+					"Name": "Mid-air Attack Damage",
+					"Lv1": "43.40%",
+					"Lv2": "46.96%",
+					"Lv3": "50.52%",
+					"Lv4": "55.50%",
+					"Lv5": "59.06%",
+					"Lv6": "63.16%",
+					"Lv7": "68.85%",
+					"Lv8": "74.54%",
+					"Lv9": "80.24%",
+					"Lv10": "86.29%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "84.00%",
+					"Lv2": "90.89%",
+					"Lv3": "97.78%",
+					"Lv4": "107.42%",
+					"Lv5": "114.31%",
+					"Lv6": "122.23%",
+					"Lv7": "133.25%",
+					"Lv8": "144.27%",
+					"Lv9": "155.30%",
+					"Lv10": "167.01%"
+				},
+				{
+					"Name": "Heavy Attack Stamina Cost",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-air Attack Stamina Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Eternal Frost",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua sends an air blade to create \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \\\"Ice Prism\\\" cross the ground, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "181.00%",
+					"Lv2": "195.85%",
+					"Lv3": "210.69%",
+					"Lv4": "231.47%",
+					"Lv5": "246.31%",
+					"Lv6": "263.38%",
+					"Lv7": "287.13%",
+					"Lv8": "310.87%",
+					"Lv9": "334.62%",
+					"Lv10": "359.85%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				}
+			]
+		},
+		{
+			"name": "Glacial Gaze",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and creates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \\\"Glacier\\\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "407.16%",
+					"Lv2": "440.55%",
+					"Lv3": "473.94%",
+					"Lv4": "520.68%",
+					"Lv5": "554.07%",
+					"Lv6": "592.46%",
+					"Lv7": "645.88%",
+					"Lv8": "699.30%",
+					"Lv9": "752.72%",
+					"Lv10": "809.48%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "16",
+					"Lv2": "16",
+					"Lv3": "16",
+					"Lv4": "16",
+					"Lv5": "16",
+					"Lv6": "16",
+					"Lv7": "16",
+					"Lv8": "16",
+					"Lv9": "16",
+					"Lv10": "16"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "100",
+					"Lv2": "100",
+					"Lv3": "100",
+					"Lv4": "100",
+					"Lv5": "100",
+					"Lv6": "100",
+					"Lv7": "100",
+					"Lv8": "100",
+					"Lv9": "100",
+					"Lv10": "100"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Clarity of Mind ",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Detonate\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When holding Basic Attack, your cursor can move. If Basic Attack is released when cursor falls in the \\\"Frostbite\\\" area, Sanhua will cast a Heavy Attack Detonate to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Heavy Attack damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ice Burst\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua’s Heavy Attack Detonate detonates all \\\"Ice Thorns\\\", \\\"Ice Prisms\\\" and \\\"Glaciers\\\" within her attack range, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". DMG done by Ice Burst is considered as Resonance Skill damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Frostbite Area\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The \\\"Frostbite\\\" area expands with every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stack of \\\"Clarity\\\". \\\"Clarity\\\" stacks up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"times.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of \\\"Clarity\\\" upon performing Basic Attack V.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of \\\"Clarity\\\" upon casting Intro Skill Freezing Thorns.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of \\\"Clarity\\\" upon casting Resonance Skill Eternal Frost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack(s) of \\\"Clarity\\\" upon casting Resonance Liberation Glacial Gaze.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Upon casting Heavy Attack Detonate, all \\\"Clarity\\\" is removed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Burst Damage",
+					"Lv1": "93.70%*2",
+					"Lv2": "101.39%*2",
+					"Lv3": "109.07%*2",
+					"Lv4": "119.83%*2",
+					"Lv5": "127.51%*2",
+					"Lv6": "136.35%*2",
+					"Lv7": "148.64%*2",
+					"Lv8": "160.93%*2",
+					"Lv9": "173.23%*2",
+					"Lv10": "186.29%*2"
+				},
+				{
+					"Name": "Glacier Burst Damage",
+					"Lv1": "70.00%",
+					"Lv2": "75.74%",
+					"Lv3": "81.48%",
+					"Lv4": "89.52%",
+					"Lv5": "95.26%",
+					"Lv6": "101.86%",
+					"Lv7": "111.05%",
+					"Lv8": "120.23%",
+					"Lv9": "129.41%",
+					"Lv10": "139.17%"
+				},
+				{
+					"Name": "Ice Prism Burst Damage",
+					"Lv1": "40.00%",
+					"Lv2": "43.28%",
+					"Lv3": "46.56%",
+					"Lv4": "51.16%",
+					"Lv5": "54.44%",
+					"Lv6": "58.21%",
+					"Lv7": "63.46%",
+					"Lv8": "68.70%",
+					"Lv9": "73.95%",
+					"Lv10": "79.53%"
+				},
+				{
+					"Name": "Ice Thorn Burst Damage",
+					"Lv1": "30.00%",
+					"Lv2": "32.46%",
+					"Lv3": "34.92%",
+					"Lv4": "38.37%",
+					"Lv5": "40.83%",
+					"Lv6": "43.66%",
+					"Lv7": "47.59%",
+					"Lv8": "51.53%",
+					"Lv9": "55.47%",
+					"Lv10": "59.65%"
+				},
+				{
+					"Name": "Clarity Duration",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				},
+				{
+					"Name": "Glacier Duration",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				},
+				{
+					"Name": "Ice Prism Duration",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				},
+				{
+					"Name": "Ice Thorn Duration",
+					"Lv1": "8",
+					"Lv2": "8",
+					"Lv3": "8",
+					"Lv4": "8",
+					"Lv5": "8",
+					"Lv6": "8",
+					"Lv7": "8",
+					"Lv8": "8",
+					"Lv9": "8",
+					"Lv10": "8"
+				},
+				{
+					"Name": "Burst Con. Energy Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				},
+				{
+					"Name": "Glacier Burst Con. Damage Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				},
+				{
+					"Name": "Ice Prism Burst Con. Damage Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				}
+			]
+		},
+		{
+			"name": "Condensation",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Damage dealt by Sanhua's Resonance Skill increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"after casting her Intro Skill.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Avalanche",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Damage dealt by Sanhua's Forte Circuit Ice Burst is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"after casting Basic Attack V.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Freezing Thorns",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua swings her blade downward and creates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \\\"Ice Thorn\\\", dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "70.00%",
+					"Lv2": "75.74%",
+					"Lv3": "81.48%",
+					"Lv4": "89.52%",
+					"Lv5": "95.26%",
+					"Lv6": "101.86%",
+					"Lv7": "111.05%",
+					"Lv8": "120.23%",
+					"Lv9": "129.41%",
+					"Lv10": "139.17%"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Silversnow",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The next character (or other characters on a nearby team that activates an Outro Skill) gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"38%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Basic Attack DMG Deepen for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"14s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", or until the character is switched off field.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua is a free 4-star Glacio Sword wielding Hybrid that deals great damage with absurdly low field time requirements. She also has great Support capabilities, mainly owing to her Outro’s whopping 38% Basic Attacks amplification and her easy accessibility to one of the best supportive echo sets in the game. The combination of these factors makes Sanhua one of the strongest and popular hybrids in the game with even more room to scale with sequences. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua’s Forte allows her to charge and enhance her Heavy Attacks via a minigame. While she is charging, an indicator will pulse continuously on her Gauge; if released on blue area they will turn into detonating attacks, exploding all ice glaciers/prisms/thorns on field causing Glacio Damage and generating a large amount of Concerto Energy and Resonance Energy. Normally the blue area on the Gauge is very small and difficult to hit, however using either her Basic Attack 5, Intro Skill, Resonance Skill or Ultimate skill will cause the area to expand significantly for the next attack.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Ultimate Skill deals Glacio damage in front of her, generating a good chunk of Concerto Energy and spawning a large glacier. This can be detonated by utilizing her Forte Gauge for even more Concerto Energy generation along with a good amount of Resonance Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Resonance Skill spawns a small Ice Prism in front of her that can co-exist with her Ultimate Skill, allowing you to stack both to detonate at once with her Forte Gauge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanhua requires minimal field time thanks to having the fastest Concerto rotation in the game, but is a bit tricky to execute perfectly. She deals good burst damage due to the quick rotation as well as providing an excellent Outro buff to allies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In regards to difficulty of playstyle, her insanely fast rotation can sometimes cause a challenge when attempting to input all the correct abilities on time. It is further complicated by requiring correct timing in her Forte Gauge mini game in order to detonate her ice crystals to complete her rotation.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While being able to deal good damage as far as Hybrid characters go, her true calling is as a Support thanks to her Outro Skill. To perform her best, she prefers the combination of 5P Moonlit Clouds and Impermanence Heron Echo. This stacks an additional 12% DMG and 22% ATK on top of her already potent 38% Basic Attack amplification from her Outro, generating a massive buff stack for the character switching in.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, Sanhua, like Mortefi, is currently one of the top Hybrid characters in endgame, especially for characters/teams centered around Basic Attack burst rotation. Even outside of those types of teams, she sees use thanks to her incredibly fast Concerto Rotation and synergy with the 5P Moonlit Clouds and Impermanence Heron Echo.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"One of if not the fastest Concerto rotations in the game\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great burst damage when using her Ultimate, Intro, and skill in combination with a Forte Burst\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gains an absurd amount of Concerto when detonating the ice spawned from her abilities\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Low energy cost of 100 means she can consistently pull off her super-fast burst combo\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She’s free so if you get another copy you’ll start getting Sequences, making her stronger\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Multiple viable rotations, all powerful enough you can use the one fits best\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Combo is so fast, inputting everything correctly and in time can sometimes be overwhelming\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Requires you to successfully time her Forte mini game in order to complete her rotation each time\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"voiceActors": {
+		"en": "Jennifer Armour",
+		"kr": "Yu Yeong",
+		"jpn": "Risae Matsuda",
+		"cn": "Song Yuanyuan"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Glacio DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Glacio DMG"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Moonlit Clouds",
+				"name2": "",
+				"value": "",
+				"notes": "",
+				"main_echo": "Impermanenance Heron"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Emerald of Genesis",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Commando of Conviction",
+			"super": "1",
+			"notes": "",
+			"percent": "82.59%"
+		},
+		{
+			"weapon": "Lunar Cutter",
+			"super": "1",
+			"notes": "",
+			"percent": "82.56%"
+		},
+		{
+			"weapon": "Lumingloss",
+			"super": "1",
+			"notes": "",
+			"percent": "80.37%"
+		},
+		{
+			"weapon": "Sword#18",
+			"super": "1",
+			"notes": "",
+			"percent": "77.80%"
+		},
+		{
+			"weapon": "Sword of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "72.95%"
+		},
+		{
+			"weapon": "Scale: Slasher",
+			"super": "1",
+			"notes": "",
+			"percent": "-"
+		},
+		{
+			"weapon": "Sword of Voyager",
+			"super": "5",
+			"notes": "",
+			"percent": "-"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "Glacio DMG",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": [
+		{
+			"video": "2WlnsfujK_A"
+		}
+	],
+	"synergies": null,
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"950+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"GLACIO\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"42%-72%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Wintry Bell",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Sound-Keeping Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Unending Destruction",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Whisperin Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Whisperin Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Whisperin Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Whisperin Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Inert Metallic Drip",
+				"number": 25
+			},
+			{
+				"name": "Reactive Metallic Drip",
+				"number": 28
+			},
+			{
+				"name": "Polarized Metallic Drip",
+				"number": 55
+			},
+			{
+				"name": "Heterized Metallic Drip",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "Hybrid",
+	"tierTags": [
+		"Cleave",
+		"Hard"
+	],
+	"ratings": {
+		"tower": 10
+	},
+	"isNew": null,
+	"upcoming": null
+}

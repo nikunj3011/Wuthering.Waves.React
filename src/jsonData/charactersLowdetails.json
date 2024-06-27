@@ -4,7 +4,23 @@
       "img": "https://www.prydwen.gg/static/28692b3a188f6b7b14a9d28aa90bf3c8/b26e2/aalto_card.webp",
       "name": "Aalto",
       "tag": "Aero",
-      "bStyle": "linear-gradient(0deg, rgba(119,61,166,1) -79%, rgba(255,255,255,0) 100%)"
+      "rankings":{"mainDPS":"B","subDPS":"A","support": "-", "overall":"A"},
+      "bStyle": "linear-gradient(0deg, rgba(119,61,166,1) -79%, rgba(255,255,255,0) 100%)",
+      "intro": "Aalto is a 4★ rarity character from the Aero element who uses the Pistols type weapon.Aalto is an enigmatic Information Broker, known for his elusive nature and welcoming smile. Rumor has it he'll provide any information at the right price.",
+      "element":"Aero",
+      "weapon": "Pistols",
+      "upgradeMaterials" : ["Howler Core", "Roaring Rock Fist", "Wintry Bell"],
+      "bestEchoSet" : ["5 pc. Moonlit Clouds"],
+      "bestPrimaryEcho" : "Impermanence Heron",
+      "bestEchoStats":"",
+      "bestEchoSubStats":"",
+      "bestWeapons":["Static Mist", "Undying Flame", "Novaburst Novaburst", "Cadenza Cadenza"],
+      "bestTeam":[""],
+      "activeSkills":{"basicAtk":"","resonanceSkill":"", "resonanceLiberation":""},
+      "passiveSkills":{"name":"","description":[""]},
+      "concertoSkills":{"name":"","description":[""]},
+      "resonanceSkills":{"name":"","description":[""]}
+
   },
   {
       "id": "2",

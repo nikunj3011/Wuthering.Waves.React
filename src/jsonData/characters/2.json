@@ -1,0 +1,662 @@
+{
+	"id": "2",
+	"img": "https://www.prydwen.gg/static/3752f18605107b5fdb36835e9e7a2b90/b26e2/baizhi_card.webp",
+	"name": "Baizhi",
+	"tag": "Glacio",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(119,61,166,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 17th, 2024",
+	"createdAt": "2024-01-18T15:19:15.670Z",
+	"unitId": "111",
+	"devId": 11403,
+	"slug": "baizhi",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#080808",
+					"images": {
+						"fallback": {
+							"src": "/static/e681b5947541442581fbd60dd8ccfa0a/60b4d/baizhi_icon.webp",
+							"srcSet": "/static/e681b5947541442581fbd60dd8ccfa0a/e73fe/baizhi_icon.webp 40w,\n/static/e681b5947541442581fbd60dd8ccfa0a/61ca6/baizhi_icon.webp 80w,\n/static/e681b5947541442581fbd60dd8ccfa0a/60b4d/baizhi_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#080808",
+					"images": {
+						"fallback": {
+							"src": "/static/3752f18605107b5fdb36835e9e7a2b90/b26e2/baizhi_card.webp",
+							"srcSet": "/static/3752f18605107b5fdb36835e9e7a2b90/84550/baizhi_card.webp 94w,\n/static/3752f18605107b5fdb36835e9e7a2b90/34f80/baizhi_card.webp 187w,\n/static/3752f18605107b5fdb36835e9e7a2b90/b26e2/baizhi_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "4",
+	"element": "Glacio",
+	"weapon": "Rectifier",
+	"introduction": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi is a researcher in Remnant Ecoacoustics. Baizhi's once unfulfilled wish has now manifested as her loyal companion. The Remnant Creature You'tan is her source of healing powers, and a lifelong research focus. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Emergency Plan additionally restores \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2.5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Resonance Energy for every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Concentration\\\" consumed. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Emergency Plan increases Baizhi's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus by 15% and her Healing by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"if she has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Concentration\\\". These effects last for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Intro Skill Overflowing Frost increases Baizhi's Max HP by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Upon casting Resonance Liberation Momentary Union, Resonance Liberation Remnant Entities gains the following enhancements\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Remnant Entities can be performed \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"more time(s)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Healing multiplier of Remnant Entities is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Remnant Entities deals additional \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1.20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Baizhi's Max HP. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If a team member is downed when Baizhi is alive on the team, immediately revive them and restore their HP to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of their Max HP. This effect can be triggered once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"minute(s). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Euphonia is picked up, increase the \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Glacio DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Bonus of all characters nearby by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Destined Promise",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi instructs You'tan to perform up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi continuously consumes Stamina to command You'tan to attack enemies, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". During Heavy Attack, Baizhi can command You'tan to move.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi consumes Stamina and summons You’tan in mid-air to perform a Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "32.94%",
+					"Lv2": "35.64%",
+					"Lv3": "38.34%",
+					"Lv4": "42.12%",
+					"Lv5": "44.82%",
+					"Lv6": "47.93%",
+					"Lv7": "52.25%",
+					"Lv8": "56.57%",
+					"Lv9": "60.89%",
+					"Lv10": "65.48%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "39.52%",
+					"Lv2": "42.76%",
+					"Lv3": "46.01%",
+					"Lv4": "50.54%",
+					"Lv5": "53.78%",
+					"Lv6": "57.51%",
+					"Lv7": "62.69%",
+					"Lv8": "67.88%",
+					"Lv9": "73.06%",
+					"Lv10": "78.57%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "6.59%*7",
+					"Lv2": "7.13%*7",
+					"Lv3": "7.67%*7",
+					"Lv4": "8.43%*7",
+					"Lv5": "8.97%*7",
+					"Lv6": "9.59%*7",
+					"Lv7": "10.45%*7",
+					"Lv8": "11.32%*7",
+					"Lv9": "12.18%*7",
+					"Lv10": "13.10%*7"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "39.52%",
+					"Lv2": "42.76%",
+					"Lv3": "46.01%",
+					"Lv4": "50.54%",
+					"Lv5": "53.78%",
+					"Lv6": "57.51%",
+					"Lv7": "62.69%",
+					"Lv8": "67.88%",
+					"Lv9": "73.06%",
+					"Lv10": "78.57%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "24.58%",
+					"Lv2": "26.60%",
+					"Lv3": "28.61%",
+					"Lv4": "31.43%",
+					"Lv5": "33.45%",
+					"Lv6": "35.77%",
+					"Lv7": "38.99%",
+					"Lv8": "42.21%",
+					"Lv9": "45.44%",
+					"Lv10": "48.86%"
+				},
+				{
+					"Name": "Mid-Air Attack Damage",
+					"Lv1": "40%",
+					"Lv2": "42.94%",
+					"Lv3": "46.19%",
+					"Lv4": "50.75%",
+					"Lv5": "54.00%",
+					"Lv6": "57.74%",
+					"Lv7": "62.95%",
+					"Lv8": "68.16%",
+					"Lv9": "73.36%",
+					"Lv10": "78.89%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "89.86%",
+					"Lv2": "97.23%",
+					"Lv3": "104.60%",
+					"Lv4": "114.91%",
+					"Lv5": "122.28%",
+					"Lv6": "130.75%",
+					"Lv7": "142.54%",
+					"Lv8": "154.33%",
+					"Lv9": "166.12%",
+					"Lv10": "178.65%"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption (per second)",
+					"Lv1": "12.5",
+					"Lv2": "12.5",
+					"Lv3": "12.5",
+					"Lv4": "12.5",
+					"Lv5": "12.5",
+					"Lv6": "12.5",
+					"Lv7": "12.5",
+					"Lv8": "12.5",
+					"Lv9": "12.5",
+					"Lv10": "12.5"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Emergency Plan",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi calls You'tan to attack the target, dealing\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\" Glacio damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" while restoring HP for the entire team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "8.02%",
+					"Lv2": "8.68%",
+					"Lv3": "9.34%",
+					"Lv4": "10.26%",
+					"Lv5": "10.91%",
+					"Lv6": "11.67%",
+					"Lv7": "12.72%",
+					"Lv8": "13.77%",
+					"Lv9": "15.94%",
+					"Lv10": null
+				},
+				{
+					"Name": "Healing",
+					"Lv1": "575+2.90%",
+					"Lv2": "623+3.14%",
+					"Lv3": "670+3.37%",
+					"Lv4": "736+3.71%",
+					"Lv5": "783+3.94%",
+					"Lv6": "837+4.22%",
+					"Lv7": "913+4.60%",
+					"Lv8": "988+4.98%",
+					"Lv9": "1064+5.36%",
+					"Lv10": "1144+5.76%"
+				},
+				{
+					"Name": "Cooldown Time",
+					"Lv1": "16",
+					"Lv2": "16",
+					"Lv3": "16",
+					"Lv4": "16",
+					"Lv5": "16",
+					"Lv6": "16",
+					"Lv7": "16",
+					"Lv8": "16",
+					"Lv9": "16",
+					"Lv10": "16"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Momentary Union",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi summons You'tan to restore HP for the entire team, generating \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stacks of Remnant Entities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Remnant Entities\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Remnant Entities follow the active team members and automatically consume \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stacks of Remnant Entities to attack the targets every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2.5s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"on hit while restoring HP to all team members nearby. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Remnant Entities Damage",
+					"Lv1": "2.05%",
+					"Lv2": "2.22%",
+					"Lv3": "2.39%",
+					"Lv4": "2.62%",
+					"Lv5": "2.79%",
+					"Lv6": "2.98%",
+					"Lv7": "3.25%",
+					"Lv8": "3.52%",
+					"Lv9": "3.79%",
+					"Lv10": "4.07%"
+				},
+				{
+					"Name": "Remnant Entities Healing",
+					"Lv1": "349+1.42%",
+					"Lv2": "378+1.53%",
+					"Lv3": "406+1.65%",
+					"Lv4": "446+1.81%",
+					"Lv5": "475+1.93%",
+					"Lv6": "508+2.06%",
+					"Lv7": "554+2.25%",
+					"Lv8": "599+2.43%",
+					"Lv9": "645+2.62%",
+					"Lv10": "694+2.82%"
+				},
+				{
+					"Name": "Momentary Union Healing",
+					"Lv1": "310+1.26%",
+					"Lv2": "336+1.36%",
+					"Lv3": "361+1.47%",
+					"Lv4": "397+1.61%",
+					"Lv5": "422+1.71%",
+					"Lv6": "452+1.83%",
+					"Lv7": "492+2.00%",
+					"Lv8": "533+2.16%",
+					"Lv9": "574+2.33%",
+					"Lv10": "617+2.51%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "175",
+					"Lv2": "175",
+					"Lv3": "175",
+					"Lv4": "175",
+					"Lv5": "175",
+					"Lv6": "175",
+					"Lv7": "175",
+					"Lv8": "175",
+					"Lv9": "175",
+					"Lv10": "175"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Cycle of Life",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You'tan\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A Remnant Creature that answers to Baizhi’s mind and desires while sharing all her attributes. You’tan goes back to Baizhi when Baizhi dodges.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Concentration\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi consumes all \\\"Concentrations\\\" when casting Heavy Attack or Resonance Skill Emergency Plan to continuously restore HP for Characters nearby. Each\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \\\"Concentration\\\" consumed restores HP for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Baizhi consumes \\\"Concentration\\\" to cast Heavy Attack, Baizhi additionally restores Concerto Energy and Resonance Energy; When Baizhi consumes \\\"Concentration\\\" to cast Resonance Skill Emergency Plan, Baizhi additionally restores Concerto Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Concentration\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Concentrations\\\". Baizhi obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Concentration\\\" for every Basic Attack on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Concentration Healing",
+					"Lv1": "32+0.16%",
+					"Lv2": "34+0.17%",
+					"Lv3": "37+0.18%",
+					"Lv4": "40+0.20%",
+					"Lv5": "43+0.21%",
+					"Lv6": "46+0.23%",
+					"Lv7": "50+0.25%",
+					"Lv8": "54+0.27%",
+					"Lv9": "58+0.29%",
+					"Lv10": "63+0.31%"
+				},
+				{
+					"Name": "Heavy Attack \"Concentration\" Con. Energy Regen",
+					"Lv1": "4",
+					"Lv2": "4",
+					"Lv3": "4",
+					"Lv4": "4",
+					"Lv5": "4",
+					"Lv6": "4",
+					"Lv7": "4",
+					"Lv8": "4",
+					"Lv9": "4",
+					"Lv10": "4"
+				},
+				{
+					"Name": "Resonance Skill \"Concentration\" Con. Energy Regen",
+					"Lv1": "8",
+					"Lv2": "8",
+					"Lv3": "8",
+					"Lv4": "8",
+					"Lv5": "8",
+					"Lv6": "8",
+					"Lv7": "8",
+					"Lv8": "8",
+					"Lv9": "8",
+					"Lv10": "8"
+				},
+				{
+					"Name": "Heavy Attack \"Concentration\" Con. Energy Regen",
+					"Lv1": "2.5",
+					"Lv2": "2.5",
+					"Lv3": "2.5",
+					"Lv4": "2.5",
+					"Lv5": "2.5",
+					"Lv6": "2.5",
+					"Lv7": "2.5",
+					"Lv8": "2.5",
+					"Lv9": "2.5",
+					"Lv10": "2.5"
+				}
+			]
+		},
+		{
+			"name": "Harmonic Range",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Baizhi casts Resonance Skill Emergency Plan, You'tan generates a field of Euphonia that lasts for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Euphonia\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"ATK of the Resonators who picks up Euphonia is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Stimulus Feedback",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"For every Heavy Attack on hit, Baizhi restores HP to the nearby team member with the least HP equal to\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" 0.25%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Baizhi's max HP.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Overflowing Frost",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi calls You'tan to perform \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" plunging attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" while restoring HP to all team members nearby.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "40.00%",
+					"Lv2": "43.28%",
+					"Lv3": "46.56%",
+					"Lv4": "51.16%",
+					"Lv5": "54.44%",
+					"Lv6": "58.21%",
+					"Lv7": "63.46%",
+					"Lv8": "68.70%",
+					"Lv9": "73.95%",
+					"Lv10": "79.53%"
+				},
+				{
+					"Name": "Overflowing Frost Healing",
+					"Lv1": "75+0.38%",
+					"Lv2": "82+0.41%",
+					"Lv3": "88+0.44%",
+					"Lv4": "96+0.48%",
+					"Lv5": "103+0.51%",
+					"Lv6": "110+0.55%",
+					"Lv7": "119+0.60%",
+					"Lv8": "129+0.65%",
+					"Lv9": "139+0.70%",
+					"Lv10": "150+0.75%"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Rejuvinating Flow",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Baizhi restores HP equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1.54%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of her max HP to The next character (or other characters on a nearby team that activates an Outro Skill) every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"30s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Resonators gaining this healing also gain \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" all-Type DMG Deepen for 6s. \",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Baizhi is a 4-star free to play Glacio Rectifier wielder Support that brings a wide array of buffs and healing utilities for her teammates, making her an indispensable member regardless of your team composition. However, her buffs are focused on ST, increasing her utility in solo DPS teams over the rest.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Her Forte Gauge can accumulate up to 4 charges, with every Basic Attack performed recharging 1. Everytime she uses her Resonance Skill or Heavy Attack, she consumes all the accumulated stacks, enhancing the skill to increase healing provided as well as generating far more Concerto Energy than normal. As such, her Forte’s main utility is maximizing her Concerto Energy gains which is the heart of her kit.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Her Resonance Skill calls her companion You’tan back to her, which pulses Glacio damage around herself after a short delay while simultaneously healing all her team. This also generates a good amount of Concerto Energy.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Her Ultimate Skill generates a lot of Concerto Energy while healing her whole team. It also grants the Remnant Entities buff, which launches an attack every 2.5 seconds up to 4 times, dealing Glacio Damage on hit while healing the active party member.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Contrary to other Supporters such as Verina, Baizhi requires more field time in order to utilize her properly, but not enough to cause an issue with team compositions. She brings a plethora of ST specialized buffs, causing significant gains in DPS, along with her solid healing which can turn the tides of battle.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Baizhi has a fairly easy to master playstyle, only requiring a handful of Basic Attacks and her Resonance Skill. However, she can feel sluggish due to her companion performing all her attacks, which causes slight but noticeable delays when calling it back and forth.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"In addition to her healing capabilities, Baizhi brings a 15% Generic Damage amplification from her Outro Skill, which affects the next character switching in and lingers even after switching characters - an extremely rare trait among various Outro amplifications present in the game. Furthermore, she grants a 15% ATK boost after using her Resonance Skill, which spawns a bubble on the floor which can be gathered by a single character you wish for to receive this buff. Adding Echo & sets to the mix, she prefers a combination of Bell-Borne Geochelone Echo & 5P Rejuvenating Glow set which allows her to grant a semi-permanent ATK% boost, temporary DMG% boost and protection from a set number of attacks. In the instance another character is using the above set, she can make use of the 5P Moonlit Glow and Impermanence Heron Echo combo instead.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Overall, while many of Baizhi’s buffs are singular in nature she’s still currently one of the best Supports for Tower of Adversary, all thanks to her great bonuses and healing capabilities. While you can find her in top tier teams, she is primarily utilized when superior alternatives such as Verina are already used or missing from the account, the reason she falls behind the mighty Verina is because Baizhi does everything Verina does, but worse and is restricted to Single Target only, making Verina a directly superior choice.\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredible supportive Outro, granting 15% DMG Amplification which is not lost when switching\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can effortlessly enable the 5P Healer set bonus without sacrificing her weapon choice\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Completely universal - every single team can use Baizhi\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has decent team-wide healing\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can grant the team a cheat-death after unlocking S5 in the form of a full heal to the character that would have suffered fatal damage\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Is in direct competition with the very similar but superior in every way character Verina. Currently there is enough room for both in the endgame meta though\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most attacks have a slight delay when used due to her pet performing them \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Samantha Dakin",
+		"kr": "Sung Ye-won",
+		"jpn": "Asami Seto",
+		"cn": "Chen TingTing"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "Healing Bonus"
+			},
+			{
+				"stat": "HP%"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Energy Regen"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Energy Regen"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "HP%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "HP%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Rejuvenating Glow",
+				"name2": "",
+				"value": "",
+				"notes": "Offers a 10% unconditional Healing% boost and most importantly a 15% ATK% boost for the entire team, lasting 30 seconds whenever you heal yourself or any of your allies. This bonus can be triggered by the character abilities and weapon effects, is easy to keep active 100% of the time, and is a big help for all party members.",
+				"main_echo": "Bell-Borne Geochelone"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Variation",
+			"super": "1",
+			"notes": "",
+			"percent": ""
+		},
+		{
+			"weapon": "Rectifier of Voyager",
+			"super": "5",
+			"notes": "",
+			"percent": ""
+		},
+		{
+			"weapon": "Rectifier#25",
+			"super": "1",
+			"notes": "",
+			"percent": ""
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) > HP% > Flat HP ",
+		"substats_comments": "",
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "HP%",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "Healing Bonus",
+			"value": 12
+		}
+	},
+	"videos": null,
+	"synergies": null,
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"23000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-110%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi does not generate much Resonance Energy of her own but has an ultimate that speeds up her concerto generation and heals the team a moderate amount making it desirable to acquire whenever possible. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The result of this is that Baizhi relies on her team generating much of the energy she needs through the 50% team-wide energy share, however, she still needs a tremendous amount of ER even with that to achieve the 175 energy cost of the ultimate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To meet this cost we recommend getting as much energy regeneration as possible on gear, with \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-110%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" being a comfortable amount to access the ultimate quickly. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Lanternberry",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Sound-Keeping Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Monument Bell",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Howler Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Howler Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Howler Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Howler Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Lento Helix",
+				"number": 25
+			},
+			{
+				"name": "Adagio Helix",
+				"number": 28
+			},
+			{
+				"name": "Andante Helix",
+				"number": 55
+			},
+			{
+				"name": "Presto Helix",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "Support",
+	"tierTags": [
+		"Heal"
+	],
+	"ratings": {
+		"tower": 9
+	},
+	"isNew": null,
+	"upcoming": null
+}

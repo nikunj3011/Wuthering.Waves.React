@@ -1,0 +1,745 @@
+{
+	"id": "5",
+	"img": "https://www.prydwen.gg/static/431f962f5a8febb92f44ae9138aa5e01/b26e2/danjin_card.webp",
+	"name": "Danjin",
+	"tag": "Havoc",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(119,61,166,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 17th, 2024",
+	"createdAt": "2024-01-18T15:05:49.084Z",
+	"unitId": "6",
+	"devId": 1602,
+	"slug": "danjin",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#380808",
+					"images": {
+						"fallback": {
+							"src": "/static/703bdde2066f048e88e7cc51463f9a90/60b4d/danjin_icon.webp",
+							"srcSet": "/static/703bdde2066f048e88e7cc51463f9a90/e73fe/danjin_icon.webp 40w,\n/static/703bdde2066f048e88e7cc51463f9a90/61ca6/danjin_icon.webp 80w,\n/static/703bdde2066f048e88e7cc51463f9a90/60b4d/danjin_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/431f962f5a8febb92f44ae9138aa5e01/b26e2/danjin_card.webp",
+							"srcSet": "/static/431f962f5a8febb92f44ae9138aa5e01/84550/danjin_card.webp 94w,\n/static/431f962f5a8febb92f44ae9138aa5e01/34f80/danjin_card.webp 187w,\n/static/431f962f5a8febb92f44ae9138aa5e01/b26e2/danjin_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "4",
+	"element": "Havoc",
+	"weapon": "Sword",
+	"introduction": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With a vengeful blade of condensed blood in hand, Ranger Danjin hunts down thieves and bandits for retribution. She journeys to distant lands in pursuit of justice. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Danjin attacks a target with Resonance Skill's Incinerating Will, her ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"times. Danjin loses \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stacks of this effect each time she takes damage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Danjin attacks a target with Resonance Skill's Incinerating Will, her damage dealt is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 20%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation DMG Bonus is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 30%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Danjin has more than \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"60 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Ruby Blossom, her Crit. Rate is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15%. \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"This effect lasts until the end of Heavy Attack: Scatterbloom even after all \\\"Ruby Blossom\\\" is consumed when casting Heavy Attack: Chaoscleave. \",\"marks\":[],\"data\":{}}]}]}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and further increased by another \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" when her HP is lower than \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack Chaoscleave increases the ATK of all team members by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20s. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Execution",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin performs up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin combines her Forte with the blade in her hand and consumes Stamina to launch consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consumes Stamina to perform a mid-air Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to launch an attack, dealing\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\" Havoc DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter: Ruby Shades\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After a successful Dodge Counter, Danjin can use the Resonance Skill Crimson Fragment to cast the Resonance Skill Crimson Erosion.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "28.80%",
+					"Lv2": "31.17%",
+					"Lv3": "33.53%",
+					"Lv4": "36.83%",
+					"Lv5": "39.20%",
+					"Lv6": "41.91%",
+					"Lv7": "45.69%",
+					"Lv8": "49.47%",
+					"Lv9": "53.25%",
+					"Lv10": "57.26%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "29.60%",
+					"Lv2": "32.03%",
+					"Lv3": "34.46%",
+					"Lv4": "37.86%",
+					"Lv5": "40.28%",
+					"Lv6": "43.08%",
+					"Lv7": "46.96%",
+					"Lv8": "50.84%",
+					"Lv9": "54.73%",
+					"Lv10": "58.85%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "40.00%",
+					"Lv2": "43.28%",
+					"Lv3": "46.56%",
+					"Lv4": "51.16%",
+					"Lv5": "54.44%",
+					"Lv6": "58.21%",
+					"Lv7": "63.46%",
+					"Lv8": "68.70%",
+					"Lv9": "73.95%",
+					"Lv10": "79.53%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "18.67%*3",
+					"Lv2": "20.20%*3",
+					"Lv3": "21.73%*3",
+					"Lv4": "23.88%*3",
+					"Lv5": "25.41%*3",
+					"Lv6": "27.17%*3",
+					"Lv7": "29.62%*3",
+					"Lv8": "32.06%*3",
+					"Lv9": "34.51%*3",
+					"Lv10": "37.12%*3"
+				},
+				{
+					"Name": "Mid-air Attack Damage",
+					"Lv1": "49.60%",
+					"Lv2": "53.67%",
+					"Lv3": "57.74%",
+					"Lv4": "63.43%",
+					"Lv5": "67.50%",
+					"Lv6": "72.18%",
+					"Lv7": "78.69%",
+					"Lv8": "85.19%",
+					"Lv9": "91.70%",
+					"Lv10": "98.61%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "32.00%*3",
+					"Lv2": "34.63%*3",
+					"Lv3": "37.25%*3",
+					"Lv4": "40.93%*3",
+					"Lv5": "43.55%*3",
+					"Lv6": "46.57%*3",
+					"Lv7": "50.77%*3",
+					"Lv8": "54.96%*3",
+					"Lv9": "59.16%*3",
+					"Lv10": "63.62%*3"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Crimson Fragment",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Incinerating Will, each attack consumes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Danjin's max HP. When Danjin's HP is less than \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1%,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" this no longer consumes HP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Carmine Gleam\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin attacks the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Crimson Erosion\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Basic Attack II, Dodge Counter or Intro Skill Vindication, use Resonance Skill to perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive strikes, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" When Crimson Erosion II hits a target, apply Incinerating Will to it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incinerating Will\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin's damage dealt to targets marked with Incinerating Will is increased by 20%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanguine Pulse\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Resonance Skill after Basic Attack III to perform up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Carmine Gleam Damage",
+					"Lv1": "19.20%*2",
+					"Lv2": "20.78%*2",
+					"Lv3": "22.35%*2",
+					"Lv4": "24.56%*2",
+					"Lv5": "26.13%*2",
+					"Lv6": "27.94%*2",
+					"Lv7": "30.46%*2",
+					"Lv8": "32.98%*2",
+					"Lv9": "35.50%*2",
+					"Lv10": "38.18%*2"
+				},
+				{
+					"Name": "Crimson Erosion Part 1 Damage",
+					"Lv1": "32.40%*2",
+					"Lv2": "35.06%*2",
+					"Lv3": "37.72%*2",
+					"Lv4": "41.44%*2",
+					"Lv5": "44.09%*2",
+					"Lv6": "47.15%*2",
+					"Lv7": "51.40%*2",
+					"Lv8": "55.65%*2",
+					"Lv9": "59.90%*2",
+					"Lv10": "64.42%*2"
+				},
+				{
+					"Name": "Crimson Erosion Part 2 Damage",
+					"Lv1": "30.00%*2",
+					"Lv2": "32.46%*2",
+					"Lv3": "34.92%*2",
+					"Lv4": "38.37%*2",
+					"Lv5": "40.83%*2",
+					"Lv6": "43.66%*2",
+					"Lv7": "47.59%*2",
+					"Lv8": "51.53%*2",
+					"Lv9": "55.47%*2",
+					"Lv10": "59.65%*2"
+				},
+				{
+					"Name": "Sanguine Pulse Part 1 Damage",
+					"Lv1": "28.20%*2",
+					"Lv2": "30.52%*2",
+					"Lv3": "32.83%*2",
+					"Lv4": "36.07%*2",
+					"Lv5": "38.38%*2",
+					"Lv6": "41.04%*2",
+					"Lv7": "44.74%*2",
+					"Lv8": "48.44%*2",
+					"Lv9": "52.14%*2",
+					"Lv10": "56.07%*2"
+				},
+				{
+					"Name": "Sanguine Pulse Part 2 Damage",
+					"Lv1": "21.60%*3",
+					"Lv2": "23.38%*3",
+					"Lv3": "25.15%*3",
+					"Lv4": "27.63%*3",
+					"Lv5": "29.40%*3",
+					"Lv6": "31.44%*3",
+					"Lv7": "34.27%*3",
+					"Lv8": "37.10%*3",
+					"Lv9": "39.94%*3",
+					"Lv10": "42.95%*3"
+				},
+				{
+					"Name": "Sanguine Pulse Part 3 Damage",
+					"Lv1": "32.40%*3",
+					"Lv2": "35.06%*3",
+					"Lv3": "37.72%*3",
+					"Lv4": "41.44%*3",
+					"Lv5": "44.09%*3",
+					"Lv6": "47.15%*3",
+					"Lv7": "51.40%*3",
+					"Lv8": "55.65%*3",
+					"Lv9": "59.90%*3",
+					"Lv10": "64.42%*3"
+				},
+				{
+					"Name": "Incinerating Will Duration",
+					"Lv1": "12",
+					"Lv2": "12",
+					"Lv3": "12",
+					"Lv4": "12",
+					"Lv5": "12",
+					"Lv6": "12",
+					"Lv7": "12",
+					"Lv8": "12",
+					"Lv9": "12",
+					"Lv10": "12"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "0",
+					"Lv2": "0",
+					"Lv3": "0",
+					"Lv4": "0",
+					"Lv5": "0",
+					"Lv6": "0",
+					"Lv7": "0",
+					"Lv8": "0",
+					"Lv9": "0",
+					"Lv10": "0"
+				}
+			]
+		},
+		{
+			"name": "Crimson Bloom",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin's anger intensifies as she frantically swings her dual blades, performing multiple rapid consecutive attacks, and \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Scarlet Burst attack(s), dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Continuous Attack Damage",
+					"Lv1": "24.69%*8",
+					"Lv2": "26.72%*8",
+					"Lv3": "28.74%*8",
+					"Lv4": "31.58%*8",
+					"Lv5": "33.60%*8",
+					"Lv6": "35.93%*8",
+					"Lv7": "39.17%*8",
+					"Lv8": "42.41%*8",
+					"Lv9": "45.64%*8",
+					"Lv10": "49.09%*8"
+				},
+				{
+					"Name": "Scarlet Burst Damage",
+					"Lv1": "197.50%",
+					"Lv2": "213.70%",
+					"Lv3": "229.89%",
+					"Lv4": "252.57%",
+					"Lv5": "268.76%",
+					"Lv6": "287.39%",
+					"Lv7": "313.30%",
+					"Lv8": "339.21%",
+					"Lv9": "365.12%",
+					"Lv10": "392.65%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "16",
+					"Lv2": "16",
+					"Lv3": "16",
+					"Lv4": "16",
+					"Lv5": "16",
+					"Lv6": "16",
+					"Lv7": "16",
+					"Lv8": "16",
+					"Lv9": "16",
+					"Lv10": "16"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "100",
+					"Lv2": "100",
+					"Lv3": "100",
+					"Lv4": "100",
+					"Lv5": "100",
+					"Lv6": "100",
+					"Lv7": "100",
+					"Lv8": "100",
+					"Lv9": "100",
+					"Lv10": "100"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Serene Vigil",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Chaoscleave\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After accumulating \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Ruby Blossom\\\", long press Basic Attack to consume all \\\"Ruby Blossom\\\" to cast Chaoscleave, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Heavy Attack damage, and restoring HP to Danjin.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If current \\\"Ruby Blossom\\\" exceeds \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", this consumes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Ruby Blossom\\\" to increase the damage multiplier of Chaoscleave and Scatterbloom performed this time. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Scatterbloom\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after Heavy Attack Chaoscleave to launch Shatter to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" considered as Heavy Attack damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ruby Blossom\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin obtains \\\"Ruby Blossom\\\" when using Resonance Skill Crimson Fragment.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Chaoscleave Damage",
+					"Lv1": "30.00%*7",
+					"Lv2": "32.46%*7",
+					"Lv3": "34.92%*7",
+					"Lv4": "38.37%*7",
+					"Lv5": "40.83%*7",
+					"Lv6": "43.66%*7",
+					"Lv7": "47.59%*7",
+					"Lv8": "51.53%*7",
+					"Lv9": "55.47%*7",
+					"Lv10": "59.65%*7"
+				},
+				{
+					"Name": "Scatterbloom Damage",
+					"Lv1": "90%",
+					"Lv2": "97%",
+					"Lv3": "105%",
+					"Lv4": "115%",
+					"Lv5": "122%",
+					"Lv6": "131%",
+					"Lv7": "143%",
+					"Lv8": "155%",
+					"Lv9": "166%",
+					"Lv10": "179%"
+				},
+				{
+					"Name": "Full Energy Chaoscleave Damage",
+					"Lv1": "72.00%*7",
+					"Lv2": "77.91%*7",
+					"Lv3": "83.81%*7",
+					"Lv4": "92.08%*7",
+					"Lv5": "97.98%*7",
+					"Lv6": "104.77%*7",
+					"Lv7": "114.22%*7",
+					"Lv8": "123.66%*7",
+					"Lv9": "133.11%*7",
+					"Lv10": "143.15%*7"
+				},
+				{
+					"Name": "Full Energy Scatterbloom Damage",
+					"Lv1": "216.00%",
+					"Lv2": "233.72%",
+					"Lv3": "251.43%",
+					"Lv4": "276.23%",
+					"Lv5": "293.94%",
+					"Lv6": "314.31%",
+					"Lv7": "342.65%",
+					"Lv8": "370.98%",
+					"Lv9": "399.32%",
+					"Lv10": "429.43%"
+				},
+				{
+					"Name": "Chaoscleave Healing",
+					"Lv1": "36",
+					"Lv2": "36",
+					"Lv3": "36",
+					"Lv4": "36",
+					"Lv5": "36",
+					"Lv6": "36",
+					"Lv7": "36",
+					"Lv8": "36",
+					"Lv9": "36",
+					"Lv10": "36"
+				},
+				{
+					"Name": "Chaoscleave Con. Energy Regen",
+					"Lv1": "50",
+					"Lv2": "50",
+					"Lv3": "50",
+					"Lv4": "50",
+					"Lv5": "50",
+					"Lv6": "50",
+					"Lv7": "50",
+					"Lv8": "50",
+					"Lv9": "50",
+					"Lv10": "50"
+				}
+			]
+		},
+		{
+			"name": "Crimson Light",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The damage of the Resonance Skill Crimson Erosion triggered by Dodge Counter: Ruby Shades is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"The HP cost and stacks of \\\"Ruby Blossom\\\" recovered are doubled. \",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Overflow",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After casting the Resonance Skill Sanguine Pulse, Danjin's Heavy Attack damage is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"30% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Vindiction",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"With unwavering determination, Danjin unleashes a strike, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "25.00%*4",
+					"Lv2": "27.05%*4",
+					"Lv3": "29.10%*4",
+					"Lv4": "31.97%*4",
+					"Lv5": "34.02%*4",
+					"Lv6": "36.38%*4",
+					"Lv7": "39.66%*4",
+					"Lv8": "42.94%*4",
+					"Lv9": "46.22%*4",
+					"Lv10": "49.71%*4"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Duality",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The next character (or other characters on a nearby team that activates an Outro Skill) gains\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" 23%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Deepen for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"14 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"seconds or until the Character is switched.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin is a 4-Star Havoc Sword wielder that can function as either a Hybrid character which offers Support as well as secondary DPS, or a High DPS unit in teams completely centered around her. This is thanks to her ability to execute high damage and consistent combos throughout a fight outside of her cooldown-based abilities. However, it is worth noting that playing Danjin in this way will deplete her HP quickly, even if you bring a healer, due to her berserker-style kit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"True to the berserker archetype, consuming her HP is what builds up her Forte Gauge. The Gauge has two milestones; at 50% capacity, it will allow her to use her most powerful attack - Chaos Cleave. This can be quickly succeeded by Scatterbloom, dealing tremendous damage and also healing Danjin for a considerable amount. At 100%, the damage multiplier for both skills is increased, and as such it is advised to only trigger Chaos Cleave when Danjin’s Forte Gauge is 100% full to maximize her damage potential. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin’s skill is centered around converting her basic attacks into multiple possible combos as follows:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Single basic attack followed by a single skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Two basic attacks followed by two skills - This will inflict the hit enemies with Incinerating Will, which increases the damage taken by Danjin’s other attacks. It is important to keep this active on your primary target whether you are using Danjin as Sub DPS or Main DPS.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Three basic attacks followed by three skills - outside of the previous combo to keep Incinerating Will active, Danjin should be primarily utilized to perform this combo as it not only deals the highest damage of the 3 choices, but also generates the highest amount of Forte Gauge, which is essential to her gameplay.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lastly, Danjin’s Ultimate is a simple on-demand high Havoc DPS nuke that targets everything in front of her. Despite the fact that it features an incredibly long casting time, it is an excellent choice as a burst damage option as it freezes most time-based clocks for its entire duration.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When it comes to staying on the field and what she can provide, Danjin is flexible depending on which playstyle you prefer for her. She can stay on field for a significant amount of time with her extended combos, providing excellent sustained damage as a primary damage dealer. Alternatively, she can spend minimum time cycling her cooldowns and maintaining her Incinerating Will debuff, providing fantastic burst damage as a hybrid Sub DPS while also buffing Havoc DMG% amplification.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When it comes to playing her, it has to be noted that your experience can largely differ on the basis of the role you choose. If you wish to use Danjin as primary DPS, it means dealing with her berserker-styled gameplay. That is to say, she will continuously be living on the edge of her HP pool, relying on her Forte skills to replenish it. The recovery won’t last long however; she will chew through her recovered HP, making it imperative that you must master the art of dodging \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"for it is about to turn into a Souls Game\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Even with a healer on field, she is unlikely to survive a hit due to how fast she burns her HP pool. On other hand, if you prefer the Sub DPS & Support Hybrid Danjin, she will stay reasonably healthy most of the time with assistance of a healer, allowing you to play more relaxedly.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin’s Outro provides 23% Havoc Amplification, which offers a significant damage boost to any Havoc character switching in. Regardless of which role you prefer for Danjin - be it Main DPS or Sub DPS & Support Hybrid, she would prefer a full damage build. No matter how much time she spends on the field, she can deal a significant chunk of damage, making Dreamless Echo and 5P Havoc Set the best choice for her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, Danjin has no problems being the Solo DPS in teams centered around her, should she have a skilled player controlling her. As a 4-star while her damage at S0 is slightly less than her 5-star counterparts, investing in Sequences increases her damage potential greatly. But she’s also excellent when played alongside Havoc Rover as a Sub DPS & Support Hybrid.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can be played as a Solo DPS or as a Sub DPS in a more supporting role\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deals excellent damage for a 4-star with great potential to grow with Sequences\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can make use of one of the best Echoes in the game effectively; the Dreamless Echo\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has incredible parrying abilities making bosses easier to deal with\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High-risk high-reward play style\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"You’re almost always 1 hit from death, which can be a problem when fighting multiple enemies, especially ranged ones\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Damage at S0 is lesser compared to other 5-star damage dealers\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"voiceActors": {
+		"en": "Sophie Colquhoun",
+		"kr": "Lee Hyeon-jin",
+		"jpn": "Miho Okasaki",
+		"cn": "Yi KouJing"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Havoc DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Havoc DMG"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Havoc Eclipse",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Dreamless"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "",
+				"value": "99.05%",
+				"notes": "Lingering Tunes requires time to ramp up and is reset after switching characters (which is a VERY common team tactic in the endgame). This set of calculations assumes that for this character's entire burst window, they are not switched out until the very end.",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Havoc Eclipse",
+				"name2": "Endless Resonance",
+				"value": "97.39%",
+				"notes": "",
+				"main_echo": "Dreamless"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "",
+				"value": "93.98%",
+				"notes": "Lingering Tunes requires time to ramp up and is reset after switching characters (which is a VERY common team tactic in endgame). This set of calculations displays expected performance if you switched the character constantly never maintaining the buff (switch every 1.5 seconds or faster).",
+				"main_echo": "Mech Abomination"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Emerald of Genesis",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Commando of Conviction",
+			"super": "1",
+			"notes": "",
+			"percent": "79.69%"
+		},
+		{
+			"weapon": "Lumingloss",
+			"super": "1",
+			"notes": "",
+			"percent": "77.52%"
+		},
+		{
+			"weapon": "Lunar Cutter",
+			"super": "1",
+			"notes": "",
+			"percent": "76.90%"
+		},
+		{
+			"weapon": "Sword#18",
+			"super": "1",
+			"notes": "Perma Low Life.",
+			"percent": "76.85%"
+		},
+		{
+			"weapon": "Sword of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "68.55%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "CRIT RATE = CRIT DMG > ATK% > Flat ATK > Heavy DMG% > Resonance Skill DMG%",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "Havoc DMG",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": null,
+	"synergies": null,
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HAVOC DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin does not require any Energy Regen in order to function and it's not specifically recommended for her build, but if you can gain some without it costing you, having more frequent Ultimates will lead to more total damage in fights \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Belle Poppy",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Strife Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Unwarranted Feather",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "Crude Ring",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "Basic Ring",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "Improved Ring",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "Tailored Ring",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Inert Metallic Drip",
+				"number": 25
+			},
+			{
+				"name": "Reactive Metallic Drip",
+				"number": 28
+			},
+			{
+				"name": "Polarized Metallic Drip",
+				"number": 55
+			},
+			{
+				"name": "Heterized Metallic Drip",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "DPS",
+	"tierTags": [
+		"Hard",
+		"Risk",
+		"ST",
+		"Multirole"
+	],
+	"ratings": {
+		"tower": 9
+	},
+	"isNew": null,
+	"upcoming": null
+}
