@@ -60,7 +60,25 @@
 	"element": "Fusion",
 	"weapon": "Rectifier",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A girl accompanied by one black and one white Wooly plushies. Encore, consultant from the Black Shores, is longing to create happy stories with candies, fairy tales, and her imagination. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "A girl accompanied by one black and one white Wooly plushies. Encore, consultant from the Black Shores, is longing to create happy stories with candies, fairy tales, and her imagination. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

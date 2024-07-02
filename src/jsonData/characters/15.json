@@ -66,7 +66,25 @@
 	"element": "Aero",
 	"weapon": "Sword",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang is an Outrider of the Midnight Rangers. Once sheltered, now a fighter. She soars with the wind to protect others, like a skylark in flight. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Yangyang is an Outrider of the Midnight Rangers. Once sheltered, now a fighter. She soars with the wind to protect others, like a skylark in flight. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

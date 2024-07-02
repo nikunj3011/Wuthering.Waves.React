@@ -60,7 +60,25 @@
 	"element": "Fusion",
 	"weapon": "Pistols",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mortefi, a skilled expert in Applied Tacetite Study and a member of the Academy’s Department of Safety, possesses the unique ability to transform his accumulated frustration into fiery flames. From a burning wrath that consumes all, the red dragon shall descend. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Mortefi, a skilled expert in Applied Tacetite Study and a member of the Academy’s Department of Safety, possesses the unique ability to transform his accumulated frustration into fiery flames. From a burning wrath that consumes all, the red dragon shall descend. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

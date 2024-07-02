@@ -60,7 +60,25 @@
 	"element": "Glacio",
 	"weapon": "Sword",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The bodyguard of Jinzhou’s Magistrate, known for having an icy personality. Once regarded as the Asura of Calamity, Sanhua is now a taciturn guardian. She has learned to maintain inner calmness amidst the chaotic frequencies, and the things that once frightened her now fuel her determination. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "The bodyguard of Jinzhou’s Magistrate, known for having an icy personality. Once regarded as the Asura of Calamity, Sanhua is now a taciturn guardian. She has learned to maintain inner calmness amidst the chaotic frequencies, and the things that once frightened her now fuel her determination. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

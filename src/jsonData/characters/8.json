@@ -60,7 +60,25 @@
 	"element": "Aero",
 	"weapon": "Broadblade",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan, leader of the Midnight Rangers, acts with swift and resolute righteousness. He possesses the formidable ability to conjure a powerful Qingloong from the winds, making him invincible on the battlefield. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Jiyan, leader of the Midnight Rangers, acts with swift and resolute righteousness. He possesses the formidable ability to conjure a powerful Qingloong from the winds, making him invincible on the battlefield. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

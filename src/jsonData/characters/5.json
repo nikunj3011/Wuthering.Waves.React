@@ -60,7 +60,25 @@
 	"element": "Havoc",
 	"weapon": "Sword",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With a vengeful blade of condensed blood in hand, Ranger Danjin hunts down thieves and bandits for retribution. She journeys to distant lands in pursuit of justice. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "With a vengeful blade of condensed blood in hand, Ranger Danjin hunts down thieves and bandits for retribution. She journeys to distant lands in pursuit of justice. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

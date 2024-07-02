@@ -79,7 +79,25 @@
 	"element": "Spectro",
 	"weapon": "Sword",
 	"introduction": {
-		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Awakened with an unknown past, Rover embarks on a journey to uncover the truths. As secrets are unveiled, Rover establishes deeper connections with the world.\",\"marks\":[],\"data\":{}}]}]}"
+		"raw": 
+		{
+			"nodeType": "document",
+			"data": {},
+			"content": [
+				{
+					"nodeType": "paragraph",
+					"data": {},
+					"content": [
+						{
+							"nodeType": "text",
+							"value": "Awakened with an unknown past, Rover embarks on a journey to uncover the truths. As secrets are unveiled, Rover establishes deeper connections with the world.",
+							"marks": [],
+							"data": {}
+						}
+					]
+				}
+			]
+		}
 	},
 	"dupes": {
 		"dupe1": {

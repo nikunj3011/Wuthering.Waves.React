@@ -60,7 +60,25 @@
 	"element": "Aero",
 	"weapon": "Pistols",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto is an enigmatic Information Broker, known for his elusive nature and welcoming smile. Rumor has it he'll provide any information at the right price. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Aalto is an enigmatic Information Broker, known for his elusive nature and welcoming smile. Rumor has it he'll provide any information at the right price. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

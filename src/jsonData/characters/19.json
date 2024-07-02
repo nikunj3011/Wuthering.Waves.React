@@ -60,7 +60,25 @@
 	"element": "Fusion",
 	"weapon": "Sword",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Counselor to the Jinzhou Magistrate, Changli excels at leveraging human nature to corner her enemies into traps. Being the mentor to Jinhsi, she is persuasive and patient. She entertains an unwavering aspiration, holding her ground in the endless game against time and chaos.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Counselor to the Jinzhou Magistrate, Changli excels at leveraging human nature to corner her enemies into traps. Being the mentor to Jinhsi, she is persuasive and patient. She entertains an unwavering aspiration, holding her ground in the endless game against time and chaos. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": null,
 	"skills": null,

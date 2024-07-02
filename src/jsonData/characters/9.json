@@ -60,7 +60,25 @@
 	"element": "Glacio",
 	"weapon": "Gauntlets",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lingyang is talented and friendly member of the Liondance Troupe in Jinzhou. His passion and courage are evident as he engages with humans, showcasing his impressive physical abilities. With his unique style, he embodies the spirit of Liondancing. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Lingyang is talented and friendly member of the Liondance Troupe in Jinzhou. His passion and courage are evident as he engages with humans, showcasing his impressive physical abilities. With his unique style, he embodies the spirit of Liondancing. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

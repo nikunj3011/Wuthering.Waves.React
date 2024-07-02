@@ -60,7 +60,25 @@
 	"element": "Spectro",
 	"weapon": "Broadblade",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinhsi, Magistrate of Jinzhou, gently brightens the hopes of her people, like rays of winter sunlight. As the revered Sentinel's Appointed Resonator, she displays humility and wholeheartedly commits herself to guiding her people towards a brilliant future. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Jinhsi, Magistrate of Jinzhou, gently brightens the hopes of her people, like rays of winter sunlight. As the revered Sentinel's Appointed Resonator, she displays humility and wholeheartedly commits herself to guiding her people towards a brilliant future. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

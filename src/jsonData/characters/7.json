@@ -60,7 +60,25 @@
 	"element": "Aero",
 	"weapon": "Gauntlets",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jianxin, a Taoist monk and successor of Fengyiquan, has dedicated her life to mastering the ultimate martial art. With the power to harness and transform environmental Chi, she can create protective barriers that purify both body and mind. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Jianxin, a Taoist monk and successor of Fengyiquan, has dedicated her life to mastering the ultimate martial art. With the power to harness and transform environmental Chi, she can create protective barriers that purify both body and mind. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

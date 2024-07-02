@@ -60,7 +60,25 @@
 	"element": "Electro",
 	"weapon": "Rectifier",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yinlin is a skilled Patroller and powerful Natural Resonator. After being suspended from her duties at the Public Security Bureau, she must now pursue hidden evils in secrecy. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Yinlin is a skilled Patroller and powerful Natural Resonator. After being suspended from her duties at the Public Security Bureau, she must now pursue hidden evils in secrecy. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {

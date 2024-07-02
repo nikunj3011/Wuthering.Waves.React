@@ -60,7 +60,25 @@
 	"element": "Glacio",
 	"weapon": "Rectifier",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi is a researcher in Remnant Ecoacoustics. Baizhi's once unfulfilled wish has now manifested as her loyal companion. The Remnant Creature You'tan is her source of healing powers, and a lifelong research focus. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Baizhi is a researcher in Remnant Ecoacoustics. Baizhi's once unfulfilled wish has now manifested as her loyal companion. The Remnant Creature You'tan is her source of healing powers, and a lifelong research focus.",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {
