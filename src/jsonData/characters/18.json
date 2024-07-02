@@ -2,6 +2,8 @@
 	"id": "18",
 	"img": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
 	"img2": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/logo-unkonw-big1-1fbfa8aa.png",
+	"region": "Unknown",
 	"name": "Rover (Havoc)",
 	"tag": "Havoc",
 	"rankings": {

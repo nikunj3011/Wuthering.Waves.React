@@ -2,6 +2,8 @@
 	"id": "7",
 	"img": "https://www.prydwen.gg/static/c215e7a42cbfd78f854553f192dc0e4f/b26e2/jiaxin_card.webp",
 	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/jianxin-super-1d856ae8.jpg",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
 	"name": "Jianxin",
 	"tag": "Aero",
 	"rankings": {

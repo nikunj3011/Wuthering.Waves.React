@@ -2,6 +2,8 @@
 	"id": "2",
 	"img": "https://www.prydwen.gg/static/3752f18605107b5fdb36835e9e7a2b90/b26e2/baizhi_card.webp",
 	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/baizhi-d1333fef.png",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
 	"name": "Baizhi",
 	"tag": "Glacio",
 	"rankings": {

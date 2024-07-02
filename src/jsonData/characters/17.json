@@ -2,6 +2,8 @@
 	"id": "17",
 	"img": "https://www.prydwen.gg/static/fb4fc64e05d0d40ef90adc4527dc93ea/b26e2/yuanwu_card.webp",
 	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/yuanwu-ea9e9a1b.png",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
 	"name": "Yuanwu",
 	"tag": "Electro",
 	"rankings": {

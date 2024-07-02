@@ -2,6 +2,8 @@
 	"id": "4",
 	"img": "https://www.prydwen.gg/static/689148c2dc5b0b38aeb2c75ca8b3ef65/b26e2/chixia_card.webp",
 	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/chixia-d3ddb4cb.png",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
 	"name": "Chixia",
 	"tag": "Fusion",
 	"rankings": {

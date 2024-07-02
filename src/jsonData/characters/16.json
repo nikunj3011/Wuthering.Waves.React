@@ -1,7 +1,9 @@
 {
 	"id": "16",
 	"img": "https://www.prydwen.gg/static/a2b0c34a81e57a52165da5b356be412c/b26e2/yinglin_card.webp",
-	"img": "https://wutheringwaves.kurogames.com/static4.0/assets/yinlin-super-740f2b78.jpg",
+	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/yinlin-super-740f2b78.jpg",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
 	"name": "Yinlin",
 	"tag": "Electro",
 	"rankings": {
