@@ -1,0 +1,774 @@
+{
+	"id": "8",
+	"img": "https://www.prydwen.gg/static/5020d60083afc09d2fb6bce4a35225bc/b26e2/jiyan_card.webp",
+	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/jiyan-super-73c4c907.jpg",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
+	"name": "Jiyan",
+	"tag": "Aero",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 17th, 2024",
+	"createdAt": "2024-02-18T18:20:50.350Z",
+	"unitId": "14",
+	"devId": 1404,
+	"slug": "jiyan",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#080808",
+					"images": {
+						"fallback": {
+							"src": "/static/5833ca240984b14cd6da2d2121235d30/60b4d/jiyan_icon.webp",
+							"srcSet": "/static/5833ca240984b14cd6da2d2121235d30/e73fe/jiyan_icon.webp 40w,\n/static/5833ca240984b14cd6da2d2121235d30/61ca6/jiyan_icon.webp 80w,\n/static/5833ca240984b14cd6da2d2121235d30/60b4d/jiyan_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#081818",
+					"images": {
+						"fallback": {
+							"src": "/static/5020d60083afc09d2fb6bce4a35225bc/b26e2/jiyan_card.webp",
+							"srcSet": "/static/5020d60083afc09d2fb6bce4a35225bc/84550/jiyan_card.webp 94w,\n/static/5020d60083afc09d2fb6bce4a35225bc/34f80/jiyan_card.webp 187w,\n/static/5020d60083afc09d2fb6bce4a35225bc/b26e2/jiyan_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Aero",
+	"weapon": "Broadblade",
+	"introduction": {
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Jiyan, leader of the Midnight Rangers, acts with swift and resolute righteousness. He possesses the formidable ability to conjure a powerful Qingloong from the winds, making him invincible on the battlefield. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Windqueller can be used \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more time. When casting Resonance Skill Windqueller, the \\\"Resolve\\\" cost is decreased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After casting Intro Skill Tactical Strike, Jiyan gains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Resolve\\\" and his ATK is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 28%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This can be triggered once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"seconds. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Resonance Skill Windqueller, Resonance Liberation Emerald Storm: Prelude, Resonance Skill Emerald Storm: Finale or Intro Skill Tactical Strike, Jiyan's Crit. Rate is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and Crit. DMG is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"32%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Resonance Liberation Emerald Storm: Prelude or Resonance Liberation Emerald Storm: Finale, the Heavy Attack DMG Bonus of all team members is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG multiplier of Outro Skill Discipline is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" When Jiyan's attacks hit a target, his ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"times; this effect is immediately maxed after he casts Intro Skill Tactical Strike. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Every time Heavy Attack, Intro Skill Tactical Strike or Resonance Skill Windqueller is used, Jiyan gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"stack(s) of \\\"Momentum\\\", stacking up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" times.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Liberation Emerald Storm: Finale will consume all \\\"Momentum\\\", and each stack consumed increases the DMG multiplier of Resonance Liberation Emerald Storm: Finale by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"120%. \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Lone Lance",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume Stamina to perform a thrust attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Windborne Strike\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hold the Basic Attack during Heavy Attack to cast Windborne Strike after the Heavy Attack ends, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Abyssal Slash\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Release the Basic Attack during the Heavy Attack to cast Abyssal Slash after the Heavy Attack ends, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume Stamina to perform a Mid-Air Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" After the Plunging Attack, use Basic Attack to perform a following attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack: Banner of Triumph\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After casting the Heavy Attack Windborne Strike or the Resonance Skill Windqueller in the air, Jiyan can perform an aerial attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use a Basic Attack after a successful Dodge to attack the target with, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "36.80%",
+					"Lv2": "39.81%",
+					"Lv3": "42.83%",
+					"Lv4": "47.05%",
+					"Lv5": "50.07%",
+					"Lv6": "53.54%",
+					"Lv7": "58.37%",
+					"Lv8": "63.20%",
+					"Lv9": "68.03%",
+					"Lv10": "73.16%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "22.00%",
+					"Lv2": "23.80%",
+					"Lv3": "25.60%",
+					"Lv4": "28.13%",
+					"Lv5": "29.93%",
+					"Lv6": "32.01%",
+					"Lv7": "34.89%",
+					"Lv8": "37.78%",
+					"Lv9": "40.67%",
+					"Lv10": "43.73%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "18.30%*5",
+					"Lv2": "19.80%*5",
+					"Lv3": "21.30%*5",
+					"Lv4": "23.40%*5",
+					"Lv5": "24.90%*5",
+					"Lv6": "26.62%*5",
+					"Lv7": "29.02%*5",
+					"Lv8": "31.43%*5",
+					"Lv9": "33.83%*5",
+					"Lv10": "36.38%*5"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "33.30%*2",
+					"Lv2": "36.03%*2",
+					"Lv3": "38.76%*2",
+					"Lv4": "42.58%*2",
+					"Lv5": "45.31%*2",
+					"Lv6": "48.45%*2",
+					"Lv7": "52.82%*2",
+					"Lv8": "57.19%*2",
+					"Lv9": "61.56%*2",
+					"Lv10": "66.20%*2"
+				},
+				{
+					"Name": "Part 5 Damage",
+					"Lv1": "11.87%*7+77.18%*2",
+					"Lv2": "12.84%*7+83.51%*2",
+					"Lv3": "13.82%*7+89.84%*2",
+					"Lv4": "15.18%*7+98.70%*2",
+					"Lv5": "16.15%*7+105.03%*2",
+					"Lv6": "17.27%*7+112.31%*2",
+					"Lv7": "18.83%*7+122.44%*2",
+					"Lv8": "20.39%*7+132.56%*2",
+					"Lv9": "21.95%*7+142.69%*2",
+					"Lv10": "23.60%*7+153.45%*2"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "11.16%*6",
+					"Lv2": "12.08%*6",
+					"Lv3": "12.99%*6",
+					"Lv4": "14.27%*6",
+					"Lv5": "15.19%*6",
+					"Lv6": "16.24%*6",
+					"Lv7": "17.71%*6",
+					"Lv8": "19.17%*6",
+					"Lv9": "20.64%*6",
+					"Lv10": "22.20%*6"
+				},
+				{
+					"Name": "Windborne Strike Damage",
+					"Lv1": "53.30%",
+					"Lv2": "57.67%",
+					"Lv3": "62.04%",
+					"Lv4": "68.16%",
+					"Lv5": "72.53%",
+					"Lv6": "77.55%",
+					"Lv7": "84.54%",
+					"Lv8": "91.54%",
+					"Lv9": "98.53%",
+					"Lv10": "105.96%"
+				},
+				{
+					"Name": "Abyssal Slash Damage",
+					"Lv1": "41.10%",
+					"Lv2": "44.47%",
+					"Lv3": "47.84%",
+					"Lv4": "52.55%",
+					"Lv5": "55.92%",
+					"Lv6": "59.80%",
+					"Lv7": "65.19%",
+					"Lv8": "70.58%",
+					"Lv9": "75.98%",
+					"Lv10": "81.71%"
+				},
+				{
+					"Name": "Mid-Air Attack Damage",
+					"Lv1": "62.00%",
+					"Lv2": "67.08%",
+					"Lv3": "72.16%",
+					"Lv4": "79.28%",
+					"Lv5": "84.36%",
+					"Lv6": "90.21%",
+					"Lv7": "98.35%",
+					"Lv8": "106.48%",
+					"Lv9": "114.61%",
+					"Lv10": "123.26%"
+				},
+				{
+					"Name": "Banner Of Triumph Damage",
+					"Lv1": "40.00%",
+					"Lv2": "43.28%",
+					"Lv3": "46.56%",
+					"Lv4": "51.15%",
+					"Lv5": "54.43%",
+					"Lv6": "58.20%",
+					"Lv7": "63.45%",
+					"Lv8": "68.70%",
+					"Lv9": "73.94%",
+					"Lv10": "79.52%"
+				},
+				{
+					"Name": "Mid-Air Attack Follow-Up Damage",
+					"Lv1": "78.30%",
+					"Lv2": "84.72%",
+					"Lv3": "91.14%",
+					"Lv4": "100.13%",
+					"Lv5": "106.55%",
+					"Lv6": "113.93%",
+					"Lv7": "124.20%",
+					"Lv8": "134.48%",
+					"Lv9": "144.75%",
+					"Lv10": "155.66%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "63.30%*2",
+					"Lv2": "68.49%*2",
+					"Lv3": "73.68%*2",
+					"Lv4": "80.95%*2",
+					"Lv5": "86.14%*2",
+					"Lv6": "92.11%*2",
+					"Lv7": "100.41%*2",
+					"Lv8": "108.72%*2",
+					"Lv9": "117.02%*2",
+					"Lv10": "125.85%*2"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Windqueller",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dash forward a certain distance, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Can be cast in the air. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "53.50%*4",
+					"Lv2": "57.88%*4",
+					"Lv3": "62.27%*4",
+					"Lv4": "68.41%*4",
+					"Lv5": "72.80%*4",
+					"Lv6": "77.84%*4",
+					"Lv7": "84.86%*4",
+					"Lv8": "91.88%*4",
+					"Lv9": "98.90%*4",
+					"Lv10": "106.36%*4"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "7",
+					"Lv2": "7",
+					"Lv3": "7",
+					"Lv4": "7",
+					"Lv5": "7",
+					"Lv6": "7",
+					"Lv7": "7",
+					"Lv8": "7",
+					"Lv9": "7",
+					"Lv10": "7"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "16",
+					"Lv2": "16",
+					"Lv3": "16",
+					"Lv4": "16",
+					"Lv5": "16",
+					"Lv6": "16",
+					"Lv7": "16",
+					"Lv8": "16",
+					"Lv9": "16",
+					"Lv10": "16"
+				}
+			]
+		},
+		{
+			"name": "Emerald Storm: Prelude",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After releasing Emerald Storm: Prelude, Jiyan enters Qingloong Mode.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Qingloong Mode\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan has increased Anti-interruption; Basic Attack, Heavy Attack and Dodge Counter are replaced with Heavy Attack Lance of Qingloong.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Lance of Qingloong\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" continuous attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Heavy Attack damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Lance Of Qingloong Part 1 Damage",
+					"Lv1": "32.95%*8",
+					"Lv2": "35.66%*8",
+					"Lv3": "38.36%*8",
+					"Lv4": "42.14%*8",
+					"Lv5": "44.84%*8",
+					"Lv6": "47.95%*8",
+					"Lv7": "52.28%*8",
+					"Lv8": "56.60%*8",
+					"Lv9": "60.93%*8",
+					"Lv10": "65.52%*8"
+				},
+				{
+					"Name": "Lance Of Qingloong Part 2 Damage",
+					"Lv1": "30.96%*8",
+					"Lv2": "33.49%*8",
+					"Lv3": "36.03%*8",
+					"Lv4": "39.59%*8",
+					"Lv5": "42.13%*8",
+					"Lv6": "45.05%*8",
+					"Lv7": "49.11%*8",
+					"Lv8": "53.17%*8",
+					"Lv9": "57.23%*8",
+					"Lv10": "61.55%*8"
+				},
+				{
+					"Name": "Lance Of Qingloong Part 3 Damage",
+					"Lv1": "33.58%*8",
+					"Lv2": "36.33%*8",
+					"Lv3": "39.08%*8",
+					"Lv4": "42.94%*8",
+					"Lv5": "45.69%*8",
+					"Lv6": "48.86%*8",
+					"Lv7": "53.27%*8",
+					"Lv8": "57.67%*8",
+					"Lv9": "62.08%*8",
+					"Lv10": "66.76%*8"
+				},
+				{
+					"Name": "Qingloong Mode Duration",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "16",
+					"Lv2": "16",
+					"Lv3": "16",
+					"Lv4": "16",
+					"Lv5": "16",
+					"Lv6": "16",
+					"Lv7": "16",
+					"Lv8": "16",
+					"Lv9": "16",
+					"Lv10": "16"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "125",
+					"Lv2": "125",
+					"Lv3": "125",
+					"Lv4": "125",
+					"Lv5": "125",
+					"Lv6": "125",
+					"Lv7": "125",
+					"Lv8": "125",
+					"Lv9": "125",
+					"Lv10": "125"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Qingloong at War",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Resonance Skill Windqueller, if Jiyan has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" or more \\\"Resolve\\\", he consumes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Resolve\\\" to increase the damage of this Resonance Skill Windqueller by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" When Jiyan is in Qingloong Mode, DMG of Resonance Skill Windqueller is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and no longer consumes \\\"Resolve\\\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation: Emerald Storm: Finale\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Resonance Liberation Emerald Storm: Prelude, if Jiyan has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Resolve\\\" or more, he will consume \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Resolve\\\" to cast Emerald Storm: Finale, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Heavy Attack damage.\\nEmerald Storm: Finale can be cast in mid-air at low altitude.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resolve\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Resolve. Jiyan gains \\\"Resolve\\\" when his Normal Attack Lone Lance hits the target. Jiyan gains \\\"Resolve\\\" when the Intro Skill Tactical Strike hits the target. If Jiyan does not hit a target within \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"seconds, his \\\"Resolve\\\" will gradually decrease.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Emerald Storm: Finale Damage",
+					"Lv1": "71.88%*2+215.65%",
+					"Lv2": "77.78%*2+233.33%",
+					"Lv3": "83.67%*2+251.01%",
+					"Lv4": "91.92%*2+275.77%",
+					"Lv5": "97.82%*2+293.45%",
+					"Lv6": "104.60%*2+313.79%",
+					"Lv7": "114.03%*2+342.08%",
+					"Lv8": "123.46%*2+370.38%",
+					"Lv9": "132.89%*2+398.67%",
+					"Lv10": "142.91%*2+428.73%"
+				}
+			]
+		},
+		{
+			"name": "Heavenly Balance",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After casting the Intro Skill Tactical Strike, Jiyan's ATK is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Tempest Taming",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When attacks hit a target, Jiyan's Crit. DMG is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Tactical Strike",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan stabs the target from the air, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "100.00%",
+					"Lv2": "108.20%",
+					"Lv3": "116.40%",
+					"Lv4": "127.88%",
+					"Lv5": "136.08%",
+					"Lv6": "145.51%",
+					"Lv7": "158.63%",
+					"Lv8": "171.75%",
+					"Lv9": "184.87%",
+					"Lv10": "198.81%"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Discipline",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When the next Character's (or other Characters on a nearby team that activates an Outro Skill) Heavy Attack hits the target, Jiyan will summon Qingloong to launch a Coordinated Attack, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Aero DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"313.40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Jiyan's ATK. This attack lasts for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", and can be triggered once every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"times.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan is a 5-star Aero Broadblade wielding DPS that excels at AoE damage and is best suited for Hyper Carry teams as the majority of his damage potential is tied to his Ultimate burst window. Buffing this Ultimate window up as much as possible is incredibly potent and should be your focus when playing Jiyan. Jiyan doesn’t have much to benefit from swap canceling any of his abilities especially during his ultimate burst window. Such tactics often result in a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"damage loss\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for Jiyan during said ultimate, as such Quick-Swap teams have little to offer him.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan recharges his Forte Gauge with his Basic Attacks and Intro Skill accumulating Resolve. You can use 30 points (half bar) of Resolve to enhance either his Resonance Skill increasing its damage dealt by 20% or enhance his Ultimate by incorporating a massive draconic strike to it upon its activation. It is advised strongly to keep Resolve to execute this empowered Ultimate instead compared to enhancing his Resonance Skill, which gives a mediocre result.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His Resonance Skill is a simple spear thrust combining a forward dash with a good amount of Aero Damage and generating decent Concerto Energy and Resonance Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan’s Ultimate Skill makes him enter Qingloong mode, which enhances his standard Basic Attack combo, Heavy Attacks as well as Dodge Counter into a 3 part Heavy Attack Combo named Lance of Qingloong. This summons a gigantic dragon with each executed attack that revolves around Jiyan dealing damage 8 times per attack, as well as sweeping all enemies (excluding most elites, all boss monsters and rooted enemies) into air making them move with the summoned dragon. While in this mode, he is less likely to be stunned or launched owing to increased anti-interruption; thanks to this combined with its massive range and immobilization abilities, his Ultimate Skill is incredibly strong offensively as well as defensively. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan spends the entire duration of his Ultimate Skill on field in order to maximize his DPS, after which he can leave, allowing other characters to step in. However you will still want to switch him in often to cast his low CD Resonance skill to generate enough Resonance Energy to recast his Ultimate in a timely manner. Due to this field time requirement, he needs to be used in Hyper Carry compositions. In return, he brings enormous AoE as well as ST damage to battles during his Ultimate Skill burst rotation while simultaneously inflicting crowd control on most of his enemies and parrying those he can’t, making him a force to be reckoned with.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Considering all he brings to the table, he is extremely easy to play. To attain his incredible DPS output during his burst window, all you need to ensure is that he has all the buffs he requires prior to its casting and that he is generating enough Resonance Energy to recast it as required.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As is appropriate for his Main DPS build, Jiyan aims to maximize his DPS by utilizing damage-focused Echo and set combo.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, Jiyan is currently one of the best DPS for Tower of Adversary and is extremely unlikely to phase out of meta anytime soon, owing to his very strong niche of combined ST and AoE DPS skills complete with crowd control abilities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredible Burst Damage during Ultimate\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"One of the best AoE DPS characters in the game\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can gather and crowd control enemies constantly during ultimate\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can constantly parry most elite and boss enemies during main combo\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Easy and straightforward to play\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales insanely well with sequences if you want to invest more into him\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Completely Ultimate reliant with all his meaningful damage occurring during his ultimate window\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Without correct cooldown management and energy regeneration will feel clunky to play as Ultimate will not be ready in time.\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"voiceActors": {
+		"en": "Alex Jordan",
+		"kr": "Nam Doh Hyeong",
+		"jpn": "Ono Yuki",
+		"cn": "Sun Ye"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT Rate"
+			},
+			{
+				"stat": "CRIT DMG"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Aero DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Aero DMG"
+			},
+			{
+				"stat": "Energy Regen"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Sierra Gale",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Feilian Beringal"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "",
+				"value": "95.68%",
+				"notes": "Lingering Tunes requires time to ramp up and is reset after switching characters (which is a VERY common team tactic in the endgame). This set of calculations assumes that for this character's entire burst window, they are not switched out until the very end.",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Sierra Gale",
+				"name2": "Endless Resonance",
+				"value": "90.89%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Sierra Gale",
+				"name2": "Moonlit Clouds",
+				"value": "87.74%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "Moonlit Clouds",
+				"value": "86.28%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Verdant Summit",
+			"super": "1",
+			"notes": "",
+			"percent": "117.39%"
+		},
+		{
+			"weapon": "Lustrous Razor",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Autumntrace",
+			"super": "5",
+			"notes": "",
+			"percent": "95.60%"
+		},
+		{
+			"weapon": "Autumntrace",
+			"super": "1",
+			"notes": "",
+			"percent": "86.33%"
+		},
+		{
+			"weapon": "Helios Cleaver",
+			"super": "5",
+			"notes": "",
+			"percent": "84.97%"
+		},
+		{
+			"weapon": "Helios Cleaver",
+			"super": "1",
+			"notes": "",
+			"percent": "82.91%"
+		},
+		{
+			"weapon": "Broadblade#41",
+			"super": "5",
+			"notes": "",
+			"percent": "81.65%"
+		},
+		{
+			"weapon": "Broadblade#41",
+			"super": "1",
+			"notes": "",
+			"percent": "78.07%"
+		},
+		{
+			"weapon": "Guardian Broadblade",
+			"super": "5",
+			"notes": "",
+			"percent": "77.36%"
+		},
+		{
+			"weapon": "Broadblade of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "75.56%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK = Heavy DMG%",
+		"substats_comments": "Stack Energy Regen until you reach the recommended threshold or you're satisfied with the speed your Jiyan recovers his ultimate in combat with the team composition and playstyle/rotations you're utilizing. After that, stack CRIT and CRIT DMG while maintaining a ratio of 1% CRIT RATE to 2% CRIT DMG. As a lower priority seek out ATK% and as a much much lower priority if you can pick up some Heavy DMG% or Flat ATK.",
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "CRIT Rate",
+			"value": 8
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": null,
+	"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AERO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Minimum): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15-25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Jiyan is a character that lives or dies by his ultimate and not having it up at the right opportunity can mean tanking his DPS into the floor. Having said that, you can get away with running less Energy Regeneration on him. If you're comfortable in fully landing the majority of your entire burst combo, your echo, AND landing a minimum of 1 (but ideally 2) skills in the warm-up phase go for this energy recharge range. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Conservative): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25-40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - If you want some insurance for when a portion of your burst doesn't hit due to a boss dodging or flying away and or you're not confident in consistently hitting your Echo or 1-2 skills in the warm-up phase go for this energy recharge range instead. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Echo Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 cost - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"CRIT Rate > CRIT DMG > ATK%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE% and CRIT DMG% can each outperform each other in this slot depending on your current CRIT ratio - aim to have 1% CRIT RATE per 2% CRIT DMG. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With most weapons in the game currently, CRIT RATE will be the best choice but if you are using a weapon that grants CRIT RATE already, CRIT DMG% can pull ahead. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Slightly behind in the performance of both of these is ATK% - it's a downgrade but still viable if you get good sub-stats on it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 cost - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Aero DMG% \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Having at least one Aero DMG% is highly recommended. Going without one is a sustainable damage loss.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 cost - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Aero DMG% = Energy Regen >= ATK% \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A flexible slot that is most optimally used for additional Aero DMG% but if your Jiyan is lacking Energy Regen to get his ultimate back in time, grab ER instead. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you're lacking a 2nd good Aero DMG% piece but have a great ATK% piece it can be a good substitute in the meantime. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 cost - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"ATK% \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"howToPlay": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan's Forte Gauge is called Resolve. You can build Resolve with Intro and Basic Attacks and you can spend it to empower Jiyan’s Ultimate turning it into a gigantic AoE nuke or you can spend it to gain 20% increased damage on his skill. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You should always save the Resolve to empower his ultimate or you’ll lose a lot of damage - the intro gives you enough resolve to use the Ultimate nuke so it’s mandatory.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan has many Basic Attack sequences, Heavy Attacks, and aerial sequences which are all nice to use when you don’t need to pull out the big guns of his ultimate. Still, they are less effective in true endgames like Tower of Adversity as they will not be more optimal than just aiming to keep Jiyan’s Ultimate up as much as possible.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan’s skill gives a lot of damage but most importantly also a lot of resonance energy, meaning you wanna use this as much as possible during the rotation. Also, you can try to switch into Jiyan even while executing another character's rotation when the skill is off cooldown to generate more energy for him,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan’s Ultimate is his bread and butter and will allow you to enter Qinglong mode for 10 seconds increasing your resistance to interruption and empowering all your Basic Attacks turning them into dragons and also increasing the damage of your resonance skill by 20%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While in the Qinglong mode, use 1 skill initially then spam Basic Attacks as much as possible. You should be able to fit in 1 skill and 5 basic attacks at a minimum but if you time it perfectly and don’t need to dodge you can get in 6 basics and a skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Follow up your very last Qingloong mode Basic Attack with a basic attack 5 for another big damage burst and a chunk of energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Upon using Jiyan’s Outro be sure to use a Heavy Attack or two to trigger it and reap the damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Pecok Flower",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Roaring Rock Fist",
+			"number": 46
+		},
+		"skill": {
+			"name": "Monument Bell",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Howler Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Howler Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Howler Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Howler Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Waveworn Residue 210",
+				"number": 25
+			},
+			{
+				"name": "Waveworn Residue 226",
+				"number": 28
+			},
+			{
+				"name": "Waveworn Residue 235",
+				"number": 55
+			},
+			{
+				"name": "Waveworn Residue 239",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "DPS",
+	"tierTags": [
+		"AoE",
+		"Ult"
+	],
+	"ratings": {
+		"tower": 11
+	},
+	"isNew": null,
+	"upcoming": null
+}

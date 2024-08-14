@@ -1,0 +1,743 @@
+{
+	"id": "11",
+	"img": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+	"img2": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/logo-unkonw-big1-1fbfa8aa.png",
+	"region": "Unknown",
+	"name": "Rover (Spectro)",
+	"tag": "Spectro",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 4th, 2024",
+	"createdAt": "2024-01-18T14:37:53.367Z",
+	"unitId": "1",
+	"devId": 1501,
+	"slug": "rover-spectro",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#585858",
+					"images": {
+						"fallback": {
+							"src": "/static/33d043cdcced39c96b08f210c4c15d4c/60b4d/rover_icon.webp",
+							"srcSet": "/static/33d043cdcced39c96b08f210c4c15d4c/e73fe/rover_icon.webp 40w,\n/static/33d043cdcced39c96b08f210c4c15d4c/61ca6/rover_icon.webp 80w,\n/static/33d043cdcced39c96b08f210c4c15d4c/60b4d/rover_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#383838",
+					"images": {
+						"fallback": {
+							"src": "/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+							"srcSet": "/static/ec3edb26e6df7f128ff8f9d1226c9a76/84550/rover_card.webp 94w,\n/static/ec3edb26e6df7f128ff8f9d1226c9a76/34f80/rover_card.webp 187w,\n/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/210c80d649ccbda3a969fa319b2c535d/3cd29/rover_full.webp",
+							"srcSet": "/static/210c80d649ccbda3a969fa319b2c535d/e7160/rover_full.webp 250w,\n/static/210c80d649ccbda3a969fa319b2c535d/5f169/rover_full.webp 500w,\n/static/210c80d649ccbda3a969fa319b2c535d/3cd29/rover_full.webp 1000w",
+							"sizes": "(min-width: 1000px) 1000px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 1000,
+					"height": 1000
+				}
+			}
+		}
+	},
+	"rarity": "5",
+	"element": "Spectro",
+	"weapon": "Sword",
+	"introduction": {
+		"raw": 
+		{
+			"nodeType": "document",
+			"data": {},
+			"content": [
+				{
+					"nodeType": "paragraph",
+					"data": {},
+					"content": [
+						{
+							"nodeType": "text",
+							"value": "Awakened with an unknown past, Rover embarks on a journey to uncover the truths. As secrets are unveiled, Rover establishes deeper connections with the world.",
+							"marks": [],
+							"data": {}
+						}
+					]
+				}
+			]
+		}
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover's Crit. Rate is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"7s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"when casting Resonance Skill Resonating Slashes or Resonance Skill Resonating Spin. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover's Energy Regen is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Resonance Liberation Echoing Resonance, Rover continuously restores HP for all team members: HP equal to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Rover's ATK will be restored every second for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover's Resonance Liberation DMG Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Skill Resonating Slashes and Resonance Skill Resonating Spin reduces the target's \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG RES\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" on hit for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20s.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Vibration Manifestation",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover casts up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover consumes Stamina, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Resonance\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Basic Attack III or Heavy Attack, press the Basic Attack button at the right time to perform Heavy Attack Resonance, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Aftertune\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Heavy Attack Resonance or Dodge Counter hits a target, press the Basic Attack button to perform Heavy Attack Aftertune, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover consumes Stamina to perform a Mid-Air Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "29.75%",
+					"Lv2": "32.19%",
+					"Lv3": "34.63%",
+					"Lv4": "38.05%",
+					"Lv5": "40.49%",
+					"Lv6": "43.29%",
+					"Lv7": "47.20%",
+					"Lv8": "51.10%",
+					"Lv9": "55.00%",
+					"Lv10": "59.15%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "38.25%",
+					"Lv2": "41.39%",
+					"Lv3": "44.53%",
+					"Lv4": "48.92%",
+					"Lv5": "52.06%",
+					"Lv6": "55.66%",
+					"Lv7": "60.68%",
+					"Lv8": "65.70%",
+					"Lv9": "70.72%",
+					"Lv10": "76.05%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "7.65%*5",
+					"Lv2": "8.28%*5",
+					"Lv3": "8.91%*5",
+					"Lv4": "9.79%*5",
+					"Lv5": "10.42%*5",
+					"Lv6": "11.14%*5",
+					"Lv7": "12.14%*5",
+					"Lv8": "13.14%*5",
+					"Lv9": "14.15%*5",
+					"Lv10": "15.21%*5"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "65.45%",
+					"Lv2": "70.82%",
+					"Lv3": "76.19%",
+					"Lv4": "83.70%",
+					"Lv5": "89.07%",
+					"Lv6": "95.24%",
+					"Lv7": "103.83%",
+					"Lv8": "112.42%",
+					"Lv9": "121.00%",
+					"Lv10": "130.13%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "98.25%",
+					"Lv2": "106.31%",
+					"Lv3": "114.37%",
+					"Lv4": "125.65%",
+					"Lv5": "133.70%",
+					"Lv6": "142.97%",
+					"Lv7": "155.86%",
+					"Lv8": "168.75%",
+					"Lv9": "181.64%",
+					"Lv10": "195.34%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "9.69%*5",
+					"Lv2": "10.49%*5",
+					"Lv3": "11.28%*5",
+					"Lv4": "12.40%*5",
+					"Lv5": "13.19%*5",
+					"Lv6": "14.10%*5",
+					"Lv7": "15.38%*5",
+					"Lv8": "16.65%*5",
+					"Lv9": "17.92%*5",
+					"Lv10": "19.27%*5"
+				},
+				{
+					"Name": "HA: Resonance Damage",
+					"Lv1": "38.25%",
+					"Lv2": "41.39%",
+					"Lv3": "44.53%",
+					"Lv4": "48.92%",
+					"Lv5": "52.06%",
+					"Lv6": "55.66%",
+					"Lv7": "60.68%",
+					"Lv8": "65.70%",
+					"Lv9": "70.72%",
+					"Lv10": "76.05%"
+				},
+				{
+					"Name": "HA: Aftertune Damage",
+					"Lv1": "63.75%",
+					"Lv2": "68.98%",
+					"Lv3": "74.21%",
+					"Lv4": "81.53%",
+					"Lv5": "86.76%",
+					"Lv6": "92.77%",
+					"Lv7": "101.13%",
+					"Lv8": "109.50%",
+					"Lv9": "117.86%",
+					"Lv10": "126.75%"
+				},
+				{
+					"Name": "Mid-Air Attack Damage",
+					"Lv1": "52.70%",
+					"Lv2": "57.03%",
+					"Lv3": "61.35%",
+					"Lv4": "67.40%",
+					"Lv5": "71.72%",
+					"Lv6": "76.69%",
+					"Lv7": "83.60%",
+					"Lv8": "90.52%",
+					"Lv9": "97.43%",
+					"Lv10": "104.78%"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Resonating Slashes",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover launches an attack forward, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "118.80%",
+					"Lv2": "128.55%",
+					"Lv3": "138.29%",
+					"Lv4": "151.93%",
+					"Lv5": "161.67%",
+					"Lv6": "172.87%",
+					"Lv7": "188.46%",
+					"Lv8": "204.04%",
+					"Lv9": "219.63%",
+					"Lv10": "236.19%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "6",
+					"Lv2": "6",
+					"Lv3": "6",
+					"Lv4": "6",
+					"Lv5": "6",
+					"Lv6": "6",
+					"Lv7": "6",
+					"Lv8": "6",
+					"Lv9": "6",
+					"Lv10": "6"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Echoing Orchestra",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover converges Spectro energy to assail the target area, detonating it after a short interval and dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "100.00%+340.00%",
+					"Lv2": "108.20%+367.88%",
+					"Lv3": "116.40%+395.76%",
+					"Lv4": "127.88%+434.80%",
+					"Lv5": "136.08%+462.68%",
+					"Lv6": "145.51%+494.74%",
+					"Lv7": "158.63%+539.35%",
+					"Lv8": "171.75%+583.95%",
+					"Lv9": "184.87%+628.56%",
+					"Lv10": "198.81%+675.96%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "125",
+					"Lv2": "125",
+					"Lv3": "125",
+					"Lv4": "125",
+					"Lv5": "125",
+					"Lv6": "125",
+					"Lv7": "125",
+					"Lv8": "125",
+					"Lv9": "125",
+					"Lv10": "125"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "World in a Grain of Sand",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill: Resonating Spin\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If \\\"Diminutive Sound\\\" exceeds 50 when Resonance Skill is used, Rover consumes 50 \\\"Diminutive Sound\\\" to cast Resonating Spin, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" considered as Resonance Skill damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill: Resonating Echoes\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Resonance Skill Resonating Spin ends, Rover performs Resonance Skill Resonating Echoes upon pressing the Basic Attack button. Rover performs attacks forward, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" considered as Resonance Skill DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Diminutive Sound\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover can hold up to 100 \\\"Diminutive Sounds\\\". Rover obtains \\\"Diminutive Sound\\\" for every Normal Attack Vibration Manifestation on hit. Rover obtains \\\"Diminutive Sound\\\" for every Heavy Attack aftertune on hit. Rover obtains \\\"Diminutive Sound\\\" upon casting Intro Skill Waveshock.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Resonating Spin Damage",
+					"Lv1": "64.93%*2",
+					"Lv2": "70.25%*2",
+					"Lv3": "75.58%*2",
+					"Lv4": "83.03%*2",
+					"Lv5": "88.35%*2",
+					"Lv6": "94.48%*2",
+					"Lv7": "103.00%*2",
+					"Lv8": "111.51%*2",
+					"Lv9": "120.03%*2",
+					"Lv10": "129.08%*2"
+				},
+				{
+					"Name": "Resonating Whirl Damage",
+					"Lv1": "20.00%",
+					"Lv2": "21.64%",
+					"Lv3": "23.28%",
+					"Lv4": "25.58%",
+					"Lv5": "27.22%",
+					"Lv6": "29.11%",
+					"Lv7": "31.73%",
+					"Lv8": "34.35%",
+					"Lv9": "36.98%",
+					"Lv10": "39.77%"
+				},
+				{
+					"Name": "Resonating Echoes Part 1 Damage",
+					"Lv1": "40.00%",
+					"Lv2": "43.28%",
+					"Lv3": "46.56%",
+					"Lv4": "51.16%",
+					"Lv5": "54.44%",
+					"Lv6": "58.21%",
+					"Lv7": "63.46%",
+					"Lv8": "68.70%",
+					"Lv9": "73.95%",
+					"Lv10": "79.53%"
+				},
+				{
+					"Name": "Resonating Echoes Part 2 Damage",
+					"Lv1": "80.00%",
+					"Lv2": "86.56%",
+					"Lv3": "93.12%",
+					"Lv4": "102.31%",
+					"Lv5": "108.87%",
+					"Lv6": "116.41%",
+					"Lv7": "126.91%",
+					"Lv8": "137.40%",
+					"Lv9": "147.90%",
+					"Lv10": "159.05%"
+				},
+				{
+					"Name": "Resonating Spin Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Resonating Echoes Con. Energy Regen",
+					"Lv1": "8",
+					"Lv2": "8",
+					"Lv3": "8",
+					"Lv4": "8",
+					"Lv5": "8",
+					"Lv6": "8",
+					"Lv7": "8",
+					"Lv8": "8",
+					"Lv9": "8",
+					"Lv10": "8"
+				}
+			]
+		},
+		{
+			"name": "Reticence",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Damage dealt by Rover's Resonance Skill Resonating Echoes is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"60%.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Silent Listener",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Rover's ATK is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"upon casting Heavy Attack Resonance.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Waveshock",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rover attacks the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "85.00%",
+					"Lv2": "91.97%",
+					"Lv3": "98.94%",
+					"Lv4": "108.70%",
+					"Lv5": "115.67%",
+					"Lv6": "123.69%",
+					"Lv7": "134.84%",
+					"Lv8": "145.99%",
+					"Lv9": "157.14%",
+					"Lv10": "168.99%"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Instant",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Rover generates an area of stasis surrounding the next character (or other characters on a nearby team that activates an Outro Skill) over \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Rover is the main character in Wuthering Waves\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", starting as a Spectro-based Hybrid character who is a jack-of-all-trades, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"splitting their focus between dealing damage and controlling the battlefield\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". In the future, you can expect other elemental variants of the Rover that use different Weapons to be released, similar to other games in the genre, but for now, you will be stuck with the Spectro variant, so let's dig into what they offer. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Rover tries to do many things at once and while they can perform adequately well in all of them, they aren’t top of their role at anything\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - which early on isn't that big of a downside but as you obtain more characters, you will most likely want to switch to them due their more specialized roles. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Rover's damage is some of the highest of any hybrid character without considering coordinated attacks\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", partially thanks to their high base stats, and the fact you get all their sequences for free (many of which are damage boosts). In the CBT2 they were often played with damage-focused builds capitalizing on their fast and precise attack frames that allow for effective parrying against endgame bosses. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On top of the damage, Rover's Outro brings great utility thanks to the time-stop bubble, allowing you to control enemies, opening up an easier time to dodge attacks or pummel the enemy with a combo without worrying about missing. While this controlling effect is unique and strong it does mean Rovers don't offer a Deepen damage bonus, making them less valuable in teams focusing on going all in on a main damage character. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As mentioned, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"you unlock Rover's Sequences for free\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", which doubles down on Rovers jack of all trades nature opening up new playstyles and also buffing capabilities. After unlocking them all, they gain the ability to heal the team (at S4) and a unique Spectro RES shred against enemies hit by their skill (at S6) all on top of course more damage capabilities. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Rover's a great free character who is easy to learn and can be played in ways with a variety of builds\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", allowing them to 'fill in' for whatever you're missing - especially considering that for the endgame, you need 3 teams, in 1.0 you’ll likely always find a use for them. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Boasts a good combination of damage and utility,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can quickly fill their Forte Gauge,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"All Sequences are available for free,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fast and precise attack frames that make parrying easier,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High utility outro, opening enemies for an easy combo or a quick escape.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While early on, they will feel really strong due to the free Sequences, the rest of the cast will catch up once you start getting theirs,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While the damage output is really good, it still lags behind the dedicated main DPS, and at the same time, their Outro is a CC effect, not a buff, making it hard to find a place for them in most endgame best-in-slot compositions.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Jane Jackson / Chase Brown",
+		"kr": "Song Ha Rim /  Kim Sin Woo",
+		"jpn": " Tanaka Minami / Toshiki Masuda",
+		"cn": "Du QingQing / Ma Yang"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Spectro DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Spectro DMG"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Celestial Light",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Mourning Aix"
+			},
+			{
+				"name": "Celestial Light",
+				"name2": "Endless Resonance",
+				"value": "92.07%",
+				"notes": "",
+				"main_echo": "Mourning Aix"
+			},
+			{
+				"name": "Celestial Light",
+				"name2": "Moonlit Clouds",
+				"value": "88.57%",
+				"notes": "",
+				"main_echo": "Mourning Aix"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "Moonlit Clouds",
+				"value": "88.11%",
+				"notes": "",
+				"main_echo": "Mourning Aix"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Emerald of Genesis",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Commando of Conviction",
+			"super": "1",
+			"notes": "",
+			"percent": "80.50%"
+		},
+		{
+			"weapon": "Lunar Cutter",
+			"super": "1",
+			"notes": "",
+			"percent": "78.66%"
+		},
+		{
+			"weapon": "Lumingloss",
+			"super": "1",
+			"notes": "",
+			"percent": "76.08%"
+		},
+		{
+			"weapon": "Sword#18",
+			"super": "1",
+			"notes": "",
+			"percent": "76.08%"
+		},
+		{
+			"weapon": "Sword of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "71.89%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "Spectro DMG",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": null,
+	"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2300+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(72-102% with Sequence 2) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-60%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-120%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(0-5% with Sequence 4) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Pecok Flower",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Mysterious Code",
+			"number": 5
+		},
+		"skill": {
+			"name": "Unending Destruction",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Whisperin Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Whisperin Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Whisperin Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Whisperin Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Inert Metallic Drip",
+				"number": 25
+			},
+			{
+				"name": "Reactive Metallic Drip",
+				"number": 28
+			},
+			{
+				"name": "Polarized Metallic Drip",
+				"number": 55
+			},
+			{
+				"name": "Heterized Metallic Drip",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-22",
+	"tierCategory": "Hybrid",
+	"tierTags": [
+		"Cleave",
+		"Heal",
+		"Multirole"
+	],
+	"ratings": {
+		"tower": 9
+	},
+	"isNew": null,
+	"upcoming": null
+}

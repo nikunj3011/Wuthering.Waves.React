@@ -1,0 +1,892 @@
+{
+	"id": "20",
+	"img": "https://www.prydwen.gg/static/136095b0f95ac4be3ddc7e2d585855bf/b26e2/jihni_card.webp",
+	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/jinxi-super-ce098a6f.jpg",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
+	"name": "Jinhsi",
+	"tag": "Spectro",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 21st, 2024",
+	"createdAt": "2024-05-27T06:27:31.285Z",
+	"unitId": "20",
+	"devId": null,
+	"slug": "jinhsi",
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/136095b0f95ac4be3ddc7e2d585855bf/b26e2/jihni_card.webp",
+							"srcSet": "/static/136095b0f95ac4be3ddc7e2d585855bf/84550/jihni_card.webp 94w,\n/static/136095b0f95ac4be3ddc7e2d585855bf/34f80/jihni_card.webp 187w,\n/static/136095b0f95ac4be3ddc7e2d585855bf/b26e2/jihni_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Spectro",
+	"weapon": "Broadblade",
+	"introduction": {
+		"raw": {
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Jinhsi, Magistrate of Jinzhou, gently brightens the hopes of her people, like rays of winter sunlight. As the revered Sentinel's Appointed Resonator, she displays humility and wholeheartedly commits herself to guiding her people towards a brilliant future. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Basic Attack \\\"Incarnation - Basic Attack\\\" or Resonance Skill Crescent Divinity, Jinhsi gains one stack of Herald of Revival, stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" times and lasting for 6s. When casting Resonance Skill Illuminous Epiphany, Jinhsi consumes all stacks of Herald of Revival. Each stack increases the damage of Resonance Skill Illuminous Epiphany by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinhsi restores \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Incandescence while staying out of combat for more than 4s. This effect can only be triggered \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s) every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinhsi gains one stack of Immortal's Descendancy after casting Intro Skill Loong's Halo. Each stack of Immortal's Descendancy increases Jinhsi's ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s) and lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Jinhsi casts Resonance Liberation Purge of Light or Resonance Skill Illuminous Epiphany, all nearby Resonators on the team gain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Attribute DMG Bonus for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG Multiplier of Resonance Liberation Purge of Light is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 120%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The DMG Multiplier of Resonance Skill Illuminous Epiphany is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"45%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and the additional DMG Multiplier gained by consuming Incandescence is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"45%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Slash of Breaking Dawn",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic Attack\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Perform up to 4 consecutive strikes, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Heavy Attack\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Perform a charged attack at the cost of Stamina, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Mid-air Attack\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Perform a plunging attack while in mid-air at the cost of Stamina, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG.\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Dodge Counter\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Use Basic Attack after a successful Dodge to counterattack, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": [
+				{
+					"Name": "Stage 1 DMG",
+					"Lv1": "33.43%",
+					"Lv2": "36.18%",
+					"Lv3": "38.92%",
+					"Lv4": "42.75%",
+					"Lv5": "45.50%",
+					"Lv6": "48.65%",
+					"Lv7": "53.03%",
+					"Lv8": "57.42%",
+					"Lv9": "61.81%",
+					"Lv10": "66.47%"
+				},
+				{
+					"Name": "Stage 2 DMG",
+					"Lv1": "19.61% + 9.81%*3",
+					"Lv2": "21.22% + 10.61%*3",
+					"Lv3": "22.83% + 11.42%*3",
+					"Lv4": "25.08% + 12.54%*3",
+					"Lv5": "26.69% + 13.35%*3",
+					"Lv6": "28.54% + 14.27%*3",
+					"Lv7": "31.11% + 15.56%*3",
+					"Lv8": "33.68% + 16.84%*3",
+					"Lv9": "36.26% + 18.13%*3",
+					"Lv10": "38.99% + 19.50%*3"
+				},
+				{
+					"Name": "Stage 3 DMG",
+					"Lv1": "5.36%*7 + 16.07%",
+					"Lv2": "5.80%*7 + 17.39%",
+					"Lv3": "6.24%*7 + 18.70%",
+					"Lv4": "6.85%*7 + 20.55%",
+					"Lv5": "7.29%*7 + 21.86%",
+					"Lv6": "7.80%*7 + 23.38%",
+					"Lv7": "8.50%*7 + 25.49%",
+					"Lv8": "9.20%*7 + 27.59%",
+					"Lv9": "9.90%*7 + 29.70%",
+					"Lv10": "10.65%*7 + 31.94%"
+				},
+				{
+					"Name": "Stage 4 DMG",
+					"Lv1": "31.74% + 47.60%",
+					"Lv2": "34.34% + 51.51%",
+					"Lv3": "36.94% + 55.41%",
+					"Lv4": "40.58% + 60.87%",
+					"Lv5": "43.19% + 64.78%",
+					"Lv6": "46.18% + 69.26%",
+					"Lv7": "50.34% + 75.51%",
+					"Lv8": "54.50% + 81.75%",
+					"Lv9": "58.67% + 88.00%",
+					"Lv10": "63.09% + 94.63%"
+				},
+				{
+					"Name": "Heavy Attack DMG",
+					"Lv1": "12.00%*5 + 18.00% + 42.00%",
+					"Lv2": "12.99%*5 + 19.48% + 45.45%",
+					"Lv3": "13.97%*5 + 20.96% + 48.89%",
+					"Lv4": "15.35%*5 + 23.02% + 53.71%",
+					"Lv5": "16.33%*5 + 24.50% + 57.16%",
+					"Lv6": "17.47%*5 + 26.20% + 61.12%",
+					"Lv7": "19.04%*5 + 28.56% + 66.63%",
+					"Lv8": "20.61%*5 + 30.92% + 72.14%",
+					"Lv9": "22.19%*5 + 33.28% + 77.65%",
+					"Lv10": "23.86%*5 + 35.79% + 83.51%"
+				},
+				{
+					"Name": "Mid-air Attack DMG",
+					"Lv1": "6.20% + 12.40% + 43.40%",
+					"Lv2": "6.71% + 13.42% + 46.96%",
+					"Lv3": "7.22% + 14.44% + 50.52%",
+					"Lv4": "7.93% + 15.86% + 55.50%",
+					"Lv5": "8.44% + 16.88% + 59.06%",
+					"Lv6": "9.03% + 18.05% + 63.16%",
+					"Lv7": "9.84% + 19.68% + 68.85%",
+					"Lv8": "10.65% + 21.30% + 74.54%",
+					"Lv9": "11.47% + 22.93% + 80.24%",
+					"Lv10": "12.33% + 24.66% + 86.29%"
+				},
+				{
+					"Name": "Dodge Counter DMG",
+					"Lv1": "7.38%*7 + 22.14%",
+					"Lv2": "7.99%*7 + 23.96%",
+					"Lv3": "8.59%*7 + 25.77%",
+					"Lv4": "9.44%*7 + 28.32%",
+					"Lv5": "10.05%*7 + 30.13%",
+					"Lv6": "10.74%*7 + 32.22%",
+					"Lv7": "11.71%*7 + 35.12%",
+					"Lv8": "12.68%*7 + 38.03%",
+					"Lv9": "13.65%*7 + 40.93%",
+					"Lv10": "14.68%*7 + 44.02%"
+				},
+				{
+					"Name": "Heavy Attack STA Cost",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-air Attack STA Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Trailing Lights of Eons",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Dash forward and perform consecutive strikes that inflict \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG.\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"\\n\\n\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Overflowing Radiance\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After Jinhsi uses Basic Attack \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" or, while not in Incarnation, Intro Skill Loong's Halo, an alternative Resonance Skill Overflowing Radiance is available within \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Skill Overflowing Radiance inflicts \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and sends Jinhsi into Incarnation.\\nCan be cast in mid-air. \",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill DMG",
+					"Lv1": "9.79%*4 + 39.15%",
+					"Lv2": "10.60%*4 + 42.37%",
+					"Lv3": "11.40%*4 + 45.58%",
+					"Lv4": "12.52%*4 + 50.07%",
+					"Lv5": "13.32%*4 + 53.28%",
+					"Lv6": "14.25%*4 + 56.97%",
+					"Lv7": "15.53%*4 + 62.11%",
+					"Lv8": "16.82%*4 + 67.25%",
+					"Lv9": "18.10%*4 + 72.38%",
+					"Lv10": "19.46%*4 + 77.84%"
+				},
+				{
+					"Name": "Overflowing Radiance DMG",
+					"Lv1": "4.96%*4 + 14.88%*4 + 19.84%",
+					"Lv2": "5.37%*4 + 16.11%*4 + 21.47%",
+					"Lv3": "5.78%*4 + 17.33%*4 + 23.10%",
+					"Lv4": "6.35%*4 + 19.03%*4 + 25.38%",
+					"Lv5": "6.75%*4 + 20.25%*4 + 27.00%",
+					"Lv6": "7.22%*4 + 21.66%*4 + 28.87%",
+					"Lv7": "7.87%*4 + 23.61%*4 + 31.48%",
+					"Lv8": "8.52%*4 + 25.56%*4 + 34.08%",
+					"Lv9": "9.17%*4 + 27.51%*4 + 36.68%",
+					"Lv10": "9.87%*4 + 29.59%*4 + 39.45%"
+				},
+				{
+					"Name": "Incarnation Duration",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "3",
+					"Lv2": "3",
+					"Lv3": "3",
+					"Lv4": "3",
+					"Lv5": "3",
+					"Lv6": "3",
+					"Lv7": "3",
+					"Lv8": "3",
+					"Lv9": "3",
+					"Lv10": "3"
+				},
+				{
+					"Name": "Overflowing Radiance Cooldown",
+					"Lv1": "12",
+					"Lv2": "12",
+					"Lv3": "12",
+					"Lv4": "12",
+					"Lv5": "12",
+					"Lv6": "12",
+					"Lv7": "12",
+					"Lv8": "12",
+					"Lv9": "12",
+					"Lv10": "12"
+				},
+				{
+					"Name": "Overflowing Radiance Concerto Regen",
+					"Lv1": "4",
+					"Lv2": "4",
+					"Lv3": "4",
+					"Lv4": "4",
+					"Lv5": "4",
+					"Lv6": "4",
+					"Lv7": "4",
+					"Lv8": "4",
+					"Lv9": "4",
+					"Lv10": "4"
+				}
+			]
+		},
+		{
+			"name": "Purge of Light",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unleash the power of invocation to deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Can be cast in mid-air. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill DMG",
+					"Lv1": "251.40% + 586.60%",
+					"Lv2": "272.02% + 634.71%",
+					"Lv3": "292.63% + 682.81%",
+					"Lv4": "321.50% + 750.15%",
+					"Lv5": "342.11% + 798.25%",
+					"Lv6": "365.82% + 853.57%",
+					"Lv7": "398.80% + 930.53%",
+					"Lv8": "431.78% + 1007.49%",
+					"Lv9": "464.77% + 1084.45%",
+					"Lv10": "499.81% + 1166.22%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "24",
+					"Lv2": "24",
+					"Lv3": "24",
+					"Lv4": "24",
+					"Lv5": "24",
+					"Lv6": "24",
+					"Lv7": "24",
+					"Lv8": "24",
+					"Lv9": "24",
+					"Lv10": "24"
+				},
+				{
+					"Name": "Resonance Cost",
+					"Lv1": "150",
+					"Lv2": "150",
+					"Lv3": "150",
+					"Lv4": "150",
+					"Lv5": "150",
+					"Lv6": "150",
+					"Lv7": "150",
+					"Lv8": "150",
+					"Lv9": "150",
+					"Lv10": "150"
+				},
+				{
+					"Name": "Concerto Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Luminal Synthesis",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Incarnation\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"While in Incarnation:\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Basic Attack \\\"Incarnation - Basic Attack\\\" becomes available. Perform up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" consecutive strikes, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" considered as Resonance Skill DMG. The basic attack cycle of this will not be reset. Can be cast in mid-air.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Resonance Skill \\\"Crescent Divinity\\\" becomes available. Deal \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Can be cast in mid-air.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Heavy Attack \\\"Incarnation - Heavy Attack\\\" becomes available. Attack the target in mid-air at the cost of Stamina, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Dodge \\\"Incarnation - Dodge\\\" is available while in mid-air. Can be cast multiple times at the cost of Stamina.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Dodge Counter \\\"Incarnation - Dodge Counter\\\" becomes available. Deal Spectro DMG. Can be cast in mid-air. \",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Skill - Illuminous Epiphany\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After Stage 4 of Incarnation - Basic Attack, Incarnation terminates and Jinhsi gains Ordination Glow. Can be cast in mid-air.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"While Ordination Glow lasts:\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic Attack is replaced with Heavy Attack \\\"Incarnation - Heavy Attack\\\". Attack the target in mid-air at the cost of Stamina, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Skill is replaced with Resonance Skill \\\"Illuminous Epiphany\\\". Send out Solar Flare that detonates as Stella Glamor, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" after a short delay. Consume up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Incandescence, with each point of Incandescence granting bonus DMG Multiplier percentage to Stella Glamor. Can be cast in mid-air.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After casting Resonance Skill Illuminous Epiphany, Jinhsi gains Unison. This can be triggered once every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"25s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Unison\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"While Jinhsi has Unison, switching to other Resonators will remove Jinhsi's Unison to trigger Jinhsi's Outro Skill and the incoming Resonator's Intro Skill. Unison will be consumed in priority in place of Concerto Energy when Concerto Energy is full.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Incandescence\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Jinhsi can hold up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Incandescence.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Jinhsi is in the party, all nearby Resonators in the party gain Eras in Unity.\\nEras in Unity provides \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" independent effects:\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Jinhsi gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Incandescence anytime Resonators in the party inflict Attribute DMG. This effect may be triggered by damage of the same Attribute for up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s) every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Additionally, Jinhsi gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Incandescence when Resonators in the party damage the enemy with Coordinated Attacks. This effect may be triggered by Coordinated Attacks of the same Attribute for up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s) every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": [
+				{
+					"Name": "Incarnation: Basic Attack 1 DMG",
+					"Lv1": "44.58%",
+					"Lv2": "48.23%",
+					"Lv3": "51.89%",
+					"Lv4": "57.00%",
+					"Lv5": "60.66%",
+					"Lv6": "64.86%",
+					"Lv7": "70.71%",
+					"Lv8": "76.56%",
+					"Lv9": "82.41%",
+					"Lv10": "88.62%"
+				},
+				{
+					"Name": "Incarnation: Basic Attack 2 DMG",
+					"Lv1": "39.22% + 13.08% + 13.08%",
+					"Lv2": "42.44% + 14.15% + 14.15%",
+					"Lv3": "45.65% + 15.22% + 15.22%",
+					"Lv4": "50.16% + 16.72% + 16.72%",
+					"Lv5": "53.37% + 17.79% + 17.79%",
+					"Lv6": "57.07% + 19.03% + 19.03%",
+					"Lv7": "62.22% + 20.74% + 20.74%",
+					"Lv8": "67.36% + 22.46% + 22.46%",
+					"Lv9": "72.51% + 24.17% + 24.17%",
+					"Lv10": "77.97% + 25.99% + 25.99%"
+				},
+				{
+					"Name": "Incarnation: Basic Attack 3 DMG",
+					"Lv1": "50.02% + 33.35%",
+					"Lv2": "54.12% + 36.08%",
+					"Lv3": "58.23% + 38.82%",
+					"Lv4": "63.97% + 42.65%",
+					"Lv5": "68.07% + 45.38%",
+					"Lv6": "72.79% + 48.53%",
+					"Lv7": "79.35% + 52.90%",
+					"Lv8": "85.91% + 57.28%",
+					"Lv9": "92.47% + 61.65%",
+					"Lv10": "99.44% + 66.30%"
+				},
+				{
+					"Name": "Incarnation: Basic Attack 4 DMG",
+					"Lv1": "9.39%*6 + 37.56%",
+					"Lv2": "10.16%*6 + 40.64%",
+					"Lv3": "10.93%*6 + 43.72%",
+					"Lv4": "12.01%*6 + 48.03%",
+					"Lv5": "12.78%*6 + 51.11%",
+					"Lv6": "13.67%*6 + 54.65%",
+					"Lv7": "14.90%*6 + 59.58%",
+					"Lv8": "16.13%*6 + 64.51%",
+					"Lv9": "17.36%*6 + 69.44%",
+					"Lv10": "18.67%*6 + 74.67%"
+				},
+				{
+					"Name": "Incarnation: Heavy Attack DMG",
+					"Lv1": "24.00% + 56.00%",
+					"Lv2": "25.97% + 60.60%",
+					"Lv3": "27.94% + 65.19%",
+					"Lv4": "30.70% + 71.62%",
+					"Lv5": "32.66% + 76.21%",
+					"Lv6": "34.93% + 81.49%",
+					"Lv7": "38.08% + 88.84%",
+					"Lv8": "41.22% + 96.18%",
+					"Lv9": "44.37% + 103.53%",
+					"Lv10": "47.72% + 111.34%"
+				},
+				{
+					"Name": "Incarnation: Dodge Counter DMG",
+					"Lv1": "22.08% + 16.56%*2 + 55.19%",
+					"Lv2": "23.89% + 17.92%*2 + 59.71%",
+					"Lv3": "25.70% + 19.27%*2 + 64.24%",
+					"Lv4": "28.23% + 21.17%*2 + 70.57%",
+					"Lv5": "30.04% + 22.53%*2 + 75.10%",
+					"Lv6": "32.12% + 24.09%*2 + 80.30%",
+					"Lv7": "35.02% + 26.27%*2 + 87.54%",
+					"Lv8": "37.91% + 28.44%*2 + 94.78%",
+					"Lv9": "40.81% + 30.61%*2 + 102.02%",
+					"Lv10": "43.89% + 32.92%*2 + 109.71%"
+				},
+				{
+					"Name": "Crescent Divinity DMG",
+					"Lv1": "50.68% + 38.01%*2 + 126.70%",
+					"Lv2": "54.84% + 41.13%*2 + 137.09%",
+					"Lv3": "59.00% + 44.25%*2 + 147.48%",
+					"Lv4": "64.81% + 48.61%*2 + 162.03%",
+					"Lv5": "68.97% + 51.73%*2 + 172.42%",
+					"Lv6": "73.75% + 55.31%*2 + 184.37%",
+					"Lv7": "80.40% + 60.30%*2 + 200.99%",
+					"Lv8": "87.05% + 65.29%*2 + 217.61%",
+					"Lv9": "93.70% + 70.27%*2 + 234.24%",
+					"Lv10": "100.76% + 75.57%*2 + 251.90%"
+				},
+				{
+					"Name": "Illuminous Epiphany: Solar Flare DMG",
+					"Lv1": "10.00%*6",
+					"Lv2": "10.82%*6",
+					"Lv3": "11.64%*6",
+					"Lv4": "12.79%*6",
+					"Lv5": "13.61%*6",
+					"Lv6": "14.56%*6",
+					"Lv7": "15.87%*6",
+					"Lv8": "17.18%*6",
+					"Lv9": "18.49%*6",
+					"Lv10": "19.89%*6"
+				},
+				{
+					"Name": "Illuminous Epiphany: Stella Glamor DMG",
+					"Lv1": "175.00%",
+					"Lv2": "189.35%",
+					"Lv3": "203.70%",
+					"Lv4": "223.79%",
+					"Lv5": "238.14%",
+					"Lv6": "254.65%",
+					"Lv7": "277.61%",
+					"Lv8": "300.57%",
+					"Lv9": "323.53%",
+					"Lv10": "347.92%"
+				},
+				{
+					"Name": "Additional multiplier per Incandescence",
+					"Lv1": "22.40%",
+					"Lv2": "24.24%",
+					"Lv3": "26.08%",
+					"Lv4": "28.65%",
+					"Lv5": "30.49%",
+					"Lv6": "32.60%",
+					"Lv7": "35.54%",
+					"Lv8": "38.48%",
+					"Lv9": "41.42%",
+					"Lv10": "44.54%"
+				},
+				{
+					"Name": "Incarnation: Heavy Attack STA Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				},
+				{
+					"Name": "Incarnation: Dodge STA Cost",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Ordination Glow Duration",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				},
+				{
+					"Name": "Unison Duration",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				},
+				{
+					"Name": "Crescent Divinity Cooldown",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Crescent Divinity Concerto Regen",
+					"Lv1": "8",
+					"Lv2": "8",
+					"Lv3": "8",
+					"Lv4": "8",
+					"Lv5": "8",
+					"Lv6": "8",
+					"Lv7": "8",
+					"Lv8": "8",
+					"Lv9": "8",
+					"Lv10": "8"
+				},
+				{
+					"Name": "Illuminous Epiphany Concerto Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Radiant Surge",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Jinhsi's \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Bonus is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Converged Flash",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"DMG Multiplier of Intro Skill Loong's Halo is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Loong's Halo",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill DMG",
+					"Lv1": "80.00%",
+					"Lv2": "86.56%",
+					"Lv3": "93.12%",
+					"Lv4": "102.31%",
+					"Lv5": "108.87%",
+					"Lv6": "116.41%",
+					"Lv7": "126.91%",
+					"Lv8": "137.40%",
+					"Lv9": "147.90%",
+					"Lv10": "159.05%"
+				},
+				{
+					"Name": "Concerto Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Temporal Bender",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Summoning the power homologous with the Sentinel, Jinhsi may now gain Incandescence via Eras in Unity from damage of the same Attribute more effectively, at \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s) every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinshi is a 5-star Spectro Broadblade wielding DPS featuring a unique playstyle with a skIllset centered around managing her special resource with normal and co-ordinated attacks leading to tremendous burst damage. Jinshi is also a user of Aerial combat, albeit much easier than Lingyang thanks to various abilities and quirks she can utilize while airborne. Her unique gameplay consists of repeatedly executing an absurd Cleave burst damage combo every time an ally triggers their Concerto Skill while having their Outro available.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Forte is her core ability, which consists of two parts; firstly, it allows her to generate a unique resource - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Incandescence \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"- via her own and her allies’ attacks, which she can consume to increase her burst damage. The second part is Incarnation State, an empowered state activated by using her Enhanced Resonance Skill; Overflowing Radiance, which enhances all her abilities. More on this below.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinshi can accumulate up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50 Incandescence,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" all of which can be consumed to immensely increase the damage of her strongest Resonance Skill, Luminous Epiphany. Higher counts of Incandescence unsurprisingly leads to higher damage. She can gain Incandescence in following ways:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"1 stack of Incandescence every time any teammate deals damage, with a cooldown of 3 seconds,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"2 stacks of Incandescence every time an ally launches a coordinated attack, with a separate cooldown of 3 seconds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These two effects can be triggered simultaneously by a single coordinated attack, allowing her to gain 3 Incandescence every 3 seconds. What’s more, she can trigger these cooldowns once per Elemental type in the team composition, allowing her to generate 3 Incandescence every 3 seconds per Elemental type (Electro, Spectro, Fusion etc). This makes teams with multiple coordinated attackers of different Elemental types optimal for her. Upon performing her Outro skill, she receives a buff reducing the cooldown of both abilities to 1 second from 3 second, facilitating even faster generation of Incandescence.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Incarnation \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"is an essential part of Jinshi’s kit and triggering it sends you airborne similar to Lingyang’s Ultimate. However, unlike Lingyang’s Ultimate, it’s much stronger and easier to control, and most importantly, the majority of her abilities can be used while flying. The optimal play would be spending all of your field time within the Incarnation state, which is relatively easy, owing to Overflowing Radiance having a cooldown of a mere 12 seconds. Jinshi gains access to her most potent combos and abilities in this state, especially her Enhanced Basic Attacks and 2nd and 3rd Enhanced Resonance Skill, making it the obvious best option for her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinshi’s Resonance Skill features 4 different variants (the most out of any character in the game) - 1 Standard version and 3 Enhanced versions - with each of them being able to cast in succession, assuming conditions are met. While it seems intimidating on paper, it is actually quite easy when actually playing her. A quick summary of the skills:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Default Resonance Skill\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Jinshi’s default Resonance Skill can be activated without any conditions. It deals Spectro damage accompanied by a small dash, has a cooldown of 3 seconds, and is almost never used as a part of her standard rotations (thus, you can ignore worrying about it).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Overflowing Radiance\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Jinshi’s first Empowered Resonance Skill requires you to perform the 4th attack of her Unenhanced Basic Attack combo or use her Intro ability. Using it deals Spectro damage and allows Jinshi to enter the Incarnation state. It has a cooldown of 12 seconds and is her bread and butter, making you want to keep this ability on cooldown at all times if possible.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Crescent Divinity\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Jinshi’s second Empowered Resonance Skill requires her to be in the Incarnation state to utilize it. Using it deals a strong amount of Spectro damage with a cooldown of 10 seconds, and is almost always used immediately after entering the Incarnation state. You can think of this ability as Part 2 of Overflowing Radiance as they’re always used together.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Luminous Epiphany\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Jinshi’s third and last Empowered Resonance Skill requires her to perform the 4th attack of her Enhanced Incarnation Basic Attack while in the Incarnation state. Using it deals an immense amount of Spectro damage, consuming all of Jinshi’s accumulated Incandescence stacks to deal even more damage. This should only be used once per rotation and is almost always the final attack she uses before switching out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This flow of skills is basically what Jinshi’s playstyle is all about, before taking into account her Echo or Ultimate Skill. Trigger Jinshi’s Intro skill to gain access to Overflowing Radiance, then use it followed by Crescent Divinity, 4 Enhanced Basic Attacks, and finally Luminous Epiphany before switching out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Ultimate skill deals massive Spectro damage in a cleave attack. While it generates a good amount of Concerto Energy, it costs a whopping 150 Resonance Energy to cast. Her Ultimate should be utilized as soon as available to prevent Resonance Energy wastage and it can be uniquely casted while Airborne, something incredibly relevant when utilizing her Forte Gauge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She has a particularly large field time requirement due to constantly doing swap-ins to deal short bursts of damage, since her potential is tied to starting off her rotation with an Intro Skill then triggering Resonance skills as soon as they are off cooldown to build Concerto quickly on allies. Despite sounding complicated, Jinshi is extremely easy to play with only the considerations being who to swap in after her rotation completion, maximizing teammates Concerto generation, and coordinated attacks uptime.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Owing to her unmatched cleave damage and one of the best, if not the best Single Target damage, Jinshi stands at top of the meta in its current state. It is further boosted by a diverse choice of teammates she can work amicably with, allowing anyone to make good use of her. All she really wants is teammates that are capable of coordinated attacks, preferably of different Elemental types. Featuring a complex but easy to execute kit and rotation, she exhibits great future potential and redeems aerial combat in a big way. Her kit has more than what we have just mentioned in this review - which you should familiarize yourself with by checking out her team building synergies and rotation page.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While airborne in the Incarnation state Jinshi can avoid many types of attacks from enemies, reducing the chance she'll be hit even though her movement is restricted.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Many of her attacks feature dashing components which can often result in bosses and monsters missing you even without the need to dodge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Despite spending much of her time in the air due to all her dashes and semi-ranged attacks she does not struggle in gameplay unlike Lingyang.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredibly easy and simple to play for how much damage she deals.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Some of the highest burst and sustained damage in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has room to grow in the future as new coordinated attackers are released.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Always has an Outro ready thanks to her special ability Eras in Unity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her best damage combos all require her to perform an Intro (not hard to play around but a small restriction).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While in the Incarnation state and airborne, Jinshi is more prone to taking damage than other characters during her rotation.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Prefers to be played with coordinated attackers as both her teammates, limiting her current potential partners somewhat (although she still has incredible options).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Anna Devlin",
+		"kr": "Park Ha Jin",
+		"jpn": "Yoshino Aoyama",
+		"cn": "Jiang Yue"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT Rate"
+			},
+			{
+				"stat": "CRIT DMG"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Spectro DMG"
+			},
+			{
+				"stat": "ATK"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Spectro DMG"
+			},
+			{
+				"stat": "ATK"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Celestial Light",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Feilian Beringal"
+			},
+			{
+				"name": "Celestial Light",
+				"name2": "Endless Resonance",
+				"value": "91.19%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Celestial Light",
+				"name2": "Moonlit Clouds",
+				"value": "90.84%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "Moonlit Clouds",
+				"value": "89.91%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Ages of Harvest",
+			"super": "1",
+			"notes": "",
+			"percent": "118.13%"
+		},
+		{
+			"weapon": "Verdant Summit",
+			"super": "1",
+			"notes": "",
+			"percent": "101.34%"
+		},
+		{
+			"weapon": "Lustrous Razor",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Broadblade#41",
+			"super": "5",
+			"notes": "",
+			"percent": "85.86%"
+		},
+		{
+			"weapon": "Helios Cleaver",
+			"super": "5",
+			"notes": "",
+			"percent": "84.99%"
+		},
+		{
+			"weapon": "Helios Cleaver",
+			"super": "1",
+			"notes": "",
+			"percent": "82.08%"
+		},
+		{
+			"weapon": "Broadblade#41",
+			"super": "1",
+			"notes": "",
+			"percent": "81.99%"
+		},
+		{
+			"weapon": "Autumntrace",
+			"super": "1",
+			"notes": "",
+			"percent": "79.88%"
+		},
+		{
+			"weapon": "Broadblade of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "75.34%"
+		},
+		{
+			"weapon": "Guardian Broadblade",
+			"super": "5",
+			"notes": "",
+			"percent": "70.73%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Resonance Skill DMG% > Flat ATK ",
+		"substats_comments": "",
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "CRIT Rate",
+			"value": 8
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": [
+		{
+			"video": "u8S130y-ois"
+		}
+	],
+	"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+	"endgameStats": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"ATK: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2000-2400+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"HP: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15000+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"DEF: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1250+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"SPECTRO DMG%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"60%-90% (including Inherent skill)\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT RATE%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"55-75%+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT DMG% \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"110-150%+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Energy Regeneration: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"0-35% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Jinhsi's ultimate is not essential to her rotation but it does deal an absurd amount of damage making it desirable to implement in her rotations. \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Unfortunately, it costs 150 Resonance Energy - that combined with Jinshi's incredibly fast and frequent rotations means you won't be gaining access to this ultimate every single rotation even with obscene amounts of Energy Regeneration. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Instead of every rotation, it's best to aim for an ultimate cast every second rotation in most cases. How much energy regen you'll need in order to achieve this varies from team to team and also how you play that team. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Pairing Jinhsi with teammates who spend more time on the field or generate more energy of their own will reduce her requirements with the opposite causing her to need more. As a general guide you can expect to need anywhere between \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"0 - 35%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Energy Regen but erring on the higher side will ensure it. Teammates like Yuanwu who use minimal field time will require more whereas teammates like Yinlin who use more will require less.\",\"marks\":[],\"data\":{}}]}]}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Loong's Pearl",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Elegy Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Sentinel's Dagger",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Howler Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Howler Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Howler Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Howler Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Waveworn Residue 210",
+				"number": 25
+			},
+			{
+				"name": "Waveworn Residue 226",
+				"number": 28
+			},
+			{
+				"name": "Waveworn Residue 235",
+				"number": 55
+			},
+			{
+				"name": "Waveworn Residue 239",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-06-28",
+	"tierCategory": "DPS",
+	"tierTags": [
+		"Cleave",
+		"Coord"
+	],
+	"ratings": {
+		"tower": 11
+	},
+	"isNew": false,
+	"upcoming": false
+}

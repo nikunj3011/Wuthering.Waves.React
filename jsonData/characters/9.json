@@ -1,0 +1,759 @@
+{
+	"id": "9",
+	"img": "https://www.prydwen.gg/static/672fdaae2b01f8355d5631a989e5f472/b26e2/ling_card.webp",
+	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/lingyang-super-2168dfcf.jpg",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
+	"name": "Lingyang",
+	"tag": "Glacio",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 6th, 2024",
+	"createdAt": "2024-02-18T18:29:49.842Z",
+	"unitId": "17",
+	"devId": 1104,
+	"slug": "lingyang",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/3616c27ee77277bf13d2d77184cb0da5/60b4d/ling_icon.webp",
+							"srcSet": "/static/3616c27ee77277bf13d2d77184cb0da5/e73fe/ling_icon.webp 40w,\n/static/3616c27ee77277bf13d2d77184cb0da5/61ca6/ling_icon.webp 80w,\n/static/3616c27ee77277bf13d2d77184cb0da5/60b4d/ling_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/672fdaae2b01f8355d5631a989e5f472/b26e2/ling_card.webp",
+							"srcSet": "/static/672fdaae2b01f8355d5631a989e5f472/84550/ling_card.webp 94w,\n/static/672fdaae2b01f8355d5631a989e5f472/34f80/ling_card.webp 187w,\n/static/672fdaae2b01f8355d5631a989e5f472/b26e2/ling_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Glacio",
+	"weapon": "Gauntlets",
+	"introduction": {
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Lingyang is talented and friendly member of the Liondance Troupe in Jinzhou. His passion and courage are evident as he engages with humans, showcasing his impressive physical abilities. With his unique style, he embodies the spirit of Liondancing. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"During Resonance Liberation Lion's Vigor, Lingyang's Anti-Interruption is enhanced. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Intro Skill Lion Awakens additionally recovers \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Resonance Energy for Lingyang, triggered once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"During Resonance Liberation Lion's Vigor, Lingyang's Basic Attack DMG Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and Resonance Skill DMG Bonus increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outro Skill Frosty Marks increases the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus of all team members by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 20% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation Strive: Lion's Vigor additionally deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" equal to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 200%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Lingyang's ATK. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"In the Forte Circuit Striding Lion state, during the first \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"after every Resonance Skill Mountain Roamer, the Basic Attack DMG Bonus for Lingyang's next Basic Attack is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Majestic Fists",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack: Feral Roars\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Resonance Skill Furious Punches is cast, Basic Attack V is replaced with Feral Roars, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume Stamina to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume Stamina to perform a Mid-air Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use a Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "30.00%",
+					"Lv2": "32.46%",
+					"Lv3": "34.92%",
+					"Lv4": "38.37%",
+					"Lv5": "40.83%",
+					"Lv6": "43.66%",
+					"Lv7": "47.59%",
+					"Lv8": "51.53%",
+					"Lv9": "55.47%",
+					"Lv10": "59.65%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "40.00%",
+					"Lv2": "43.28%",
+					"Lv3": "46.56%",
+					"Lv4": "51.16%",
+					"Lv5": "54.44%",
+					"Lv6": "58.21%",
+					"Lv7": "63.46%",
+					"Lv8": "68.70%",
+					"Lv9": "73.95%",
+					"Lv10": "79.53%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "36.65%*2",
+					"Lv2": "39.66%*2",
+					"Lv3": "42.67%*2",
+					"Lv4": "46.87%*2",
+					"Lv5": "49.88%*2",
+					"Lv6": "53.33%*2",
+					"Lv7": "58.14%*2",
+					"Lv8": "62.95%*2",
+					"Lv9": "67.76%*2",
+					"Lv10": "72.87%*2"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "10.27%*5+21.99%",
+					"Lv2": "11.11%*5+23.80%",
+					"Lv3": "11.95%*5+25.60%",
+					"Lv4": "13.13%*5+28.13%",
+					"Lv5": "13.97%*5+29.93%",
+					"Lv6": "14.94%*5+32.00%",
+					"Lv7": "16.28%*5+34.89%",
+					"Lv8": "17.63%*5+37.77%",
+					"Lv9": "18.98%*5+40.66%",
+					"Lv10": "20.41%*5+43.72%"
+				},
+				{
+					"Name": "Part 5 Damage",
+					"Lv1": "76.70%",
+					"Lv2": "82.99%",
+					"Lv3": "89.28%",
+					"Lv4": "98.09%",
+					"Lv5": "104.38%",
+					"Lv6": "111.61%",
+					"Lv7": "121.67%",
+					"Lv8": "131.74%",
+					"Lv9": "141.80%",
+					"Lv10": "152.49%"
+				},
+				{
+					"Name": "Feral Roars Damage",
+					"Lv1": "40.00%*2",
+					"Lv2": "43.28%*2",
+					"Lv3": "46.56%*2",
+					"Lv4": "51.16%*2",
+					"Lv5": "54.44%*2",
+					"Lv6": "58.21%*2",
+					"Lv7": "63.46%*2",
+					"Lv8": "68.70%*2",
+					"Lv9": "73.95%*2",
+					"Lv10": "79.53%*2"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "73.30%",
+					"Lv2": "79.32%",
+					"Lv3": "85.33%",
+					"Lv4": "93.74%",
+					"Lv5": "99.75%",
+					"Lv6": "106.66%",
+					"Lv7": "116.28%",
+					"Lv8": "125.90%",
+					"Lv9": "135.51%",
+					"Lv10": "145.73%"
+				},
+				{
+					"Name": "Mid-Air Attack Damage",
+					"Lv1": "62.00%",
+					"Lv2": "67.09%",
+					"Lv3": "72.17%",
+					"Lv4": "79.29%",
+					"Lv5": "84.37%",
+					"Lv6": "90.22%",
+					"Lv7": "98.36%",
+					"Lv8": "106.49%",
+					"Lv9": "114.62%",
+					"Lv10": "123.27%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "63.40%*2",
+					"Lv2": "68.60%*2",
+					"Lv3": "73.80%*2",
+					"Lv4": "81.08%*2",
+					"Lv5": "86.28%*2",
+					"Lv6": "92.26%*2",
+					"Lv7": "100.58%*2",
+					"Lv8": "108.89%*2",
+					"Lv9": "117.21%*2",
+					"Lv10": "126.05%*2"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Ancient Arts",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ancient Arts\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Furious Punches\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Basic Attacks III, IV, or V or Basic Attack Feral Roars hits the target, Resonance Skill Ancient Arts is replaced with Resonance Skill Swift Punches. If Lingyang uses Basic Attack after casting Basic Attack Feral Roars and Resonance Skill Swift Punches, he will start from Basic Attack III. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lingyang's Resonance Skill will not reset his Basic Attack stage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Ancient Arts Damage",
+					"Lv1": "66.70%",
+					"Lv2": "72.17%",
+					"Lv3": "77.64%",
+					"Lv4": "85.30%",
+					"Lv5": "90.77%",
+					"Lv6": "97.06%",
+					"Lv7": "105.81%",
+					"Lv8": "114.56%",
+					"Lv9": "123.31%",
+					"Lv10": "132.61%"
+				},
+				{
+					"Name": "Furious Punches Damage",
+					"Lv1": "38.35%*2",
+					"Lv2": "41.50%*2",
+					"Lv3": "44.64%*2",
+					"Lv4": "49.05%*2",
+					"Lv5": "52.19%*2",
+					"Lv6": "55.81%*2",
+					"Lv7": "60.84%*2",
+					"Lv8": "65.87%*2",
+					"Lv9": "70.90%*2",
+					"Lv10": "76.25%*2"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "0",
+					"Lv2": "0",
+					"Lv3": "0",
+					"Lv4": "0",
+					"Lv5": "0",
+					"Lv6": "0",
+					"Lv7": "0",
+					"Lv8": "0",
+					"Lv9": "0",
+					"Lv10": "0"
+				}
+			]
+		},
+		{
+			"name": "Strive: Lion's Vigor",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Attack the target, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Glacio damage\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", and receive the blessing of Lion's Vigor, which lasts for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"14 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"seconds.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Lion's Vigor\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Lingyang's \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Glacio DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Bonus is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\";\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "200.00%",
+					"Lv2": "216.40%",
+					"Lv3": "232.80%",
+					"Lv4": "255.76%",
+					"Lv5": "272.16%",
+					"Lv6": "291.02%",
+					"Lv7": "317.26%",
+					"Lv8": "343.50%",
+					"Lv9": "369.74%",
+					"Lv10": "397.62%"
+				},
+				{
+					"Name": "Lion's Vigor Duration",
+					"Lv1": "14",
+					"Lv2": "14",
+					"Lv3": "14",
+					"Lv4": "14",
+					"Lv5": "14",
+					"Lv6": "14",
+					"Lv7": "14",
+					"Lv8": "14",
+					"Lv9": "14",
+					"Lv10": "14"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "125",
+					"Lv2": "125",
+					"Lv3": "125",
+					"Lv4": "125",
+					"Lv5": "125",
+					"Lv6": "125",
+					"Lv7": "125",
+					"Lv8": "125",
+					"Lv9": "125",
+					"Lv10": "125"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Unification of Spirits",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Glorious Plunge\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Lion's Spirit is full, use Heavy Attack to perform Glorious Plunge, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack: Tail Strike\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Lion's Spirit is not full, use Basic Attack after Heavy Attack to perform Tail Strike, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Striding Lion\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After casting Heavy Attack Glorious Plunge, enter Striding Lion state; After casting Intro Skill Lion Awakens or Resonance Liberation Strive: Lion's Vigor, if Lion's Spirit is full, use Basic Attack to enter Striding Lion state.\\nIn the Striding Lion state: Attacks can be launched in mid-air. If you are back on the ground, use Heavy Attack Glorious Plunge to get back in the air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lion's Spirit is continuously consumed, and the Striding Lion state ends in \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"after Lion's Spirit runs out; If Lingyang is in the Resonance Liberation Lion's Vigor state, the consumption speed of Lion's Spirit is reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", extending Striding Lion state by up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lingyang's Basic Attack is replaced with Basic Attack Feral Gyrate, which performs up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Lingyang's Resonance Skill is replaced with Mountain Roamer, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\nWhen Lion's Spirit is less than \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", use Basic Attack to perform Stormy Kicks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"; after performing Basic Attack Stormy Kicks, the Mid-air Attack Radiant Plunge becomes available. Concerto Energy is restored when Lion's Spirit is consumed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lion's Spirit\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lingyang can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Lion's Spirit. When casting Resonance Skill Furious Punches, Lion's Spirit is restored.\\nWhen casting Intro Skill Lion Awakens, Lion's Spirit is restored. When casting Resonance Liberation Strive: Lion's Vigor, Lion's Spirit is restored.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Glorious Plunge Damage",
+					"Lv1": "86.70%",
+					"Lv2": "93.81%",
+					"Lv3": "100.92%",
+					"Lv4": "110.88%",
+					"Lv5": "117.99%",
+					"Lv6": "126.16%",
+					"Lv7": "137.54%",
+					"Lv8": "148.91%",
+					"Lv9": "160.29%",
+					"Lv10": "172.37%"
+				},
+				{
+					"Name": "Feral Gyrate Part 1 Damage",
+					"Lv1": "43.80%*2+58.40%",
+					"Lv2": "47.40%*2+63.19%",
+					"Lv3": "50.99%*2+67.98%",
+					"Lv4": "56.02%*2+74.69%",
+					"Lv5": "59.61%*2+79.48%",
+					"Lv6": "63.74%*2+84.98%",
+					"Lv7": "69.48%*2+92.64%",
+					"Lv8": "75.23%*2+100.31%",
+					"Lv9": "80.98%*2+107.97%",
+					"Lv10": "87.08%*2+116.11%"
+				},
+				{
+					"Name": "Feral Gyrate Part 2 Damage",
+					"Lv1": "15.98%*6",
+					"Lv2": "17.29%*6",
+					"Lv3": "18.60%*6",
+					"Lv4": "20.44%*6",
+					"Lv5": "21.75%*6",
+					"Lv6": "23.26%*6",
+					"Lv7": "25.35%*6",
+					"Lv8": "27.45%*6",
+					"Lv9": "29.55%*6",
+					"Lv10": "31.77%*6"
+				},
+				{
+					"Name": "Mountain Roamer Damage",
+					"Lv1": "41.69%*2",
+					"Lv2": "45.11%*2",
+					"Lv3": "48.53%*2",
+					"Lv4": "53.31%*2",
+					"Lv5": "56.73%*2",
+					"Lv6": "60.66%*2",
+					"Lv7": "66.13%*2",
+					"Lv8": "71.60%*2",
+					"Lv9": "77.07%*2",
+					"Lv10": "82.88%*2"
+				},
+				{
+					"Name": "Stormy Kicks Damage",
+					"Lv1": "18.13%*8+96.65%",
+					"Lv2": "19.61%*8+104.58%",
+					"Lv3": "21.10%*8+112.51%",
+					"Lv4": "23.18%*8+123.60%",
+					"Lv5": "24.67%*8+131.53%",
+					"Lv6": "26.37%*8+140.64%",
+					"Lv7": "28.75%*8+153.32%",
+					"Lv8": "31.13%*8+166.00%",
+					"Lv9": "33.51%*8+178.68%",
+					"Lv10": "36.03%*8+192.15%"
+				},
+				{
+					"Name": "Tail Strike Damage",
+					"Lv1": "88.00%*2",
+					"Lv2": "95.22%*2",
+					"Lv3": "102.44%*2",
+					"Lv4": "112.54%*2",
+					"Lv5": "119.76%*2",
+					"Lv6": "128.05%*2",
+					"Lv7": "139.60%*2",
+					"Lv8": "151.14%*2",
+					"Lv9": "162.69%*2",
+					"Lv10": "174.96%*2"
+				},
+				{
+					"Name": "Lion's Spirit\" Con. Energy Regen",
+					"Lv1": "35",
+					"Lv2": "35",
+					"Lv3": "35",
+					"Lv4": "35",
+					"Lv5": "35",
+					"Lv6": "35",
+					"Lv7": "35",
+					"Lv8": "35",
+					"Lv9": "35",
+					"Lv10": "35"
+				}
+			]
+		},
+		{
+			"name": "Lion's Pride",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The damage of the Intro Skill Lion Awakens is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Diligent Practice",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Under the Striding Lion state, within \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"after each Basic Attack, the next Mountain Roamer will deal an additional \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Glacio damage\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"150% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"of Mountain Roamer damage, considered as Resonance Skill damage.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Lion Awakens",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lingyang appears and deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "50.00%*2",
+					"Lv2": "54.10%*2",
+					"Lv3": "58.20%*2",
+					"Lv4": "63.94%*2",
+					"Lv5": "68.04%*2",
+					"Lv6": "72.76%*2",
+					"Lv7": "79.32%*2",
+					"Lv8": "85.88%*2",
+					"Lv9": "92.44%*2",
+					"Lv10": "99.41%*2"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Frosty Marks",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Lingyang releases a shock wave centered on the skill target, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Glacio DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"587.94%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Lingyang's ATK to targets within the range.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Lingyang is a melee main damage dealer with one of the most unique play styles in the game which you’ll either love or absolutely hate\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Similar to his peers - Calcharo and Encore - Lingyang deals the majority of his damage during his Ultimate which offers him an immense damage increase and accelerates his access to his special enhanced state that empowers all of his normal combos. But unlike the other two ultimate-focused standard characters, Lingyang spends the entirety of his ultimate in the air… \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yes Lingyang can fly for better or worse, meaning you’ll be attacking, dodging, and interacting with enemies in an entirely new dimension. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outside of the fact that Lingyang can fly, he primarily deals single-target damage. While attacking in his airborne state, Lingyang has great potential to juggle one or many (non-elite or boss) enemies into the sky with him, effectively rendering them useless while hitting them. Compared to Encore and Calcharo his overall damage output is slightly lower, but his combos themselves are more forgiving than both of them, but this is true only assuming you can get oriented while in the air... which actually isn't that easy. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Somewhat lower damage than his competitors but with a unique playstyle - so what makes Lingyang a less attractive pick as a main damage dealer? His flying is the reason - it's both his biggest blessing and hindrance. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"While airborne the control you have as a player over direction, orientation, and most importantly dodging is far more limited.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Additionally, it’s very possible to encounter issues with boss and enemy hitboxes while airborne, causing you to miss entire attacks and combos leading to large damage losses. Lower control over both offense and defense will lead to more dangerous fights and less consistent damage, making Lingyang a challenging character to play for lesser or equal rewards compared to alternatives. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can fly!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unique playstyle not found anywhere else,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gains the most free stats from his baseline S0 kit of any character thanks to the ultimate boost, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Button mashing friendly playstyle where you can’t really mess up,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Works really well with Sanhua, a fellow Glacio character,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can juggle non-elite or boss enemies in the air, comboing them continuously and rendering them immobile. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Falls slightly behind other damage dealers such as Calcharo, Jiyan, and Encore in the pure DPS department,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flying can be disorientating for some players,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flying mobility is limited to some extent making dodging enemy attacks harder,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Some bosses have unusual hitboxes which can make striking them while airborne a challenge, resulting in damage losses. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Aleksander Varadian",
+		"kr": "Lee Sang-ho",
+		"jpn": "Natsuki Hanae",
+		"cn": "Koi"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Glacio DMG"
+			},
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Glacio DMG"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Endless Resonance",
+				"name2": "",
+				"value": "100.00%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Freezing Frost",
+				"name2": "",
+				"value": "94.65%",
+				"notes": "",
+				"main_echo": "Lampylumen Myriad"
+			},
+			{
+				"name": "Freezing Frost",
+				"name2": "Endless Resonance",
+				"value": "91.99%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Freezing Frost",
+				"name2": "Moonlit Clouds",
+				"value": "88.83%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "Moonlit Clouds",
+				"value": "88.42%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Abyss Surges",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Stonard",
+			"super": "1",
+			"notes": "",
+			"percent": "81.34%"
+		},
+		{
+			"weapon": "Hollow Mirage",
+			"super": "1",
+			"notes": "",
+			"percent": "80.94%"
+		},
+		{
+			"weapon": "Gauntlets#21D",
+			"super": "1",
+			"notes": "",
+			"percent": "73.51%"
+		},
+		{
+			"weapon": "Gauntlets of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "72.84%"
+		},
+		{
+			"weapon": "Originite: Type IV",
+			"super": "5",
+			"notes": "",
+			"percent": "72.33%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "Glacio DMG",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": null,
+	"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+	"endgameStats": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"ATK: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2000-2600+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"HP: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15000+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"DEF: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1200+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"GLACIO DMG%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"42%-72%+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT RATE%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50-70%+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT DMG% \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100-140%+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Energy Regeneration (Minimum): \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10-25%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Lingyang only has one mode of play and that is going all in on his ultimate burst window with little to no warm-up needed. To make this work, getting the appropriate amount of Energy Regen is essential. How much you'll need will vary from team to team and depending on which main Echo you opt to use, but we recommend 10-25% just to be safe,\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"If you find your Lingyang missing out on your ultimate, you may need a bit more - or to reassess your team comp, echo choice, or rotations. \",\"marks\":[],\"data\":{}}]}]}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Coriolus",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Sound-Keeping Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Unending Destruction",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Whisperin Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Whisperin Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Whisperin Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Whisperin Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Cadence Seed",
+				"number": 25
+			},
+			{
+				"name": "Cadence Bud",
+				"number": 28
+			},
+			{
+				"name": "Cadence Leaf",
+				"number": 55
+			},
+			{
+				"name": "Cadence Blossom",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "DPS",
+	"tierTags": [
+		"ST",
+		"Ult"
+	],
+	"ratings": {
+		"tower": 7
+	},
+	"isNew": null,
+	"upcoming": null
+}

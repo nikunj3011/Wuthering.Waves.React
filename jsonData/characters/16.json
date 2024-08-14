@@ -1,0 +1,734 @@
+{
+	"id": "16",
+	"img": "https://www.prydwen.gg/static/a2b0c34a81e57a52165da5b356be412c/b26e2/yinglin_card.webp",
+	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/yinlin-super-740f2b78.jpg",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
+	"name": "Yinlin",
+	"tag": "Electro",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 14th, 2024",
+	"createdAt": "2024-02-18T18:26:42.599Z",
+	"unitId": "16",
+	"devId": 1302,
+	"slug": "yinlin",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#881818",
+					"images": {
+						"fallback": {
+							"src": "/static/7685f5e171e66da19299b3d1a62416ad/60b4d/yinglin_icon.webp",
+							"srcSet": "/static/7685f5e171e66da19299b3d1a62416ad/e73fe/yinglin_icon.webp 40w,\n/static/7685f5e171e66da19299b3d1a62416ad/61ca6/yinglin_icon.webp 80w,\n/static/7685f5e171e66da19299b3d1a62416ad/60b4d/yinglin_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#180808",
+					"images": {
+						"fallback": {
+							"src": "/static/a2b0c34a81e57a52165da5b356be412c/b26e2/yinglin_card.webp",
+							"srcSet": "/static/a2b0c34a81e57a52165da5b356be412c/84550/yinglin_card.webp 94w,\n/static/a2b0c34a81e57a52165da5b356be412c/34f80/yinglin_card.webp 187w,\n/static/a2b0c34a81e57a52165da5b356be412c/b26e2/yinglin_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Electro",
+	"weapon": "Rectifier",
+	"introduction": {
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Yinlin is a skilled Patroller and powerful Natural Resonator. After being suspended from her duties at the Public Security Bureau, she must now pursue hidden evils in secrecy. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Magnetic Roar and Lightning Execution deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more damage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Electromagnetic Blast recovers an additional \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Judgement Point(s)\\\" and \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Resonance Energy on hit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Forte Circuit Judgment Strike's DMG multiplier is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"55%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Forte Circuit Judgment Strike hits a target, the ATK of all team members is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 20% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation Thundering Wrath deals\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" extra damage to targets with Forte Circuit's Sinner's Mark or Punishment Mark. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"In the first \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"30s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"after casting Resonance Liberation Thundering Wrath, when Yinlin's Basic Attack hits a target, Furious Thunder will be triggered, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Electro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"419.59%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Yinlin's ATK. Every Basic Attack hit can trigger Furious Thunder \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"time, up \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"to 4\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" times. This is considered Resonance Skill DMG. \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Zapstring's Dance",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yinlin controls the puppet \\\"Zapstring\\\" to perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consumes Stamina to control puppet \\\"Zapstring\\\" to attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consumes Stamina to control the puppet \\\"Zapstring\\\" to perform a Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "14.49%",
+					"Lv2": "15.68%",
+					"Lv3": "16.87%",
+					"Lv4": "18.53%",
+					"Lv5": "19.72%",
+					"Lv6": "21.09%",
+					"Lv7": "22.99%",
+					"Lv8": "24.89%",
+					"Lv9": "26.79%",
+					"Lv10": "28.81%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "17.01%*2",
+					"Lv2": "18.41%*2",
+					"Lv3": "19.8%*2",
+					"Lv4": "21.76%*2",
+					"Lv5": "23.15%*2",
+					"Lv6": "24.76%*2",
+					"Lv7": "26.99%*2",
+					"Lv8": "29.22%*2",
+					"Lv9": "31.45%*2",
+					"Lv10": "33.82%*2"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "7.04%*7",
+					"Lv2": "7.62%*7",
+					"Lv3": "8.19%*7",
+					"Lv4": "9%*7",
+					"Lv5": "9.58%*7",
+					"Lv6": "10.24%*7",
+					"Lv7": "11.16%*7",
+					"Lv8": "12.09%*7",
+					"Lv9": "13.01%*7",
+					"Lv10": "13.99%*7"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "37.80%",
+					"Lv2": "40.90%",
+					"Lv3": "44%",
+					"Lv4": "48.34%",
+					"Lv5": "51.44%",
+					"Lv6": "55.01%",
+					"Lv7": "59.97%",
+					"Lv8": "64.93%",
+					"Lv9": "69.89%",
+					"Lv10": "75.16%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "15%*2",
+					"Lv2": "16.23%*2",
+					"Lv3": "17.46%*2",
+					"Lv4": "19.19%*2",
+					"Lv5": "20.42%*2",
+					"Lv6": "21.83%*2",
+					"Lv7": "23.8%*2",
+					"Lv8": "25.77%*2",
+					"Lv9": "27.74%*2",
+					"Lv10": "29.83%*2"
+				},
+				{
+					"Name": "Mid-Air Attack Damage",
+					"Lv1": "62.00%",
+					"Lv2": "67.09%",
+					"Lv3": "72.17%",
+					"Lv4": "79.29%",
+					"Lv5": "84.37%",
+					"Lv6": "90.22%",
+					"Lv7": "98.36%",
+					"Lv8": "106.49%",
+					"Lv9": "114.62%",
+					"Lv10": "123.27%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "12.18%*7",
+					"Lv2": "13.18%*7",
+					"Lv3": "14.18%*7",
+					"Lv4": "15.58%*7",
+					"Lv5": "16.58%*7",
+					"Lv6": "17.72%*7",
+					"Lv7": "19.32%*7",
+					"Lv8": "20.92%*7",
+					"Lv9": "22.52%*7",
+					"Lv10": "24.22%*7"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Magnetic Roar",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Magnetic Roar\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The puppet \\\"Zapstring\\\" deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to the target, and puts Yinlin into the Execution Mode.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Execution Mode\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack and Dodge Counter will trigger \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Electromagnetic Blast when hitting a target.  Each stage of Basic Attack or Dodge Counter can only trigger \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Electromagnetic Blast, up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"times.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Electromagnetic Blast\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack all targets marked with Resonance Circuit Sinner's Mark, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lightning Execution\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Resonance Skill after casting Resonance Skill Magnetic Roar to cast Lightning Execution to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" If Resonance Skill Lightning Execution is not activated in a while or this Character is switched, this Skill will be put on Cooldown.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Magnetic Roar Damage",
+					"Lv1": "30%*3",
+					"Lv2": "32.46%*3",
+					"Lv3": "34.92%*3",
+					"Lv4": "38.37%*3",
+					"Lv5": "40.83%*3",
+					"Lv6": "43.66%*3",
+					"Lv7": "47.59%*3",
+					"Lv8": "51.53%*3",
+					"Lv9": "55.47%*3",
+					"Lv10": "59.65%*3"
+				},
+				{
+					"Name": "Lightning Execution Damage",
+					"Lv1": "45%*4",
+					"Lv2": "48.69%*4",
+					"Lv3": "52.38%*4",
+					"Lv4": "57.55%*4",
+					"Lv5": "61.24%*4",
+					"Lv6": "65.48%*4",
+					"Lv7": "71.39%*4",
+					"Lv8": "77.29%*4",
+					"Lv9": "83.2%*4",
+					"Lv10": "89.47%*4"
+				},
+				{
+					"Name": "Electromagnetic Blast Damage",
+					"Lv1": "10%",
+					"Lv2": "10.82%",
+					"Lv3": "11.64%",
+					"Lv4": "12.79%",
+					"Lv5": "13.61%",
+					"Lv6": "14.56%",
+					"Lv7": "15.87%",
+					"Lv8": "17.18%",
+					"Lv9": "18.49%",
+					"Lv10": "19.89%"
+				},
+				{
+					"Name": "Execution Mode Duration",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "12",
+					"Lv2": "12",
+					"Lv3": "12",
+					"Lv4": "12",
+					"Lv5": "12",
+					"Lv6": "12",
+					"Lv7": "12",
+					"Lv8": "12",
+					"Lv9": "12",
+					"Lv10": "12"
+				},
+				{
+					"Name": "Magnetic Roar Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Lightning Execution Con. Energy Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				},
+				{
+					"Name": "Electromagnetic Blast Con. Energy Regen",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				}
+			]
+		},
+		{
+			"name": "Thundering Wrath",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Command \\\"Zapstring\\\" to call for thunder to fall upon a large range, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "58.63%*7",
+					"Lv2": "63.44%*7",
+					"Lv3": "68.25%*7",
+					"Lv4": "74.98%*7",
+					"Lv5": "79.79%*7",
+					"Lv6": "85.32%*7",
+					"Lv7": "93.01%*7",
+					"Lv8": "100.7%*7",
+					"Lv9": "108.39%*7",
+					"Lv10": "116.56%*7"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "16",
+					"Lv2": "16",
+					"Lv3": "16",
+					"Lv4": "16",
+					"Lv5": "16",
+					"Lv6": "16",
+					"Lv7": "16",
+					"Lv8": "16",
+					"Lv9": "16",
+					"Lv10": "16"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "125",
+					"Lv2": "125",
+					"Lv3": "125",
+					"Lv4": "125",
+					"Lv5": "125",
+					"Lv6": "125",
+					"Lv7": "125",
+					"Lv8": "125",
+					"Lv9": "125",
+					"Lv10": "125"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Chameleon Cipher",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Chameleon Cipher\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Yinlin's \\\"Judgment Points\\\" is full, her Heavy Attack is replaced with Chameleon Cipher, which consumes all \\\"Judgment Points\\\" to attack the target, dealing\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Electro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When it hits a target marked with Sinner's Mark, the Sinner's Mark is replaced with Punishment Mark, lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"18 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"seconds.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Sinner's Mark\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Normal Attack Zapstring's Dance, Resonance Liberation Thundering Wrath, and Intro Skill Roaring Strorm will apply Sinner's Mark on hit.\\nSinner's Mark is removed when Yinlin exits.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\\\"Punishment Mark\\\"\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When a target marked with Punishment Mark is damaged, Judgement Strike will fall, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Electro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" to all targets marked with Punishment Mark. This can be triggered up to once per second.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"heading-5\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Judgment Points\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Yinlin can hold up to 100 Judgement Points.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Normal Attack Zapstring's Dance hits a target, restores \\\"Judgment Points\\\".\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Upon casting Resonance Skill Magnetic Roar, restores \\\"Judgment Points\\\".\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Resonance Skill Electromagnetic Blast hits a target, restores \\\"Judgment Points\\\".\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": [
+				{
+					"Name": "Chameleon Cipher Damage",
+					"Lv1": "90%*2",
+					"Lv2": "97.38%*2",
+					"Lv3": "104.76%*2",
+					"Lv4": "115.1%*2",
+					"Lv5": "122.48%*2",
+					"Lv6": "130.96%*2",
+					"Lv7": "142.77%*2",
+					"Lv8": "154.58%*2",
+					"Lv9": "166.39%*2",
+					"Lv10": "178.93%*2"
+				},
+				{
+					"Name": "Judgment Strike Damage",
+					"Lv1": "39.56%",
+					"Lv2": "42.80%",
+					"Lv3": "46.05%",
+					"Lv4": "50.59%",
+					"Lv5": "53.83%",
+					"Lv6": "57.56%",
+					"Lv7": "62.75%",
+					"Lv8": "67.94%",
+					"Lv9": "73.13%",
+					"Lv10": "78.64%"
+				}
+			]
+		},
+		{
+			"name": "Pain Immersion",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After using Resonance Skill Magnetic Roar, Yinlin's Crit. Rate is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Deadly Focus",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The damage of Resonance Skill Lightning Execution is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" when hitting targets marked with \\\"Sinner's Mark\\\", and Yinlin's ATK is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"when this is triggered.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Raging Storm",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Command puppet \\\"Zapstring\\\" to attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" in a large range.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "7.2%*10",
+					"Lv2": "7.8%*10",
+					"Lv3": "8.39%*10",
+					"Lv4": "9.21%*10",
+					"Lv5": "9.8%*10",
+					"Lv6": "10.48%*10",
+					"Lv7": "11.43%*10",
+					"Lv8": "12.37%*10",
+					"Lv9": "13.32%*10",
+					"Lv10": "14.32%*10"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Strategist",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The next character (or other characters on a nearby team that activates an Outro Skill) gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Electro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Deepen, and \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"25%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Resonance Liberation DMG Deepen for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"14 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"seconds or until the Character is switched.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Yinlin is a 5-star Electro Rectifier wielder who specializes in dealing massive AOE damage without spending much time on the field at all. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"She’ll almost always be played alongside another bursty main DPS - preferably one who has incredible Quick Swap potential with abilities that either deal large upfront damage or have long durations that can be swap canceled.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yinlin’s Forte has a passive effect that causes the majority of her abilities to inflict \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Sinner’s Mark\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" which allows her skill’s Execution Mode to deal additional damage. Yinlin’s Forte can also gain Judgement Points from most of her abilities, and, when fully accumulated they can be used to empower her next heavy attack into Chameleon Cipher that converts all Sinner’s Marks on enemies hit into Punishment Marks for 18 seconds that when struck by any ally even if Yinlin leaves the field will take damage up to once per second.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yinlin’s skill comes in two parts:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"the first one will deal AoE Electro damage and activate Execution mode: a special buff she gains for 10 seconds, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"the second part must be cast shortly after the first and is an AoE electro-damage nuke, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Execution mode will empower Yinlin’s next 4 Basic Attacks to cause an Electromagnetic Blast when hitting enemies with Sinners Mark, dealing additional damage and generating more Concerto.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This may sound complicated, but once you play Yinlin, her rotation is actually easy to follow and execute. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Considering how much damage Yinlin deals, you might think that she would be a great Main DPS, but it's a trap. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"That's because Yinlin spends very little time on the field when played optimally at the highest level \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"- her rotation is incredibly short - and after you perform it, you would only be left basic attacking, lowering the team's overall damage. It's more optimal to play her in Quick Swap teams with characters like Calcharo, Encore, or Havoc Rover. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"How hard Yinlin is to play will depend on the other damage dealer you pair with her - a combo with Calcharo yields one of the hardest teams to pilot in the game and a pairing with Encore or Havoc Rover will be much easier. In all Yinlin teams, you'll have to master her swap cancel though which might sound tough at first but with a bit of practice becomes second nature.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Yinlin is a top-tier pick for the Quick Swap dual DPS teams due to how much damage she does, combined with how little on-field time she needs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yinlin's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Outro also provides 25% Liberation and 20% Electro Amplification\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (formerly Deepen) but due to her Quick Swapping nature, this can be tricky to utilize to its maximum potential - and currently, all her best teams belong to the Quick Swap archetype.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a Hybrid character that allows another damage dealer to take up a larger amount of field time, Yinlin can be expected to make use of the 5P Moonlit Cloud set and Heron Echo. While this set is certainly viable on her, focusing on boosting her damage by equipping the damage dealer set (Void Thunder) is also an insanely strong option - as her damage output is great and the set will boost it even further. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Yinlin is the strongest Hybrid character in the game \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"who is resonably easy to learn and play well, while having multiple different teams where she can be used with great success.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Absurd amounts of damage for how little field time she must spend,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can deal a large chunk of her damage unconditionally while off the field,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Almost all damage she deals is in a gigantic AoE,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Damage is not gated behind long attack sequences and is actually realistic to pull off in most combat scenarios,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can deliver large amounts of burst AoE damage at the start of ToA runs helping to take out annoying small fries.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Some people might not like quick swapping constantly,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Swap canceling might be tricky for some,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outro currently feels a bit useless due to how she is best in Quick Swap teams,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You will often get distracted while playing her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Naomi McDonald",
+		"kr": "Kang Sae Bom",
+		"jpn": "Koshimizu Ami",
+		"cn": "Mickey"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Electro DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Electro DMG"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Void Thunder",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Tempest Mephis"
+			},
+			{
+				"name": "Void Thunder",
+				"name2": "Endless Resonance",
+				"value": "88.70%",
+				"notes": "",
+				"main_echo": "Tempest Mephis"
+			},
+			{
+				"name": "Void Thunder",
+				"name2": "Moonlit Clouds",
+				"value": "88.40%",
+				"notes": "",
+				"main_echo": "Tempest Mephis"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "Moonlit Clouds",
+				"value": "86.32%",
+				"notes": "",
+				"main_echo": "Tempest Mephis"
+			},
+			{
+				"name": "Moonlit Clouds",
+				"name2": "",
+				"value": "79.38%",
+				"notes": "",
+				"main_echo": "Tempest Mephis"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Stringmaster",
+			"super": "1",
+			"notes": "",
+			"percent": "117.24%"
+		},
+		{
+			"weapon": "Cosmic Ripples",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Augment",
+			"super": "5",
+			"notes": "",
+			"percent": "96.07%"
+		},
+		{
+			"weapon": "Jinzhou Keeper",
+			"super": "5",
+			"notes": "",
+			"percent": "85.79%"
+		},
+		{
+			"weapon": "Augment",
+			"super": "1",
+			"notes": "",
+			"percent": "84.55%"
+		},
+		{
+			"weapon": "Jinzhou Keeper",
+			"super": "1",
+			"notes": "",
+			"percent": "83.35%"
+		},
+		{
+			"weapon": "Rectifier of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "75.81%"
+		},
+		{
+			"weapon": "Guardian Rectifier",
+			"super": "5",
+			"notes": "",
+			"percent": "73.61%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK = Resonance Skill DMG%",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "CRIT Rate",
+			"value": 8
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": [
+		{
+			"video": "TUrvbAewrMs"
+		}
+	],
+	"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15500+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1250+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"42%-72%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20-30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yinlin's Ultimate is a major part of her damage and an incredibly helpful tool for quickly applying her Sinner's Mark to multiple enemies at once after a quick swap. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This makes her Forte Chameleon Cipher which aims to convert Sinner's Marks to Punishment Mark much easier to use - with a higher chance to apply the Punishment Mark to many more enemies at once. Without combining these two you'll have to rely on Yinlin's basics and skills to mark enemies before using her Forte. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Due to these interactions getting enough Energy Regeneration is important. We recommend \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20-30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to comfortably have your ultimate available in a timely manner for damage and applying Sinner's Mark in cases you need them. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Coriolus",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Group Abomination Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Unwarranted Feather",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Whisperin Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Whisperin Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Whisperin Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Whisperin Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Lento Helix",
+				"number": 25
+			},
+			{
+				"name": "Adagio Helix",
+				"number": 28
+			},
+			{
+				"name": "Andante Helix",
+				"number": 55
+			},
+			{
+				"name": "Presto Helix",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "Hybrid",
+	"tierTags": [
+		"AoE",
+		"Cancel",
+		"Coord"
+	],
+	"ratings": {
+		"tower": 11
+	},
+	"isNew": true,
+	"upcoming": null
+}
