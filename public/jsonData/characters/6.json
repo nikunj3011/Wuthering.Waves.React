@@ -1,0 +1,848 @@
+{
+	"id": "6",
+	"img": "https://www.prydwen.gg/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp",
+	"img2": "https://www.prydwen.gg/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hha-active-182494e6.png",
+	"region": "Black Shores",
+	"name": "Encore",
+	"tag": "Fusion",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 17th, 2024",
+	"createdAt": "2024-02-18T18:15:30.282Z",
+	"unitId": "13",
+	"devId": 1203,
+	"slug": "encore",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8e8e8",
+					"images": {
+						"fallback": {
+							"src": "/static/1a3794a9470c6212dd614f9001efd27b/60b4d/encore_icon.webp",
+							"srcSet": "/static/1a3794a9470c6212dd614f9001efd27b/e73fe/encore_icon.webp 40w,\n/static/1a3794a9470c6212dd614f9001efd27b/61ca6/encore_icon.webp 80w,\n/static/1a3794a9470c6212dd614f9001efd27b/60b4d/encore_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp",
+							"srcSet": "/static/0acc12c57906dc3c1f47e038832ec1f4/84550/encore_card.webp 94w,\n/static/0acc12c57906dc3c1f47e038832ec1f4/34f80/encore_card.webp 187w,\n/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Fusion",
+	"weapon": "Rectifier",
+	"introduction": {
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "A girl accompanied by one black and one white Wooly plushies. Encore, consultant from the Black Shores, is longing to create happy stories with candies, fairy tales, and her imagination. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Basic Attack hits a target, Encore's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to 4 times for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Encore additionally restores \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Resonance Energy when casting Basic Attack Woolies Attack or Resonance Skill Energetic Welcome. This can be triggered once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG multiplier of Resonance Liberation Cloudy: Frenzy and Resonance Liberation Cosmos: Rupture is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation Cosmos: Rupture increases the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus of all team members by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill DMG Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"35%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"During Resonance Liberation Cosmos: Rave, Encore gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"stack(s) of \\\"Lost Lamb\\\" every time she deals damage, each stack increasing her ATK by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", stacking up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"6\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s). \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Wooly Attack",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack: Wooly Strike\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After the Basic Attack IV, press Basic Attack to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Encore consumes Stamina to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Encore consumes Stamina to perform a Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "28.00%",
+					"Lv2": "30.29%",
+					"Lv3": "32.59%",
+					"Lv4": "35.80%",
+					"Lv5": "38.10%",
+					"Lv6": "40.74%",
+					"Lv7": "44.41%",
+					"Lv8": "48.09%",
+					"Lv9": "51.76%",
+					"Lv10": "55.66%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "33.30%",
+					"Lv2": "36.03%",
+					"Lv3": "38.76%",
+					"Lv4": "42.58%",
+					"Lv5": "45.31%",
+					"Lv6": "48.45%",
+					"Lv7": "52.82%",
+					"Lv8": "57.19%",
+					"Lv9": "61.56%",
+					"Lv10": "66.20%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "33.35%*2",
+					"Lv2": "36.08%*2",
+					"Lv3": "38.81%*2",
+					"Lv4": "42.64%*2",
+					"Lv5": "45.38%*2",
+					"Lv6": "48.52%*2",
+					"Lv7": "52.90%*2",
+					"Lv8": "57.27%*2",
+					"Lv9": "61.65%*2",
+					"Lv10": "66.30%*2"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "19.25%*4",
+					"Lv2": "20.82%*4",
+					"Lv3": "22.40%*4",
+					"Lv4": "24.61%*4",
+					"Lv5": "26.19%*4",
+					"Lv6": "28.01%*4",
+					"Lv7": "30.53%*4",
+					"Lv8": "33.06%*4",
+					"Lv9": "35.58%*4",
+					"Lv10": "38.27%*4"
+				},
+				{
+					"Name": "Woolies Damage",
+					"Lv1": "120.00%",
+					"Lv2": "129.84%",
+					"Lv3": "139.67%",
+					"Lv4": "153.45%",
+					"Lv5": "163.29%",
+					"Lv6": "174.61%",
+					"Lv7": "190.35%",
+					"Lv8": "206.10%",
+					"Lv9": "221.84%",
+					"Lv10": "238.57%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "94.10%",
+					"Lv2": "101.81%",
+					"Lv3": "109.53%",
+					"Lv4": "120.33%",
+					"Lv5": "128.05%",
+					"Lv6": "136.92%",
+					"Lv7": "149.27%",
+					"Lv8": "161.61%",
+					"Lv9": "173.96%",
+					"Lv10": "187.08%"
+				},
+				{
+					"Name": "Mid-Air Attack",
+					"Lv1": "62.00%",
+					"Lv2": "67.08%",
+					"Lv3": "72.16%",
+					"Lv4": "79.28%",
+					"Lv5": "84.36%",
+					"Lv6": "90.21%",
+					"Lv7": "98.35%",
+					"Lv8": "106.48%",
+					"Lv9": "114.61%",
+					"Lv10": "123.26%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "63.34%*2",
+					"Lv2": "68.54%*2",
+					"Lv3": "73.73%*2",
+					"Lv4": "81.01%*2",
+					"Lv5": "86.20%*2",
+					"Lv6": "92.18%*2",
+					"Lv7": "100.49%*2",
+					"Lv8": "108.80%*2",
+					"Lv9": "117.11%*2",
+					"Lv10": "125.94%*2"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Flaming Woolies",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flaming Woolies\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Summon Cloudy and Cosmos to attack the target with high-temperature rays, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n \\nEnergetic Welcome\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After casting Flaming Woolies, use Resonance Skill to launch Energetic Welcome to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Flaming Woolies Damage",
+					"Lv1": "38.53%*8",
+					"Lv2": "41.69%*8",
+					"Lv3": "44.85%*8",
+					"Lv4": "49.28%*8",
+					"Lv5": "52.44%*8",
+					"Lv6": "56.07%*8",
+					"Lv7": "61.13%*8",
+					"Lv8": "66.18%*8",
+					"Lv9": "71.24%*8",
+					"Lv10": "76.61%*8"
+				},
+				{
+					"Name": "Energetic Welcome Damage",
+					"Lv1": "170.60%",
+					"Lv2": "184.58%",
+					"Lv3": "198.57%",
+					"Lv4": "218.16%",
+					"Lv5": "232.15%",
+					"Lv6": "248.24%",
+					"Lv7": "270.62%",
+					"Lv8": "293.00%",
+					"Lv9": "315.38%",
+					"Lv10": "339.16%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Flaming Woolies Con. Energy Regen",
+					"Lv1": "15",
+					"Lv2": "15",
+					"Lv3": "15",
+					"Lv4": "15",
+					"Lv5": "15",
+					"Lv6": "15",
+					"Lv7": "15",
+					"Lv8": "15",
+					"Lv9": "15",
+					"Lv10": "15"
+				},
+				{
+					"Name": "Energetic Welcome Con. Energy Regen",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				}
+			]
+		},
+		{
+			"name": "Cosmos Rave",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As Encore loses control, Cosmos breaks free and wreaks havoc on its surroundings. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack: Cosmos: Frolicking\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"During Cosmos Rampage, the Basic Attack is replaced with Cosmos: Frolicking, which performs up to 4 consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Basic Attack damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cosmos: Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"During Cosmos Rampage, the Heavy Attack is replaced with Cosmos: Heavy Attack, consuming Stamina to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" considered as Heavy Attack damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill: Cosmos: Rampage\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"During Cosmos Rampage, Flaming Woolies is replaced with Cosmos:Rampage, attacking the target with uncontrollable flames, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Skill damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cosmos: Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"During Cosmos Rampage, use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Basic Attack damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Cosmos: Frolicking Part 1 Damage",
+					"Lv1": "45.36%*2",
+					"Lv2": "49.08%*2",
+					"Lv3": "52.80%*2",
+					"Lv4": "58.01%*2",
+					"Lv5": "61.73%*2",
+					"Lv6": "66.01%*2",
+					"Lv7": "71.96%*2",
+					"Lv8": "77.91%*2",
+					"Lv9": "83.86%*2",
+					"Lv10": "90.18%*2"
+				},
+				{
+					"Name": "Cosmos: Frolicking Part 2 Damage",
+					"Lv1": "28.37%*3",
+					"Lv2": "30.70%*3",
+					"Lv3": "33.02%*3",
+					"Lv4": "36.28%*3",
+					"Lv5": "38.61%*3",
+					"Lv6": "41.28%*3",
+					"Lv7": "45.00%*3",
+					"Lv8": "48.72%*3",
+					"Lv9": "52.45%*3",
+					"Lv10": "56.40%*3"
+				},
+				{
+					"Name": "Cosmos: Frolicking Part 3 Damage",
+					"Lv1": "33.19%*4",
+					"Lv2": "35.92%*4",
+					"Lv3": "38.64%*4",
+					"Lv4": "42.45%*4",
+					"Lv5": "45.17%*4",
+					"Lv6": "48.30%*4",
+					"Lv7": "52.65%*4",
+					"Lv8": "57.01%*4",
+					"Lv9": "61.36%*4",
+					"Lv10": "65.99%*4"
+				},
+				{
+					"Name": "Cosmos: Frolicking Part 4 Damage",
+					"Lv1": "97.59%*3",
+					"Lv2": "105.59%*3",
+					"Lv3": "113.59%*3",
+					"Lv4": "124.79%*3",
+					"Lv5": "132.79%*3",
+					"Lv6": "142.00%*3",
+					"Lv7": "154.80%*3",
+					"Lv8": "167.60%*3",
+					"Lv9": "180.40%*3",
+					"Lv10": "194.01%*3"
+				},
+				{
+					"Name": "Cosmos: Heavy Attack Damage",
+					"Lv1": "109.44%",
+					"Lv2": "118.42%",
+					"Lv3": "127.39%",
+					"Lv4": "139.96%",
+					"Lv5": "148.93%",
+					"Lv6": "159.25%",
+					"Lv7": "173.61%",
+					"Lv8": "187.97%",
+					"Lv9": "202.32%",
+					"Lv10": "217.58%"
+				},
+				{
+					"Name": "Cosmos Rampage Damage",
+					"Lv1": "31.85%*4",
+					"Lv2": "34.46%*4",
+					"Lv3": "37.07%*4",
+					"Lv4": "40.72%*4",
+					"Lv5": "43.34%*4",
+					"Lv6": "46.34%*4",
+					"Lv7": "50.52%*4",
+					"Lv8": "54.70%*4",
+					"Lv9": "58.88%*4",
+					"Lv10": "63.32%*4"
+				},
+				{
+					"Name": "Cosmos: Dodge Counter Damage",
+					"Lv1": "33.19%*4",
+					"Lv2": "35.92%*4",
+					"Lv3": "38.64%*4",
+					"Lv4": "42.45%*4",
+					"Lv5": "45.17%*4",
+					"Lv6": "48.30%*4",
+					"Lv7": "52.65%*4",
+					"Lv8": "57.01%*4",
+					"Lv9": "61.36%*4",
+					"Lv10": "65.99%*4"
+				},
+				{
+					"Name": "Cosmos: Heavy Attack Stamina Consumption",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Cosmos Rave Duration",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "16",
+					"Lv2": "16",
+					"Lv3": "16",
+					"Lv4": "16",
+					"Lv5": "16",
+					"Lv6": "16",
+					"Lv7": "16",
+					"Lv8": "16",
+					"Lv9": "16",
+					"Lv10": "16"
+				},
+				{
+					"Name": "Cosmos Rampage Cooldown",
+					"Lv1": "4",
+					"Lv2": "4",
+					"Lv3": "4",
+					"Lv4": "4",
+					"Lv5": "4",
+					"Lv6": "4",
+					"Lv7": "4",
+					"Lv8": "4",
+					"Lv9": "4",
+					"Lv10": "4"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "125",
+					"Lv2": "125",
+					"Lv3": "125",
+					"Lv4": "125",
+					"Lv5": "125",
+					"Lv6": "125",
+					"Lv7": "125",
+					"Lv8": "125",
+					"Lv9": "125",
+					"Lv10": "125"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Black & White Woolies",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation: Cloudy Frenzy\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Encore's \\\"Dissonance\\\" is full, after casting a Heavy Attack, Encore will consume all \\\"Dissonance\\\" to enter the Dissonance state, reducing damage taken by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 70%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Switching Characters does not interrupt \\\"Dissonance\\\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After the Dissonance state ends, Encore will cast Cloudy Frenzy, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Liberation damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation: Cosmos Rupture\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"During Cosmos Rampage, when casting Heavy Attack, if \\\"Dissonance\\\" is full, Encore will consume all \\\"Dissonance\\\" to enter Cosmos' Dissonance state, reducing damage taken by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Switching Characters does not interrupt \\\"Dissonance\\\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Cosmos' Dissonance state ends, Encore will cast Cosmos Rupture, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Liberation damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dissonance\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Encore can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Dissonance\\\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Normal Attack Wooly Attack hits the target, Encore restores \\\"Dissonance\\\". When Resonance Skill Flaming Woolies hits the target, Encore restores \\\"Dissonance\\\". When Resonance Skill Energetic Welcome hits the target, Encore restores \\\"Dissonance\\\". When Intro Skill Woolies Helpers hits the target, Encore restores \\\"Dissonance\\\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"During the duration of Resonance Liberation Cosmos Rampage, hitting targets will restore \\\"Dissonance\\\" to Encore.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Cloudy: Frenzy Damage",
+					"Lv1": "168.00%",
+					"Lv2": "181.77%",
+					"Lv3": "195.55%",
+					"Lv4": "214.83%",
+					"Lv5": "228.61%",
+					"Lv6": "244.45%",
+					"Lv7": "266.49%",
+					"Lv8": "288.53%",
+					"Lv9": "310.58%",
+					"Lv10": "334.00%"
+				},
+				{
+					"Name": "Cosmos: Rupture Damage",
+					"Lv1": "23.35%*6+249.08%",
+					"Lv2": "25.26%*6+269.51%",
+					"Lv3": "27.18%*6+289.93%",
+					"Lv4": "29.86%*6+318.53%",
+					"Lv5": "31.77%*6+338.95%",
+					"Lv6": "33.97%*6+362.44%",
+					"Lv7": "37.04%*6+395.12%",
+					"Lv8": "40.10%*6+427.80%",
+					"Lv9": "43.17%*6+460.48%",
+					"Lv10": "46.42%*6+495.21%"
+				},
+				{
+					"Name": "Cloudy: Frenzy Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Cosmos: Rupture Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Angry Cosmos",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"During the Resonance Liberation Cosmos Rave, when Encore's HP is above \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"70%,\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" DMG dealt is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10%.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Woolies Cheer Dance",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Resonance Skill Flaming Woolies or Resonance Skill Cosmos: Rave is cast, Encore's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"seconds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Woolies Can Help!",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Encore pounces at the enemies with Cosmos, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "100.00%",
+					"Lv2": "108.20%",
+					"Lv3": "116.40%",
+					"Lv4": "127.88%",
+					"Lv5": "136.08%",
+					"Lv6": "145.51%",
+					"Lv7": "158.63%",
+					"Lv8": "171.75%",
+					"Lv9": "184.87%",
+					"Lv10": "198.81%"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Thermal Field",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Encore generates a Flame Zone centered around skill target, with a radius of \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3m\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Targets inside the Flame Zone are continuously burned, suffering \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Fusion DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"176.76%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Encore's ATK every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1.5s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"6s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Encore is a 5-star Fusion Rectifier wielder that can be played as a Hyper Carry in teams focused on powering her up as the sole damage dealer or in Quick-Swap teams where she’s played alongside another damage dealer. Depending on the style you prefer, you can adjust accordingly - If playing Encore as a Hyper Carry you’ll focus mostly on landing as many buffs onto her before she uses her Ultimate to empower her burst rotation. Alternatively, if playing Encore in a Quick-Swap double DPS team you’ll instead focus on keeping her standard Resonance skill and Echo on cooldown as much as possible while also cycling through the rest of your team. While Encore's Ultimate is still considered powerful in these teams, it is mostly used to fill downtime between each character’s cooldowns.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Upon being fully charged, Encore’s Forte allows her Heavy Attack to be enhanced, turning it into a high DPS attack with a significant casting period. This ability is enhanced during her Ultimate skill and should always be cast during it for maximum effect. In addition, despite having the drawback of a significant casting period, this ability can be Swap-Cancelled, which should be executed every time it is activated. However, do note that she has a small window where she is vulnerable before she can be Swapped after attacking.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Encore’s skill is divided into two main parts: in the first part, she fires a barrage of fireballs over a lengthy casting duration, not only dealing decently high DPS, but also generating significant amounts of Resonance energy. In the second part of her skill, she generates a large fire explosion again dealing good damage, but generating much less Resonance energy. The second part of her skill is rarely used, as it requires you to immediately trigger it after the first part of her skill has finished executing, which is almost always Swap-Cancelled to prevent its lengthy casting duration.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Meanwhile, Encore’s Ultimate will send her into a frenzy, converting her gameplay from that of a ranged mage into a melee attacker. The conversion changes and empowers the majority of her abilities, significantly increasing Encore’s damage output - most of which comes from spamming her basic attacks.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As you might have guessed from the information present above, Encore is a versatile character that can stay on the field for varying amounts of time. She can bring short bursts of damage through her Resonance skill and Echo in Quick-Swap teams, a much larger sustained damage burst window in Hyper Carry teams, or a mix of both. Regardless of how you choose to play her, one thing remains consistent; at S0, all she can do is deal damage.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"If her versatility didn’t already sell you on her, Encore is also one of the easiest characters in the game to play in the endgame Tower of Adversary. Her skill is one of the easiest and most forgiving Quick-Swap skills in the game, and her burst rotation is also incredibly forgiving to execute.  Even if you end up dodging, you won't lose too much damage as most of her abilities also have gap-closing built into them, meaning you really can just mash attacks and get reasonable results as long as you dodge. The only challenging thing about this character is activating her Heavy Attack enhanced by her Forte skill cleanly, and switching at the right time with Inferno Rider.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Regardless of the playstyle you prefer for Encore, be it Hyper Carry or Quick-Swap build, Swap-Cancellation is an essential mechanic to her gameplay. Similarly, regardless of build, Encore plays as a damage dealer in all team’s she’s present in and will always use a 5P damage-focused set.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Overall, Encore is a solid DPS option in Hyper Carry teams in endgame, but even stronger in Quick-Swap teams, finding a place alongside many other damage dealers thanks to her flexible field time.\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can be played as a Hyper Carry or in Quick-Swap double damage teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can be played in far more teams than many other characters in the game thanks to her flexibility.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very easy character to pick up and play.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredible Resonance energy generation for herself and the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has a pet sheep.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Forte-charged Heavy Attacks have a small input window that can leave Encore vulnerable before having a chance to switch.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has limited parrying potential during non-Ultimate form.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"More challenging-to-use Echo options than other elements.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Carina Reeves",
+		"kr": "Lee Serena",
+		"jpn": "Chikano Ibuki",
+		"cn": "Hao Sibai"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Fusion DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Fusion DMG"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Molten Rift",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Inferno Rider"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "",
+				"value": "94.59%",
+				"notes": "Lingering Tunes requires time to ramp up and is reset after switching characters (which is a VERY common team tactic in the endgame). This set of calculations assumes that for this character's entire burst window, they are not switched out until the very end.",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Molten Rift",
+				"name2": "Endless Resonance",
+				"value": "91.42%",
+				"notes": "",
+				"main_echo": "Inferno Rider"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "",
+				"value": "88.91%",
+				"notes": "Lingering Tunes requires time to ramp up and is reset after switching characters (which is a VERY common team tactic in endgame). This set of calculations displays expected performance if you switched the character constantly never maintaining the buff (switch every 1.5 seconds or faster).",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Molten Rift",
+				"name2": "Moonlit Clouds",
+				"value": "88.38%",
+				"notes": "",
+				"main_echo": "Inferno Rider"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "Moonlit Clouds",
+				"value": "87.42%",
+				"notes": "",
+				"main_echo": "Inferno Rider"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Stringmaster",
+			"super": "1",
+			"notes": "",
+			"percent": "114.55%"
+		},
+		{
+			"weapon": "Cosmic Ripples",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Augment",
+			"super": "1",
+			"notes": "",
+			"percent": "88.57%"
+		},
+		{
+			"weapon": "Jinzhou Keeper",
+			"super": "1",
+			"notes": "",
+			"percent": "84.88%"
+		},
+		{
+			"weapon": "Rectifier of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "77.22%"
+		},
+		{
+			"weapon": "Guardian Rectifier",
+			"super": "5",
+			"notes": "",
+			"percent": "76.80%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK > Basic DMG%",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "Fusion DMG",
+			"value": 12
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": [
+		{
+			"video": "c4wPs708Pdw"
+		},
+		{
+			"video": "QuCZ1gL4cbY"
+		}
+	],
+	"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1800-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"How much Energy Regen you'll need on Encore will depend on how you plan to play her - specifically how frequently you plan to make use of her Ultimate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the Quick Swap teams, Encore's ultimate is not the focus of her value so you can run minimal or even no Energy Regen and get away with it (\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0-20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When playing Encore with a focus on her Ultimate in Hyper Carry teams where much of your damage is dealt during its duration aim for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15-25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy Regen as a conservative estimate - although you may find yourself able to get away with less. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Pecok Flower",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Rage Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Unending Destruction",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Whisperin Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Whisperin Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Whisperin Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Whisperin Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Lento Helix",
+				"number": 25
+			},
+			{
+				"name": "Adagio Helix",
+				"number": 28
+			},
+			{
+				"name": "Andante Helix",
+				"number": 55
+			},
+			{
+				"name": "Presto Helix",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "DPS",
+	"tierTags": [
+		"Cleave",
+		"Cancel"
+	],
+	"ratings": {
+		"tower": 10
+	},
+	"isNew": null,
+	"upcoming": null
+}

@@ -1,0 +1,899 @@
+{
+	"id": "3",
+	"img": "https://www.prydwen.gg/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp",
+	"img2": "https://www.prydwen.gg/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/logo-unkonw-big1-1fbfa8aa.png",
+	"region": "Other",
+	"name": "Calcharo",
+	"tag": "Electro",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 17th, 2024",
+	"createdAt": "2024-02-18T18:24:13.552Z",
+	"unitId": "15",
+	"devId": 1301,
+	"slug": "calcharo",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/9d9f89061489b8b5c6a24b0b04b0d25c/60b4d/kakarot_icon.webp",
+							"srcSet": "/static/9d9f89061489b8b5c6a24b0b04b0d25c/e73fe/kakarot_icon.webp 40w,\n/static/9d9f89061489b8b5c6a24b0b04b0d25c/61ca6/kakarot_icon.webp 80w,\n/static/9d9f89061489b8b5c6a24b0b04b0d25c/60b4d/kakarot_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#282828",
+					"images": {
+						"fallback": {
+							"src": "/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp",
+							"srcSet": "/static/7b01c2f05825303762d3e6b9da538c7d/84550/kakarot_card.webp 94w,\n/static/7b01c2f05825303762d3e6b9da538c7d/34f80/kakarot_card.webp 187w,\n/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Electro",
+	"weapon": "Broadblade",
+	"introduction": {
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Leader of the \"Ghost Hounds\", an international mercenary group. Ruthless, vengeful, unforgiving. A potential client must be mindful of the price to pay before making him an offer.",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Resonance Skill Extermination Order hits a target, it additionally recovers \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Resonance Energy. This can be triggered once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"seconds. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Calcharo casts Intro Skill Wanted Criminal or Intro Skill \\\"Necessary Means\\\", his Resonance Skill DMG Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"During the Resonance Liberation Deathblade Gear state, Calcharo's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After casting Outro Skill Shadowy Raid, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus of all team members is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Intro Skill Wanted Criminal and Intro Skill \\\"Necessary Means: deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"more damage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When casting Resonance Liberation \\\"Death Messenger\\\", Calcharo will summon \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Phantoms to perform Coordinated Attacks. Each Phantom deals \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Electro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100.00%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Calcharo's ATK, which is considered Resonance Liberation damage. \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Gnawing Fangs",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" attacks, dealing Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume Stamina to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume Stamina to perform a Mid-Air Plunging Attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Using Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "23.00%*2",
+					"Lv2": "24.89%*2",
+					"Lv3": "26.78%*2",
+					"Lv4": "29.42%*2",
+					"Lv5": "31.30%*2",
+					"Lv6": "33.47%*2",
+					"Lv7": "36.49%*2",
+					"Lv8": "39.51%*2",
+					"Lv9": "42.53%*2",
+					"Lv10": "45.73%*2"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "50.00%",
+					"Lv2": "54.10%",
+					"Lv3": "58.20%",
+					"Lv4": "63.94%",
+					"Lv5": "68.04%",
+					"Lv6": "72.76%",
+					"Lv7": "79.32%",
+					"Lv8": "85.88%",
+					"Lv9": "92.44%",
+					"Lv10": "99.41%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "42.84%+21.42%*3",
+					"Lv2": "46.36%+23.18%*3",
+					"Lv3": "49.87%+24.94%*3",
+					"Lv4": "54.79%+27.40%*3",
+					"Lv5": "58.30%+29.15%*3",
+					"Lv6": "62.34%+31.17%*3",
+					"Lv7": "67.96%+33.98%*3",
+					"Lv8": "73.58%+36.79%*3",
+					"Lv9": "79.20%+39.60%*3",
+					"Lv10": "85.18%+42.59%*3"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "39.99%*2+53.32%",
+					"Lv2": "43.27%*2+57.70%",
+					"Lv3": "46.55%*2+62.07%",
+					"Lv4": "51.14%*2+68.19%",
+					"Lv5": "54.42%*2+72.56%",
+					"Lv6": "58.19%*2+77.59%",
+					"Lv7": "63.44%*2+84.59%",
+					"Lv8": "68.69%*2+91.58%",
+					"Lv9": "73.93%*2+98.58%",
+					"Lv10": "79.51%*2+106.01%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "20.80%*5",
+					"Lv2": "22.51%*5",
+					"Lv3": "24.22%*5",
+					"Lv4": "26.60%*5",
+					"Lv5": "28.31%*5",
+					"Lv6": "30.27%*5",
+					"Lv7": "33.00%*5",
+					"Lv8": "35.73%*5",
+					"Lv9": "38.46%*5",
+					"Lv10": "41.36%*5"
+				},
+				{
+					"Name": "Mid-Air Attack Damage",
+					"Lv1": "62.00%",
+					"Lv2": "67.09%",
+					"Lv3": "72.17%",
+					"Lv4": "79.29%",
+					"Lv5": "84.37%",
+					"Lv6": "90.22%",
+					"Lv7": "98.36%",
+					"Lv8": "106.49%",
+					"Lv9": "114.62%",
+					"Lv10": "123.27%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "33.44%*3+42.99%",
+					"Lv2": "36.18%*3+46.52%",
+					"Lv3": "38.93%*3+50.05%",
+					"Lv4": "42.76%*3+54.98%",
+					"Lv5": "45.51%*3+58.51%",
+					"Lv6": "48.66%*3+62.56%",
+					"Lv7": "53.05%*3+68.20%",
+					"Lv8": "57.43%*3+73.84%",
+					"Lv9": "61.82%*3+79.48%",
+					"Lv10": "66.48%*3+85.47%"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Extermination Order",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cast up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" attacks. Deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If this Character is switched or Resonance Skill Extermination Order is not repeated in a while, it will be put on a Cooldown. Resonance Skill Extermination Order does not reset your Basic Attack stage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Extermination Order Part 1 Damage",
+					"Lv1": "25.94%*2+34.59%",
+					"Lv2": "28.07%*2+37.42%",
+					"Lv3": "30.20%*2+40.26%",
+					"Lv4": "33.17%*2+44.23%",
+					"Lv5": "35.30%*2+47.07%",
+					"Lv6": "37.75%*2+50.33%",
+					"Lv7": "41.15%*2+54.87%",
+					"Lv8": "44.55%*2+59.40%",
+					"Lv9": "47.96%*2+63.94%",
+					"Lv10": "51.57%*2+68.76%"
+				},
+				{
+					"Name": "Extermination Order Part 2 Damage",
+					"Lv1": "38.91%*2+51.88%",
+					"Lv2": "42.10%*2+56.13%",
+					"Lv3": "45.29%*2+60.39%",
+					"Lv4": "49.76%*2+66.34%",
+					"Lv5": "52.95%*2+70.60%",
+					"Lv6": "56.62%*2+75.49%",
+					"Lv7": "61.72%*2+82.30%",
+					"Lv8": "66.83%*2+89.10%",
+					"Lv9": "71.93%*2+95.91%",
+					"Lv10": "77.36%*2+103.14%"
+				},
+				{
+					"Name": "Extermination Order Part 3 Damage",
+					"Lv1": "108.08%*2",
+					"Lv2": "116.94%*2",
+					"Lv3": "125.80%*2",
+					"Lv4": "138.21%*2",
+					"Lv5": "147.07%*2",
+					"Lv6": "157.26%*2",
+					"Lv7": "171.44%*2",
+					"Lv8": "185.62%*2",
+					"Lv9": "199.80%*2",
+					"Lv10": "214.87%*2"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Extermination Order Con. Energy Regen",
+					"Lv1": "4",
+					"Lv2": "4",
+					"Lv3": "4",
+					"Lv4": "4",
+					"Lv5": "4",
+					"Lv6": "4",
+					"Lv7": "4",
+					"Lv8": "4",
+					"Lv9": "4",
+					"Lv10": "4"
+				}
+			]
+		},
+		{
+			"name": "Phantom Etching",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo attacks the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and enters Deathblade Gear state. After Resonance Liberation Deathblade Gear state ends, Calcharo's next Intro Skill is replaced with Intro Skill \\\"Necessary Means\\\", which deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Intro Skill damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deathblade Gear\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack is replaced with Basic Attack Hounds Roar. Dodge Counter deals increased damage, considered as \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Resonance Liberation damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hounds Roar\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Basic Attack Damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "300.00%",
+					"Lv2": "324.60%",
+					"Lv3": "349.20%",
+					"Lv4": "383.64%",
+					"Lv5": "408.24%",
+					"Lv6": "436.53%",
+					"Lv7": "475.89%",
+					"Lv8": "515.25%",
+					"Lv9": "554.61%",
+					"Lv10": "596.43%"
+				},
+				{
+					"Name": "Necessary Means Damage",
+					"Lv1": "100.00%*2",
+					"Lv2": "108.20%*2",
+					"Lv3": "116.40%*2",
+					"Lv4": "127.88%*2",
+					"Lv5": "136.08%*2",
+					"Lv6": "145.51%*2",
+					"Lv7": "158.63%*2",
+					"Lv8": "171.75%*2",
+					"Lv9": "184.87%*2",
+					"Lv10": "198.81%*2"
+				},
+				{
+					"Name": "Hounds Roar Part 1",
+					"Lv1": "44.30%",
+					"Lv2": "47.93%",
+					"Lv3": "51.56%",
+					"Lv4": "56.65%",
+					"Lv5": "60.28%",
+					"Lv6": "64.46%",
+					"Lv7": "70.27%",
+					"Lv8": "76.08%",
+					"Lv9": "81.89%",
+					"Lv10": "88.07%"
+				},
+				{
+					"Name": "Hounds Roar Part 2",
+					"Lv1": "17.72%*2+26.58%*2",
+					"Lv2": "19.18%*2+28.76%*2",
+					"Lv3": "20.63%*2+30.94%*2",
+					"Lv4": "22.66%*2+33.99%*2",
+					"Lv5": "24.11%*2+36.17%*2",
+					"Lv6": "25.79%*2+38.68%*2",
+					"Lv7": "28.11%*2+42.16%*2",
+					"Lv8": "30.43%*2+45.65%*2",
+					"Lv9": "32.76%*2+49.14%*2",
+					"Lv10": "35.23%*2+52.84%*2"
+				},
+				{
+					"Name": "Hounds Roar Part 3",
+					"Lv1": "82.41%",
+					"Lv2": "89.17%",
+					"Lv3": "95.93%",
+					"Lv4": "105.39%",
+					"Lv5": "112.14%",
+					"Lv6": "119.92%",
+					"Lv7": "130.73%",
+					"Lv8": "141.54%",
+					"Lv9": "152.35%",
+					"Lv10": "163.84%"
+				},
+				{
+					"Name": "Hounds Roar Part 4",
+					"Lv1": "17.52%*6",
+					"Lv2": "18.95%*6",
+					"Lv3": "20.39%*6",
+					"Lv4": "22.40%*6",
+					"Lv5": "23.83%*6",
+					"Lv6": "25.49%*6",
+					"Lv7": "27.78%*6",
+					"Lv8": "30.08%*6",
+					"Lv9": "32.38%*6",
+					"Lv10": "34.82%*6"
+				},
+				{
+					"Name": "Hounds Roar Part 5",
+					"Lv1": "75.54%*2",
+					"Lv2": "81.74%*2",
+					"Lv3": "87.93%*2",
+					"Lv4": "96.61%*2",
+					"Lv5": "102.80%*2",
+					"Lv6": "109.92%*2",
+					"Lv7": "119.83%*2",
+					"Lv8": "129.74%*2",
+					"Lv9": "139.66%*2",
+					"Lv10": "150.19%*2"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "31.20%*5",
+					"Lv2": "33.76%*5",
+					"Lv3": "36.32%*5",
+					"Lv4": "39.90%*5",
+					"Lv5": "42.46%*5",
+					"Lv6": "45.40%*5",
+					"Lv7": "49.50%*5",
+					"Lv8": "53.59%*5",
+					"Lv9": "57.68%*5",
+					"Lv10": "62.03%*5"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "28.67%*6",
+					"Lv2": "31.02%*6",
+					"Lv3": "33.37%*6",
+					"Lv4": "36.66%*6",
+					"Lv5": "39.01%*6",
+					"Lv6": "41.72%*6",
+					"Lv7": "45.48%*6",
+					"Lv8": "49.24%*6",
+					"Lv9": "53.00%*6",
+					"Lv10": "56.99%*6"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				},
+				{
+					"Name": "Deathblade Gear Duration",
+					"Lv1": "11",
+					"Lv2": "11",
+					"Lv3": "11",
+					"Lv4": "11",
+					"Lv5": "11",
+					"Lv6": "11",
+					"Lv7": "11",
+					"Lv8": "11",
+					"Lv9": "11",
+					"Lv10": "11"
+				},
+				{
+					"Name": "Cooldown Time",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "125",
+					"Lv2": "125",
+					"Lv3": "125",
+					"Lv4": "125",
+					"Lv5": "125",
+					"Lv6": "125",
+					"Lv7": "125",
+					"Lv8": "125",
+					"Lv9": "125",
+					"Lv10": "125"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Hunting Mission",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: \\\"Mercy\\\"\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Calcharo has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Cruelty\\\", his Heavy Attack is replaced with Heavy Attack \\\"Mercy\\\". When casting Heavy Attack \\\"Mercy\\\", Calcharo consumes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Cruelty\\\" to deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" considered as Heavy Attack damage, and recovers Resonance Energy and Concerto Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\\"Cruelty\\\"\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Cruelty\\\". Under Resonance Liberation Deathblade Gear state, \\\"Cruelty\\\" cannot be acquired. When Resonance Skill Extermination Order hits the target, gain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Cruelty\\\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: \\\"Death Messenger\\\"\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Calcharo has 5 \\\"Killing Intent\\\", his Basic Attack is replaced with Heavy Attack \\\"Death Messenger\\\". When casting Heavy Attack \\\"Death Messenger\\\", Calcharo consumes 5 \\\"Killing Intent\\\" to deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Liberation damage, and recovers Resonance Energy and Concerto Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\\"Killing Intent\\\"\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Under Resonance Liberation Deathblade Gear state, Calcharo's Forte Gauge is replaced with \\\"Killing Intent\\\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When Basic Attack Hounds Roar hits the target, Calcharo gains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\\"Killing Intent\\\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Mercy Damage",
+					"Lv1": "19.67%*8+39.34%",
+					"Lv2": "21.29%*8+42.57%",
+					"Lv3": "22.90%*8+45.80%",
+					"Lv4": "25.16%*8+50.31%",
+					"Lv5": "26.77%*8+53.54%",
+					"Lv6": "28.63%*8+57.25%",
+					"Lv7": "31.21%*8+62.41%",
+					"Lv8": "33.79%*8+67.57%",
+					"Lv9": "36.37%*8+72.73%",
+					"Lv10": "39.11%*8+78.22%"
+				},
+				{
+					"Name": "Death Messenger Damage",
+					"Lv1": "49.18%*8+98.35%",
+					"Lv2": "53.21%*8+106.42%",
+					"Lv3": "57.24%*8+114.48%",
+					"Lv4": "62.89%*8+125.77%",
+					"Lv5": "66.92%*8+133.84%",
+					"Lv6": "71.56%*8+143.11%",
+					"Lv7": "78.01%*8+156.02%",
+					"Lv8": "84.46%*8+168.92%",
+					"Lv9": "90.91%*8+181.82%",
+					"Lv10": "97.77%*8+195.53%"
+				},
+				{
+					"Name": "Mercy Con. Energy Regen",
+					"Lv1": "6",
+					"Lv2": "6",
+					"Lv3": "6",
+					"Lv4": "6",
+					"Lv5": "6",
+					"Lv6": "6",
+					"Lv7": "6",
+					"Lv8": "6",
+					"Lv9": "6",
+					"Lv10": "6"
+				},
+				{
+					"Name": "Death Messenger Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Mercy Con. Energy Regen",
+					"Lv1": "6",
+					"Lv2": "6",
+					"Lv3": "6",
+					"Lv4": "6",
+					"Lv5": "6",
+					"Lv6": "6",
+					"Lv7": "6",
+					"Lv8": "6",
+					"Lv9": "6",
+					"Lv10": "6"
+				},
+				{
+					"Name": "Death Messenger Resonance Energy Regen",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				}
+			]
+		},
+		{
+			"name": "Bloodshed Awaken",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Heavy Attack \\\"Mercy\\\", Calcharo's Resonance Liberation DMG Bonus is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Revenant Rush",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Heavy Attack \\\"Death Messenger\\\" hits the target, the damage taken by Calcharo is reduced by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Wanted Outlaw",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "20.00%*2+30.00%*2",
+					"Lv2": "21.64%*2+32.46%*2",
+					"Lv3": "23.28%*2+34.92%*2",
+					"Lv4": "25.58%*2+38.37%*2",
+					"Lv5": "27.22%*2+40.83%*2",
+					"Lv6": "29.11%*2+43.66%*2",
+					"Lv7": "31.73%*2+47.59%*2",
+					"Lv8": "34.35%*2+51.53%*2",
+					"Lv9": "36.98%*2+55.47%*2",
+					"Lv10": "39.77%*2+59.65%*2"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Shadowy Raid",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo summons Phantom to support the Resonator, clearing the targets in front with a slash. The Phantom's attack deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"195.98%+391.96%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Calcharo's ATK.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo is a 5-star Electro Broadblade wielding DPS that can function as either Main DPS in a Hyper Carry styled team with other units meant to support his kit, or as a dual DPS in Quick-Swap teams. Regardless of which scenario you pick, Calcharo usually dominates most of the teams’ focus due to either his kit’s extreme demands in regards to field time, a lot of precision and tricks, or in some scenarios, both.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you prefer Hyper Carry Calcharo, he is in a bit of a weird spot. When played at the highest level possible, he wants his burst rotation to be Swap-Cancelled in the middle of his Ultimate buffed state. This ultimately limits his potential as a Hyper Carry, as he loses the majority of outro amplification buffs when played like this. The only way around this is to pair him up with characters whose outro amplifications linger even during swaps, such as Verina and Baizhi.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On the other hand, Calcharo is much more often played in Quick-Swap double DPS teams that facilitate his desire to Swap-Cancel his Empowered Heavy Attacks. In these he is most often paired with Yinlin, as she also wants to be swapped often, but can also find solace in teams with Encore or Havoc Rover.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Everytime Calcharo uses his Resonance skill, his Forte Gauge is filled and accumulates Cruelty charges. Upon acquiring the maximum of 3 charges, he is able to execute an empowered Heavy Attack (Mercy). In addition, during Calcharo’s Ultimate his Forte gauge is enhanced and he loses access to his standard gauge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo’s skill consists of 3 parts which can be used independently of each other, however should you wait too long or switch him off the field, they will enter a cooldown. His skill’s primary usage is to generate Resonance Energy and “Cruelty” charges for his standard Forte Gauge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lastly, his Ultimate skill deals a huge amount of Electro DMG, as well as transitioning him to Deathblade Gear state, which empowers his basic attacks, Forte Gauge and Heavy Attacks. Furthermore, using his Ultimate allows him to gain an immediate stack of 5 “Killing Intent” (his empowered Forte Gauge) and upon consuming 5 \\\"Killing Intent\\\" stacks he casts Death Messenger - a high Electro DMG nuke, which makes up for bulk of his damage. Otherwise, for every enhanced basic attack used, Calcharo gains a single charge of “Killing Intent”. Calcharo’s goal during his ultimate is to build and spend as many killing intent stacks on Death Messenger’s as possible.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As you might have guessed from the information above, Calcharo features a highly complicated kit requiring a lot of skill. This translates to his field time varying vastly depending on the playstyle you have chosen and your skill. While using Calcharo as Main DPS, his optimal burst rotation includes 3 Heavy Attack Death Messengers, each of which have an animation of 2 seconds, however all of them can be Swap-Cancelled immediately after starting, making a less skilled player amass a 6 second field time gap. This is further extended if you include his warm-up rotation that contains another 2 second cast from Mercy. As a consolation to the high level of skill required to play him optimally, when being played at perfection, he competes for some of the highest DPS in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If the previous paragraph wasn’t clear to you, yes, Calcharo is currently by far the hardest character to play in the game to his max potential, and the second place is not even close. To play him at peak condition, you will need to perfectly time his burst rotation when it can be fully executed, while timing the Swap-Cancels just right. Failure to do so will cost you a large portion of his damage, Concerto and Resonance energy generation. Pairing him in team compositions such as Yinlin-Calcharo will increase the skill required even further than this.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo is a trick-intensive character, much more than anyone else in the roster. Adding to the Death Messenger complexity, you will want to Swap-Cancel them not only to protect him during animation, but also to increase team DPS, as you can quickly spam other characters’ skills. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If this wasn’t daunting enough, playing him optimally also requires mastering his Basic Attacks, which are needed before Death Messenger can be executed. His Basic Attacks 4 and 5 have unfortunately long animation times, which need to be avoided to provide optimal DPS. To that end, executing the first 3 Basic Attacks, then interrupting his Basic Attack chain using a dash or a skill to reset back to Basic Attack 1 results in overall faster access to Death Messenger. Thus optimally, you would be using Basic Attack 1, 2, 3, Interrupt 1, 2 instead of Basic Attack 1-5 chain, allowing you to save precious seconds leading to his Ultimate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Regardless of how you use Calcharo or your skill level with him, he will always be focused on dealing as much damage as possible, thus he will always make great use of DPS echo and accompanying set bonuses.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, Calcharo is currently one of the best DPS in the game for Tower of Adversary, especially when paired with his ideal teammate Yinlin, but as stated earlier, this raises the difficulty of playing him substantially. While he is still a competitive pick when not played to his maximum potential, he simply loses edge compared to some easier to play characters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredibly high damage when played perfectly\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Absurdly high skill ceiling rewarding excellent players\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Some of the most active gameplay of any character, you’ll always have something to do when he’s in the team\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great synergy with many of the other strongest characters currently in the game\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Hardest character to play in the game when aiming for his maximum potential\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Making mistakes costs Calcharo more severely compared to other characters\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Calcharo has long animations on most of his most powerful moves (Can be Swap-Cancelled, but if you choose not to you’ll definitely feel it in boss battles)\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Can be damaged but also stunned out of a lot of his most powerful moves if not timed correctly\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"voiceActors": {
+		"en": "Ben Cura",
+		"kr": "Park Min Gi",
+		"jpn": "Morikawa Toshiyuki",
+		"cn": "Xu Xiang"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Electro DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Electro DMG"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Endless Resonance",
+				"name2": "",
+				"value": "101.55%",
+				"notes": "Lingering Tunes requires time to ramp up and is reset after switching characters (which is a VERY common team tactic in the endgame). This set of calculations assumes that for this character's entire burst window, they are not switched out until the very end.",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Void Thunder",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Tempest Mephis"
+			},
+			{
+				"name": "Void Thunder",
+				"name2": "Endless Resonance",
+				"value": "95.04%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "",
+				"value": "94.92%",
+				"notes": "Lingering Tunes requires time to ramp up and is reset after switching characters (which is a VERY common team tactic in endgame). This set of calculations displays expected performance if you switched the character constantly never maintaining the buff (switch every 1.5 seconds or faster).",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Void Thunder",
+				"name2": "Moonlit Clouds",
+				"value": "94.70%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "Moonlit Clouds",
+				"value": "92.85%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Lustrous Razor",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Verdant Summit",
+			"super": "1",
+			"notes": "",
+			"percent": "96.58%"
+		},
+		{
+			"weapon": "Autumntrace",
+			"super": "5",
+			"notes": "",
+			"percent": "94.40%"
+		},
+		{
+			"weapon": "Autumntrace",
+			"super": "1",
+			"notes": "",
+			"percent": "82.78%"
+		},
+		{
+			"weapon": "Helios Cleaver",
+			"super": "5",
+			"notes": "",
+			"percent": "80.74%"
+		},
+		{
+			"weapon": "Broadblade#41",
+			"super": "5",
+			"notes": "",
+			"percent": "80.17%"
+		},
+		{
+			"weapon": "Helios Cleaver",
+			"super": "1",
+			"notes": "",
+			"percent": "78.68%"
+		},
+		{
+			"weapon": "Broadblade#41",
+			"super": "1",
+			"notes": "",
+			"percent": "76.54%"
+		},
+		{
+			"weapon": "Broadblade of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "71.82%"
+		},
+		{
+			"weapon": "Guardian Broadblade",
+			"super": "5",
+			"notes": "",
+			"percent": "70.23%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK = Liberation DMG%",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "CRIT DMG",
+			"value": 16
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": [
+		{
+			"video": "_DEtN5owkWc"
+		}
+	],
+	"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Minimum): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Calcharo is a skill-based character and a good chunk of his energy generation is gated behind executing combos with long sequences. If you're confident in completing his warm-up phases and triple Death Messenger combo without issue go with this range of energy. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Conservative): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - If you're less confident in executing Calcharo's combo or warm-up phase without messing up and or want to skip a portion of his combo or warm-up phase stick with this range of energy instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo has two modes: his normal mode and his ultimate mode “Deathblade Gear”. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While in the Ultimate mode, Calcharo Basic Attacks, Heavy Attacks, dodge counters, Heavy Attack finishers, and Forte Gauge all transform into empowered versions that inflict more damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo’s Ultimate deals initial large Electro damage and of course puts him into the Deathblade Gear state for 11 seconds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo’s Forte Gauge in normal mode outside of Ultimate has 3 charges that when accumulated by using Resonance Skills can be spent on an empowered Heavy Attack called Mercy which will deal large damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo’s Forte Gauge in the empowered mode gains 2 more charges and they will be accumulated via using Basic Attacks instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While possessing 5 charges, Calcharo can consume them and cast a heavy attack, Death Messenger, dealing colossal damage with good Concerto and Resonance generation. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When first entering the Deathblade state, you will start with 5 charges allowing for an immediate Death Messenger.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo’s Resonance Skill can be used 3 times before going on cooldown with each skill chaining together. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo’s skills will not be immediately interrupted if you dodge or move around in between them and they can even be weaved between basic attacks, meaning that this combo can be executed on the fly and is hard to fail. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Still, if you leave too much time in between skills, you’ll lose the remaining charges and the skill will go on cooldown. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As mentioned earlier Calcharo’s skill is needed to generate charges for the non-ultimate empowered heavy attack Mercy but is not used while the ultimate is active as you need to use basic attacks for charges in that mode instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Calcharo’s standard basic attacks normally aren’t worth using unless your skill is on cooldown and you still don’t have access to your ultimate yet but in their ultimate enhanced state, they are absolutely pivotal. You’ll be alternating between using 5 enhanced basics and a Death Messenger on repeat during Calcharo’s ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Iris",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Thundering Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Monument Bell",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "Crude Ring",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "Basic Ring",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "Improved Ring",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "Tailored Ring",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Waveworn Residue 210",
+				"number": 25
+			},
+			{
+				"name": "Waveworn Residue 226",
+				"number": 28
+			},
+			{
+				"name": "Waveworn Residue 235",
+				"number": 55
+			},
+			{
+				"name": "Waveworn Residue 239",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "DPS",
+	"tierTags": [
+		"Cancel",
+		"Hard",
+		"ST",
+		"Ult"
+	],
+	"ratings": {
+		"tower": 10
+	},
+	"isNew": null,
+	"upcoming": null
+}

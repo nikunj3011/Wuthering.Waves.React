@@ -7,7 +7,6 @@ const Character = () => {
     const {id} = useParams();
     return (
         <>
-        <PageBanner title="Character" activePage="Characters" description="All characters available in Wuthering Waves!"/>
         <CharacterSummary id={id} />
         </>
     );

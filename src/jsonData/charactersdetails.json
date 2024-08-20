@@ -2,6 +2,9 @@
 	{
 		"id": "1",
 		"img": "https://www.prydwen.gg/static/28692b3a188f6b7b14a9d28aa90bf3c8/b26e2/aalto_card.webp",
+		"img2": "https://www.prydwen.gg/static/28692b3a188f6b7b14a9d28aa90bf3c8/b26e2/aalto_card.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hha-active-182494e6.png",
+		"region": "Black Shores",
 		"name": "Aalto",
 		"tag": "Aero",
 		"rankings": {
@@ -61,7 +64,25 @@
 		"element": "Aero",
 		"weapon": "Pistols",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto is an enigmatic Information Broker, known for his elusive nature and welcoming smile. Rumor has it he'll provide any information at the right price. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Aalto is an enigmatic Information Broker, known for his elusive nature and welcoming smile. Rumor has it he'll provide any information at the right price. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -597,12 +618,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": [
-			{
-				"char": "",
-				"notes": ""
-			}
-		],
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AERO\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-40%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto's ultimate is essential for achieving his optimal Concerto rotation as such we recommend getting 30-40% Energy Regen so he'll have it every time you need it. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -676,6 +692,9 @@
 	{
 		"id": "2",
 		"img": "https://www.prydwen.gg/static/3752f18605107b5fdb36835e9e7a2b90/b26e2/baizhi_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/baizhi-d1333fef.png",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Baizhi",
 		"tag": "Glacio",
 		"rankings": {
@@ -735,7 +754,25 @@
 		"element": "Glacio",
 		"weapon": "Rectifier",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi is a researcher in Remnant Ecoacoustics. Baizhi's once unfulfilled wish has now manifested as her loyal companion. The Remnant Creature You'tan is her source of healing powers, and a lifelong research focus. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Baizhi is a researcher in Remnant Ecoacoustics. Baizhi's once unfulfilled wish has now manifested as her loyal companion. The Remnant Creature You'tan is her source of healing powers, and a lifelong research focus.",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -1264,7 +1301,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"23000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-110%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi does not generate much Resonance Energy of her own but has an ultimate that speeds up her concerto generation and heals the team a moderate amount making it desirable to acquire whenever possible. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The result of this is that Baizhi relies on her team generating much of the energy she needs through the 50% team-wide energy share, however, she still needs a tremendous amount of ER even with that to achieve the 175 energy cost of the ultimate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To meet this cost we recommend getting as much energy regeneration as possible on gear, with \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-110%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" being a comfortable amount to access the ultimate quickly. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -1338,6 +1375,9 @@
 	{
 		"id": "3",
 		"img": "https://www.prydwen.gg/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp",
+		"img2": "https://www.prydwen.gg/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/logo-unkonw-big1-1fbfa8aa.png",
+		"region": "Other",
 		"name": "Calcharo",
 		"tag": "Electro",
 		"rankings": {
@@ -1397,7 +1437,25 @@
 		"element": "Electro",
 		"weapon": "Broadblade",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Leader of the \\\"Ghost Hounds\\\", an international mercenary group. Ruthless, vengeful, unforgiving. A potential client must be mindful of the price to pay before making him an offer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Leader of the \"Ghost Hounds\", an international mercenary group. Ruthless, vengeful, unforgiving. A potential client must be mindful of the price to pay before making him an offer.",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -2137,7 +2195,7 @@
 				"video": "_DEtN5owkWc"
 			}
 		],
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Minimum): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Calcharo is a skill-based character and a good chunk of his energy generation is gated behind executing combos with long sequences. If you're confident in completing his warm-up phases and triple Death Messenger combo without issue go with this range of energy. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Conservative): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - If you're less confident in executing Calcharo's combo or warm-up phase without messing up and or want to skip a portion of his combo or warm-up phase stick with this range of energy instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -2216,6 +2274,9 @@
 	{
 		"id": "4",
 		"img": "https://www.prydwen.gg/static/689148c2dc5b0b38aeb2c75ca8b3ef65/b26e2/chixia_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/chixia-d3ddb4cb.png",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Chixia",
 		"tag": "Fusion",
 		"rankings": {
@@ -2275,7 +2336,25 @@
 		"element": "Fusion",
 		"weapon": "Pistols",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Chixia is a young Patroller who casts her jubilant figure along the streets of Jinzhou city. She's always ready to be someone's hero. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Chixia is a young Patroller who casts her jubilant figure along the streets of Jinzhou city. She's always ready to be someone's hero. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -2805,7 +2884,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"13500+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"35-45%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Chixia has one of the most expensive damage-focused ultimates in the game - costing a whopping 150. She is also on the lower end when it comes to Resonance Energy generation, meaning she needs quite a bit of help from her team and the energy regeneration stat. To ensure she has access to her Ultimate at S0 each rotation we recommend at least 35-45% energy regeneration. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While Chixia's ultimate isn't essential for her to function it is a massive part of her damage profile, meaning playing without it will hinder your output considerably but isn't a complete deal breaker. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -2879,6 +2958,9 @@
 	{
 		"id": "5",
 		"img": "https://www.prydwen.gg/static/431f962f5a8febb92f44ae9138aa5e01/b26e2/danjin_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/danjin-c5277831.png",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Danjin",
 		"tag": "Havoc",
 		"rankings": {
@@ -2938,7 +3020,25 @@
 		"element": "Havoc",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With a vengeful blade of condensed blood in hand, Ranger Danjin hunts down thieves and bandits for retribution. She journeys to distant lands in pursuit of justice. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "With a vengeful blade of condensed blood in hand, Ranger Danjin hunts down thieves and bandits for retribution. She journeys to distant lands in pursuit of justice. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -3545,7 +3645,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HAVOC DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin does not require any Energy Regen in order to function and it's not specifically recommended for her build, but if you can gain some without it costing you, having more frequent Ultimates will lead to more total damage in fights \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -3624,6 +3724,9 @@
 	{
 		"id": "6",
 		"img": "https://www.prydwen.gg/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp",
+		"img2": "https://www.prydwen.gg/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hha-active-182494e6.png",
+		"region": "Black Shores",
 		"name": "Encore",
 		"tag": "Fusion",
 		"rankings": {
@@ -3683,7 +3786,25 @@
 		"element": "Fusion",
 		"weapon": "Rectifier",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A girl accompanied by one black and one white Wooly plushies. Encore, consultant from the Black Shores, is longing to create happy stories with candies, fairy tales, and her imagination. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "A girl accompanied by one black and one white Wooly plushies. Encore, consultant from the Black Shores, is longing to create happy stories with candies, fairy tales, and her imagination. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -4376,7 +4497,7 @@
 				"video": "QuCZ1gL4cbY"
 			}
 		],
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1800-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"How much Energy Regen you'll need on Encore will depend on how you plan to play her - specifically how frequently you plan to make use of her Ultimate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the Quick Swap teams, Encore's ultimate is not the focus of her value so you can run minimal or even no Energy Regen and get away with it (\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0-20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When playing Encore with a focus on her Ultimate in Hyper Carry teams where much of your damage is dealt during its duration aim for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15-25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy Regen as a conservative estimate - although you may find yourself able to get away with less. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -4451,6 +4572,9 @@
 	{
 		"id": "7",
 		"img": "https://www.prydwen.gg/static/c215e7a42cbfd78f854553f192dc0e4f/b26e2/jiaxin_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/jianxin-super-1d856ae8.jpg",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Jianxin",
 		"tag": "Aero",
 		"rankings": {
@@ -4510,7 +4634,25 @@
 		"element": "Aero",
 		"weapon": "Gauntlets",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jianxin, a Taoist monk and successor of Fengyiquan, has dedicated her life to mastering the ultimate martial art. With the power to harness and transform environmental Chi, she can create protective barriers that purify both body and mind. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Jianxin, a Taoist monk and successor of Fengyiquan, has dedicated her life to mastering the ultimate martial art. With the power to harness and transform environmental Chi, she can create protective barriers that purify both body and mind. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -5260,7 +5402,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When played as a support, Jianxin does not require any specific stats outside of Energy Regen in order to perform well. We still recommend a baseline level of survivability but other stats can be selected and prioritized as you see fit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1100+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-40% \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When playing Jianxian as a support her Ultimate is a large part of the benefit she brings to the fight and to have it up in a timely manner we recommend a minimum of 30 - 40% Energy Regen rate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This amount of ER will grant you an ultimate quickly but not on cooldown. If you want it faster, stacking even more is recommended - as a support it doesn't cost Jianxin much to dedicate more of her build toward this. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These recommendations are only for Support Jianxian and when playing DPS her energy needs will be different. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -5336,6 +5478,9 @@
 	{
 		"id": "8",
 		"img": "https://www.prydwen.gg/static/5020d60083afc09d2fb6bce4a35225bc/b26e2/jiyan_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/jiyan-super-73c4c907.jpg",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Jiyan",
 		"tag": "Aero",
 		"rankings": {
@@ -5395,7 +5540,25 @@
 		"element": "Aero",
 		"weapon": "Broadblade",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jiyan, leader of the Midnight Rangers, acts with swift and resolute righteousness. He possesses the formidable ability to conjure a powerful Qingloong from the winds, making him invincible on the battlefield. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Jiyan, leader of the Midnight Rangers, acts with swift and resolute righteousness. He possesses the formidable ability to conjure a powerful Qingloong from the winds, making him invincible on the battlefield. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -6010,7 +6173,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AERO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Minimum): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15-25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Jiyan is a character that lives or dies by his ultimate and not having it up at the right opportunity can mean tanking his DPS into the floor. Having said that, you can get away with running less Energy Regeneration on him. If you're comfortable in fully landing the majority of your entire burst combo, your echo, AND landing a minimum of 1 (but ideally 2) skills in the warm-up phase go for this energy recharge range. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Conservative): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25-40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - If you want some insurance for when a portion of your burst doesn't hit due to a boss dodging or flying away and or you're not confident in consistently hitting your Echo or 1-2 skills in the warm-up phase go for this energy recharge range instead. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -6089,6 +6252,9 @@
 	{
 		"id": "9",
 		"img": "https://www.prydwen.gg/static/672fdaae2b01f8355d5631a989e5f472/b26e2/ling_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/lingyang-super-2168dfcf.jpg",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Lingyang",
 		"tag": "Glacio",
 		"rankings": {
@@ -6148,7 +6314,25 @@
 		"element": "Glacio",
 		"weapon": "Gauntlets",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lingyang is talented and friendly member of the Liondance Troupe in Jinzhou. His passion and courage are evident as he engages with humans, showcasing his impressive physical abilities. With his unique style, he embodies the spirit of Liondancing. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Lingyang is talented and friendly member of the Liondance Troupe in Jinzhou. His passion and courage are evident as he engages with humans, showcasing his impressive physical abilities. With his unique style, he embodies the spirit of Liondancing. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -6752,7 +6936,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"ATK: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2000-2600+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"HP: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15000+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"DEF: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1200+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"GLACIO DMG%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"42%-72%+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT RATE%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50-70%+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT DMG% \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100-140%+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Energy Regeneration (Minimum): \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10-25%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Lingyang only has one mode of play and that is going all in on his ultimate burst window with little to no warm-up needed. To make this work, getting the appropriate amount of Energy Regen is essential. How much you'll need will vary from team to team and depending on which main Echo you opt to use, but we recommend 10-25% just to be safe,\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"If you find your Lingyang missing out on your ultimate, you may need a bit more - or to reassess your team comp, echo choice, or rotations. \",\"marks\":[],\"data\":{}}]}]}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
 		},
@@ -6827,6 +7011,9 @@
 	{
 		"id": "10",
 		"img": "https://www.prydwen.gg/static/afa511d7b0c173247db7478c15e7e8d7/b26e2/mortefi_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/motefei-d06bd7fa.png",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Mortefi",
 		"tag": "Fusion",
 		"rankings": {
@@ -6886,7 +7073,25 @@
 		"element": "Fusion",
 		"weapon": "Pistols",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mortefi, a skilled expert in Applied Tacetite Study and a member of the Academy’s Department of Safety, possesses the unique ability to transform his accumulated frustration into fiery flames. From a burning wrath that consumes all, the red dragon shall descend. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Mortefi, a skilled expert in Applied Tacetite Study and a member of the Academy’s Department of Safety, possesses the unique ability to transform his accumulated frustration into fiery flames. From a burning wrath that consumes all, the red dragon shall descend. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -7406,7 +7611,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1100+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"42%-72%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -7481,6 +7686,9 @@
 	{
 		"id": "11",
 		"img": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+		"img2": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/logo-unkonw-big1-1fbfa8aa.png",
+		"region": "Unknown",
 		"name": "Rover (Spectro)",
 		"tag": "Spectro",
 		"rankings": {
@@ -7559,7 +7767,25 @@
 		"element": "Spectro",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Awakened with an unknown past, Rover embarks on a journey to uncover the truths. As secrets are unveiled, Rover establishes deeper connections with the world.\",\"marks\":[],\"data\":{}}]}]}"
+			"raw": 
+			{
+				"nodeType": "document",
+				"data": {},
+				"content": [
+					{
+						"nodeType": "paragraph",
+						"data": {},
+						"content": [
+							{
+								"nodeType": "text",
+								"value": "Awakened with an unknown past, Rover embarks on a journey to uncover the truths. As secrets are unveiled, Rover establishes deeper connections with the world.",
+								"marks": [],
+								"data": {}
+							}
+						]
+					}
+				]
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -8127,7 +8353,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2300+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(72-102% with Sequence 2) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-60%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-120%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(0-5% with Sequence 4) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -8203,6 +8429,9 @@
 	{
 		"id": "12",
 		"img": "https://www.prydwen.gg/static/f67966dd31af657ac8612d36006d5874/b26e2/senhua_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/sanhua-fc6123b9.png",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Sanhua",
 		"tag": "Glacio",
 		"rankings": {
@@ -8262,7 +8491,25 @@
 		"element": "Glacio",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The bodyguard of Jinzhou’s Magistrate, known for having an icy personality. Once regarded as the Asura of Calamity, Sanhua is now a taciturn guardian. She has learned to maintain inner calmness amidst the chaotic frequencies, and the things that once frightened her now fuel her determination. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "The bodyguard of Jinzhou’s Magistrate, known for having an icy personality. Once regarded as the Asura of Calamity, Sanhua is now a taciturn guardian. She has learned to maintain inner calmness amidst the chaotic frequencies, and the things that once frightened her now fuel her determination. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -8877,7 +9124,7 @@
 				"video": "2WlnsfujK_A"
 			}
 		],
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"950+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"GLACIO\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"42%-72%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -8952,6 +9199,9 @@
 	{
 		"id": "13",
 		"img": "https://www.prydwen.gg/static/9759a6ea13fefd1bc632650a0a657e8e/b26e2/taoqi_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/taoqi-a685e46e.png",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Taoqi",
 		"tag": "Havoc",
 		"rankings": {
@@ -9011,7 +9261,25 @@
 		"element": "Havoc",
 		"weapon": "Broadblade",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Taoqi is the director of border defense at the Ministry of Development. Despite her seemingly laid-back demeanor, she consistently proves to be a dependable and supportive individual, always lending her hand to those in need. Taoqi is not only a reliable colleague, but also a trustworthy friend that people can confide in. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Taoqi is the director of border defense at the Ministry of Development. Despite her seemingly laid-back demeanor, she consistently proves to be a dependable and supportive individual, always lending her hand to those in need. Taoqi is not only a reliable colleague, but also a trustworthy friend that people can confide in. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -9576,7 +9844,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"13000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1800+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-60%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The amount of ER Taoqi needs is dependent on how much field time you plan on dedicating to her. If you intend to rely on her Resonance Skill for the majority of her energy neglecting the rest of her kit we recommend using the higher end of ER recommended or even more than it. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you plan on making use of Taoqi's skill and her Forte Gauge combo as well you can build less. Aim for the following range of energy regeneration on Taoqi or more 30-60%+. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -9652,6 +9920,9 @@
 	{
 		"id": "14",
 		"img": "https://www.prydwen.gg/static/dd5bdface07cef9b868fe8214b0988ed/b26e2/verina_card.webp",
+		"img2": "https://www.prydwen.gg/static/dd5bdface07cef9b868fe8214b0988ed/b26e2/verina_card.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Verina",
 		"tag": "Spectro",
 		"rankings": {
@@ -9711,7 +9982,25 @@
 		"element": "Spectro",
 		"weapon": "Rectifier",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With an extensive knowledge of botany, Verina is always solicitous, always smiling, and always wishing for every flower to be blessed with the miracle of life. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "With an extensive knowledge of botany, Verina is always solicitous, always smiling, and always wishing for every flower to be blessed with the miracle of life. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -10331,7 +10620,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70-90%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina generates a reasonable amount of resonance energy of her own but has an ultimate that costs a staggering 175 energy meaning she relies on the team-wide 50% energy share and a large amount of ER to gain her ultimate in a timely manner. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina's Ultimate is important for Concerto generation and also has excellent team healing benefits making it worth building around. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To ensure the ultimate is available in a timely manner we recommend as much ER as possible on Verina with \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70-90%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" being a comfortable amount. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -10406,6 +10695,9 @@
 	{
 		"id": "15",
 		"img": "https://www.prydwen.gg/static/ad90d3bdfacb57e34e7f90367f3823b0/b26e2/yang_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/yangyang-e1fc0453.png",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Yangyang",
 		"tag": "Aero",
 		"rankings": {
@@ -10471,7 +10763,25 @@
 		"element": "Aero",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang is an Outrider of the Midnight Rangers. Once sheltered, now a fighter. She soars with the wind to protect others, like a skylark in flight. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Yangyang is an Outrider of the Midnight Rangers. Once sheltered, now a fighter. She soars with the wind to protect others, like a skylark in flight. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -10969,7 +11279,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang doesn't \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"need\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"any energy generation rate\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to have her ultimate available enough for most teams to make use of her concerto effect when they need it. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"But if you're playing Yangyang in teams that want to use her ultimate on cooldown or want to dedicate less field time to her perhaps only using her skill and Forte aerial plunge building some energy regeneation rate can assist with both of these. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -11044,6 +11354,9 @@
 	{
 		"id": "16",
 		"img": "https://www.prydwen.gg/static/a2b0c34a81e57a52165da5b356be412c/b26e2/yinglin_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/yinlin-super-740f2b78.jpg",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Yinlin",
 		"tag": "Electro",
 		"rankings": {
@@ -11103,7 +11416,25 @@
 		"element": "Electro",
 		"weapon": "Rectifier",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yinlin is a skilled Patroller and powerful Natural Resonator. After being suspended from her duties at the Public Security Bureau, she must now pursue hidden evils in secrecy. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Yinlin is a skilled Patroller and powerful Natural Resonator. After being suspended from her duties at the Public Security Bureau, she must now pursue hidden evils in secrecy. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -11681,7 +12012,7 @@
 				"video": "TUrvbAewrMs"
 			}
 		],
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15500+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1250+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"42%-72%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20-30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yinlin's Ultimate is a major part of her damage and an incredibly helpful tool for quickly applying her Sinner's Mark to multiple enemies at once after a quick swap. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This makes her Forte Chameleon Cipher which aims to convert Sinner's Marks to Punishment Mark much easier to use - with a higher chance to apply the Punishment Mark to many more enemies at once. Without combining these two you'll have to rely on Yinlin's basics and skills to mark enemies before using her Forte. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Due to these interactions getting enough Energy Regeneration is important. We recommend \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20-30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to comfortably have your ultimate available in a timely manner for damage and applying Sinner's Mark in cases you need them. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -11757,6 +12088,9 @@
 	{
 		"id": "17",
 		"img": "https://www.prydwen.gg/static/fb4fc64e05d0d40ef90adc4527dc93ea/b26e2/yuanwu_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/yuanwu-ea9e9a1b.png",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Yuanwu",
 		"tag": "Electro",
 		"rankings": {
@@ -11816,7 +12150,25 @@
 		"element": "Electro",
 		"weapon": "Gauntlets",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yuanwu owns a boxing gym where he teaches martial arts and health management. He is well-respected in the community for his cordial demeanor and pleasant temperament. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": 
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Yuanwu owns a boxing gym where he teaches martial arts and health management. He is well-respected in the community for his cordial demeanor and pleasant temperament. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -12497,7 +12849,7 @@
 			}
 		},
 		"videos": null,
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"13000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2800-4000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25-35%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A large portion of Yuanwu's potential damage and supportive capabilities on top of Concerto generation comes from his ultimate so gaining access to it preferably on cooldown is incredibly important. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To ensure you have it up in a timely manner we recommend \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25-35% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Energy Regen but depending on your chosen team composition and the enemy you're fighting, you may want to invest into the stat more. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -12572,6 +12924,9 @@
 	{
 		"id": "18",
 		"img": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+		"img2": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/logo-unkonw-big1-1fbfa8aa.png",
+		"region": "Unknown",
 		"name": "Rover (Havoc)",
 		"tag": "Havoc",
 		"rankings": {
@@ -12650,7 +13005,25 @@
 		"element": "Havoc",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened with an unknown past, Rover embarks on a journey to uncover the truths. As secrets are unveiled, Rover establishes deeper connections with the world.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw":
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Awakened with an unknown past, Rover embarks on a journey to uncover the truths. As secrets are unveiled, Rover establishes deeper connections with the world.",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
@@ -13319,7 +13692,7 @@
 				"video": "UrnsviS6EFw"
 			}
 		],
-		"synergies": null,
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1900-2300+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HAVOC DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0-20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"How much energy regeneration you'll want on your S2+ Havoc Rover will depend on how you intend to play them. The longer you keep Rover on the field during their Umbra State, basic attacking the less energy regeneration you'll need. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you intend to play Havoc Rover as a Hyper Carry or have them on-field during Umbra for 2 or more full basic attack sequences you can get away with 0 - 10% Energy regeneration and have access to your ultimate during each Umbra burst window when played correctly. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you plan to play Havoc Rover as a Quick Swap damage dealer completing 1 or 0 full basic attack sequences during Umbra we recommend 10 - 20% Energy Regeneration. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It should be noted in all playstyles of Havoc Rover energy regeneration is never undesirable as their Ultimate has a fairly short cooldown and is always an excellent on-demand nuke so gaining access to it faster is never a bad thing - just a lesser priority than damage-focused stats. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -13393,8 +13766,11 @@
 	{
 		"id": "19",
 		"img": "https://www.prydwen.gg/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
+		"img2": "https://www.prydwen.gg/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Changli",
-		"tag": "Havoc",
+		"tag": "Fusion",
 		"rankings": {
 			"mainDPS": "B",
 			"subDPS": "A",
@@ -13452,41 +13828,700 @@
 		"element": "Fusion",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Counselor to the Jinzhou Magistrate, Changli excels at leveraging human nature to corner her enemies into traps. Being the mentor to Jinhsi, she is persuasive and patient. She entertains an unwavering aspiration, holding her ground in the endless game against time and chaos.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw":	{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Changli is a counselor serving the Jinzhou Magistrate, and former Secretary-General in the capital. Shrouded in flames, she's fated to burn brightly until her final embers. With her fiery determination and strategic mindset, she rises to power, always thinking ahead to reach her ultimate goal. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
-		"dupes": null,
-		"skills": null,
+		"dupes": {
+			"dupe1": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Tripartite Flames and Heavy Attack Flaming Sacrifice increase Changli's DMG dealt by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and resistance to interruption. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe2": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Enflamement increases Changli's Crit. Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe3": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation Radiance of Fealty DMG is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe4": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Intro Skill is cast, all team members' ATK is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe5": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack Flaming Sacrifice's Multiplier is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and its DMG dealt is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe6": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Skill Tripartite Flames, Heavy Attack Flaming Sacrifice, and Resonance Liberation Radiance of Fealty ignore an additional \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of the target's DEF when dealing damage. \",\"marks\":[],\"data\":{}}]}]}"
+			}
+		},
+		"skills": [
+			{
+				"name": "Blazing Enlightment",
+				"category": "Active",
+				"type": "Basic Attack",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". After releasing Basic Attack 4, enter True Sight, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume Stamina to perform up to 4 consecutive attacks in mid-air, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" After releasing Mid-air Attack 4, enter True Sight, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hold Basic Attack on the ground to perform an upward strike at the cost of Stamina, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Use Basic Attack within a certain time to release Mid-Air Attack \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shortly after holding Basic Attack in mid-air or using Basic Attack True Sight: Charge, use Basic Attack to perform a plunging attack at the cost of Stamina, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Use Basic Attack within a certain time to release Basic Attack \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Basic Attack 1 DMG",
+						"Lv1": "14.84%*2",
+						"Lv2": "16.05%*2",
+						"Lv3": "17.27%*2",
+						"Lv4": "18.97%*2",
+						"Lv5": "20.19%*2",
+						"Lv6": "21.59%*2",
+						"Lv7": "23.53%*2",
+						"Lv8": "25.48%*2",
+						"Lv9": "27.43%*2",
+						"Lv10": "29.49%*2"
+					},
+					{
+						"Name": "Basic Attack 2 DMG",
+						"Lv1": "17.85%*2",
+						"Lv2": "19.32%*2",
+						"Lv3": "20.78%*2",
+						"Lv4": "22.83%*2",
+						"Lv5": "24.30%*2",
+						"Lv6": "25.98%*2",
+						"Lv7": "28.32%*2",
+						"Lv8": "30.66%*2",
+						"Lv9": "33.00%*2",
+						"Lv10": "35.49%*2"
+					},
+					{
+						"Name": "Basic Attack 3 DMG",
+						"Lv1": "18.34%*3",
+						"Lv2": "19.84%*3",
+						"Lv3": "21.34%*3",
+						"Lv4": "23.45%*3",
+						"Lv5": "24.95%*3",
+						"Lv6": "26.68%*3",
+						"Lv7": "29.08%*3",
+						"Lv8": "31.49%*3",
+						"Lv9": "33.89%*3",
+						"Lv10": "36.45%*3"
+					},
+					{
+						"Name": "Basic Attack 4 DMG",
+						"Lv1": "25.50% + 14.88%*4",
+						"Lv2": "27.60% + 16.10%*4",
+						"Lv3": "29.69% + 17.32%*4",
+						"Lv4": "32.61% + 19.03%*4",
+						"Lv5": "34.71% + 20.25%*4",
+						"Lv6": "37.11% + 21.65%*4",
+						"Lv7": "40.46% + 23.60%*4",
+						"Lv8": "43.80% + 25.55%*4",
+						"Lv9": "47.15% + 27.50%*4",
+						"Lv10": "50.70% + 29.58%*4"
+					},
+					{
+						"Name": "Mid-air Attack 1 DMG",
+						"Lv1": "30.86%",
+						"Lv2": "33.39%",
+						"Lv3": "35.92%",
+						"Lv4": "39.46%",
+						"Lv5": "41.99%",
+						"Lv6": "44.90%",
+						"Lv7": "48.95%",
+						"Lv8": "53.00%",
+						"Lv9": "57.05%",
+						"Lv10": "61.35%"
+					},
+					{
+						"Name": "Mid-air Attack 2 DMG",
+						"Lv1": "25.59%*2",
+						"Lv2": "27.69%*2",
+						"Lv3": "29.79%*2",
+						"Lv4": "32.72%*2",
+						"Lv5": "34.82%*2",
+						"Lv6": "37.23%*2",
+						"Lv7": "40.59%*2",
+						"Lv8": "43.95%*2",
+						"Lv9": "47.30%*2",
+						"Lv10": "50.87%*2"
+					},
+					{
+						"Name": "Mid-air Attack 3 DMG",
+						"Lv1": "22.13%*3",
+						"Lv2": "23.95%*3",
+						"Lv3": "25.76%*3",
+						"Lv4": "28.30%*3",
+						"Lv5": "30.12%*3",
+						"Lv6": "32.20%*3",
+						"Lv7": "35.11%*3",
+						"Lv8": "38.01%*3",
+						"Lv9": "40.91%*3",
+						"Lv10": "44.00%*3"
+					},
+					{
+						"Name": "Mid-air Attack 4 DMG",
+						"Lv1": "19.13% + 11.16%*4",
+						"Lv2": "20.70% + 12.08%*4",
+						"Lv3": "22.27% + 12.99%*4",
+						"Lv4": "24.46% + 14.27%*4",
+						"Lv5": "26.03% + 15.19%*4",
+						"Lv6": "27.83% + 16.24%*4",
+						"Lv7": "30.34% + 17.70%*4",
+						"Lv8": "32.85% + 19.17%*4",
+						"Lv9": "35.36% + 20.63%*4",
+						"Lv10": "38.03% + 22.18%*4"
+					},
+					{
+						"Name": "Heavy Attack",
+						"Lv1": "14.58%*3 + 18.75%",
+						"Lv2": "15.78%*3 + 20.28%",
+						"Lv3": "16.97%*3 + 21.82%",
+						"Lv4": "18.65%*3 + 23.97%",
+						"Lv5": "19.84%*3 + 25.51%",
+						"Lv6": "21.22%*3 + 27.28%",
+						"Lv7": "23.13%*3 + 29.74%",
+						"Lv8": "25.04%*3 + 32.20%",
+						"Lv9": "26.95%*3 + 34.65%",
+						"Lv10": "28.99%*3 + 37.27%"
+					},
+					{
+						"Name": "Mid-air Heavy Attack",
+						"Lv1": "62.00%",
+						"Lv2": "67.09%",
+						"Lv3": "72.17%",
+						"Lv4": "79.29%",
+						"Lv5": "84.37%",
+						"Lv6": "90.22%",
+						"Lv7": "98.36%",
+						"Lv8": "106.49%",
+						"Lv9": "114.62%",
+						"Lv10": "123.27%"
+					},
+					{
+						"Name": "Dodge Counter",
+						"Lv1": "41.57%*3",
+						"Lv2": "44.98%*3",
+						"Lv3": "48.39%*3",
+						"Lv4": "53.16%*3",
+						"Lv5": "56.57%*3",
+						"Lv6": "60.49%*3",
+						"Lv7": "65.94%*3",
+						"Lv8": "71.40%*3",
+						"Lv9": "76.85%*3",
+						"Lv10": "82.64%*3"
+					},
+					{
+						"Name": "Mid-air Attack STA Cost",
+						"Lv1": "5",
+						"Lv2": "5",
+						"Lv3": "5",
+						"Lv4": "5",
+						"Lv5": "5",
+						"Lv6": "5",
+						"Lv7": "5",
+						"Lv8": "5",
+						"Lv9": "5",
+						"Lv10": "5"
+					},
+					{
+						"Name": "Heavy Attack STA Cost",
+						"Lv1": "25",
+						"Lv2": "25",
+						"Lv3": "25",
+						"Lv4": "25",
+						"Lv5": "25",
+						"Lv6": "25",
+						"Lv7": "25",
+						"Lv8": "25",
+						"Lv9": "25",
+						"Lv10": "25"
+					},
+					{
+						"Name": "Mid-air Heavy Attack STA Cost",
+						"Lv1": "30",
+						"Lv2": "30",
+						"Lv3": "30",
+						"Lv4": "30",
+						"Lv5": "30",
+						"Lv6": "30",
+						"Lv7": "30",
+						"Lv8": "30",
+						"Lv9": "30",
+						"Lv10": "30"
+					}
+				]
+			},
+			{
+				"name": "Tripartite Flames",
+				"category": "Active",
+				"type": "Resonance Skill",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"True Sight: Capture\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After releasing Resonance Skill, Changli dashes towards the enemy and enters True Sight, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". In the end, she releases a plunging attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". True Sight: Capture has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"initial attempts and can be used up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"times. The number of attempts is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\\nCan be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack: True Sight - Conquest\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in True Sight, if Changli uses Ground Basic Attack, she releases True Sight: Conquest, dashing towards the enemy and dealing Fusion DMG, considered as Resonance Skill DMG. After releasing True Sight: Conquest, True Sight ends.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack: True Sight - Charge\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in True Sight, if Changli jumps or uses Basic Attack in mid-air, she releases True Sight: Charge, dashing towards the enemy and dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Skill DMG. After releasing True Sight: Charge, True Sight ends. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "True Sight: Capture DMG",
+						"Lv1": "41.19%*3 + 82.37%",
+						"Lv2": "44.57%*3 + 89.13%",
+						"Lv3": "47.94%*3 + 95.88%",
+						"Lv4": "52.67%*3 + 105.34%",
+						"Lv5": "56.05%*3 + 112.09%",
+						"Lv6": "59.93%*3 + 119.86%",
+						"Lv7": "65.34%*3 + 130.67%",
+						"Lv8": "70.74%*3 + 141.47%",
+						"Lv9": "76.14%*3 + 152.28%",
+						"Lv10": "81.88%*3 + 163.76%"
+					},
+					{
+						"Name": "True Sight: Conquest DMG",
+						"Lv1": "29.65%*2 + 41.51% + 47.44%",
+						"Lv2": "32.08%*2 + 44.91% + 51.33%",
+						"Lv3": "34.51%*2 + 48.32% + 55.22%",
+						"Lv4": "37.92%*2 + 53.08% + 60.67%",
+						"Lv5": "40.35%*2 + 56.49% + 64.56%",
+						"Lv6": "43.14%*2 + 60.40% + 69.03%",
+						"Lv7": "47.03%*2 + 65.85% + 75.25%",
+						"Lv8": "50.92%*2 + 71.29% + 81.48%",
+						"Lv9": "54.81%*2 + 76.74% + 87.70%",
+						"Lv10": "58.95%*2 + 82.52% + 94.31%"
+					},
+					{
+						"Name": "True Sight: Charge DMG",
+						"Lv1": "36.56% + 54.84%",
+						"Lv2": "39.56% + 59.34%",
+						"Lv3": "42.56% + 63.83%",
+						"Lv4": "46.75% + 70.13%",
+						"Lv5": "49.75% + 74.62%",
+						"Lv6": "53.20% + 79.80%",
+						"Lv7": "58.00% + 86.99%",
+						"Lv8": "62.79% + 94.18%",
+						"Lv9": "67.59% + 101.38%",
+						"Lv10": "72.68% + 109.02%"
+					},
+					{
+						"Name": "True Sight: Capture - Concerto Regen",
+						"Lv1": "14",
+						"Lv2": "14",
+						"Lv3": "14",
+						"Lv4": "14",
+						"Lv5": "14",
+						"Lv6": "14",
+						"Lv7": "14",
+						"Lv8": "14",
+						"Lv9": "14",
+						"Lv10": "14"
+					},
+					{
+						"Name": "True Sight: Conquest - Concerto Regen",
+						"Lv1": "7",
+						"Lv2": "7",
+						"Lv3": "7",
+						"Lv4": "7",
+						"Lv5": "7",
+						"Lv6": "7",
+						"Lv7": "7",
+						"Lv8": "7",
+						"Lv9": "7",
+						"Lv10": "7"
+					},
+					{
+						"Name": "True Sight: Charge - Concerto Regen",
+						"Lv1": "6",
+						"Lv2": "6",
+						"Lv3": "6",
+						"Lv4": "6",
+						"Lv5": "6",
+						"Lv6": "6",
+						"Lv7": "6",
+						"Lv8": "6",
+						"Lv9": "6",
+						"Lv10": "6"
+					}
+				]
+			},
+			{
+				"name": "Radiance of Fealty",
+				"category": "Active",
+				"type": "Resonance Liberation",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to nearby targets, obtaining \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stacks of Enflamement, and entering Fiery Feather. Can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Fiery Feather\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Changli releases Heavy Attack Flaming Sacrifice within \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", her ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", after which Fiery Feather ends. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Skill DMG",
+						"Lv1": "610.00%",
+						"Lv2": "660.02%",
+						"Lv3": "710.04%",
+						"Lv4": "780.07%",
+						"Lv5": "830.09%",
+						"Lv6": "887.62%",
+						"Lv7": "967.65%",
+						"Lv8": "1047.68%",
+						"Lv9": "1127.71%",
+						"Lv10": "1212.75%"
+					},
+					{
+						"Name": "Cooldown",
+						"Lv1": "20",
+						"Lv2": "20",
+						"Lv3": "20",
+						"Lv4": "20",
+						"Lv5": "20",
+						"Lv6": "20",
+						"Lv7": "20",
+						"Lv8": "20",
+						"Lv9": "20",
+						"Lv10": "20"
+					},
+					{
+						"Name": "Resonance Cost",
+						"Lv1": "125",
+						"Lv2": "125",
+						"Lv3": "125",
+						"Lv4": "125",
+						"Lv5": "125",
+						"Lv6": "125",
+						"Lv7": "125",
+						"Lv8": "125",
+						"Lv9": "125",
+						"Lv10": "125"
+					},
+					{
+						"Name": "Concerto Regen",
+						"Lv1": "20",
+						"Lv2": "20",
+						"Lv3": "20",
+						"Lv4": "20",
+						"Lv5": "20",
+						"Lv6": "20",
+						"Lv7": "20",
+						"Lv8": "20",
+						"Lv9": "20",
+						"Lv10": "20"
+					}
+				]
+			},
+			{
+				"name": "Flaming Sacrifice",
+				"category": "Forte Circuit",
+				"type": "Forte Circuit",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack: Flaming Sacrifice\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When releasing Heavy Attack, if Changli carries \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stacks of Enflamement, she consumes all stacks of Enflamement to cast Flaming Sacrifice, dealing\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\" Fusion DMG,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" considered as Resonance Skill DMG. While casting Flaming Sacrifice, Changli takes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" less DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Enflamement\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stacks of Enflamement.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of Enflamement for every Basic Attack: True Sight - Conquest on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of Enflamement for every Basic Attack: True Sight - Charge on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stacks of Enflamement for every Resonance Liberation Radiance of Fealty. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Flaming Sacrifice DMG",
+						"Lv1": "19.74%*5 + 230.30%",
+						"Lv2": "21.36%*5 + 249.18%",
+						"Lv3": "22.98%*5 + 268.07%",
+						"Lv4": "25.25%*5 + 294.51%",
+						"Lv5": "26.87%*5 + 313.39%",
+						"Lv6": "28.73%*5 + 335.11%",
+						"Lv7": "31.32%*5 + 365.32%",
+						"Lv8": "33.91%*5 + 395.54%",
+						"Lv9": "36.50%*5 + 425.75%",
+						"Lv10": "39.25%*5 + 457.85%"
+					},
+					{
+						"Name": "Concerto Regen",
+						"Lv1": "10",
+						"Lv2": "10",
+						"Lv3": "10",
+						"Lv4": "10",
+						"Lv5": "10",
+						"Lv6": "10",
+						"Lv7": "10",
+						"Lv8": "10",
+						"Lv9": "10",
+						"Lv10": "10"
+					}
+				]
+			},
+			{
+				"name": "Secret Strategist",
+				"category": "Inherent",
+				"type": "Inherent Skill",
+				"description": {
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Changli releases Basic Attack: True Sight - Conquest or Basic Attack: True Sight - Charge, for each stack of Enflamement, Changli's\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Fusion DMG Bonus\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5%.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]}"
+				},
+				"multipliers": null
+			},
+			{
+				"name": "Sweeping Force",
+				"category": "Inherent",
+				"type": "Inherent Skill",
+				"description": {
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Changli releases Heavy Attack Flaming Sacrifice or Resonance Liberation Radiance of Fealty, Changli's \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Fusion DMG Bonus\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", and Changli ignores \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"of the target's DEF when dealing damage.\",\"marks\":[],\"data\":{}}]}]}"
+				},
+				"multipliers": null
+			},
+			{
+				"name": "Obedience of Rules",
+				"category": "Transition",
+				"type": "Intro Skill",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli appears in mid-air, attacks the target, and enters True Sight, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Skill DMG",
+						"Lv1": "22.38% + 13.06%*4",
+						"Lv2": "24.22% + 14.13%*4",
+						"Lv3": "26.06% + 15.20%*4",
+						"Lv4": "28.62% + 16.70%*4",
+						"Lv5": "30.46% + 17.77%*4",
+						"Lv6": "32.57% + 19.00%*4",
+						"Lv7": "35.51% + 20.71%*4",
+						"Lv8": "38.44% + 22.43%*4",
+						"Lv9": "41.38% + 24.14%*4",
+						"Lv10": "44.50% + 25.96%*4"
+					},
+					{
+						"Name": "Concerto Regen",
+						"Lv1": "10",
+						"Lv2": "10",
+						"Lv3": "10",
+						"Lv4": "10",
+						"Lv5": "10",
+						"Lv6": "10",
+						"Lv7": "10",
+						"Lv8": "10",
+						"Lv9": "10",
+						"Lv10": "10"
+					}
+				]
+			},
+			{
+				"name": "Strategy of Duality",
+				"category": "Transition",
+				"type": "Outro Skill",
+				"description": {
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The incoming Resonator has their \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Fusion DMG \",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Amplified by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and Resonance Liberation DMG Amplified by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"25%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"or until the Resonator is switched out.\",\"marks\":[],\"data\":{}}]}]}"
+				},
+				"multipliers": null
+			}
+		],
 		"review": null,
-		"pros": null,
-		"cons": null,
-		"voiceActors": {
-			"en": "",
-			"kr": "",
-			"jpn": "",
-			"cn": ""
+		"pros": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Outro provides 20% Fusion DMG Amplify and 25% Liberation DMG Amplify, offering another damage dealer she's paired with a sizeable boost to their damage if they can take advantage of one or both of them. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Offers solid Fusion damage output in teams focused around her and in teams where she plays a more supportive sub-dps role.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Has multiple incredibly potent gap closers in her kit, allowing her to stick to bosses with effective cooldown management. \",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
 		},
-		"buildInfoEcho": null,
-		"buildInfoWeapon": null,
-		"buildInfoOther": null,
-		"attributeBonus": null,
-		"videos": null,
-		"synergies": null,
-		"endgameStats": null,
+		"cons": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most of her strongest combos require frequent use of her Resonance Skill which has a 12-second cooldown and you must play around it effectively.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has heavy reliance on Quick Swapping many of her abilities to achieve her maximum damage potential and keep her safe in combat which won't be for everyone.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Currently missing an ideal partner who fully unlocks her potential.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"voiceActors": {
+			"en": "Ashleigh Haddad",
+			"kr": "Shin Na Ri",
+			"jpn": "Chiwa Saitô",
+			"cn": "Mufei"
+		},
+		"buildInfoEcho": {
+			"echo_4_stat": [
+				{
+					"stat": "CRIT DMG"
+				},
+				{
+					"stat": "CRIT Rate"
+				}
+			],
+			"echo_3_stat": [
+				{
+					"stat": "Fusion DMG"
+				}
+			],
+			"echo_3a_stat": [
+				{
+					"stat": "Fusion DMG"
+				},
+				{
+					"stat": "ATK%"
+				}
+			],
+			"echo_1_stat": [
+				{
+					"stat": "ATK%"
+				}
+			],
+			"echo_1a_stat": [
+				{
+					"stat": "ATK%"
+				}
+			],
+			"echo_sets": [
+				{
+					"name": "Molten Rift",
+					"name2": "",
+					"value": "100%",
+					"notes": "",
+					"main_echo": "Inferno Rider"
+				},
+				{
+					"name": "Molten Rift",
+					"name2": "Endless Resonance",
+					"value": "90.67%",
+					"notes": "",
+					"main_echo": "Inferno Rider"
+				},
+				{
+					"name": "Molten Rift",
+					"name2": "Moonlit Clouds",
+					"value": "87.07%",
+					"notes": "",
+					"main_echo": "Inferno Rider"
+				},
+				{
+					"name": "Endless Resonance",
+					"name2": "Moonlit Clouds",
+					"value": "86.18%",
+					"notes": "",
+					"main_echo": "Inferno Rider"
+				}
+			]
+		},
+		"buildInfoWeapon": [
+			{
+				"weapon": "Blazing Brilliance",
+				"super": "1",
+				"notes": "",
+				"percent": "110.07%"
+			},
+			{
+				"weapon": "Emerald of Genesis",
+				"super": "1",
+				"notes": "",
+				"percent": "100%"
+			},
+			{
+				"weapon": "Commando of Conviction",
+				"super": "5",
+				"notes": "",
+				"percent": "84.23%"
+			},
+			{
+				"weapon": "Lunar Cutter",
+				"super": "5",
+				"notes": "",
+				"percent": "79.67%"
+			},
+			{
+				"weapon": "Lumingloss",
+				"super": "5",
+				"notes": "",
+				"percent": "77.92%"
+			},
+			{
+				"weapon": "Sword of Night",
+				"super": "5",
+				"notes": "",
+				"percent": "70.39%"
+			}
+		],
+		"buildInfoOther": {
+			"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK = Resonance Skill DMG%",
+			"substats_comments": "",
+			"skill_priority": ""
+		},
+		"attributeBonus": {
+			"trace1": {
+				"stat": "CRIT Rate",
+				"value": 8
+			},
+			"trace2": {
+				"stat": "ATK%",
+				"value": 12
+			}
+		},
+		"videos": [
+			{
+				"video": "iDV_VMiV1Dc"
+			}
+		],
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"endgameStats": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1800-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15500+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli's Ultimate is an important part of her damage and something you definitely want to have available right at the point of her rotation where she has 0 Enflamement charges. The reason for this is that her Ultimate grants her maximum Enflamement charges meaning - gaining the Ultimate late will delay your usual rotation or lead to you wasting Enflamement charges neither of which are ideal. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For this reason, it's recommended you build roughly \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy Regen on Changli, but you can get away with 0% depending on the team you pair her with and how much field time you dedicate to other characters. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you find yourself missing Changli's Ultimate window and end up wasting Enflamement try to get a little more Energy Regen or mix up your team comps. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
 		"statsInfo": null,
 		"howToPlay": null,
-		"ascensionMaterials": null,
-		"releaseDate": null,
-		"tierCategory": null,
-		"tierTags": null,
-		"ratings": {
-			"tower": 1
+		"ascensionMaterials": {
+			"ascension": {
+				"name": "Pavo Plum",
+				"number": 60
+			},
+			"breakthrough": {
+				"name": "Rage Tacet Core",
+				"number": 46
+			},
+			"skill": {
+				"name": "Sentinel's Dagger",
+				"number": 26
+			},
+			"common": [
+				{
+					"name": "Crude Ring",
+					"number_skill": 25,
+					"number_char": 4
+				},
+				{
+					"name": "Basic Ring",
+					"number_skill": 28,
+					"number_char": 12
+				},
+				{
+					"name": "Improved Ring",
+					"number_skill": 40,
+					"number_char": 12
+				},
+				{
+					"name": "Tailored Ring",
+					"number_skill": 57,
+					"number_char": 4
+				}
+			],
+			"skill_other": [
+				{
+					"name": "Inert Metallic Drip",
+					"number": 25
+				},
+				{
+					"name": "Reactive Metallic Drip",
+					"number": 28
+				},
+				{
+					"name": "Polarized Metallic Drip",
+					"number": 55
+				},
+				{
+					"name": "Heterized Metallic Drip",
+					"number": 67
+				}
+			]
 		},
-		"isNew": null,
-		"upcoming": true
+		"releaseDate": "2024-07-22",
+		"tierCategory": "DPS",
+		"tierTags": [
+			"Cleave",
+			"Cancel"
+		],
+		"ratings": {
+			"tower": 10
+		},
+		"isNew": true,
+		"upcoming": false
 	},
 	{
 		"id": "20",
 		"img": "https://www.prydwen.gg/static/136095b0f95ac4be3ddc7e2d585855bf/b26e2/jihni_card.webp",
+		"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/jinxi-super-ce098a6f.jpg",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
 		"name": "Jinhsi",
 		"tag": "Spectro",
 		"rankings": {
@@ -13501,26 +14536,6 @@
 		"unitId": "20",
 		"devId": null,
 		"slug": "jinhsi",
-		"smallImage": {
-			"localFile": {
-				"childImageSharp": {
-					"gatsbyImageData": {
-						"layout": "constrained",
-						"backgroundColor": "#f8f8f8",
-						"images": {
-							"fallback": {
-								"src": "/static/5ded1ec545bc619bfd04bb6bab3d561f/60b4d/jihni_icon.webp",
-								"srcSet": "/static/5ded1ec545bc619bfd04bb6bab3d561f/e73fe/jihni_icon.webp 40w,\n/static/5ded1ec545bc619bfd04bb6bab3d561f/61ca6/jihni_icon.webp 80w,\n/static/5ded1ec545bc619bfd04bb6bab3d561f/60b4d/jihni_icon.webp 160w",
-								"sizes": "(min-width: 160px) 160px, 100vw"
-							},
-							"sources": []
-						},
-						"width": 160,
-						"height": 160
-					}
-				}
-			}
-		},
 		"cardImage": {
 			"localFile": {
 				"childImageSharp": {
@@ -13546,26 +14561,43 @@
 		"element": "Spectro",
 		"weapon": "Broadblade",
 		"introduction": {
-			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinhsi, Magistrate of Jinzhou, gently brightens the hopes of her people, like rays of winter sunlight. As the revered Sentinel's Appointed Resonator, she displays humility and wholeheartedly commits herself to guiding her people towards a brilliant future. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			"raw": {
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Jinhsi, Magistrate of Jinzhou, gently brightens the hopes of her people, like rays of winter sunlight. As the revered Sentinel's Appointed Resonator, she displays humility and wholeheartedly commits herself to guiding her people towards a brilliant future. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
 		},
 		"dupes": {
 			"dupe1": {
-				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Jinhsi casts Basic Attack \\\"Incarnation: Basic Attack\\\" or Resonance Skill \\\"Crescent Divinity\\\", gain one stack of Herald of Revival, which stacks up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" times and last for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When casting Resonance Skill \\\"Illuminous Epiphany\\\", Jinhsi consumes all stacks of Herald of Revival. Each stack increases the DMG of Resonance Skill \\\"Illuminous Epiphany\\\" by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Basic Attack \\\"Incarnation - Basic Attack\\\" or Resonance Skill Crescent Divinity, Jinhsi gains one stack of Herald of Revival, stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" times and lasting for 6s. When casting Resonance Skill Illuminous Epiphany, Jinhsi consumes all stacks of Herald of Revival. Each stack increases the damage of Resonance Skill Illuminous Epiphany by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 			},
 			"dupe2": {
-				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinhsi recovers \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Incandescence while staying out of combat for more than \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This effect can only be triggered \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinhsi restores \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Incandescence while staying out of combat for more than 4s. This effect can only be triggered \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s) every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 			},
 			"dupe3": {
-				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Gain \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"25%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Incandescence and a stack of Immortal's Descendancy after casting Intro Skill Loong's Halo. Every stack of Immortal's Descendancy increases ATK by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", for up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"stacks, lasting for undefineds. \",\"marks\":[],\"data\":{}}]}]}"
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinhsi gains one stack of Immortal's Descendancy after casting Intro Skill Loong's Halo. Each stack of Immortal's Descendancy increases Jinhsi's ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s) and lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 			},
 			"dupe4": {
-				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When casting Resonance Liberation Purge of Light or Resonance Skill Illuminous Epiphany, all nearby Characters in the team gain DMG Bonus for all attributes by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Jinhsi casts Resonance Liberation Purge of Light or Resonance Skill Illuminous Epiphany, all nearby Resonators on the team gain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Attribute DMG Bonus for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 			},
 			"dupe5": {
-				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG Multiplier of Resonance Liberation Purge of Evil is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG Multiplier of Resonance Liberation Purge of Light is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 120%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 			},
 			"dupe6": {
-				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DMG Multiplier percentage for Resonance Skill Illuminous Epiphany is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 45%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". The multiplier increase brought by Incandescence is additionally increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"71%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The DMG Multiplier of Resonance Skill Illuminous Epiphany is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"45%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and the additional DMG Multiplier gained by consuming Incandescence is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"45%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
 			}
 		},
 		"skills": [
@@ -13574,7 +14606,7 @@
 				"category": "Active",
 				"type": "Basic Attack",
 				"description": {
-					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive strikes, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform a charged attack by consuming Stamina, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-Air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform a Plunging Attack while in mid-air by consuming Stamina, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\\n\\n\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to counterattack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic Attack\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Perform up to 4 consecutive strikes, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Heavy Attack\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Perform a charged attack at the cost of Stamina, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Mid-air Attack\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Perform a plunging attack while in mid-air at the cost of Stamina, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG.\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Dodge Counter\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Use Basic Attack after a successful Dodge to counterattack, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
 				},
 				"multipliers": [
 					{
@@ -13701,7 +14733,7 @@
 				"category": "Active",
 				"type": "Resonance Skill",
 				"description": {
-					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dash forward and perform consecutive strikes that inflict \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Overflowing Radiance\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Jinhsi uses Basic Attack\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" or, while not in Incarnation, Intro Skill Loong's Halo, an alternative Resonance Skill Overflowing Radiance becomes available within \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Overflowing Radiance inflicts \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and sends Jinhsi into Incarnation. Can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Dash forward and perform consecutive strikes that inflict \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG.\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"\\n\\n\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Overflowing Radiance\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After Jinhsi uses Basic Attack \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" or, while not in Incarnation, Intro Skill Loong's Halo, an alternative Resonance Skill Overflowing Radiance is available within \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Skill Overflowing Radiance inflicts \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and sends Jinhsi into Incarnation.\\nCan be cast in mid-air. \",\"marks\":[],\"data\":{}}]}]}"
 				},
 				"multipliers": [
 					{
@@ -13789,7 +14821,7 @@
 				"category": "Active",
 				"type": "Resonance Liberation",
 				"description": {
-					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unleash the power of a heart's wish to deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Can be cast in mid-air. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unleash the power of invocation to deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Can be cast in mid-air. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 				},
 				"multipliers": [
 					{
@@ -13819,7 +14851,7 @@
 						"Lv10": "24"
 					},
 					{
-						"Name": "RES Cost",
+						"Name": "Resonance Cost",
 						"Lv1": "150",
 						"Lv2": "150",
 						"Lv3": "150",
@@ -13851,7 +14883,7 @@
 				"category": "Forte Circuit",
 				"type": "Forte Circuit",
 				"description": {
-					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Incarnation\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While in Incarnation:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Alternative Basic Attack \\\"Incarnation: Basic Attack\\\" becomes available. Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive strikes, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". The basic attack cycle of this will not be reset. Can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Alternative Resonance Skill \\\"Crescent Divinity\\\" becomes available. Deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Alternative Heavy Attack \\\"Incarnation: Heavy Attack\\\" becomes available. Attack the target in mid-air at the cost of Stamina, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Alternative Dodge \\\"Incarnation: Dodge\\\" becomes available while airborne. Can be cast multiple times at the cost of Stamina.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Alternative Dodge Counter \\\"Incarnation: Dodge Counter\\\" becomes available. Deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro Damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Resonance Skill: Illuminous Epiphany\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Stage \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"of Incarnation: Basic Attack, Incarnation terminates and Jinhsi gains Ordination Glow.  Can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"While Ordination Glow lasts: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack is replaced with the lternative Heavy Attack \\\"Incarnation: Heavy Attack\\\" when airborne. Attack the target in mid-air at the cost of Stamina, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill is replaced with Resonance Skill Illuminous Epiphany. Send out Solar Flare that detonates as Stella Glamour that deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro Damage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" after a short delay. When Jinhsi has \\\"Incandescence\\\", consume up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Incandescence, each point of Incandescence grants an additional DMG multiplier percentage to the Star Glamour. Can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After casting Resonance Skill Illuminous Epiphany, Jinhsi gains Unison. This can be triggered once in \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Unison\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While Jinhsi has Unison, switching to other Characters will remove Jinhsi's Unison to trigger Jinhsi's Outro Skill and the incoming character's Intro Skill. Unison will be consumed in priority in place of Concerto Energy when Concerto Energy is full.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Incandescence\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinhsi can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Incandescence。\\nWhen Jinhsi is on the team, all nearby characters on the team gain Eras in Unity. When characters with Eras in Unity deal Damage with an attribute, Jinhsi gains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Incandescence. Damage of the same attribute can provide up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Incandescence every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Incarnation\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"While in Incarnation:\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Basic Attack \\\"Incarnation - Basic Attack\\\" becomes available. Perform up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" consecutive strikes, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" considered as Resonance Skill DMG. The basic attack cycle of this will not be reset. Can be cast in mid-air.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Resonance Skill \\\"Crescent Divinity\\\" becomes available. Deal \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Can be cast in mid-air.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Heavy Attack \\\"Incarnation - Heavy Attack\\\" becomes available. Attack the target in mid-air at the cost of Stamina, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Dodge \\\"Incarnation - Dodge\\\" is available while in mid-air. Can be cast multiple times at the cost of Stamina.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternative Dodge Counter \\\"Incarnation - Dodge Counter\\\" becomes available. Deal Spectro DMG. Can be cast in mid-air. \",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Skill - Illuminous Epiphany\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After Stage 4 of Incarnation - Basic Attack, Incarnation terminates and Jinhsi gains Ordination Glow. Can be cast in mid-air.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"While Ordination Glow lasts:\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic Attack is replaced with Heavy Attack \\\"Incarnation - Heavy Attack\\\". Attack the target in mid-air at the cost of Stamina, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Skill is replaced with Resonance Skill \\\"Illuminous Epiphany\\\". Send out Solar Flare that detonates as Stella Glamor, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Spectro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" after a short delay. Consume up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Incandescence, with each point of Incandescence granting bonus DMG Multiplier percentage to Stella Glamor. Can be cast in mid-air.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After casting Resonance Skill Illuminous Epiphany, Jinhsi gains Unison. This can be triggered once every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"25s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Unison\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"While Jinhsi has Unison, switching to other Resonators will remove Jinhsi's Unison to trigger Jinhsi's Outro Skill and the incoming Resonator's Intro Skill. Unison will be consumed in priority in place of Concerto Energy when Concerto Energy is full.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Incandescence\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Jinhsi can hold up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Incandescence.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Jinhsi is in the party, all nearby Resonators in the party gain Eras in Unity.\\nEras in Unity provides \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" independent effects:\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Jinhsi gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Incandescence anytime Resonators in the party inflict Attribute DMG. This effect may be triggered by damage of the same Attribute for up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s) every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Additionally, Jinhsi gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Incandescence when Resonators in the party damage the enemy with Coordinated Attacks. This effect may be triggered by Coordinated Attacks of the same Attribute for up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s) every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
 				},
 				"multipliers": [
 					{
@@ -13959,7 +14991,7 @@
 						"Lv10": "19.89%*6"
 					},
 					{
-						"Name": "Illuminous Epiphany: Star Glamour DMG",
+						"Name": "Illuminous Epiphany: Stella Glamor DMG",
 						"Lv1": "175.00%",
 						"Lv2": "189.35%",
 						"Lv3": "203.70%",
@@ -13972,7 +15004,7 @@
 						"Lv10": "347.92%"
 					},
 					{
-						"Name": "Incandescence additional multiplier per stack",
+						"Name": "Additional multiplier per Incandescence",
 						"Lv1": "22.40%",
 						"Lv2": "24.24%",
 						"Lv3": "26.08%",
@@ -14091,7 +15123,7 @@
 				"category": "Inherent",
 				"type": "Inherent Skill",
 				"description": {
-					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Intro Skill Loong's Halo gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" additional DMG.\",\"marks\":[],\"data\":{}}]}]}"
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"DMG Multiplier of Intro Skill Loong's Halo is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
 				},
 				"multipliers": null
 			},
@@ -14136,19 +15168,329 @@
 				"category": "Transition",
 				"type": "Outro Skill",
 				"description": {
-					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"With the power homologous with the Sentinel, Jinhsi reduces the Cooldown of Eras in Unity to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". This lasts for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Summoning the power homologous with the Sentinel, Jinhsi may now gain Incandescence via Eras in Unity from damage of the same Attribute more effectively, at \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s) every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
 				},
 				"multipliers": null
 			}
 		],
-		"review": null,
-		"pros": null,
-		"cons": null,
+		"review": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinshi is a 5-star Spectro Broadblade wielding DPS featuring a unique playstyle with a skIllset centered around managing her special resource with normal and co-ordinated attacks leading to tremendous burst damage. Jinshi is also a user of Aerial combat, albeit much easier than Lingyang thanks to various abilities and quirks she can utilize while airborne. Her unique gameplay consists of repeatedly executing an absurd Cleave burst damage combo every time an ally triggers their Concerto Skill while having their Outro available.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Forte is her core ability, which consists of two parts; firstly, it allows her to generate a unique resource - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Incandescence \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"- via her own and her allies’ attacks, which she can consume to increase her burst damage. The second part is Incarnation State, an empowered state activated by using her Enhanced Resonance Skill; Overflowing Radiance, which enhances all her abilities. More on this below.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinshi can accumulate up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50 Incandescence,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" all of which can be consumed to immensely increase the damage of her strongest Resonance Skill, Luminous Epiphany. Higher counts of Incandescence unsurprisingly leads to higher damage. She can gain Incandescence in following ways:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"1 stack of Incandescence every time any teammate deals damage, with a cooldown of 3 seconds,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"2 stacks of Incandescence every time an ally launches a coordinated attack, with a separate cooldown of 3 seconds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These two effects can be triggered simultaneously by a single coordinated attack, allowing her to gain 3 Incandescence every 3 seconds. What’s more, she can trigger these cooldowns once per Elemental type in the team composition, allowing her to generate 3 Incandescence every 3 seconds per Elemental type (Electro, Spectro, Fusion etc). This makes teams with multiple coordinated attackers of different Elemental types optimal for her. Upon performing her Outro skill, she receives a buff reducing the cooldown of both abilities to 1 second from 3 second, facilitating even faster generation of Incandescence.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Incarnation \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"is an essential part of Jinshi’s kit and triggering it sends you airborne similar to Lingyang’s Ultimate. However, unlike Lingyang’s Ultimate, it’s much stronger and easier to control, and most importantly, the majority of her abilities can be used while flying. The optimal play would be spending all of your field time within the Incarnation state, which is relatively easy, owing to Overflowing Radiance having a cooldown of a mere 12 seconds. Jinshi gains access to her most potent combos and abilities in this state, especially her Enhanced Basic Attacks and 2nd and 3rd Enhanced Resonance Skill, making it the obvious best option for her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jinshi’s Resonance Skill features 4 different variants (the most out of any character in the game) - 1 Standard version and 3 Enhanced versions - with each of them being able to cast in succession, assuming conditions are met. While it seems intimidating on paper, it is actually quite easy when actually playing her. A quick summary of the skills:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Default Resonance Skill\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Jinshi’s default Resonance Skill can be activated without any conditions. It deals Spectro damage accompanied by a small dash, has a cooldown of 3 seconds, and is almost never used as a part of her standard rotations (thus, you can ignore worrying about it).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Overflowing Radiance\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Jinshi’s first Empowered Resonance Skill requires you to perform the 4th attack of her Unenhanced Basic Attack combo or use her Intro ability. Using it deals Spectro damage and allows Jinshi to enter the Incarnation state. It has a cooldown of 12 seconds and is her bread and butter, making you want to keep this ability on cooldown at all times if possible.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Crescent Divinity\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Jinshi’s second Empowered Resonance Skill requires her to be in the Incarnation state to utilize it. Using it deals a strong amount of Spectro damage with a cooldown of 10 seconds, and is almost always used immediately after entering the Incarnation state. You can think of this ability as Part 2 of Overflowing Radiance as they’re always used together.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Luminous Epiphany\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Jinshi’s third and last Empowered Resonance Skill requires her to perform the 4th attack of her Enhanced Incarnation Basic Attack while in the Incarnation state. Using it deals an immense amount of Spectro damage, consuming all of Jinshi’s accumulated Incandescence stacks to deal even more damage. This should only be used once per rotation and is almost always the final attack she uses before switching out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This flow of skills is basically what Jinshi’s playstyle is all about, before taking into account her Echo or Ultimate Skill. Trigger Jinshi’s Intro skill to gain access to Overflowing Radiance, then use it followed by Crescent Divinity, 4 Enhanced Basic Attacks, and finally Luminous Epiphany before switching out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Ultimate skill deals massive Spectro damage in a cleave attack. While it generates a good amount of Concerto Energy, it costs a whopping 150 Resonance Energy to cast. Her Ultimate should be utilized as soon as available to prevent Resonance Energy wastage and it can be uniquely casted while Airborne, something incredibly relevant when utilizing her Forte Gauge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She has a particularly large field time requirement due to constantly doing swap-ins to deal short bursts of damage, since her potential is tied to starting off her rotation with an Intro Skill then triggering Resonance skills as soon as they are off cooldown to build Concerto quickly on allies. Despite sounding complicated, Jinshi is extremely easy to play with only the considerations being who to swap in after her rotation completion, maximizing teammates Concerto generation, and coordinated attacks uptime.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Owing to her unmatched cleave damage and one of the best, if not the best Single Target damage, Jinshi stands at top of the meta in its current state. It is further boosted by a diverse choice of teammates she can work amicably with, allowing anyone to make good use of her. All she really wants is teammates that are capable of coordinated attacks, preferably of different Elemental types. Featuring a complex but easy to execute kit and rotation, she exhibits great future potential and redeems aerial combat in a big way. Her kit has more than what we have just mentioned in this review - which you should familiarize yourself with by checking out her team building synergies and rotation page.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"pros": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While airborne in the Incarnation state Jinshi can avoid many types of attacks from enemies, reducing the chance she'll be hit even though her movement is restricted.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Many of her attacks feature dashing components which can often result in bosses and monsters missing you even without the need to dodge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Despite spending much of her time in the air due to all her dashes and semi-ranged attacks she does not struggle in gameplay unlike Lingyang.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredibly easy and simple to play for how much damage she deals.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Some of the highest burst and sustained damage in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has room to grow in the future as new coordinated attackers are released.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Always has an Outro ready thanks to her special ability Eras in Unity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"cons": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her best damage combos all require her to perform an Intro (not hard to play around but a small restriction).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While in the Incarnation state and airborne, Jinshi is more prone to taking damage than other characters during her rotation.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Prefers to be played with coordinated attackers as both her teammates, limiting her current potential partners somewhat (although she still has incredible options).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
 		"voiceActors": {
 			"en": "Anna Devlin",
 			"kr": "Park Ha Jin",
 			"jpn": "Yoshino Aoyama",
 			"cn": "Jiang Yue"
+		},
+		"buildInfoEcho": {
+			"echo_4_stat": [
+				{
+					"stat": "CRIT Rate"
+				},
+				{
+					"stat": "CRIT DMG"
+				}
+			],
+			"echo_3_stat": [
+				{
+					"stat": "Spectro DMG"
+				},
+				{
+					"stat": "ATK"
+				}
+			],
+			"echo_3a_stat": [
+				{
+					"stat": "Spectro DMG"
+				},
+				{
+					"stat": "ATK"
+				}
+			],
+			"echo_1_stat": [
+				{
+					"stat": "ATK%"
+				}
+			],
+			"echo_1a_stat": [
+				{
+					"stat": "ATK%"
+				}
+			],
+			"echo_sets": [
+				{
+					"name": "Celestial Light",
+					"name2": "",
+					"value": "100%",
+					"notes": "",
+					"main_echo": "Feilian Beringal"
+				},
+				{
+					"name": "Celestial Light",
+					"name2": "Endless Resonance",
+					"value": "91.19%",
+					"notes": "",
+					"main_echo": "Mech Abomination"
+				},
+				{
+					"name": "Celestial Light",
+					"name2": "Moonlit Clouds",
+					"value": "90.84%",
+					"notes": "",
+					"main_echo": "Mech Abomination"
+				},
+				{
+					"name": "Endless Resonance",
+					"name2": "Moonlit Clouds",
+					"value": "89.91%",
+					"notes": "",
+					"main_echo": "Mech Abomination"
+				}
+			]
+		},
+		"buildInfoWeapon": [
+			{
+				"weapon": "Ages of Harvest",
+				"super": "1",
+				"notes": "",
+				"percent": "118.13%"
+			},
+			{
+				"weapon": "Verdant Summit",
+				"super": "1",
+				"notes": "",
+				"percent": "101.34%"
+			},
+			{
+				"weapon": "Lustrous Razor",
+				"super": "1",
+				"notes": "",
+				"percent": "100%"
+			},
+			{
+				"weapon": "Broadblade#41",
+				"super": "5",
+				"notes": "",
+				"percent": "85.86%"
+			},
+			{
+				"weapon": "Helios Cleaver",
+				"super": "5",
+				"notes": "",
+				"percent": "84.99%"
+			},
+			{
+				"weapon": "Helios Cleaver",
+				"super": "1",
+				"notes": "",
+				"percent": "82.08%"
+			},
+			{
+				"weapon": "Broadblade#41",
+				"super": "1",
+				"notes": "",
+				"percent": "81.99%"
+			},
+			{
+				"weapon": "Autumntrace",
+				"super": "1",
+				"notes": "",
+				"percent": "79.88%"
+			},
+			{
+				"weapon": "Broadblade of Night",
+				"super": "5",
+				"notes": "",
+				"percent": "75.34%"
+			},
+			{
+				"weapon": "Guardian Broadblade",
+				"super": "5",
+				"notes": "",
+				"percent": "70.73%"
+			}
+		],
+		"buildInfoOther": {
+			"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Resonance Skill DMG% > Flat ATK ",
+			"substats_comments": "",
+			"skill_priority": ""
+		},
+		"attributeBonus": {
+			"trace1": {
+				"stat": "CRIT Rate",
+				"value": 8
+			},
+			"trace2": {
+				"stat": "ATK%",
+				"value": 12
+			}
+		},
+		"videos": [
+			{
+				"video": "u8S130y-ois"
+			}
+		],
+		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"endgameStats": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"ATK: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2000-2400+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"HP: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15000+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"DEF: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1250+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"SPECTRO DMG%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"60%-90% (including Inherent skill)\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT RATE%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"55-75%+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT DMG% \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"110-150%+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Energy Regeneration: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"0-35% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Jinhsi's ultimate is not essential to her rotation but it does deal an absurd amount of damage making it desirable to implement in her rotations. \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Unfortunately, it costs 150 Resonance Energy - that combined with Jinshi's incredibly fast and frequent rotations means you won't be gaining access to this ultimate every single rotation even with obscene amounts of Energy Regeneration. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Instead of every rotation, it's best to aim for an ultimate cast every second rotation in most cases. How much energy regen you'll need in order to achieve this varies from team to team and also how you play that team. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Pairing Jinhsi with teammates who spend more time on the field or generate more energy of their own will reduce her requirements with the opposite causing her to need more. As a general guide you can expect to need anywhere between \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"0 - 35%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Energy Regen but erring on the higher side will ensure it. Teammates like Yuanwu who use minimal field time will require more whereas teammates like Yinlin who use more will require less.\",\"marks\":[],\"data\":{}}]}]}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+		},
+		"statsInfo": null,
+		"howToPlay": null,
+		"ascensionMaterials": {
+			"ascension": {
+				"name": "Loong's Pearl",
+				"number": 60
+			},
+			"breakthrough": {
+				"name": "Elegy Tacet Core",
+				"number": 46
+			},
+			"skill": {
+				"name": "Sentinel's Dagger",
+				"number": 26
+			},
+			"common": [
+				{
+					"name": "LF Howler Core",
+					"number_skill": 25,
+					"number_char": 4
+				},
+				{
+					"name": "MF Howler Core",
+					"number_skill": 28,
+					"number_char": 12
+				},
+				{
+					"name": "HF Howler Core",
+					"number_skill": 40,
+					"number_char": 12
+				},
+				{
+					"name": "FF Howler Core",
+					"number_skill": 57,
+					"number_char": 4
+				}
+			],
+			"skill_other": [
+				{
+					"name": "Waveworn Residue 210",
+					"number": 25
+				},
+				{
+					"name": "Waveworn Residue 226",
+					"number": 28
+				},
+				{
+					"name": "Waveworn Residue 235",
+					"number": 55
+				},
+				{
+					"name": "Waveworn Residue 239",
+					"number": 67
+				}
+			]
+		},
+		"releaseDate": "2024-06-28",
+		"tierCategory": "DPS",
+		"tierTags": [
+			"Cleave",
+			"Coord"
+		],
+		"ratings": {
+			"tower": 11
+		},
+		"isNew": false,
+		"upcoming": false
+	},
+	{
+		"id": "21",
+		"img": "https://www.prydwen.gg/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp",
+		"img2": "https://www.prydwen.gg/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
+		"name": "Zhezhi",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+		"slug": "zhezhi",
+		"smallImage": {
+			"localFile": {
+				"childImageSharp": {
+					"gatsbyImageData": {
+						"layout": "constrained",
+						"backgroundColor": "#382828",
+						"images": {
+							"fallback": {
+								"src": "/static/a3cc6a1c9f8e400a7d70e1254cf03135/60b4d/icon_zhe.webp",
+								"srcSet": "/static/a3cc6a1c9f8e400a7d70e1254cf03135/e73fe/icon_zhe.webp 40w,\n/static/a3cc6a1c9f8e400a7d70e1254cf03135/61ca6/icon_zhe.webp 80w,\n/static/a3cc6a1c9f8e400a7d70e1254cf03135/60b4d/icon_zhe.webp 160w",
+								"sizes": "(min-width: 160px) 160px, 100vw"
+							},
+							"sources": []
+						},
+						"width": 160,
+						"height": 160
+					}
+				}
+			}
+		},
+		"cardImage": {
+			"localFile": {
+				"childImageSharp": {
+					"gatsbyImageData": {
+						"layout": "constrained",
+						"backgroundColor": "#f8f8f8",
+						"images": {
+							"fallback": {
+								"src": "/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp",
+								"srcSet": "/static/50c9470f533efed9b28076e92230308b/84550/card_zhe.webp 94w,\n/static/50c9470f533efed9b28076e92230308b/34f80/card_zhe.webp 187w,\n/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp 374w",
+								"sizes": "(min-width: 374px) 374px, 100vw"
+							},
+							"sources": []
+						},
+						"width": 374,
+						"height": 512
+					}
+				}
+			}
+		},
+		"fullImage": null,
+		"rarity": "5",
+		"element": "Glacio",
+		"weapon": "Rectifier",
+		"introduction": {
+			"raw": {
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Zhezhi is a commissioned painter, quiet and shy with a dedication to her craft. She's not very eloquent, but her persistence and love for painting speak volumes.",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
+		},
+		"dupes": null,
+		"skills": null,
+		"review": null,
+		"pros": null,
+		"cons": null,
+		"voiceActors": {
+			"en": "",
+			"kr": "",
+			"jpn": "",
+			"cn": ""
 		},
 		"buildInfoEcho": null,
 		"buildInfoWeapon": null,
@@ -14160,7 +15502,114 @@
 		"statsInfo": null,
 		"howToPlay": null,
 		"ascensionMaterials": null,
-		"releaseDate": "2024-06-26",
+		"releaseDate": null,
+		"tierCategory": null,
+		"tierTags": null,
+		"ratings": {
+			"tower": 1
+		},
+		"isNew": null,
+		"upcoming": true
+	},
+	{
+		"id": "22",
+		"img": "https://www.prydwen.gg/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp",
+		"img2": "https://www.prydwen.gg/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+		"region": "Huanglong",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+		"updatedAt": "August 12th, 2024",
+		"createdAt": "2024-07-08T13:11:52.960Z",
+		"unitId": "21",
+		"devId": null,
+		"name": "Xiangli Yao",
+		"slug": "xiangli-yao",
+		"smallImage": {
+			"localFile": {
+				"childImageSharp": {
+					"gatsbyImageData": {
+						"layout": "constrained",
+						"backgroundColor": "#f8f8f8",
+						"images": {
+							"fallback": {
+								"src": "/static/5781efb6cb37a7c50e147ac8180ef1fa/60b4d/icon_xiang.webp",
+								"srcSet": "/static/5781efb6cb37a7c50e147ac8180ef1fa/e73fe/icon_xiang.webp 40w,\n/static/5781efb6cb37a7c50e147ac8180ef1fa/61ca6/icon_xiang.webp 80w,\n/static/5781efb6cb37a7c50e147ac8180ef1fa/60b4d/icon_xiang.webp 160w",
+								"sizes": "(min-width: 160px) 160px, 100vw"
+							},
+							"sources": []
+						},
+						"width": 160,
+						"height": 160
+					}
+				}
+			}
+		},
+		"cardImage": {
+			"localFile": {
+				"childImageSharp": {
+					"gatsbyImageData": {
+						"layout": "constrained",
+						"backgroundColor": "#f8f8f8",
+						"images": {
+							"fallback": {
+								"src": "/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp",
+								"srcSet": "/static/698d0d5f2ba882de8f3d5494e622e940/84550/card_xiang.webp 94w,\n/static/698d0d5f2ba882de8f3d5494e622e940/34f80/card_xiang.webp 187w,\n/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp 374w",
+								"sizes": "(min-width: 374px) 374px, 100vw"
+							},
+							"sources": []
+						},
+						"width": 374,
+						"height": 512
+					}
+				}
+			}
+		},
+		"fullImage": null,
+		"rarity": "5",
+		"element": "Electro",
+		"weapon": "Gauntlets",
+		"introduction": {
+			"raw": {
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "Huaxu Academy's Principal Investigator, Xiangli Yao, displays exceptional expertise in various research fields despite his young age. He is a gentle yet rational soul, embracing unique insights and commitment to the research of Automata Mechanics.",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
+		},
+		"dupes": null,
+		"skills": null,
+		"review": null,
+		"pros": null,
+		"cons": null,
+		"voiceActors": {
+			"en": "",
+			"kr": "",
+			"jpn": "",
+			"cn": ""
+		},
+		"buildInfoEcho": null,
+		"buildInfoWeapon": null,
+		"buildInfoOther": null,
+		"attributeBonus": null,
+		"videos": null,
+		"synergies": null,
+		"endgameStats": null,
+		"statsInfo": null,
+		"howToPlay": null,
+		"ascensionMaterials": null,
+		"releaseDate": null,
 		"tierCategory": null,
 		"tierTags": null,
 		"ratings": {

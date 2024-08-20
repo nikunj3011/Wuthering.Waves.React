@@ -2,7 +2,7 @@ import Isotope from 'isotope-layout';
 import React, { useEffect, useState } from 'react';
 import SectionGridLines from '../../components/SectionGridLines';
 import SectionHeader from '../../components/SectionHeader';
-import weaponsData from '../../jsonData/weapons.json';
+import weaponsData from '../../jsonData/weapons2.json';
 import WeaponsCard from '../../components/ProjectElements/WeaponsCard';
 
 const WeaponsSummary = () => {

@@ -1,0 +1,753 @@
+{
+	"id": "19",
+	"img": "https://www.prydwen.gg/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
+	"img2": "https://www.prydwen.gg/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
+	"name": "Changli",
+	"tag": "Fusion",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 21st, 2024",
+	"createdAt": "2024-05-27T06:28:29.443Z",
+	"unitId": "19",
+	"devId": null,
+	"slug": "changli",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#d8d8d8",
+					"images": {
+						"fallback": {
+							"src": "/static/0f92245f5d6cae50f613fd247a848785/60b4d/changli_icon.webp",
+							"srcSet": "/static/0f92245f5d6cae50f613fd247a848785/e73fe/changli_icon.webp 40w,\n/static/0f92245f5d6cae50f613fd247a848785/61ca6/changli_icon.webp 80w,\n/static/0f92245f5d6cae50f613fd247a848785/60b4d/changli_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#d8d8d8",
+					"images": {
+						"fallback": {
+							"src": "/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
+							"srcSet": "/static/7eb8b347a3aa1837164c79a5e520d268/84550/card_changli.webp 94w,\n/static/7eb8b347a3aa1837164c79a5e520d268/34f80/card_changli.webp 187w,\n/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Fusion",
+	"weapon": "Sword",
+	"introduction": {
+		"raw":	{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Changli is a counselor serving the Jinzhou Magistrate, and former Secretary-General in the capital. Shrouded in flames, she's fated to burn brightly until her final embers. With her fiery determination and strategic mindset, she rises to power, always thinking ahead to reach her ultimate goal. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Tripartite Flames and Heavy Attack Flaming Sacrifice increase Changli's DMG dealt by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and resistance to interruption. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Enflamement increases Changli's Crit. Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Liberation Radiance of Fealty DMG is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Intro Skill is cast, all team members' ATK is increased by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack Flaming Sacrifice's Multiplier is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and its DMG dealt is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Resonance Skill Tripartite Flames, Heavy Attack Flaming Sacrifice, and Resonance Liberation Radiance of Fealty ignore an additional \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of the target's DEF when dealing damage. \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Blazing Enlightment",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". After releasing Basic Attack 4, enter True Sight, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume Stamina to perform up to 4 consecutive attacks in mid-air, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" After releasing Mid-air Attack 4, enter True Sight, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hold Basic Attack on the ground to perform an upward strike at the cost of Stamina, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Use Basic Attack within a certain time to release Mid-Air Attack \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shortly after holding Basic Attack in mid-air or using Basic Attack True Sight: Charge, use Basic Attack to perform a plunging attack at the cost of Stamina, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Use Basic Attack within a certain time to release Basic Attack \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Basic Attack 1 DMG",
+					"Lv1": "14.84%*2",
+					"Lv2": "16.05%*2",
+					"Lv3": "17.27%*2",
+					"Lv4": "18.97%*2",
+					"Lv5": "20.19%*2",
+					"Lv6": "21.59%*2",
+					"Lv7": "23.53%*2",
+					"Lv8": "25.48%*2",
+					"Lv9": "27.43%*2",
+					"Lv10": "29.49%*2"
+				},
+				{
+					"Name": "Basic Attack 2 DMG",
+					"Lv1": "17.85%*2",
+					"Lv2": "19.32%*2",
+					"Lv3": "20.78%*2",
+					"Lv4": "22.83%*2",
+					"Lv5": "24.30%*2",
+					"Lv6": "25.98%*2",
+					"Lv7": "28.32%*2",
+					"Lv8": "30.66%*2",
+					"Lv9": "33.00%*2",
+					"Lv10": "35.49%*2"
+				},
+				{
+					"Name": "Basic Attack 3 DMG",
+					"Lv1": "18.34%*3",
+					"Lv2": "19.84%*3",
+					"Lv3": "21.34%*3",
+					"Lv4": "23.45%*3",
+					"Lv5": "24.95%*3",
+					"Lv6": "26.68%*3",
+					"Lv7": "29.08%*3",
+					"Lv8": "31.49%*3",
+					"Lv9": "33.89%*3",
+					"Lv10": "36.45%*3"
+				},
+				{
+					"Name": "Basic Attack 4 DMG",
+					"Lv1": "25.50% + 14.88%*4",
+					"Lv2": "27.60% + 16.10%*4",
+					"Lv3": "29.69% + 17.32%*4",
+					"Lv4": "32.61% + 19.03%*4",
+					"Lv5": "34.71% + 20.25%*4",
+					"Lv6": "37.11% + 21.65%*4",
+					"Lv7": "40.46% + 23.60%*4",
+					"Lv8": "43.80% + 25.55%*4",
+					"Lv9": "47.15% + 27.50%*4",
+					"Lv10": "50.70% + 29.58%*4"
+				},
+				{
+					"Name": "Mid-air Attack 1 DMG",
+					"Lv1": "30.86%",
+					"Lv2": "33.39%",
+					"Lv3": "35.92%",
+					"Lv4": "39.46%",
+					"Lv5": "41.99%",
+					"Lv6": "44.90%",
+					"Lv7": "48.95%",
+					"Lv8": "53.00%",
+					"Lv9": "57.05%",
+					"Lv10": "61.35%"
+				},
+				{
+					"Name": "Mid-air Attack 2 DMG",
+					"Lv1": "25.59%*2",
+					"Lv2": "27.69%*2",
+					"Lv3": "29.79%*2",
+					"Lv4": "32.72%*2",
+					"Lv5": "34.82%*2",
+					"Lv6": "37.23%*2",
+					"Lv7": "40.59%*2",
+					"Lv8": "43.95%*2",
+					"Lv9": "47.30%*2",
+					"Lv10": "50.87%*2"
+				},
+				{
+					"Name": "Mid-air Attack 3 DMG",
+					"Lv1": "22.13%*3",
+					"Lv2": "23.95%*3",
+					"Lv3": "25.76%*3",
+					"Lv4": "28.30%*3",
+					"Lv5": "30.12%*3",
+					"Lv6": "32.20%*3",
+					"Lv7": "35.11%*3",
+					"Lv8": "38.01%*3",
+					"Lv9": "40.91%*3",
+					"Lv10": "44.00%*3"
+				},
+				{
+					"Name": "Mid-air Attack 4 DMG",
+					"Lv1": "19.13% + 11.16%*4",
+					"Lv2": "20.70% + 12.08%*4",
+					"Lv3": "22.27% + 12.99%*4",
+					"Lv4": "24.46% + 14.27%*4",
+					"Lv5": "26.03% + 15.19%*4",
+					"Lv6": "27.83% + 16.24%*4",
+					"Lv7": "30.34% + 17.70%*4",
+					"Lv8": "32.85% + 19.17%*4",
+					"Lv9": "35.36% + 20.63%*4",
+					"Lv10": "38.03% + 22.18%*4"
+				},
+				{
+					"Name": "Heavy Attack",
+					"Lv1": "14.58%*3 + 18.75%",
+					"Lv2": "15.78%*3 + 20.28%",
+					"Lv3": "16.97%*3 + 21.82%",
+					"Lv4": "18.65%*3 + 23.97%",
+					"Lv5": "19.84%*3 + 25.51%",
+					"Lv6": "21.22%*3 + 27.28%",
+					"Lv7": "23.13%*3 + 29.74%",
+					"Lv8": "25.04%*3 + 32.20%",
+					"Lv9": "26.95%*3 + 34.65%",
+					"Lv10": "28.99%*3 + 37.27%"
+				},
+				{
+					"Name": "Mid-air Heavy Attack",
+					"Lv1": "62.00%",
+					"Lv2": "67.09%",
+					"Lv3": "72.17%",
+					"Lv4": "79.29%",
+					"Lv5": "84.37%",
+					"Lv6": "90.22%",
+					"Lv7": "98.36%",
+					"Lv8": "106.49%",
+					"Lv9": "114.62%",
+					"Lv10": "123.27%"
+				},
+				{
+					"Name": "Dodge Counter",
+					"Lv1": "41.57%*3",
+					"Lv2": "44.98%*3",
+					"Lv3": "48.39%*3",
+					"Lv4": "53.16%*3",
+					"Lv5": "56.57%*3",
+					"Lv6": "60.49%*3",
+					"Lv7": "65.94%*3",
+					"Lv8": "71.40%*3",
+					"Lv9": "76.85%*3",
+					"Lv10": "82.64%*3"
+				},
+				{
+					"Name": "Mid-air Attack STA Cost",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				},
+				{
+					"Name": "Heavy Attack STA Cost",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-air Heavy Attack STA Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Tripartite Flames",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"True Sight: Capture\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After releasing Resonance Skill, Changli dashes towards the enemy and enters True Sight, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". In the end, she releases a plunging attack, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". True Sight: Capture has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"initial attempts and can be used up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"times. The number of attempts is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\\nCan be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack: True Sight - Conquest\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in True Sight, if Changli uses Ground Basic Attack, she releases True Sight: Conquest, dashing towards the enemy and dealing Fusion DMG, considered as Resonance Skill DMG. After releasing True Sight: Conquest, True Sight ends.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack: True Sight - Charge\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in True Sight, if Changli jumps or uses Basic Attack in mid-air, she releases True Sight: Charge, dashing towards the enemy and dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Skill DMG. After releasing True Sight: Charge, True Sight ends. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "True Sight: Capture DMG",
+					"Lv1": "41.19%*3 + 82.37%",
+					"Lv2": "44.57%*3 + 89.13%",
+					"Lv3": "47.94%*3 + 95.88%",
+					"Lv4": "52.67%*3 + 105.34%",
+					"Lv5": "56.05%*3 + 112.09%",
+					"Lv6": "59.93%*3 + 119.86%",
+					"Lv7": "65.34%*3 + 130.67%",
+					"Lv8": "70.74%*3 + 141.47%",
+					"Lv9": "76.14%*3 + 152.28%",
+					"Lv10": "81.88%*3 + 163.76%"
+				},
+				{
+					"Name": "True Sight: Conquest DMG",
+					"Lv1": "29.65%*2 + 41.51% + 47.44%",
+					"Lv2": "32.08%*2 + 44.91% + 51.33%",
+					"Lv3": "34.51%*2 + 48.32% + 55.22%",
+					"Lv4": "37.92%*2 + 53.08% + 60.67%",
+					"Lv5": "40.35%*2 + 56.49% + 64.56%",
+					"Lv6": "43.14%*2 + 60.40% + 69.03%",
+					"Lv7": "47.03%*2 + 65.85% + 75.25%",
+					"Lv8": "50.92%*2 + 71.29% + 81.48%",
+					"Lv9": "54.81%*2 + 76.74% + 87.70%",
+					"Lv10": "58.95%*2 + 82.52% + 94.31%"
+				},
+				{
+					"Name": "True Sight: Charge DMG",
+					"Lv1": "36.56% + 54.84%",
+					"Lv2": "39.56% + 59.34%",
+					"Lv3": "42.56% + 63.83%",
+					"Lv4": "46.75% + 70.13%",
+					"Lv5": "49.75% + 74.62%",
+					"Lv6": "53.20% + 79.80%",
+					"Lv7": "58.00% + 86.99%",
+					"Lv8": "62.79% + 94.18%",
+					"Lv9": "67.59% + 101.38%",
+					"Lv10": "72.68% + 109.02%"
+				},
+				{
+					"Name": "True Sight: Capture - Concerto Regen",
+					"Lv1": "14",
+					"Lv2": "14",
+					"Lv3": "14",
+					"Lv4": "14",
+					"Lv5": "14",
+					"Lv6": "14",
+					"Lv7": "14",
+					"Lv8": "14",
+					"Lv9": "14",
+					"Lv10": "14"
+				},
+				{
+					"Name": "True Sight: Conquest - Concerto Regen",
+					"Lv1": "7",
+					"Lv2": "7",
+					"Lv3": "7",
+					"Lv4": "7",
+					"Lv5": "7",
+					"Lv6": "7",
+					"Lv7": "7",
+					"Lv8": "7",
+					"Lv9": "7",
+					"Lv10": "7"
+				},
+				{
+					"Name": "True Sight: Charge - Concerto Regen",
+					"Lv1": "6",
+					"Lv2": "6",
+					"Lv3": "6",
+					"Lv4": "6",
+					"Lv5": "6",
+					"Lv6": "6",
+					"Lv7": "6",
+					"Lv8": "6",
+					"Lv9": "6",
+					"Lv10": "6"
+				}
+			]
+		},
+		{
+			"name": "Radiance of Fealty",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fusion DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to nearby targets, obtaining \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stacks of Enflamement, and entering Fiery Feather. Can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Fiery Feather\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Changli releases Heavy Attack Flaming Sacrifice within \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", her ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", after which Fiery Feather ends. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill DMG",
+					"Lv1": "610.00%",
+					"Lv2": "660.02%",
+					"Lv3": "710.04%",
+					"Lv4": "780.07%",
+					"Lv5": "830.09%",
+					"Lv6": "887.62%",
+					"Lv7": "967.65%",
+					"Lv8": "1047.68%",
+					"Lv9": "1127.71%",
+					"Lv10": "1212.75%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Resonance Cost",
+					"Lv1": "125",
+					"Lv2": "125",
+					"Lv3": "125",
+					"Lv4": "125",
+					"Lv5": "125",
+					"Lv6": "125",
+					"Lv7": "125",
+					"Lv8": "125",
+					"Lv9": "125",
+					"Lv10": "125"
+				},
+				{
+					"Name": "Concerto Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Flaming Sacrifice",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack: Flaming Sacrifice\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When releasing Heavy Attack, if Changli carries \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stacks of Enflamement, she consumes all stacks of Enflamement to cast Flaming Sacrifice, dealing\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\" Fusion DMG,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" considered as Resonance Skill DMG. While casting Flaming Sacrifice, Changli takes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" less DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Enflamement\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stacks of Enflamement.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of Enflamement for every Basic Attack: True Sight - Conquest on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stack of Enflamement for every Basic Attack: True Sight - Charge on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"stacks of Enflamement for every Resonance Liberation Radiance of Fealty. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Flaming Sacrifice DMG",
+					"Lv1": "19.74%*5 + 230.30%",
+					"Lv2": "21.36%*5 + 249.18%",
+					"Lv3": "22.98%*5 + 268.07%",
+					"Lv4": "25.25%*5 + 294.51%",
+					"Lv5": "26.87%*5 + 313.39%",
+					"Lv6": "28.73%*5 + 335.11%",
+					"Lv7": "31.32%*5 + 365.32%",
+					"Lv8": "33.91%*5 + 395.54%",
+					"Lv9": "36.50%*5 + 425.75%",
+					"Lv10": "39.25%*5 + 457.85%"
+				},
+				{
+					"Name": "Concerto Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Secret Strategist",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Changli releases Basic Attack: True Sight - Conquest or Basic Attack: True Sight - Charge, for each stack of Enflamement, Changli's\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Fusion DMG Bonus\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5%.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Sweeping Force",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Changli releases Heavy Attack Flaming Sacrifice or Resonance Liberation Radiance of Fealty, Changli's \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Fusion DMG Bonus\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" is increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", and Changli ignores \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"of the target's DEF when dealing damage.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Obedience of Rules",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli appears in mid-air, attacks the target, and enters True Sight, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill DMG",
+					"Lv1": "22.38% + 13.06%*4",
+					"Lv2": "24.22% + 14.13%*4",
+					"Lv3": "26.06% + 15.20%*4",
+					"Lv4": "28.62% + 16.70%*4",
+					"Lv5": "30.46% + 17.77%*4",
+					"Lv6": "32.57% + 19.00%*4",
+					"Lv7": "35.51% + 20.71%*4",
+					"Lv8": "38.44% + 22.43%*4",
+					"Lv9": "41.38% + 24.14%*4",
+					"Lv10": "44.50% + 25.96%*4"
+				},
+				{
+					"Name": "Concerto Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Strategy of Duality",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The incoming Resonator has their \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Fusion DMG \",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Amplified by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and Resonance Liberation DMG Amplified by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"25%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"or until the Resonator is switched out.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": null,
+	"pros": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Outro provides 20% Fusion DMG Amplify and 25% Liberation DMG Amplify, offering another damage dealer she's paired with a sizeable boost to their damage if they can take advantage of one or both of them. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Offers solid Fusion damage output in teams focused around her and in teams where she plays a more supportive sub-dps role.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Has multiple incredibly potent gap closers in her kit, allowing her to stick to bosses with effective cooldown management. \",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most of her strongest combos require frequent use of her Resonance Skill which has a 12-second cooldown and you must play around it effectively.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has heavy reliance on Quick Swapping many of her abilities to achieve her maximum damage potential and keep her safe in combat which won't be for everyone.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Currently missing an ideal partner who fully unlocks her potential.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Ashleigh Haddad",
+		"kr": "Shin Na Ri",
+		"jpn": "Chiwa Saitô",
+		"cn": "Mufei"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Fusion DMG"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Fusion DMG"
+			},
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Molten Rift",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Inferno Rider"
+			},
+			{
+				"name": "Molten Rift",
+				"name2": "Endless Resonance",
+				"value": "90.67%",
+				"notes": "",
+				"main_echo": "Inferno Rider"
+			},
+			{
+				"name": "Molten Rift",
+				"name2": "Moonlit Clouds",
+				"value": "87.07%",
+				"notes": "",
+				"main_echo": "Inferno Rider"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "Moonlit Clouds",
+				"value": "86.18%",
+				"notes": "",
+				"main_echo": "Inferno Rider"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Blazing Brilliance",
+			"super": "1",
+			"notes": "",
+			"percent": "110.07%"
+		},
+		{
+			"weapon": "Emerald of Genesis",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Commando of Conviction",
+			"super": "5",
+			"notes": "",
+			"percent": "84.23%"
+		},
+		{
+			"weapon": "Lunar Cutter",
+			"super": "5",
+			"notes": "",
+			"percent": "79.67%"
+		},
+		{
+			"weapon": "Lumingloss",
+			"super": "5",
+			"notes": "",
+			"percent": "77.92%"
+		},
+		{
+			"weapon": "Sword of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "70.39%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK = Resonance Skill DMG%",
+		"substats_comments": "",
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "CRIT Rate",
+			"value": 8
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": [
+		{
+			"video": "iDV_VMiV1Dc"
+		}
+	],
+	"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1800-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15500+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli's Ultimate is an important part of her damage and something you definitely want to have available right at the point of her rotation where she has 0 Enflamement charges. The reason for this is that her Ultimate grants her maximum Enflamement charges meaning - gaining the Ultimate late will delay your usual rotation or lead to you wasting Enflamement charges neither of which are ideal. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For this reason, it's recommended you build roughly \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy Regen on Changli, but you can get away with 0% depending on the team you pair her with and how much field time you dedicate to other characters. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you find yourself missing Changli's Ultimate window and end up wasting Enflamement try to get a little more Energy Regen or mix up your team comps. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Pavo Plum",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Rage Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Sentinel's Dagger",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "Crude Ring",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "Basic Ring",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "Improved Ring",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "Tailored Ring",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Inert Metallic Drip",
+				"number": 25
+			},
+			{
+				"name": "Reactive Metallic Drip",
+				"number": 28
+			},
+			{
+				"name": "Polarized Metallic Drip",
+				"number": 55
+			},
+			{
+				"name": "Heterized Metallic Drip",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-07-22",
+	"tierCategory": "DPS",
+	"tierTags": [
+		"Cleave",
+		"Cancel"
+	],
+	"ratings": {
+		"tower": 10
+	},
+	"isNew": true,
+	"upcoming": false
+}

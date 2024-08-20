@@ -11,6 +11,7 @@
     "jquery": "^3.6.3",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
+    "nikunj3011": "file:",
     "react": "^16.2.0",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^16.2.1",
@@ -52,6 +53,7 @@
       "last 1 safari version"
     ]
   },
+  "proxy": "https://api.dotgg.gg/cgfw/getgacha",
   "devDependencies": {
     "i": "^0.3.7",
     "npm": "^9.5.1",

@@ -1,0 +1,10167 @@
+[
+	{
+		"id": "21010011",
+		"name": "Training Broadblade",
+		"type": "Broadblade",
+		"rarity": "1",
+		"icon": "weapons/training-broadblade-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"4%"
+				],
+				[
+					"5%"
+				],
+				[
+					"6%"
+				],
+				[
+					"7%"
+				],
+				[
+					"8%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "training-broadblade",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/training-broadblade-iconSmall.webp",
+		"icon_middle": "weapons/training-broadblade-iconMiddle.webp",
+		"stats": null,
+		"atk": "20",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "2.5499999523163",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "1",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 2000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 2
+					},
+					{
+						"item": 41100012,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 2
+					},
+					{
+						"item": 41100013,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 2
+					},
+					{
+						"item": 41100013,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 2
+					},
+					{
+						"item": 41100014,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21010012",
+		"name": "Tyro Broadblade",
+		"type": "Broadblade",
+		"rarity": "2",
+		"icon": "weapons/tyro-broadblade-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"5%"
+				],
+				[
+					"6.25%"
+				],
+				[
+					"7.5%"
+				],
+				[
+					"8.75%"
+				],
+				[
+					"10%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "tyro-broadblade",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/tyro-broadblade-iconSmall.webp",
+		"icon_middle": "weapons/tyro-broadblade-iconMiddle.webp",
+		"stats": null,
+		"atk": "22",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "3.2999999821186",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "2",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 3
+					},
+					{
+						"item": 41100012,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 4
+					},
+					{
+						"item": 41100013,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 3
+					},
+					{
+						"item": 41100013,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 4
+					},
+					{
+						"item": 41100014,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21010013",
+		"name": "Broadblade of Night",
+		"type": "Broadblade",
+		"rarity": "3",
+		"icon": "weapons/broadblade-of-night-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"8%",
+					10
+				],
+				[
+					"10%",
+					10
+				],
+				[
+					"12%",
+					10
+				],
+				[
+					"14%",
+					10
+				],
+				[
+					"16%",
+					10
+				]
+			],
+			"description": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s."
+		},
+		"slug": "broadblade-of-night",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/broadblade-of-night-iconSmall.webp",
+		"icon_middle": "weapons/broadblade-of-night-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "5.4000001400709",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 4
+					},
+					{
+						"item": 41100012,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 4
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 5
+					},
+					{
+						"item": 41100014,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 8
+					},
+					{
+						"item": 41100014,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010015",
+		"name": "Lustrous Razor",
+		"type": "Broadblade",
+		"rarity": "5",
+		"icon": "weapons/lustrous-razor-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12.8%",
+					"7%",
+					3,
+					12
+				],
+				[
+					"16%",
+					"8.75%",
+					3,
+					12
+				],
+				[
+					"19.2%",
+					"10.5%",
+					3,
+					12
+				],
+				[
+					"22.4%",
+					"12.25%",
+					3,
+					12
+				],
+				[
+					"25.6%",
+					"14%",
+					3,
+					12
+				]
+			],
+			"description": "Increases Energy Regen by {0}. When Resonance Skill is cast, Resonance Liberation DMG Bonus is increased by {1}, stacking up to {2} times. This effect lasts for {3}s."
+		},
+		"slug": "lustrous-razor",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/lustrous-razor-iconSmall.webp",
+		"icon_middle": "weapons/lustrous-razor-iconMiddle.webp",
+		"stats": null,
+		"atk": "47",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "8.1000000238419",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "5",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 10000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 6
+					},
+					{
+						"item": 41100012,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 20000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 8
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 40000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 6
+					},
+					{
+						"item": 41100013,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 60000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 8
+					},
+					{
+						"item": 41100014,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 80000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 12
+					},
+					{
+						"item": 41100014,
+						"quantity": 8
+					},
+					{
+						"item": 2,
+						"quantity": 120000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010016",
+		"name": "Verdant Summit",
+		"type": "Broadblade",
+		"rarity": "5",
+		"icon": "weapons/verdant-summit-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12%",
+					"24%",
+					2,
+					14
+				],
+				[
+					"15%",
+					"30%",
+					2,
+					14
+				],
+				[
+					"18%",
+					"36%",
+					2,
+					14
+				],
+				[
+					"21%",
+					"42%",
+					2,
+					14
+				],
+				[
+					"24%",
+					"48%",
+					2,
+					14
+				]
+			],
+			"description": "Increases Attribute DMG Bonus by {0}. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by {1}, stacking up to {2} time(s). This effect lasts for {3}s."
+		},
+		"slug": "verdant-summit",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/verdant-summit-iconSmall.webp",
+		"icon_middle": "weapons/verdant-summit-iconMiddle.webp",
+		"stats": null,
+		"atk": "47",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": "1080",
+		"level_table_id": "5",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 10000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 6
+					},
+					{
+						"item": 41100012,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 20000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 8
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 40000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 6
+					},
+					{
+						"item": 41100013,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 60000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 8
+					},
+					{
+						"item": 41100014,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 80000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 12
+					},
+					{
+						"item": 41100014,
+						"quantity": 8
+					},
+					{
+						"item": 2,
+						"quantity": 120000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010023",
+		"name": "Originite: Type I",
+		"type": "Broadblade",
+		"rarity": "3",
+		"icon": "weapons/originite-type-i-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"3%",
+					12,
+					1
+				],
+				[
+					"3.75%",
+					12,
+					1
+				],
+				[
+					"4.5%",
+					12,
+					1
+				],
+				[
+					"5.25%",
+					12,
+					1
+				],
+				[
+					"6%",
+					12,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, heals {0} of the Resonator's Max HP. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "originite-type-i",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/originite-type-i-iconSmall.webp",
+		"icon_middle": "weapons/originite-type-i-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": "8.5500001907349",
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 4
+					},
+					{
+						"item": 41100012,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 4
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 5
+					},
+					{
+						"item": 41100014,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 8
+					},
+					{
+						"item": 41100014,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010024",
+		"name": "Discord",
+		"type": "Broadblade",
+		"rarity": "4",
+		"icon": "weapons/discord-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				],
+				[
+					14,
+					20,
+					1
+				],
+				[
+					16,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Concerto Energy. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "discord",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/discord-iconSmall.webp",
+		"icon_middle": "weapons/discord-iconMiddle.webp",
+		"stats": null,
+		"atk": "27",
+		"crit": null,
+		"energy_efficiency": "1152",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 5
+					},
+					{
+						"item": 41100012,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 7
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 7
+					},
+					{
+						"item": 41100014,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 10
+					},
+					{
+						"item": 41100014,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010026",
+		"name": "Ages of Harvest",
+		"type": "Broadblade",
+		"rarity": "5",
+		"icon": "weapons/ages-of-harvest-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12%",
+					"24%",
+					12,
+					"24%",
+					12
+				],
+				[
+					"15%",
+					"30%",
+					12,
+					"30%",
+					12
+				],
+				[
+					"18%",
+					"36%",
+					12,
+					"36%",
+					12
+				],
+				[
+					"21%",
+					"42%",
+					12,
+					"42%",
+					12
+				],
+				[
+					"24%",
+					"48%",
+					12,
+					"48%",
+					12
+				]
+			],
+			"description": "Grants {0} Attribute DMG Bonus. Casting Intro Skill gives the equipper Ageless Marking, which grants {1} Resonance Skill DMG Bonus for {2}s. Casting Resonance Skill gives the equipper Ethereal Endowment, which grants {3} Resonance Skill DMG Bonus for {4}s."
+		},
+		"slug": "ages-of-harvest",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/ages-of-harvest-iconSmall.webp",
+		"icon_middle": "weapons/ages-of-harvest-iconMiddle.webp",
+		"stats": null,
+		"atk": "47",
+		"crit": "540",
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "5",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 10000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 6
+					},
+					{
+						"item": 41100012,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 20000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 8
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 40000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 6
+					},
+					{
+						"item": 41100013,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 60000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 8
+					},
+					{
+						"item": 41100014,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 80000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 12
+					},
+					{
+						"item": 41100014,
+						"quantity": 8
+					},
+					{
+						"item": 2,
+						"quantity": 120000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010034",
+		"name": "Broadblade#41",
+		"type": "Broadblade",
+		"rarity": "4",
+		"icon": "weapons/broadblade-41-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"80%",
+					"12%",
+					"40%",
+					"5%",
+					8,
+					1
+				],
+				[
+					"80%",
+					"15%",
+					"50%",
+					"6.25%",
+					8,
+					1
+				],
+				[
+					"80%",
+					"18%",
+					"60%",
+					"7.5%",
+					8,
+					1
+				],
+				[
+					"80%",
+					"21%",
+					"70%",
+					"8.75%",
+					8,
+					1
+				],
+				[
+					"80%",
+					"24%",
+					"80%",
+					"10%",
+					8,
+					1
+				]
+			],
+			"description": "When the Resonator's HP is above {0}, increases ATK by {1}. When the Resonator's HP is below {2}, gives {3} healing when dealing Basic Attack DMG or Heavy Attack DMG. This effect can be triggered {5} time(s) every {4}s."
+		},
+		"slug": "broadblade41",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/broadblade-41-iconSmall.webp",
+		"icon_middle": "weapons/broadblade-41-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": null,
+		"energy_efficiency": "720",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 5
+					},
+					{
+						"item": 41100012,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 7
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 7
+					},
+					{
+						"item": 41100014,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 10
+					},
+					{
+						"item": 41100014,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010043",
+		"name": "Broadblade of Voyager",
+		"type": "Broadblade",
+		"rarity": "3",
+		"icon": "weapons/broadblade-of-voyager-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					9,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					11,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Resonance Energy. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "broadblade-of-voyager",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/broadblade-of-voyager-iconSmall.webp",
+		"icon_middle": "weapons/broadblade-of-voyager-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": "720",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 4
+					},
+					{
+						"item": 41100012,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 4
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 5
+					},
+					{
+						"item": 41100014,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 8
+					},
+					{
+						"item": 41100014,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010044",
+		"name": "Dauntless Evernight",
+		"type": "Broadblade",
+		"rarity": "4",
+		"icon": "weapons/dauntless-evernight-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"8%",
+					"15%",
+					15
+				],
+				[
+					"10%",
+					"18.75%",
+					15
+				],
+				[
+					"12%",
+					"22.5%",
+					15
+				],
+				[
+					"14%",
+					"26.25%",
+					15
+				],
+				[
+					"16%",
+					"30%",
+					15
+				]
+			],
+			"description": "When Intro Skill is cast, increases ATK by {0} and DEF by {1}, lasting for {2}s."
+		},
+		"slug": "dauntless-evernight",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/dauntless-evernight-iconSmall.webp",
+		"icon_middle": "weapons/dauntless-evernight-iconMiddle.webp",
+		"stats": null,
+		"atk": "27",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": "13.680000603199",
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 5
+					},
+					{
+						"item": 41100012,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 7
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 7
+					},
+					{
+						"item": 41100014,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 10
+					},
+					{
+						"item": 41100014,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010053",
+		"name": "Guardian Broadblade",
+		"type": "Broadblade",
+		"rarity": "3",
+		"icon": "weapons/guardian-broadblade-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12%"
+				],
+				[
+					"15%"
+				],
+				[
+					"18%"
+				],
+				[
+					"21%"
+				],
+				[
+					"24%"
+				]
+			],
+			"description": "Increases Basic Attack DMG Bonus and Heavy Attack DMG Bonus by {0}."
+		},
+		"slug": "guardian-broadblade",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/guardian-broadblade-iconSmall.webp",
+		"icon_middle": "weapons/guardian-broadblade-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "5.4000001400709",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 4
+					},
+					{
+						"item": 41100012,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 4
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 5
+					},
+					{
+						"item": 41100014,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 8
+					},
+					{
+						"item": 41100014,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010063",
+		"name": "Beguiling Melody",
+		"type": "Broadblade",
+		"rarity": "3",
+		"icon": "weapons/beguiling-melody-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					4,
+					4
+				],
+				[
+					5,
+					5
+				],
+				[
+					6,
+					6
+				],
+				[
+					7,
+					7
+				],
+				[
+					8,
+					8
+				]
+			],
+			"description": "When Intro Skill is cast, restores {0} Concerto Energy. When Outro Skill is cast, restores {1} Resonance Energy."
+		},
+		"slug": "beguiling-melody",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/beguiling-melody-iconSmall.webp",
+		"icon_middle": "weapons/beguiling-melody-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "6.7500002682209",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 4
+					},
+					{
+						"item": 41100012,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 4
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 5
+					},
+					{
+						"item": 41100014,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 8
+					},
+					{
+						"item": 41100014,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010064",
+		"name": "Helios Cleaver",
+		"type": "Broadblade",
+		"rarity": "4",
+		"icon": "weapons/helios-cleaver-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					12,
+					2,
+					"3%",
+					4,
+					12,
+					1,
+					4,
+					6
+				],
+				[
+					12,
+					2,
+					"3.75%",
+					4,
+					12,
+					1,
+					4,
+					6
+				],
+				[
+					12,
+					2,
+					"4.5%",
+					4,
+					12,
+					1,
+					4,
+					6
+				],
+				[
+					12,
+					2,
+					"5.25%",
+					4,
+					12,
+					1,
+					4,
+					6
+				],
+				[
+					12,
+					2,
+					"6%",
+					4,
+					12,
+					1,
+					4,
+					6
+				]
+			],
+			"description": "Within {0}s after Resonance Skill is cast, increases ATK by {2} every {1}s, stacking up to {3} time(s). This effect can be triggered {5} time(s) every {4}s. When the number of stacks reaches {6}, all stacks will be reset within {7}s."
+		},
+		"slug": "helios-cleaver",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/helios-cleaver-iconSmall.webp",
+		"icon_middle": "weapons/helios-cleaver-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "6.7500002682209",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 5
+					},
+					{
+						"item": 41100012,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 7
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 7
+					},
+					{
+						"item": 41100014,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 10
+					},
+					{
+						"item": 41100014,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21010074",
+		"name": "Autumntrace",
+		"type": "Broadblade",
+		"rarity": "4",
+		"icon": "weapons/autumntrace-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"4%",
+					5,
+					7,
+					1,
+					1
+				],
+				[
+					"6.2%",
+					5,
+					7,
+					1,
+					1
+				],
+				[
+					"8.4%",
+					5,
+					7,
+					1,
+					1
+				],
+				[
+					"10.6%",
+					5,
+					7,
+					1,
+					1
+				],
+				[
+					"12.8%",
+					5,
+					7,
+					1,
+					1
+				]
+			],
+			"description": "Increases ATK by {0} upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to {1} time(s). This effect lasts for {2}s and can be triggered {4} time(s) every {3}s."
+		},
+		"slug": "autumntrace",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/autumntrace-iconSmall.webp",
+		"icon_middle": "weapons/autumntrace-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": "450",
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100011,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020041,
+						"quantity": 5
+					},
+					{
+						"item": 41100012,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020042,
+						"quantity": 7
+					},
+					{
+						"item": 41100013,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020043,
+						"quantity": 5
+					},
+					{
+						"item": 41100013,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 7
+					},
+					{
+						"item": 41100014,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020044,
+						"quantity": 10
+					},
+					{
+						"item": 41100014,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020011",
+		"name": "Training Sword",
+		"type": "Sword",
+		"rarity": "1",
+		"icon": "weapons/training-sword-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"4%"
+				],
+				[
+					"5%"
+				],
+				[
+					"6%"
+				],
+				[
+					"7%"
+				],
+				[
+					"8%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "training-sword",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/training-sword-iconSmall.webp",
+		"icon_middle": "weapons/training-sword-iconMiddle.webp",
+		"stats": null,
+		"atk": "20",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "2.5499999523163",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "1",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 2000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 2
+					},
+					{
+						"item": 41100022,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 2
+					},
+					{
+						"item": 41100023,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 2
+					},
+					{
+						"item": 41100023,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 2
+					},
+					{
+						"item": 41100024,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21020012",
+		"name": "Tyro Sword",
+		"type": "Sword",
+		"rarity": "2",
+		"icon": "weapons/tyro-sword-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"5%"
+				],
+				[
+					"6.25%"
+				],
+				[
+					"7.5%"
+				],
+				[
+					"8.75%"
+				],
+				[
+					"10%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "tyro-sword",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/tyro-sword-iconSmall.webp",
+		"icon_middle": "weapons/tyro-sword-iconMiddle.webp",
+		"stats": null,
+		"atk": "22",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "3.2999999821186",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "2",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 3
+					},
+					{
+						"item": 41100022,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 3
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 4
+					},
+					{
+						"item": 41100024,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21020013",
+		"name": "Sword of Night",
+		"type": "Sword",
+		"rarity": "3",
+		"icon": "weapons/sword-of-night-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"8%",
+					10
+				],
+				[
+					"10%",
+					10
+				],
+				[
+					"12%",
+					10
+				],
+				[
+					"14%",
+					10
+				],
+				[
+					"16%",
+					10
+				]
+			],
+			"description": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s."
+		},
+		"slug": "sword-of-night",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/sword-of-night-iconSmall.webp",
+		"icon_middle": "weapons/sword-of-night-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "5.4000001400709",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 4
+					},
+					{
+						"item": 41100022,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 5
+					},
+					{
+						"item": 41100024,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020015",
+		"name": "Emerald of Genesis",
+		"type": "Sword",
+		"rarity": "5",
+		"icon": "weapons/emerald-of-genesis-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12.8%",
+					"6%",
+					2,
+					10
+				],
+				[
+					"16%",
+					"7.5%",
+					2,
+					10
+				],
+				[
+					"19.2%",
+					"9%",
+					2,
+					10
+				],
+				[
+					"22.4%",
+					"10.5%",
+					2,
+					10
+				],
+				[
+					"25.6%",
+					"12%",
+					2,
+					10
+				]
+			],
+			"description": "Increases Energy Regen by {0}. When Resonance Skill is cast, increases ATK by {1}, stacking up to {2} time(s). This effect lasts for {3}s."
+		},
+		"slug": "emerald-of-genesis",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/emerald-of-genesis-iconSmall.webp",
+		"icon_middle": "weapons/emerald-of-genesis-iconMiddle.webp",
+		"stats": null,
+		"atk": "47",
+		"crit": "540",
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "5",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 10000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 6
+					},
+					{
+						"item": 41100022,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 20000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 8
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 40000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 6
+					},
+					{
+						"item": 41100023,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 60000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 80000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 12
+					},
+					{
+						"item": 41100024,
+						"quantity": 8
+					},
+					{
+						"item": 2,
+						"quantity": 120000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020016",
+		"name": "Blazing Brilliance",
+		"type": "Sword",
+		"rarity": "5",
+		"icon": "weapons/blazing-brilliance-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12%",
+					"4%"
+				],
+				[
+					"15%",
+					"5%"
+				],
+				[
+					"18%",
+					"6%"
+				],
+				[
+					"21%",
+					"7%"
+				],
+				[
+					"24%",
+					"8%"
+				]
+			],
+			"description": "ATK increased by {0}. The equipper gains 1 stack of Searing Feather upon dealing damage, which can be triggered once every 0.5s, and gains 5 stacks of the same effect upon casting Resonance Skill. Each stack of Searing Feather gives {1} additional Resonance Skill DMG Bonus for up to 14 stacks. All stacks will be removed within 10s after reaching the max stack."
+		},
+		"slug": "blazing-brilliance",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/blazing-brilliance-iconSmall.webp",
+		"icon_middle": "weapons/blazing-brilliance-iconMiddle.webp",
+		"stats": null,
+		"atk": "47",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": "1080",
+		"level_table_id": "5",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 10000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 6
+					},
+					{
+						"item": 41100022,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 20000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 8
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 40000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 6
+					},
+					{
+						"item": 41100023,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 60000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 80000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 12
+					},
+					{
+						"item": 41100024,
+						"quantity": 8
+					},
+					{
+						"item": 2,
+						"quantity": 120000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020023",
+		"name": "Originite: Type II",
+		"type": "Sword",
+		"rarity": "3",
+		"icon": "weapons/originite-type-ii-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"5%",
+					20,
+					1
+				],
+				[
+					"6.25%",
+					20,
+					1
+				],
+				[
+					"7.5%",
+					20,
+					1
+				],
+				[
+					"8.75%",
+					20,
+					1
+				],
+				[
+					"10%",
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Liberation is cast, heals {0} of the Resonator's Max HP. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "originite-type-ii",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/originite-type-ii-iconSmall.webp",
+		"icon_middle": "weapons/originite-type-ii-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "5.4000001400709",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 4
+					},
+					{
+						"item": 41100022,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 5
+					},
+					{
+						"item": 41100024,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020024",
+		"name": "Overture",
+		"type": "Sword",
+		"rarity": "4",
+		"icon": "weapons/overture-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				],
+				[
+					14,
+					20,
+					1
+				],
+				[
+					16,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Concerto Energy. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "overture",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/overture-iconSmall.webp",
+		"icon_middle": "weapons/overture-iconMiddle.webp",
+		"stats": null,
+		"atk": "27",
+		"crit": null,
+		"energy_efficiency": "1152",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020034",
+		"name": "Sword#18",
+		"type": "Sword",
+		"rarity": "4",
+		"icon": "weapons/sword-18-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"40%",
+					"18%",
+					"5%",
+					8,
+					1
+				],
+				[
+					"50%",
+					"22.5%",
+					"6.25%",
+					8,
+					1
+				],
+				[
+					"60%",
+					"27%",
+					"7.5%",
+					8,
+					1
+				],
+				[
+					"70%",
+					"31.5%",
+					"8.75%",
+					8,
+					1
+				],
+				[
+					"80%",
+					"36%",
+					"10%",
+					8,
+					1
+				]
+			],
+			"description": "When the Resonator's HP drops below {0}, increases Heavy Attack DMG Bonus by {1} and gives {2} healing when dealing Heavy Attack DMG. This effect can be triggered {4} time(s) every {3}s."
+		},
+		"slug": "sword18",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/sword-18-iconSmall.webp",
+		"icon_middle": "weapons/sword-18-iconMiddle.webp",
+		"stats": null,
+		"atk": "31",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "8.1000000238419",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020043",
+		"name": "Sword of Voyager",
+		"type": "Sword",
+		"rarity": "3",
+		"icon": "weapons/sword-of-voyager-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					9,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					11,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Resonance Energy. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "sword-of-voyager",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/sword-of-voyager-iconSmall.webp",
+		"icon_middle": "weapons/sword-of-voyager-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": "720",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 4
+					},
+					{
+						"item": 41100022,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 5
+					},
+					{
+						"item": 41100024,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020044",
+		"name": "Commando of Conviction",
+		"type": "Sword",
+		"rarity": "4",
+		"icon": "weapons/commando-of-conviction-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"15%",
+					15
+				],
+				[
+					"18.75%",
+					15
+				],
+				[
+					"22.5%",
+					15
+				],
+				[
+					"26.25%",
+					15
+				],
+				[
+					"30%",
+					15
+				]
+			],
+			"description": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s."
+		},
+		"slug": "commando-of-conviction",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/commando-of-conviction-iconSmall.webp",
+		"icon_middle": "weapons/commando-of-conviction-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "6.7500002682209",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020053",
+		"name": "Guardian Sword",
+		"type": "Sword",
+		"rarity": "3",
+		"icon": "weapons/guardian-sword-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12%"
+				],
+				[
+					"15%"
+				],
+				[
+					"18%"
+				],
+				[
+					"21%"
+				],
+				[
+					"24%"
+				]
+			],
+			"description": "Resonance Skill DMG Bonus is increased by {0}."
+		},
+		"slug": "guardian-sword",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/guardian-sword-iconSmall.webp",
+		"icon_middle": "weapons/guardian-sword-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": "6.7500002682209",
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 4
+					},
+					{
+						"item": 41100022,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 5
+					},
+					{
+						"item": 41100024,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020064",
+		"name": "Lunar Cutter",
+		"type": "Sword",
+		"rarity": "4",
+		"icon": "weapons/lunar-cutter-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					6,
+					"2%",
+					6,
+					12,
+					1,
+					2,
+					1,
+					6
+				],
+				[
+					6,
+					"2.5%",
+					6,
+					12,
+					1,
+					2,
+					1,
+					6
+				],
+				[
+					6,
+					"3%",
+					6,
+					12,
+					1,
+					2,
+					1,
+					6
+				],
+				[
+					6,
+					"3.5%",
+					6,
+					12,
+					1,
+					2,
+					1,
+					6
+				],
+				[
+					6,
+					"4%",
+					6,
+					12,
+					1,
+					2,
+					1,
+					6
+				]
+			],
+			"description": "Equipped Resonator gains {0} stack(s) of Oath upon entering the battlefield. Each stack increases ATK by {1}, up to {2} stacks. This effect can be triggered {4} time(s) every {3}s. The equipped Resonator loses {6} stack(s) of Oath every {5}s, and gains {7} stack(s) upon defeating an enemy."
+		},
+		"slug": "lunar-cutter",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/lunar-cutter-iconSmall.webp",
+		"icon_middle": "weapons/lunar-cutter-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "6.7500002682209",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21020074",
+		"name": "Lumingloss",
+		"type": "Sword",
+		"rarity": "4",
+		"icon": "weapons/lumingloss-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"20%",
+					1,
+					10,
+					1,
+					1
+				],
+				[
+					"31%",
+					1,
+					10,
+					1,
+					1
+				],
+				[
+					"42%",
+					1,
+					10,
+					1,
+					1
+				],
+				[
+					"53%",
+					1,
+					10,
+					1,
+					1
+				],
+				[
+					"64%",
+					1,
+					10,
+					1,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, increases Basic Attack DMG Bonus and Heavy Attack DMG Bonus by {0}, stacking up to {1} time(s). This effect lasts for {2}s and can be triggered {4} time(s) every {3}s."
+		},
+		"slug": "lumingloss",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/lumingloss-iconSmall.webp",
+		"icon_middle": "weapons/lumingloss-iconMiddle.webp",
+		"stats": null,
+		"atk": "31",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "8.1000000238419",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020011,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020012,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020013,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020014,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030011",
+		"name": "Training Pistols",
+		"type": "Pistols",
+		"rarity": "1",
+		"icon": "weapons/training-pistols-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"4%"
+				],
+				[
+					"5%"
+				],
+				[
+					"6%"
+				],
+				[
+					"7%"
+				],
+				[
+					"8%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "training-pistols",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/training-pistols-iconSmall.webp",
+		"icon_middle": "weapons/training-pistols-iconMiddle.webp",
+		"stats": null,
+		"atk": "20",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "2.5499999523163",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "1",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 2000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 2
+					},
+					{
+						"item": 41100032,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 2
+					},
+					{
+						"item": 41100033,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 2
+					},
+					{
+						"item": 41100033,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 2
+					},
+					{
+						"item": 41100034,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21030012",
+		"name": "Tyro Pistols",
+		"type": "Pistols",
+		"rarity": "2",
+		"icon": "weapons/tyro-pistols-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"5%"
+				],
+				[
+					"6.25%"
+				],
+				[
+					"7.5%"
+				],
+				[
+					"8.75%"
+				],
+				[
+					"10%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "tyro-pistols",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/tyro-pistols-iconSmall.webp",
+		"icon_middle": "weapons/tyro-pistols-iconMiddle.webp",
+		"stats": null,
+		"atk": "22",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "3.2999999821186",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "2",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 3
+					},
+					{
+						"item": 41100032,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 3
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 4
+					},
+					{
+						"item": 41100034,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21030013",
+		"name": "Pistols of Night",
+		"type": "Pistols",
+		"rarity": "3",
+		"icon": "weapons/pistols-of-night-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"8%",
+					10
+				],
+				[
+					"10%",
+					10
+				],
+				[
+					"12%",
+					10
+				],
+				[
+					"14%",
+					10
+				],
+				[
+					"16%",
+					10
+				]
+			],
+			"description": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s."
+		},
+		"slug": "pistols-of-night",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/pistols-of-night-iconSmall.webp",
+		"icon_middle": "weapons/pistols-of-night-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "5.4000001400709",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 4
+					},
+					{
+						"item": 41100032,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 5
+					},
+					{
+						"item": 41100034,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030015",
+		"name": "Static Mist",
+		"type": "Pistols",
+		"rarity": "5",
+		"icon": "weapons/static-mist-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12.8%",
+					"10%",
+					1,
+					14
+				],
+				[
+					"16%",
+					"12.5%",
+					1,
+					14
+				],
+				[
+					"19.2%",
+					"15%",
+					1,
+					14
+				],
+				[
+					"22.4%",
+					"17.5%",
+					1,
+					14
+				],
+				[
+					"25.6%",
+					"20%",
+					1,
+					14
+				]
+			],
+			"description": "Increases Energy Regen by {0}. When Outro Skill is cast, increases the incoming Resonator's ATK by {1}, stacking up to {2} time(s). This effect lasts for {3}s."
+		},
+		"slug": "static-mist",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/static-mist-iconSmall.webp",
+		"icon_middle": "weapons/static-mist-iconMiddle.webp",
+		"stats": null,
+		"atk": "47",
+		"crit": "540",
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "5",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 10000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 6
+					},
+					{
+						"item": 41100032,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 20000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 8
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 40000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 6
+					},
+					{
+						"item": 41100033,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 60000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 80000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 12
+					},
+					{
+						"item": 41100034,
+						"quantity": 8
+					},
+					{
+						"item": 2,
+						"quantity": 120000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030023",
+		"name": "Originite: Type III",
+		"type": "Pistols",
+		"rarity": "3",
+		"icon": "weapons/originite-type-iii-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"1.6%",
+					6,
+					1
+				],
+				[
+					"2%",
+					6,
+					1
+				],
+				[
+					"2.4%",
+					6,
+					1
+				],
+				[
+					"2.8%",
+					6,
+					1
+				],
+				[
+					"3.2%",
+					6,
+					1
+				]
+			],
+			"description": "When Dodge Counter is cast, heals {0} of the Resonator's Max HP. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "originite-type-iii",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/originite-type-iii-iconSmall.webp",
+		"icon_middle": "weapons/originite-type-iii-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "5.4000001400709",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 4
+					},
+					{
+						"item": 41100032,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 5
+					},
+					{
+						"item": 41100034,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030024",
+		"name": "Cadenza",
+		"type": "Pistols",
+		"rarity": "4",
+		"icon": "weapons/cadenza-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				],
+				[
+					14,
+					20,
+					1
+				],
+				[
+					16,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Concerto Energy. This effect can be triggered {2} times every {1}s."
+		},
+		"slug": "cadenza",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/cadenza-iconSmall.webp",
+		"icon_middle": "weapons/cadenza-iconMiddle.webp",
+		"stats": null,
+		"atk": "27",
+		"crit": null,
+		"energy_efficiency": "1152",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030034",
+		"name": "Pistols#26",
+		"type": "Pistols",
+		"rarity": "4",
+		"icon": "weapons/pistols-26-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					5,
+					"6%",
+					2,
+					8,
+					1,
+					"5%"
+				],
+				[
+					5,
+					"7.5%",
+					2,
+					8,
+					1,
+					"6.25%"
+				],
+				[
+					5,
+					"9%",
+					2,
+					8,
+					1,
+					"7.5%"
+				],
+				[
+					5,
+					"10.5%",
+					2,
+					8,
+					1,
+					"8.75%"
+				],
+				[
+					5,
+					"12%",
+					2,
+					8,
+					1,
+					"10%"
+				]
+			],
+			"description": "When the Resonator takes no damage, increases ATK by {1} every {0}s, stacking up to {2} time(s). This effect lasts for {3}s. When the Resonator takes damage, loses {4} stacks and heals {5} of their Max HP."
+		},
+		"slug": "pistols26",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/pistols-26-iconSmall.webp",
+		"icon_middle": "weapons/pistols-26-iconMiddle.webp",
+		"stats": null,
+		"atk": "31",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "8.1000000238419",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030043",
+		"name": "Pistols of Voyager",
+		"type": "Pistols",
+		"rarity": "3",
+		"icon": "weapons/pistols-of-voyager-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					9,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					11,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Resonance Energy. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "pistols-of-voyager",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/pistols-of-voyager-iconSmall.webp",
+		"icon_middle": "weapons/pistols-of-voyager-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "6.7500002682209",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 4
+					},
+					{
+						"item": 41100032,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 5
+					},
+					{
+						"item": 41100034,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030044",
+		"name": "Undying Flame",
+		"type": "Pistols",
+		"rarity": "4",
+		"icon": "weapons/undying-flame-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"20%",
+					15
+				],
+				[
+					"25%",
+					15
+				],
+				[
+					"30%",
+					15
+				],
+				[
+					"35%",
+					15
+				],
+				[
+					"40%",
+					15
+				]
+			],
+			"description": "When Intro Skill is cast, increases Resonance Skill DMG Bonus by {0} for {1}s."
+		},
+		"slug": "undying-flame",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/undying-flame-iconSmall.webp",
+		"icon_middle": "weapons/undying-flame-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "6.7500002682209",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030053",
+		"name": "Guardian Pistols",
+		"type": "Pistols",
+		"rarity": "3",
+		"icon": "weapons/guardian-pistols-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12%"
+				],
+				[
+					"15%"
+				],
+				[
+					"18%"
+				],
+				[
+					"21%"
+				],
+				[
+					"24%"
+				]
+			],
+			"description": "Resonance Skill DMG Bonus is increased by {0}."
+		},
+		"slug": "guardian-pistols",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/guardian-pistols-iconSmall.webp",
+		"icon_middle": "weapons/guardian-pistols-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "6.7500002682209",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 4
+					},
+					{
+						"item": 41100032,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 5
+					},
+					{
+						"item": 41100034,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030064",
+		"name": "Novaburst",
+		"type": "Pistols",
+		"rarity": "4",
+		"icon": "weapons/novaburst-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"4%",
+					8,
+					3
+				],
+				[
+					"5%",
+					8,
+					3
+				],
+				[
+					"6%",
+					8,
+					3
+				],
+				[
+					"7%",
+					8,
+					3
+				],
+				[
+					"8%",
+					8,
+					3
+				]
+			],
+			"description": "When the Resonator dashes or dodges, increases ATK by {0}, stacking up to {2} time(s). This effect lasts for {1}s."
+		},
+		"slug": "novaburst",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/novaburst-iconSmall.webp",
+		"icon_middle": "weapons/novaburst-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "6.7500002682209",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21030074",
+		"name": "Thunderbolt",
+		"type": "Pistols",
+		"rarity": "4",
+		"icon": "weapons/thunderbolt-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"7%",
+					3,
+					10,
+					1,
+					1
+				],
+				[
+					"11%",
+					3,
+					10,
+					1,
+					1
+				],
+				[
+					"15%",
+					3,
+					10,
+					1,
+					1
+				],
+				[
+					"19%",
+					3,
+					10,
+					1,
+					1
+				],
+				[
+					"23%",
+					3,
+					10,
+					1,
+					1
+				]
+			],
+			"description": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by {0}, stacking up to {1} time(s). This effect lasts for {2}s and can be triggered {4} time(s) every {3}s."
+		},
+		"slug": "thunderbolt",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/thunderbolt-iconSmall.webp",
+		"icon_middle": "weapons/thunderbolt-iconMiddle.webp",
+		"stats": null,
+		"atk": "31",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "8.1000000238419",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020021,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020022,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020023,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020024,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040011",
+		"name": "Training Gauntlets",
+		"type": "Gauntlets",
+		"rarity": "1",
+		"icon": "weapons/training-gauntlets-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"4%"
+				],
+				[
+					"5%"
+				],
+				[
+					"6%"
+				],
+				[
+					"7%"
+				],
+				[
+					"8%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "training-gauntlets",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/training-gauntlets-iconSmall.webp",
+		"icon_middle": "weapons/training-gauntlets-iconMiddle.webp",
+		"stats": null,
+		"atk": "20",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "2.5499999523163",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "1",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 2000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 2
+					},
+					{
+						"item": 41100022,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 2
+					},
+					{
+						"item": 41100023,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 2
+					},
+					{
+						"item": 41100023,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 2
+					},
+					{
+						"item": 41100024,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21040012",
+		"name": "Tyro Gauntlets",
+		"type": "Gauntlets",
+		"rarity": "2",
+		"icon": "weapons/tyro-gauntlets-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"5%"
+				],
+				[
+					"6.25%"
+				],
+				[
+					"7.5%"
+				],
+				[
+					"8.75%"
+				],
+				[
+					"10%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "tyro-gauntlets",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/tyro-gauntlets-iconSmall.webp",
+		"icon_middle": "weapons/tyro-gauntlets-iconMiddle.webp",
+		"stats": null,
+		"atk": "22",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "3.2999999821186",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "2",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 3
+					},
+					{
+						"item": 41100022,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 3
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 4
+					},
+					{
+						"item": 41100024,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21040013",
+		"name": "Gauntlets of Night",
+		"type": "Gauntlets",
+		"rarity": "3",
+		"icon": "weapons/gauntlets-of-night-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"8%",
+					10
+				],
+				[
+					"10%",
+					10
+				],
+				[
+					"12%",
+					10
+				],
+				[
+					"14%",
+					10
+				],
+				[
+					"16%",
+					10
+				]
+			],
+			"description": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s."
+		},
+		"slug": "gauntlets-of-night",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/gauntlets-of-night-iconSmall.webp",
+		"icon_middle": "weapons/gauntlets-of-night-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "5.4000001400709",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 4
+					},
+					{
+						"item": 41100022,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 5
+					},
+					{
+						"item": 41100024,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040015",
+		"name": "Abyss Surges",
+		"type": "Gauntlets",
+		"rarity": "5",
+		"icon": "weapons/abyss-surges-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12.8%",
+					"10%",
+					8,
+					"10%",
+					8
+				],
+				[
+					"16%",
+					"12.5%",
+					8,
+					"12.5%",
+					8
+				],
+				[
+					"19.2%",
+					"15%",
+					8,
+					"15%",
+					8
+				],
+				[
+					"22.4%",
+					"17.5%",
+					8,
+					"17.5%",
+					8
+				],
+				[
+					"25.6%",
+					"20%",
+					8,
+					"20%",
+					8
+				]
+			],
+			"description": "Increases Energy Regen by {0}. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by {1}, lasting for {2}s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by {3}, lasting for {4}s."
+		},
+		"slug": "abyss-surges",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/abyss-surges-iconSmall.webp",
+		"icon_middle": "weapons/abyss-surges-iconMiddle.webp",
+		"stats": null,
+		"atk": "47",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "8.1000000238419",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "5",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 10000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 6
+					},
+					{
+						"item": 41100022,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 20000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 8
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 40000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 6
+					},
+					{
+						"item": 41100023,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 60000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 80000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 12
+					},
+					{
+						"item": 41100024,
+						"quantity": 8
+					},
+					{
+						"item": 2,
+						"quantity": 120000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040023",
+		"name": "Originite: Type IV",
+		"type": "Gauntlets",
+		"rarity": "3",
+		"icon": "weapons/originite-type-iv-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"0.5%",
+					3,
+					1
+				],
+				[
+					"0.65%",
+					3,
+					1
+				],
+				[
+					"0.8%",
+					3,
+					1
+				],
+				[
+					"0.95%",
+					3,
+					1
+				],
+				[
+					"1.1%",
+					3,
+					1
+				]
+			],
+			"description": "When dealing Basic Attack DMG, heals {0} of the Resonator's Max HP. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "originite-type-iv",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/originite-type-iv-iconSmall.webp",
+		"icon_middle": "weapons/originite-type-iv-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": "900",
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 4
+					},
+					{
+						"item": 41100022,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 5
+					},
+					{
+						"item": 41100024,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040024",
+		"name": "Marcato",
+		"type": "Gauntlets",
+		"rarity": "4",
+		"icon": "weapons/marcato-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				],
+				[
+					14,
+					20,
+					1
+				],
+				[
+					16,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Concerto Energy. This effect can be triggered {2} times every {1}s."
+		},
+		"slug": "marcato",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/marcato-iconSmall.webp",
+		"icon_middle": "weapons/marcato-iconMiddle.webp",
+		"stats": null,
+		"atk": "27",
+		"crit": null,
+		"energy_efficiency": "1152",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040034",
+		"name": "Gauntlets#21D",
+		"type": "Gauntlets",
+		"rarity": "4",
+		"icon": "weapons/gauntlets-21d-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"8%",
+					"50%",
+					8,
+					"5%",
+					6,
+					1
+				],
+				[
+					"10%",
+					"62.5%",
+					8,
+					"6.25%",
+					6,
+					1
+				],
+				[
+					"12%",
+					"75%",
+					8,
+					"7.5%",
+					6,
+					1
+				],
+				[
+					"14%",
+					"87.5%",
+					8,
+					"8.75%",
+					6,
+					1
+				],
+				[
+					"16%",
+					"100%",
+					8,
+					"10%",
+					6,
+					1
+				]
+			],
+			"description": "When the Resonator dashes or dodges, increases ATK by {0}. Increases Dodge Counter DMG by {1}, lasting for {2}s. When Dodge Counter is performed, heals {3} of the Resonator's Max HP. This effect can be triggered {5} time(s) every {4}s."
+		},
+		"slug": "gauntlets21d",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/gauntlets-21d-iconSmall.webp",
+		"icon_middle": "weapons/gauntlets-21d-iconMiddle.webp",
+		"stats": null,
+		"atk": "31",
+		"crit": null,
+		"energy_efficiency": "864",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040043",
+		"name": "Gauntlets of Voyager",
+		"type": "Gauntlets",
+		"rarity": "3",
+		"icon": "weapons/gauntlets-of-voyager-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					9,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					11,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Resonance Energy. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "gauntlets-of-voyager",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/gauntlets-of-voyager-iconSmall.webp",
+		"icon_middle": "weapons/gauntlets-of-voyager-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": "6.8400003015995",
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 4
+					},
+					{
+						"item": 41100022,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 5
+					},
+					{
+						"item": 41100024,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040044",
+		"name": "Amity Accord",
+		"type": "Gauntlets",
+		"rarity": "4",
+		"icon": "weapons/amity-accord-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"20%",
+					15
+				],
+				[
+					"25%",
+					15
+				],
+				[
+					"30%",
+					15
+				],
+				[
+					"35%",
+					15
+				],
+				[
+					"40%",
+					15
+				]
+			],
+			"description": "When Intro Skill is cast, increases Resonance Liberation DMG Bonus by {0}, lasting for {1}s."
+		},
+		"slug": "amity-accord",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/amity-accord-iconSmall.webp",
+		"icon_middle": "weapons/amity-accord-iconMiddle.webp",
+		"stats": null,
+		"atk": "27",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": "13.680000603199",
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040053",
+		"name": "Guardian Gauntlets",
+		"type": "Gauntlets",
+		"rarity": "3",
+		"icon": "weapons/guardian-gauntlets-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12%"
+				],
+				[
+					"15%"
+				],
+				[
+					"18%"
+				],
+				[
+					"21%"
+				],
+				[
+					"24%"
+				]
+			],
+			"description": "Increases Resonance Liberation DMG Bonus by {0}."
+		},
+		"slug": "guardian-gauntlets",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/guardian-gauntlets-iconSmall.webp",
+		"icon_middle": "weapons/guardian-gauntlets-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": "8.5500001907349",
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 4
+					},
+					{
+						"item": 41100022,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 4
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 5
+					},
+					{
+						"item": 41100024,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 8
+					},
+					{
+						"item": 41100024,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040064",
+		"name": "Hollow Mirage",
+		"type": "Gauntlets",
+		"rarity": "4",
+		"icon": "weapons/hollow-mirage-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					3,
+					"3%",
+					3,
+					1
+				],
+				[
+					3,
+					"3.5%",
+					3,
+					1
+				],
+				[
+					3,
+					"4%",
+					3,
+					1
+				],
+				[
+					3,
+					"4.5%",
+					3,
+					1
+				],
+				[
+					3,
+					"5%",
+					3,
+					1
+				]
+			],
+			"description": "When Resonance Liberation is cast, grants {0} stack(s) of Iron Armor. Each stack increases ATK and DEF by {1}, stacking up to {2} time(s). When the Resonator takes damage, reduces the number of stacks by {3}."
+		},
+		"slug": "hollow-mirage",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/hollow-mirage-iconSmall.webp",
+		"icon_middle": "weapons/hollow-mirage-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "6.7500002682209",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21040074",
+		"name": "Stonard",
+		"type": "Gauntlets",
+		"rarity": "4",
+		"icon": "weapons/stonard-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"18%",
+					15
+				],
+				[
+					"27%",
+					15
+				],
+				[
+					"36%",
+					15
+				],
+				[
+					"45%",
+					15
+				],
+				[
+					"54%",
+					15
+				]
+			],
+			"description": "When Resonance Skill is cast, increases the caster's Resonance Liberation DMG Bonus by {0}, lasting for {1}s."
+		},
+		"slug": "stonard",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/stonard-iconSmall.webp",
+		"icon_middle": "weapons/stonard-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": "450",
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100021,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020051,
+						"quantity": 5
+					},
+					{
+						"item": 41100022,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020052,
+						"quantity": 7
+					},
+					{
+						"item": 41100023,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020053,
+						"quantity": 5
+					},
+					{
+						"item": 41100023,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 7
+					},
+					{
+						"item": 41100024,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020054,
+						"quantity": 10
+					},
+					{
+						"item": 41100024,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050011",
+		"name": "Training Rectifier",
+		"type": "Rectifier",
+		"rarity": "1",
+		"icon": "weapons/training-rectifier-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"4%"
+				],
+				[
+					"5%"
+				],
+				[
+					"6%"
+				],
+				[
+					"7%"
+				],
+				[
+					"8%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "training-rectifier",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/training-rectifier-iconSmall.webp",
+		"icon_middle": "weapons/training-rectifier-iconMiddle.webp",
+		"stats": null,
+		"atk": "20",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "2.5499999523163",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "1",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 2000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 2
+					},
+					{
+						"item": 41100032,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 2
+					},
+					{
+						"item": 41100033,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 2
+					},
+					{
+						"item": 41100033,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 2
+					},
+					{
+						"item": 41100034,
+						"quantity": 1
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21050012",
+		"name": "Tyro Rectifier",
+		"type": "Rectifier",
+		"rarity": "2",
+		"icon": "weapons/tyro-rectifier-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"5%"
+				],
+				[
+					"6.25%"
+				],
+				[
+					"7.5%"
+				],
+				[
+					"8.75%"
+				],
+				[
+					"10%"
+				]
+			],
+			"description": "Increases ATK by {0}."
+		},
+		"slug": "tyro-rectifier",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/tyro-rectifier-iconSmall.webp",
+		"icon_middle": "weapons/tyro-rectifier-iconMiddle.webp",
+		"stats": null,
+		"atk": "22",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "3.2999999821186",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "2",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 4000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 3
+					},
+					{
+						"item": 41100032,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 3
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 4
+					},
+					{
+						"item": 41100034,
+						"quantity": 2
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 70
+			}
+		]
+	},
+	{
+		"id": "21050013",
+		"name": "Rectifier of Night",
+		"type": "Rectifier",
+		"rarity": "3",
+		"icon": "weapons/rectifier-of-night-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"8%",
+					10
+				],
+				[
+					"10%",
+					10
+				],
+				[
+					"12%",
+					10
+				],
+				[
+					"14%",
+					10
+				],
+				[
+					"16%",
+					10
+				]
+			],
+			"description": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s."
+		},
+		"slug": "rectifier-of-night",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/rectifier-of-night-iconSmall.webp",
+		"icon_middle": "weapons/rectifier-of-night-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "5.4000001400709",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 4
+					},
+					{
+						"item": 41100032,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 5
+					},
+					{
+						"item": 41100034,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050015",
+		"name": "Cosmic Ripples",
+		"type": "Rectifier",
+		"rarity": "5",
+		"icon": "weapons/cosmic-ripples-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12.8%",
+					"3.2%",
+					5,
+					8,
+					0.5,
+					1
+				],
+				[
+					"16%",
+					"4%",
+					5,
+					8,
+					0.5,
+					1
+				],
+				[
+					"19.2%",
+					"4.8%",
+					5,
+					8,
+					0.5,
+					1
+				],
+				[
+					"22.4%",
+					"5.6%",
+					5,
+					8,
+					0.5,
+					1
+				],
+				[
+					"25.6%",
+					"6.4%",
+					5,
+					8,
+					0.5,
+					1
+				]
+			],
+			"description": "Increases Energy Regen by {0}. When dealing Basic Attack DMG, increases Basic Attack DMG Bonus by {1}, stacking up to {2} time(s). This effect lasts for {3}s and can be triggered {5} time(s) every {4}s."
+		},
+		"slug": "cosmic-ripples",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/cosmic-ripples-iconSmall.webp",
+		"icon_middle": "weapons/cosmic-ripples-iconMiddle.webp",
+		"stats": null,
+		"atk": "40",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "11.999999731779",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "5",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 10000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 6
+					},
+					{
+						"item": 41100032,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 20000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 8
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 40000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 6
+					},
+					{
+						"item": 41100033,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 60000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 80000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 12
+					},
+					{
+						"item": 41100034,
+						"quantity": 8
+					},
+					{
+						"item": 2,
+						"quantity": 120000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050016",
+		"name": "Stringmaster",
+		"type": "Rectifier",
+		"rarity": "5",
+		"icon": "weapons/stringmaster-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12%",
+					"12%",
+					2,
+					5,
+					"12%"
+				],
+				[
+					"15%",
+					"15%",
+					2,
+					5,
+					"15%"
+				],
+				[
+					"18%",
+					"18%",
+					2,
+					5,
+					"18%"
+				],
+				[
+					"21%",
+					"21%",
+					2,
+					5,
+					"21%"
+				],
+				[
+					"24%",
+					"24%",
+					2,
+					5,
+					"24%"
+				]
+			],
+			"description": "Grants {0} Attribute DMG Bonus. When dealing Resonance Skill DMG, increases ATK by {1}, stacking up to {2} times. This effect lasts for {3}s. When the equipper is not on the field, increases their ATK by an additional {4}."
+		},
+		"slug": "stringmaster",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/stringmaster-iconSmall.webp",
+		"icon_middle": "weapons/stringmaster-iconMiddle.webp",
+		"stats": null,
+		"atk": "40",
+		"crit": "800",
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "5",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 10000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 6
+					},
+					{
+						"item": 41100032,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 20000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 8
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 40000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 6
+					},
+					{
+						"item": 41100033,
+						"quantity": 6
+					},
+					{
+						"item": 2,
+						"quantity": 60000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 80000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 12
+					},
+					{
+						"item": 41100034,
+						"quantity": 8
+					},
+					{
+						"item": 2,
+						"quantity": 120000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050023",
+		"name": "Originite: Type V",
+		"type": "Rectifier",
+		"rarity": "3",
+		"icon": "weapons/originite-type-v-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"5%",
+					20,
+					1
+				],
+				[
+					"6.25%",
+					20,
+					1
+				],
+				[
+					"7.5%",
+					20,
+					1
+				],
+				[
+					"8.75%",
+					20,
+					1
+				],
+				[
+					"10%",
+					20,
+					1
+				]
+			],
+			"description": "When Intro Skill is cast, heals {0} of the Resonator's Max HP. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "originite-type-v",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/originite-type-v-iconSmall.webp",
+		"icon_middle": "weapons/originite-type-v-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": "6.7500002682209",
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 4
+					},
+					{
+						"item": 41100032,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 5
+					},
+					{
+						"item": 41100034,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050024",
+		"name": "Variation",
+		"type": "Rectifier",
+		"rarity": "4",
+		"icon": "weapons/variation-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				],
+				[
+					14,
+					20,
+					1
+				],
+				[
+					16,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Concerto Energy. This effect can be triggered {2} times every {1}s."
+		},
+		"slug": "variation",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/variation-iconSmall.webp",
+		"icon_middle": "weapons/variation-iconMiddle.webp",
+		"stats": null,
+		"atk": "27",
+		"crit": null,
+		"energy_efficiency": "1152",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050034",
+		"name": "Rectifier#25",
+		"type": "Rectifier",
+		"rarity": "4",
+		"icon": "weapons/rectifier-25-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"60%",
+					"5%",
+					8,
+					1,
+					"60%",
+					"12%",
+					10
+				],
+				[
+					"60%",
+					"6.25%",
+					8,
+					1,
+					"60%",
+					"15%",
+					10
+				],
+				[
+					"60%",
+					"7.5%",
+					8,
+					1,
+					"60%",
+					"18%",
+					10
+				],
+				[
+					"60%",
+					"8.75%",
+					8,
+					1,
+					"60%",
+					"21%",
+					10
+				],
+				[
+					"60%",
+					"10%",
+					8,
+					1,
+					"60%",
+					"24%",
+					10
+				]
+			],
+			"description": "When Resonance Skill is cast, if the Resonator's HP is below {0}, heals {1} of their Max HP.  This effect can be triggered {3} time(s) every {2}s. If the Resonator's HP is above {4}, increases ATK by {5}, lasting for {6}s."
+		},
+		"slug": "rectifier25",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/rectifier-25-iconSmall.webp",
+		"icon_middle": "weapons/rectifier-25-iconMiddle.webp",
+		"stats": null,
+		"atk": "27",
+		"crit": null,
+		"energy_efficiency": "1152",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050043",
+		"name": "Rectifier of Voyager",
+		"type": "Rectifier",
+		"rarity": "3",
+		"icon": "weapons/rectifier-of-voyager-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					8,
+					20,
+					1
+				],
+				[
+					9,
+					20,
+					1
+				],
+				[
+					10,
+					20,
+					1
+				],
+				[
+					11,
+					20,
+					1
+				],
+				[
+					12,
+					20,
+					1
+				]
+			],
+			"description": "When Resonance Skill is cast, restores {0} Resonance Energy. This effect can be triggered {2} time(s) every {1}s."
+		},
+		"slug": "rectifier-of-voyager",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/rectifier-of-voyager-iconSmall.webp",
+		"icon_middle": "weapons/rectifier-of-voyager-iconMiddle.webp",
+		"stats": null,
+		"atk": "24",
+		"crit": null,
+		"energy_efficiency": "720",
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 4
+					},
+					{
+						"item": 41100032,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 5
+					},
+					{
+						"item": 41100034,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050044",
+		"name": "Jinzhou Keeper",
+		"type": "Rectifier",
+		"rarity": "4",
+		"icon": "weapons/jinzhou-keeper-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"8%",
+					"10%",
+					15
+				],
+				[
+					"10%",
+					"12.5%",
+					15
+				],
+				[
+					"12%",
+					"15%",
+					15
+				],
+				[
+					"14%",
+					"17.5%",
+					15
+				],
+				[
+					"16%",
+					"20%",
+					15
+				]
+			],
+			"description": "When Intro Skill is cast, increases the caster's ATK by {0} and HP by {1}, lasting for {2}s."
+		},
+		"slug": "jinzhou-keeper",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/jinzhou-keeper-iconSmall.webp",
+		"icon_middle": "weapons/jinzhou-keeper-iconMiddle.webp",
+		"stats": null,
+		"atk": "31",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "8.1000000238419",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050053",
+		"name": "Guardian Rectifier",
+		"type": "Rectifier",
+		"rarity": "3",
+		"icon": "weapons/guardian-rectifier-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"12%"
+				],
+				[
+					"15%"
+				],
+				[
+					"18%"
+				],
+				[
+					"21%"
+				],
+				[
+					"24%"
+				]
+			],
+			"description": "Increases Basic Attack and Heavy Attack DMG Bonus by {0}."
+		},
+		"slug": "guardian-rectifier",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/guardian-rectifier-iconSmall.webp",
+		"icon_middle": "weapons/guardian-rectifier-iconMiddle.webp",
+		"stats": null,
+		"atk": "26",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": "5.4000001400709",
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "3",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 6000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 4
+					},
+					{
+						"item": 41100032,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 12000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 24000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 4
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 36000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 5
+					},
+					{
+						"item": 41100034,
+						"quantity": 3
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 8
+					},
+					{
+						"item": 41100034,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 72000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050064",
+		"name": "Comet Flare",
+		"type": "Rectifier",
+		"rarity": "4",
+		"icon": "weapons/comet-flare-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"3%",
+					8,
+					3,
+					0.6,
+					1
+				],
+				[
+					"3.5%",
+					8,
+					3,
+					0.6,
+					1
+				],
+				[
+					"4%",
+					8,
+					3,
+					0.6,
+					1
+				],
+				[
+					"4.5%",
+					8,
+					3,
+					0.6,
+					1
+				],
+				[
+					"5%",
+					8,
+					3,
+					0.6,
+					1
+				]
+			],
+			"description": "When dealing Basic Attack DMG or Heavy Attack DMG, increases Healing Bonus by {0}, stacking up to {2} time(s). This effect lasts for {1}s and can be triggered {4} time(s) every {3}s."
+		},
+		"slug": "comet-flare",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/comet-flare-iconSmall.webp",
+		"icon_middle": "weapons/comet-flare-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": null,
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": "6.7500002682209",
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	},
+	{
+		"id": "21050074",
+		"name": "Augment",
+		"type": "Rectifier",
+		"rarity": "4",
+		"icon": "weapons/augment-icon.webp",
+		"maxLevel": "5",
+		"skill": {
+			"params": [
+				[
+					"15%",
+					15
+				],
+				[
+					"23.25%",
+					15
+				],
+				[
+					"31.5%",
+					15
+				],
+				[
+					"39.75%",
+					15
+				],
+				[
+					"48%",
+					15
+				]
+			],
+			"description": "When Resonance Liberation is cast, increases the caster's ATK by {0}, lasting for {1}s."
+		},
+		"slug": "augment",
+		"date_updated": "1720687935",
+		"icon_small": "weapons/augment-iconSmall.webp",
+		"icon_middle": "weapons/augment-iconMiddle.webp",
+		"stats": null,
+		"atk": "33",
+		"crit": "450",
+		"energy_efficiency": null,
+		"green_atk": null,
+		"green_def": null,
+		"green_life_max": null,
+		"crit_damage": null,
+		"level_table_id": "4",
+		"ascensions": [
+			{
+				"cost": [
+					{
+						"item": 41100031,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 8000
+					}
+				],
+				"minLevel": 20
+			},
+			{
+				"cost": [
+					{
+						"item": 43020031,
+						"quantity": 5
+					},
+					{
+						"item": 41100032,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 16000
+					}
+				],
+				"minLevel": 40
+			},
+			{
+				"cost": [
+					{
+						"item": 43020032,
+						"quantity": 7
+					},
+					{
+						"item": 41100033,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 32000
+					}
+				],
+				"minLevel": 50
+			},
+			{
+				"cost": [
+					{
+						"item": 43020033,
+						"quantity": 5
+					},
+					{
+						"item": 41100033,
+						"quantity": 5
+					},
+					{
+						"item": 2,
+						"quantity": 48000
+					}
+				],
+				"minLevel": 60
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 7
+					},
+					{
+						"item": 41100034,
+						"quantity": 4
+					},
+					{
+						"item": 2,
+						"quantity": 64000
+					}
+				],
+				"minLevel": 70
+			},
+			{
+				"cost": [
+					{
+						"item": 43020034,
+						"quantity": 10
+					},
+					{
+						"item": 41100034,
+						"quantity": 7
+					},
+					{
+						"item": 2,
+						"quantity": 96000
+					}
+				],
+				"minLevel": 80
+			},
+			{
+				"cost": [
+					{
+						"item": 2,
+						"quantity": 0
+					}
+				],
+				"minLevel": 90
+			}
+		]
+	}
+]

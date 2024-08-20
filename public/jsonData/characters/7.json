@@ -1,0 +1,906 @@
+{
+	"id": "7",
+	"img": "https://www.prydwen.gg/static/c215e7a42cbfd78f854553f192dc0e4f/b26e2/jiaxin_card.webp",
+	"img2": "https://wutheringwaves.kurogames.com/static4.0/assets/jianxin-super-1d856ae8.jpg",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
+	"name": "Jianxin",
+	"tag": "Aero",
+	"rankings": {
+		"mainDPS": "B",
+		"subDPS": "A",
+		"support": "-",
+		"overall": "A"
+	},
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "June 17th, 2024",
+	"createdAt": "2024-02-18T18:40:06.896Z",
+	"unitId": "18",
+	"devId": 1405,
+	"slug": "jianxin",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#282828",
+					"images": {
+						"fallback": {
+							"src": "/static/251162ecc5fdbc92df13791f0856e040/60b4d/jiaxin_icon.webp",
+							"srcSet": "/static/251162ecc5fdbc92df13791f0856e040/e73fe/jiaxin_icon.webp 40w,\n/static/251162ecc5fdbc92df13791f0856e040/61ca6/jiaxin_icon.webp 80w,\n/static/251162ecc5fdbc92df13791f0856e040/60b4d/jiaxin_icon.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#484848",
+					"images": {
+						"fallback": {
+							"src": "/static/c215e7a42cbfd78f854553f192dc0e4f/b26e2/jiaxin_card.webp",
+							"srcSet": "/static/c215e7a42cbfd78f854553f192dc0e4f/84550/jiaxin_card.webp 94w,\n/static/c215e7a42cbfd78f854553f192dc0e4f/34f80/jiaxin_card.webp 187w,\n/static/c215e7a42cbfd78f854553f192dc0e4f/b26e2/jiaxin_card.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Aero",
+	"weapon": "Gauntlets",
+	"introduction": {
+		"raw": 
+		{
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Jianxin, a Taoist monk and successor of Fengyiquan, has dedicated her life to mastering the ultimate martial art. With the power to harness and transform environmental Chi, she can create protective barriers that purify both body and mind. ",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After casting Intro Skill Essence of Tao, Jianxin gains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" extra \\\"Chi\\\" from Basic Attacks for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Calming Air can be used \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"more time. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After staying in the Parry Stance of Resonance Skill Calming Air for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2.5s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", Resonance Skill Chi Counter becomes immediately available. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When performing Forte Circuit Heavy Attack: Primordial Chi Spiral, Jianxin's Resonance Liberation Purification Force Field damage is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The range of Resonance Liberation Purification Force Field is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"33%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"During Forte Circuit Heavy Attack: Primordial Qi Spiral, if Jianxin performs Pushing Punch, enhanced Resonance Skill Special Chi Counter can be used \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s) in \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Special Chi Counter: Inflicts Aero DMG equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"556.67%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Jianxin's ATK. The damage is regarded as Heavy Attack DMG. Obtain a Zhoutian Progress \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Shield (Influnced by Inherent Skill Reflection's bonus effect.) \",\"marks\":[],\"data\":{}}]}]}"
+		}
+	},
+	"skills": [
+		{
+			"name": "Fengyiquan",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume Stamina to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jianxin consumes Stamina to plunge and unleash a powerful kick, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Part 1 Damage",
+					"Lv1": "34.94%",
+					"Lv2": "37.80%",
+					"Lv3": "40.67%",
+					"Lv4": "44.68%",
+					"Lv5": "47.54%",
+					"Lv6": "50.84%",
+					"Lv7": "55.42%",
+					"Lv8": "60.01%",
+					"Lv9": "64.59%",
+					"Lv10": "69.46%"
+				},
+				{
+					"Name": "Part 2 Damage",
+					"Lv1": "13.40%*2+40.19%",
+					"Lv2": "14.50%*2+43.49%",
+					"Lv3": "15.60%*2+46.78%",
+					"Lv4": "17.14%*2+51.40%",
+					"Lv5": "18.23%*2+54.69%",
+					"Lv6": "19.50%*2+58.48%",
+					"Lv7": "21.26%*2+63.76%",
+					"Lv8": "23.01%*2+69.03%",
+					"Lv9": "24.77%*2+74.30%",
+					"Lv10": "26.64%*2+79.90%"
+				},
+				{
+					"Name": "Part 3 Damage",
+					"Lv1": "21.00%*4",
+					"Lv2": "22.72%*4",
+					"Lv3": "24.44%*4",
+					"Lv4": "26.85%*4",
+					"Lv5": "28.57%*4",
+					"Lv6": "30.55%*4",
+					"Lv7": "33.31%*4",
+					"Lv8": "36.06%*4",
+					"Lv9": "38.82%*4",
+					"Lv10": "41.75%*4"
+				},
+				{
+					"Name": "Part 4 Damage",
+					"Lv1": "57.04%",
+					"Lv2": "61.72%",
+					"Lv3": "66.39%",
+					"Lv4": "72.94%",
+					"Lv5": "77.62%",
+					"Lv6": "83.00%",
+					"Lv7": "90.48%",
+					"Lv8": "97.96%",
+					"Lv9": "105.45%",
+					"Lv10": "113.40%"
+				},
+				{
+					"Name": "Heavy Attack Damage",
+					"Lv1": "63.41%",
+					"Lv2": "68.61%",
+					"Lv3": "73.81%",
+					"Lv4": "81.09%",
+					"Lv5": "86.29%",
+					"Lv6": "92.27%",
+					"Lv7": "100.59%",
+					"Lv8": "108.91%",
+					"Lv9": "117.23%",
+					"Lv10": "126.07%"
+				},
+				{
+					"Name": "Mid-Air Attack Damage",
+					"Lv1": "62.00%",
+					"Lv2": "67.09%",
+					"Lv3": "72.17%",
+					"Lv4": "79.29%",
+					"Lv5": "84.37%",
+					"Lv6": "90.22%",
+					"Lv7": "98.36%",
+					"Lv8": "106.49%",
+					"Lv9": "114.62%",
+					"Lv10": "123.27%"
+				},
+				{
+					"Name": "Dodge Counter Damage",
+					"Lv1": "20.54%*2+82.14%",
+					"Lv2": "22.22%*2+88.87%",
+					"Lv3": "23.91%*2+95.61%",
+					"Lv4": "26.26%*2+105.04%",
+					"Lv5": "27.95%*2+111.77%",
+					"Lv6": "29.88%*2+119.52%",
+					"Lv7": "32.58%*2+130.29%",
+					"Lv8": "35.27%*2+141.07%",
+					"Lv9": "37.96%*2+151.84%",
+					"Lv10": "40.83%*2+163.29%"
+				},
+				{
+					"Name": "Heavy Attack Stamina Consumption",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Mid-Air Attack Stamina Consumption",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Calming Air",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hold Resonance Skill to enter Parry Stance.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Chi Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Jianxin is attacked in the Parry Stance, she does not take damage and immediately performs Chi Counter, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Chi Parry\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Release the Resonance Skill during Parry Stance to interrupt Parry Stance and cast Chi Parry, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Chi Counter Damage",
+					"Lv1": "168.30%",
+					"Lv2": "182.11%",
+					"Lv3": "195.91%",
+					"Lv4": "215.23%",
+					"Lv5": "229.03%",
+					"Lv6": "244.90%",
+					"Lv7": "266.98%",
+					"Lv8": "289.06%",
+					"Lv9": "311.14%",
+					"Lv10": "334.60%"
+				},
+				{
+					"Name": "Chi Parry Damage",
+					"Lv1": "130.14%",
+					"Lv2": "140.81%",
+					"Lv3": "151.48%",
+					"Lv4": "166.42%",
+					"Lv5": "177.09%",
+					"Lv6": "189.36%",
+					"Lv7": "206.44%",
+					"Lv8": "223.51%",
+					"Lv9": "240.59%",
+					"Lv10": "258.73%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "12",
+					"Lv2": "12",
+					"Lv3": "12",
+					"Lv4": "12",
+					"Lv5": "12",
+					"Lv6": "12",
+					"Lv7": "12",
+					"Lv8": "12",
+					"Lv9": "12",
+					"Lv10": "12"
+				},
+				{
+					"Name": "Skill Con. Energy Regen",
+					"Lv1": "8",
+					"Lv2": "8",
+					"Lv3": "8",
+					"Lv4": "8",
+					"Lv5": "8",
+					"Lv6": "8",
+					"Lv7": "8",
+					"Lv8": "8",
+					"Lv9": "8",
+					"Lv10": "8"
+				},
+				{
+					"Name": "Chi Counter Con. Energy Regen",
+					"Lv1": "14",
+					"Lv2": "14",
+					"Lv3": "14",
+					"Lv4": "14",
+					"Lv5": "14",
+					"Lv6": "14",
+					"Lv7": "14",
+					"Lv8": "14",
+					"Lv9": "14",
+					"Lv10": "14"
+				},
+				{
+					"Name": "Chi Parry Con. Energy Regen",
+					"Lv1": "14",
+					"Lv2": "14",
+					"Lv3": "14",
+					"Lv4": "14",
+					"Lv5": "14",
+					"Lv6": "14",
+					"Lv7": "14",
+					"Lv8": "14",
+					"Lv9": "14",
+					"Lv10": "14"
+				}
+			]
+		},
+		{
+			"name": "Purification Force Field",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Creates a strong wind field, continuously pulling targets within the wind field to the center and causing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wind field disappears, it will cause \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to all targets within the range again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Resonance Liberation Continuous Damage",
+					"Lv1": "15.00%",
+					"Lv2": "16.23%",
+					"Lv3": "17.46%",
+					"Lv4": "19.19%",
+					"Lv5": "20.42%",
+					"Lv6": "21.83%",
+					"Lv7": "23.80%",
+					"Lv8": "25.77%",
+					"Lv9": "27.74%",
+					"Lv10": "29.83%"
+				},
+				{
+					"Name": "Resonance Liberation Explosion Damage",
+					"Lv1": "320.00%",
+					"Lv2": "346.24%",
+					"Lv3": "372.48%",
+					"Lv4": "409.22%",
+					"Lv5": "435.46%",
+					"Lv6": "465.64%",
+					"Lv7": "507.62%",
+					"Lv8": "549.60%",
+					"Lv9": "591.59%",
+					"Lv10": "636.20%"
+				},
+				{
+					"Name": "Wind Field Duration",
+					"Lv1": "3.12",
+					"Lv2": "3.12",
+					"Lv3": "3.12",
+					"Lv4": "3.12",
+					"Lv5": "3.12",
+					"Lv6": "3.12",
+					"Lv7": "3.12",
+					"Lv8": "3.12",
+					"Lv9": "3.12",
+					"Lv10": "3.12"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Res. Energy Cost",
+					"Lv1": "150",
+					"Lv2": "150",
+					"Lv3": "150",
+					"Lv4": "150",
+					"Lv5": "150",
+					"Lv6": "150",
+					"Lv7": "150",
+					"Lv8": "150",
+					"Lv9": "150",
+					"Lv10": "150"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				}
+			]
+		},
+		{
+			"name": "Primordial Chi Spiral",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavy Attack: Primordial Chi Spiral\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When \\\"Chi\\\" is stacked to its max, hold Heavy Attack to cast Primordial Chi Spiral and start Zhoutian Progress.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Zhoutian Progress\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jianxin's anti-interruption is increased, and her the damage taken is reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jianxin continuously consumes \\\"Chi\\\" and casts Chi Strike to attack targets nearby, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" As Zhoutian Progress accumulates, Jianxin reaches different Zhoutian and gain effects accordingly. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Before Minor Zhoutian: Gain Zhoutian Progress\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" shield. When Zhoutian Progress is interrupted, cast Pushing Punch to attack the target, dealing\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\" Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Minor Zhoutian: Gain Zhoutian Progress \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"shield and cast Shock to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When Zhoutian Progress is interrupted, cast Yielding Pull to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Major Zhoutian: Inner: Gain Zhoutian Progress \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"shield and cast Shock to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When Zhoutian Progress is interrupted, cast Yielding Pull to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Major Zhoutian: Outer: Gain Zhoutian Progress \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"shield and cast Shock to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When you release Basic Attack button, interrupt Zhoutian Progress and lose all \\\"Chi\\\". When all \\\"Chi\\\" is consumed, end Zhoutian Progress.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Zhoutian Progress ends, regain a shield according to the Zhoutian Progress you reached; As the shield provided by Heavy Attack: Primordial Chi Spiral persists, restore HP for the on-field character once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Chi\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jianxin can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Chi. Chi is obtained when a Normal Attack Fengyiquan hits the target. Chi is obtained when the Resonance Skill Calming Air is cast. Chi is obtained when the Resonance Skill Chi Counter or Resonance Skill Chi Parry hits the target. Chi is obtained when the Intro Skill Essence of Tao hits the target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Pushing Punch Damage",
+					"Lv1": "125.00%",
+					"Lv2": "135.25%",
+					"Lv3": "145.50%",
+					"Lv4": "159.85%",
+					"Lv5": "170.10%",
+					"Lv6": "181.89%",
+					"Lv7": "198.29%",
+					"Lv8": "214.69%",
+					"Lv9": "231.09%",
+					"Lv10": "248.52%"
+				},
+				{
+					"Name": "Zhoutian Progress Continuous Damage",
+					"Lv1": "12.50%",
+					"Lv2": "13.53%",
+					"Lv3": "14.55%",
+					"Lv4": "15.99%",
+					"Lv5": "17.01%",
+					"Lv6": "18.19%",
+					"Lv7": "19.83%",
+					"Lv8": "21.47%",
+					"Lv9": "23.11%",
+					"Lv10": "24.86%"
+				},
+				{
+					"Name": "Minor Zhoutian Shock Damage",
+					"Lv1": "70.00%",
+					"Lv2": "75.74%",
+					"Lv3": "81.48%",
+					"Lv4": "89.52%",
+					"Lv5": "95.26%",
+					"Lv6": "101.86%",
+					"Lv7": "111.05%",
+					"Lv8": "120.23%",
+					"Lv9": "129.41%",
+					"Lv10": "139.17%"
+				},
+				{
+					"Name": "Major Zhoutian: Inner Shock Damage",
+					"Lv1": "190.00%",
+					"Lv2": "205.58%",
+					"Lv3": "221.16%",
+					"Lv4": "242.98%",
+					"Lv5": "258.56%",
+					"Lv6": "276.47%",
+					"Lv7": "301.40%",
+					"Lv8": "326.33%",
+					"Lv9": "351.26%",
+					"Lv10": "377.74%"
+				},
+				{
+					"Name": "Major Zhoutian: Outer Shock Damage",
+					"Lv1": "260.00%",
+					"Lv2": "281.32%",
+					"Lv3": "302.64%",
+					"Lv4": "332.49%",
+					"Lv5": "353.81%",
+					"Lv6": "378.33%",
+					"Lv7": "412.44%",
+					"Lv8": "446.55%",
+					"Lv9": "480.67%",
+					"Lv10": "516.91%"
+				},
+				{
+					"Name": "Yielding Pull Damage",
+					"Lv1": "110.00%",
+					"Lv2": "119.02%",
+					"Lv3": "128.04%",
+					"Lv4": "140.67%",
+					"Lv5": "149.69%",
+					"Lv6": "160.07%",
+					"Lv7": "174.50%",
+					"Lv8": "188.93%",
+					"Lv9": "203.36%",
+					"Lv10": "218.70%"
+				},
+				{
+					"Name": "Incomplete Minor Zhoutian Final Shield",
+					"Lv1": "437+17.06%",
+					"Lv2": "490+17.75%",
+					"Lv3": "546+18.43%",
+					"Lv4": "612+19.45%",
+					"Lv5": "691+20.82%",
+					"Lv6": "765+22.18%",
+					"Lv7": "778+24.74%",
+					"Lv8": "796+27.64%",
+					"Lv9": "809+30.71%",
+					"Lv10": "831+35.83%"
+				},
+				{
+					"Name": "Minor Zhoutian Final Shield",
+					"Lv1": "875+34.13%",
+					"Lv2": "980+35.49%",
+					"Lv3": "1093+36.86%",
+					"Lv4": "1225+38.90%",
+					"Lv5": "1382+41.63%",
+					"Lv6": "1531+44.36%",
+					"Lv7": "1557+49.48%",
+					"Lv8": "1592+55.28%",
+					"Lv9": "1618+61.43%",
+					"Lv10": "1662+71.66%"
+				},
+				{
+					"Name": "Major Zhoutian: Inner Final Shield",
+					"Lv1": "1750+68.25%",
+					"Lv2": "1960+70.98%",
+					"Lv3": "2187+73.71%",
+					"Lv4": "2450+77.81%",
+					"Lv5": "2765+83.27%",
+					"Lv6": "3062+88.73%",
+					"Lv7": "3115+98.96%",
+					"Lv8": "3185+110.57%",
+					"Lv9": "3237+122.85%",
+					"Lv10": "3325+143.33%"
+				},
+				{
+					"Name": "Major Zhoutian: Outer Final Shield",
+					"Lv1": "2915+113.70%",
+					"Lv2": "3265+118.25%",
+					"Lv3": "3644+122.80%",
+					"Lv4": "4081+129.62%",
+					"Lv5": "4606+138.72%",
+					"Lv6": "5102+147.82%",
+					"Lv7": "5189+164.87%",
+					"Lv8": "5306+184.20%",
+					"Lv9": "5393+204.67%",
+					"Lv10": "5539+238.78%"
+				},
+				{
+					"Name": "Shield Healing",
+					"Lv1": "700+27.30%",
+					"Lv2": "784+28.39%",
+					"Lv3": "875+29.48%",
+					"Lv4": "980+31.12%",
+					"Lv5": "1106+33.31%",
+					"Lv6": "1225+35.49%",
+					"Lv7": "1246+39.59%",
+					"Lv8": "1274+44.23%",
+					"Lv9": "1295+49.14%",
+					"Lv10": "1330+57.33%"
+				},
+				{
+					"Name": "Shield Duration",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				},
+				{
+					"Name": "Pushing Punch Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Minor Zhoutian Con. Energy Regen",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				},
+				{
+					"Name": "Major Zhoutian: Inner Con. Energy Regen",
+					"Lv1": "18",
+					"Lv2": "18",
+					"Lv3": "18",
+					"Lv4": "18",
+					"Lv5": "18",
+					"Lv6": "18",
+					"Lv7": "18",
+					"Lv8": "18",
+					"Lv9": "18",
+					"Lv10": "18"
+				},
+				{
+					"Name": "Major Zhoutian: Outer Con. Energy Regen",
+					"Lv1": "23",
+					"Lv2": "23",
+					"Lv3": "23",
+					"Lv4": "23",
+					"Lv5": "23",
+					"Lv6": "23",
+					"Lv7": "23",
+					"Lv8": "23",
+					"Lv9": "23",
+					"Lv10": "23"
+				},
+				{
+					"Name": "Yielding Pull Con. Energy Regen",
+					"Lv1": "7",
+					"Lv2": "7",
+					"Lv3": "7",
+					"Lv4": "7",
+					"Lv5": "7",
+					"Lv6": "7",
+					"Lv7": "7",
+					"Lv8": "7",
+					"Lv9": "7",
+					"Lv10": "7"
+				}
+			]
+		},
+		{
+			"name": "Formless Release",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Damage of Resonance Liberation Purification Force Field is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Reflection",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The shield obtained with Heavy Attack Primordial Chi Spiral is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Essence of Tao",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Pull targets within the range, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Aero DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill Damage",
+					"Lv1": "17.00%*3+34.00%",
+					"Lv2": "18.40%*3+36.79%",
+					"Lv3": "19.79%*3+39.58%",
+					"Lv4": "21.74%*3+43.48%",
+					"Lv5": "23.14%*3+46.27%",
+					"Lv6": "24.74%*3+49.48%",
+					"Lv7": "26.97%*3+53.94%",
+					"Lv8": "29.20%*3+58.40%",
+					"Lv9": "31.43%*3+62.86%",
+					"Lv10": "33.80%*3+67.60%"
+				},
+				{
+					"Name": "Con. Energy Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Transcendence",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The next character (or other characters on a nearby team that activates an Outro Skill) gains\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" 38%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Resonance Liberation DMG Deepen for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"14s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"or until the Character is switched.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jianxin is a 5-star Aero Gauntlet wielder that fits into various roles depending on your need, be it as a Damage Dealer, Hybrid, or most popularly as a Support in endgame content. Despite the diverse choices, the most optimal option is using her as Support which makes ample use of her Ultimate Skill to group up enemies & CC them. This can be followed up quickly by your other characters unloading their AoE skills, making quick work of the enemy, aside from that, she can buff Resonance Liberation damage for the next character by 38% via her Outro Skill. Accordingly, our review will be primarily focused on her role as Support. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jianxin recharges her Forte Gauge with her Basic Attacks, Resonance Skill and Intro Skill. Once full, her next Heavy Attack is enhanced to Primordial Chi Spiral, a channelled ability that is cast over a period of 6 seconds by holding the Heavy Attack button. It will spawn a large ring around her; within this radius she will deal continuous damage. Additionally, it will emit Zhoutian Pulse a total of 3 times during the skill duration, dealing high damage and shielding Jianxin; every consecutive pulse will deal higher damage and deploy a stronger shield. Using this drains her Forte Gauge slowly, gaining her 50% damage reduction and increased anti-interruption. Jianxin being moved, stunned, or grabbed will cause her to disrupt her skill, instantly reducing her Forte Gauge to 0, regardless of duration remaining.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Resonance Skill can be utilized in one of two separate ways. The first is initiated with a quick tap; like standard execution of Resonance Skills; this will launch a quick jab which deals damage while generating Concerto Energy, Resonance Energy and building her Forte Gauge. In the second way, you hold the Resonance Skill allowing her to enter a Parry Stance, which will not only negate the next attack against her but also perform a counter attack, dealing an additional hit. This will deal more damage while generating even more Concerto Energy, Resonance Energy and Forte Gauge.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At the core of her Support playstyle, her Ultimate creates a large vortex that pulls all enemies in a wide radius (excluding Boss and some Elite enemies) into the center, inflicting damage, holding them, and then finally knocking them back, dealing further damage. For the duration, enemies held in the vortex are rendered mostly unable to attack. While leaning on the higher end of energy consumption, this skill allows you to combo with other characters’ AoE skills to deal massive damage to entire groups of clustered enemies. Plus, it generates a good amount of Concerto Energy as an added bonus!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Depending on your preferred playstyle, Jianxin can stay on the field just enough to do some Basic Attacks, keeping her Resonance Skill on CD and using her Echo/Ultimate Skills whenever required. Keep in mind that as a Support character, she brings one of the highest utility Ultimate Skills in the game, in addition to her quick and snappy Basic Attacks & Resonance Skill, altering the way you fight battles. On the other hand, if you prefer her as DPS or Hybrid, her field time requirements can vastly increase in order to use her full gauge Forte Skill every time it’s available.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On the difficulty scale, she’s one of the easier Supports to play, only requiring the player to weave in a few basics here and there, keep her Resonance Skill on cooldown and use her Ultimate and Echo when needed. If players wish to additionally employ her Forte Skill, they can aim for a quick small shield by immediately ending the skill after usage, or using the time for full cast at their discretion. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her preferred choice of set and Echo is none other than the popular combination of Bell-Borne Geochelone Echo & 5P Rejuvenating Glow, which allows her to grant a semi-permanent ATK% boost, temporary DMG% boost and protection from a set number of attacks. However, in order to activate the set effects, Jianxin must use the Originite: Type IV weapon and cycle Basic Attacks once in a while. In case another character is using the above set, Jianxin can make use of the 5P Moonlit Glow and Impermanence Heron Echo combo instead. And of course, if you want her to function as a DPS, you can equip her with a damage increasing set instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, Jianxin is currently utilized as a top tier Support in Tower of Adversity, all thanks to her incredible enemy grouping Ultimate, which allows for quick dispatch of various time consuming monsters while aiming for 3 stars.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"One of the most diverse kits in the game - can perform all roles to some degree\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Operates as a one-woman army in the overworld thanks to her kit having reasonable damage, crazy shields, and self-healing\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can be played as a top tier Support in ToA\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can gather monsters together with her Ultimate, making farming easier and allowing for devastating AoE burst combos in ToA\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has an immunity parry mechanic on her skill which can allow her to completely ignore certain boss mechanics\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Simple to play, especially as a Support\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"An amplification Outro capable of buffing Resonance Liberation damage which can be powerful when played around\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Ultimate and Intro can't pull in bosses or some elite enemies making her signature supportive benefit less valuable on some endgame stages in ToA\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Enemies with large bodies like wolves that, while can be dragged, will not clump up perfectly making AoE less effective\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Her Forte Gauge is incredibly difficult to use properly in endgame, cutting off her access to a large portion of her damage potential and almost all of her shielding and healing\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Must sacrifice her weapon choice when played as a Support in order to activate the 5P healing set consistently\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+	},
+	"voiceActors": {
+		"en": "Ioanna Kimbook",
+		"kr": "Lee Eun Jo",
+		"jpn": "Chika Anzai",
+		"cn": "Yu Zhang"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Aero DMG"
+			},
+			{
+				"stat": "Energy Regen"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Aero DMG"
+			},
+			{
+				"stat": "Energy Regen"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Sierra Gale",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Feilian Beringal"
+			},
+			{
+				"name": "Sierra Gale",
+				"name2": "Endless Resonance",
+				"value": "89.38%",
+				"notes": "",
+				"main_echo": "Feilian Beringal"
+			},
+			{
+				"name": "Sierra Gale",
+				"name2": "Moonlit Clouds",
+				"value": "89.04%",
+				"notes": "",
+				"main_echo": "Feilian Beringal"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "Moonlit Clouds",
+				"value": "87.40%",
+				"notes": "",
+				"main_echo": "Feilian Beringal"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Abyss Surges",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Hollow Mirage",
+			"super": "1",
+			"notes": "",
+			"percent": "81.58%"
+		},
+		{
+			"weapon": "Stonard",
+			"super": "1",
+			"notes": "",
+			"percent": "81.25%"
+		},
+		{
+			"weapon": "Gauntlets#21D",
+			"super": "1",
+			"notes": "",
+			"percent": "78.12%"
+		},
+		{
+			"weapon": "Gauntlets of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "72.88%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Flat ATK > Heavy DMG% > Liberation DMG%",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "CRIT Rate",
+			"value": 8
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": null,
+	"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When played as a support, Jianxin does not require any specific stats outside of Energy Regen in order to perform well. We still recommend a baseline level of survivability but other stats can be selected and prioritized as you see fit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1100+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-40% \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When playing Jianxian as a support her Ultimate is a large part of the benefit she brings to the fight and to have it up in a timely manner we recommend a minimum of 30 - 40% Energy Regen rate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This amount of ER will grant you an ultimate quickly but not on cooldown. If you want it faster, stacking even more is recommended - as a support it doesn't cost Jianxin much to dedicate more of her build toward this. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These recommendations are only for Support Jianxian and when playing DPS her energy needs will be different. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Lanternberry",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Roaring Rock Fist",
+			"number": 46
+		},
+		"skill": {
+			"name": "Unending Destruction",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Howler Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Howler Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Howler Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Howler Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Cadence Seed",
+				"number": 25
+			},
+			{
+				"name": "Cadence Bud",
+				"number": 28
+			},
+			{
+				"name": "Cadence Leaf",
+				"number": 55
+			},
+			{
+				"name": "Cadence Blossom",
+				"number": 67
+			}
+		]
+	},
+	"releaseDate": "2024-05-23",
+	"tierCategory": "Support",
+	"tierTags": [
+		"Shield",
+		"Multirole",
+		"AoE"
+	],
+	"ratings": {
+		"tower": 10
+	},
+	"isNew": null,
+	"upcoming": null
+}

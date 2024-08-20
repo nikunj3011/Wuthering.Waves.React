@@ -1,0 +1,107 @@
+{
+	"id": "22",
+	"img": "https://www.prydwen.gg/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp",
+	"img2": "https://www.prydwen.gg/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"updatedAt": "August 12th, 2024",
+	"createdAt": "2024-07-08T13:11:52.960Z",
+	"unitId": "21",
+	"devId": null,
+	"name": "Xiangli Yao",
+	"slug": "xiangli-yao",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/5781efb6cb37a7c50e147ac8180ef1fa/60b4d/icon_xiang.webp",
+							"srcSet": "/static/5781efb6cb37a7c50e147ac8180ef1fa/e73fe/icon_xiang.webp 40w,\n/static/5781efb6cb37a7c50e147ac8180ef1fa/61ca6/icon_xiang.webp 80w,\n/static/5781efb6cb37a7c50e147ac8180ef1fa/60b4d/icon_xiang.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp",
+							"srcSet": "/static/698d0d5f2ba882de8f3d5494e622e940/84550/card_xiang.webp 94w,\n/static/698d0d5f2ba882de8f3d5494e622e940/34f80/card_xiang.webp 187w,\n/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Electro",
+	"weapon": "Gauntlets",
+	"introduction": {
+		"raw": {
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Huaxu Academy's Principal Investigator, Xiangli Yao, displays exceptional expertise in various research fields despite his young age. He is a gentle yet rational soul, embracing unique insights and commitment to the research of Automata Mechanics.",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": null,
+	"skills": null,
+	"review": null,
+	"pros": null,
+	"cons": null,
+	"voiceActors": {
+		"en": "",
+		"kr": "",
+		"jpn": "",
+		"cn": ""
+	},
+	"buildInfoEcho": null,
+	"buildInfoWeapon": null,
+	"buildInfoOther": null,
+	"attributeBonus": null,
+	"videos": null,
+	"synergies": null,
+	"endgameStats": null,
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": null,
+	"releaseDate": null,
+	"tierCategory": null,
+	"tierTags": null,
+	"ratings": {
+		"tower": 1
+	},
+	"isNew": null,
+	"upcoming": true
+}

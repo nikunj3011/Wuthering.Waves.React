@@ -1,0 +1,103 @@
+{
+	"id": "21",
+	"img": "https://www.prydwen.gg/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp",
+	"img2": "https://www.prydwen.gg/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hl-active-489cf26d.png",
+	"region": "Huanglong",
+	"name": "Zhezhi",
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+	"slug": "zhezhi",
+	"smallImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#382828",
+					"images": {
+						"fallback": {
+							"src": "/static/a3cc6a1c9f8e400a7d70e1254cf03135/60b4d/icon_zhe.webp",
+							"srcSet": "/static/a3cc6a1c9f8e400a7d70e1254cf03135/e73fe/icon_zhe.webp 40w,\n/static/a3cc6a1c9f8e400a7d70e1254cf03135/61ca6/icon_zhe.webp 80w,\n/static/a3cc6a1c9f8e400a7d70e1254cf03135/60b4d/icon_zhe.webp 160w",
+							"sizes": "(min-width: 160px) 160px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 160,
+					"height": 160
+				}
+			}
+		}
+	},
+	"cardImage": {
+		"localFile": {
+			"childImageSharp": {
+				"gatsbyImageData": {
+					"layout": "constrained",
+					"backgroundColor": "#f8f8f8",
+					"images": {
+						"fallback": {
+							"src": "/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp",
+							"srcSet": "/static/50c9470f533efed9b28076e92230308b/84550/card_zhe.webp 94w,\n/static/50c9470f533efed9b28076e92230308b/34f80/card_zhe.webp 187w,\n/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp 374w",
+							"sizes": "(min-width: 374px) 374px, 100vw"
+						},
+						"sources": []
+					},
+					"width": 374,
+					"height": 512
+				}
+			}
+		}
+	},
+	"fullImage": null,
+	"rarity": "5",
+	"element": "Glacio",
+	"weapon": "Rectifier",
+	"introduction": {
+		"raw": {
+			"data": {},
+			"content": [
+				{
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"marks": [],
+							"value": "Zhezhi is a commissioned painter, quiet and shy with a dedication to her craft. She's not very eloquent, but her persistence and love for painting speak volumes.",
+							"nodeType": "text"
+						}
+					],
+					"nodeType": "paragraph"
+				}
+			],
+			"nodeType": "document"
+		}
+	},
+	"dupes": null,
+	"skills": null,
+	"review": null,
+	"pros": null,
+	"cons": null,
+	"voiceActors": {
+		"en": "",
+		"kr": "",
+		"jpn": "",
+		"cn": ""
+	},
+	"buildInfoEcho": null,
+	"buildInfoWeapon": null,
+	"buildInfoOther": null,
+	"attributeBonus": null,
+	"videos": null,
+	"synergies": null,
+	"endgameStats": null,
+	"statsInfo": null,
+	"howToPlay": null,
+	"ascensionMaterials": null,
+	"releaseDate": null,
+	"tierCategory": null,
+	"tierTags": null,
+	"ratings": {
+		"tower": 1
+	},
+	"isNew": null,
+	"upcoming": true
+}
