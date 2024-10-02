@@ -64,8 +64,7 @@
 		"element": "Aero",
 		"weapon": "Pistols",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -618,7 +617,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AERO\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-40%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aalto's ultimate is essential for achieving his optimal Concerto rotation as such we recommend getting 30-40% Energy Regen so he'll have it every time you need it. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -754,8 +774,7 @@
 		"element": "Glacio",
 		"weapon": "Rectifier",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -1301,7 +1320,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"23000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-110%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Baizhi does not generate much Resonance Energy of her own but has an ultimate that speeds up her concerto generation and heals the team a moderate amount making it desirable to acquire whenever possible. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The result of this is that Baizhi relies on her team generating much of the energy she needs through the 50% team-wide energy share, however, she still needs a tremendous amount of ER even with that to achieve the 175 energy cost of the ultimate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To meet this cost we recommend getting as much energy regeneration as possible on gear, with \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-110%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" being a comfortable amount to access the ultimate quickly. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -1437,8 +1477,7 @@
 		"element": "Electro",
 		"weapon": "Broadblade",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -2195,7 +2234,28 @@
 				"video": "_DEtN5owkWc"
 			}
 		],
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Minimum): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Calcharo is a skill-based character and a good chunk of his energy generation is gated behind executing combos with long sequences. If you're confident in completing his warm-up phases and triple Death Messenger combo without issue go with this range of energy. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Conservative): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - If you're less confident in executing Calcharo's combo or warm-up phase without messing up and or want to skip a portion of his combo or warm-up phase stick with this range of energy instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -2336,8 +2396,7 @@
 		"element": "Fusion",
 		"weapon": "Pistols",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -2884,7 +2943,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"13500+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"35-45%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Chixia has one of the most expensive damage-focused ultimates in the game - costing a whopping 150. She is also on the lower end when it comes to Resonance Energy generation, meaning she needs quite a bit of help from her team and the energy regeneration stat. To ensure she has access to her Ultimate at S0 each rotation we recommend at least 35-45% energy regeneration. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While Chixia's ultimate isn't essential for her to function it is a massive part of her damage profile, meaning playing without it will hinder your output considerably but isn't a complete deal breaker. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -3020,8 +3100,7 @@
 		"element": "Havoc",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -3645,7 +3724,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HAVOC DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Danjin does not require any Energy Regen in order to function and it's not specifically recommended for her build, but if you can gain some without it costing you, having more frequent Ultimates will lead to more total damage in fights \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -3786,8 +3886,7 @@
 		"element": "Fusion",
 		"weapon": "Rectifier",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -4497,7 +4596,28 @@
 				"video": "QuCZ1gL4cbY"
 			}
 		],
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1800-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"How much Energy Regen you'll need on Encore will depend on how you plan to play her - specifically how frequently you plan to make use of her Ultimate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the Quick Swap teams, Encore's ultimate is not the focus of her value so you can run minimal or even no Energy Regen and get away with it (\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0-20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When playing Encore with a focus on her Ultimate in Hyper Carry teams where much of your damage is dealt during its duration aim for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15-25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy Regen as a conservative estimate - although you may find yourself able to get away with less. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -4634,8 +4754,7 @@
 		"element": "Aero",
 		"weapon": "Gauntlets",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -5402,7 +5521,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When played as a support, Jianxin does not require any specific stats outside of Energy Regen in order to perform well. We still recommend a baseline level of survivability but other stats can be selected and prioritized as you see fit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1100+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-40% \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When playing Jianxian as a support her Ultimate is a large part of the benefit she brings to the fight and to have it up in a timely manner we recommend a minimum of 30 - 40% Energy Regen rate. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This amount of ER will grant you an ultimate quickly but not on cooldown. If you want it faster, stacking even more is recommended - as a support it doesn't cost Jianxin much to dedicate more of her build toward this. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These recommendations are only for Support Jianxian and when playing DPS her energy needs will be different. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -5540,8 +5680,7 @@
 		"element": "Aero",
 		"weapon": "Broadblade",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -6173,7 +6312,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AERO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Minimum): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15-25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Jiyan is a character that lives or dies by his ultimate and not having it up at the right opportunity can mean tanking his DPS into the floor. Having said that, you can get away with running less Energy Regeneration on him. If you're comfortable in fully landing the majority of your entire burst combo, your echo, AND landing a minimum of 1 (but ideally 2) skills in the warm-up phase go for this energy recharge range. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration (Conservative): \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25-40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - If you want some insurance for when a portion of your burst doesn't hit due to a boss dodging or flying away and or you're not confident in consistently hitting your Echo or 1-2 skills in the warm-up phase go for this energy recharge range instead. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -6314,8 +6474,7 @@
 		"element": "Glacio",
 		"weapon": "Gauntlets",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -6936,7 +7095,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"ATK: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2000-2600+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"HP: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15000+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"DEF: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1200+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"GLACIO DMG%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"42%-72%+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT RATE%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50-70%+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT DMG% \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100-140%+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Energy Regeneration (Minimum): \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10-25%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Lingyang only has one mode of play and that is going all in on his ultimate burst window with little to no warm-up needed. To make this work, getting the appropriate amount of Energy Regen is essential. How much you'll need will vary from team to team and depending on which main Echo you opt to use, but we recommend 10-25% just to be safe,\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"If you find your Lingyang missing out on your ultimate, you may need a bit more - or to reassess your team comp, echo choice, or rotations. \",\"marks\":[],\"data\":{}}]}]}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
 		},
@@ -7073,8 +7253,7 @@
 		"element": "Fusion",
 		"weapon": "Pistols",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -7611,7 +7790,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1100+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"42%-72%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -7767,8 +7967,7 @@
 		"element": "Spectro",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"nodeType": "document",
 				"data": {},
 				"content": [
@@ -8353,7 +8552,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2300+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(72-102% with Sequence 2) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-60%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-120%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(0-5% with Sequence 4) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -8491,8 +8711,7 @@
 		"element": "Glacio",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -9124,7 +9343,28 @@
 				"video": "2WlnsfujK_A"
 			}
 		],
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1700-2000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"950+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"GLACIO\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"42%-72%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -9261,8 +9501,7 @@
 		"element": "Havoc",
 		"weapon": "Broadblade",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -9844,7 +10083,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"13000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1800+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30-60%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The amount of ER Taoqi needs is dependent on how much field time you plan on dedicating to her. If you intend to rely on her Resonance Skill for the majority of her energy neglecting the rest of her kit we recommend using the higher end of ER recommended or even more than it. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you plan on making use of Taoqi's skill and her Forte Gauge combo as well you can build less. Aim for the following range of energy regeneration on Taoqi or more 30-60%+. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -9982,8 +10242,7 @@
 		"element": "Spectro",
 		"weapon": "Rectifier",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -10620,7 +10879,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70-90%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina generates a reasonable amount of resonance energy of her own but has an ultimate that costs a staggering 175 energy meaning she relies on the team-wide 50% energy share and a large amount of ER to gain her ultimate in a timely manner. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Verina's Ultimate is important for Concerto generation and also has excellent team healing benefits making it worth building around. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To ensure the ultimate is available in a timely manner we recommend as much ER as possible on Verina with \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70-90%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" being a comfortable amount. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -10763,8 +11043,7 @@
 		"element": "Aero",
 		"weapon": "Sword",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -11279,7 +11558,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yangyang doesn't \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"need\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"any energy generation rate\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to have her ultimate available enough for most teams to make use of her concerto effect when they need it. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"But if you're playing Yangyang in teams that want to use her ultimate on cooldown or want to dedicate less field time to her perhaps only using her skill and Forte aerial plunge building some energy regeneation rate can assist with both of these. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -11416,8 +11716,7 @@
 		"element": "Electro",
 		"weapon": "Rectifier",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -12012,7 +12311,28 @@
 				"video": "TUrvbAewrMs"
 			}
 		],
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15500+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1250+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"42%-72%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20-30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yinlin's Ultimate is a major part of her damage and an incredibly helpful tool for quickly applying her Sinner's Mark to multiple enemies at once after a quick swap. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This makes her Forte Chameleon Cipher which aims to convert Sinner's Marks to Punishment Mark much easier to use - with a higher chance to apply the Punishment Mark to many more enemies at once. Without combining these two you'll have to rely on Yinlin's basics and skills to mark enemies before using her Forte. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Due to these interactions getting enough Energy Regeneration is important. We recommend \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20-30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to comfortably have your ultimate available in a timely manner for damage and applying Sinner's Mark in cases you need them. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -12150,8 +12470,7 @@
 		"element": "Electro",
 		"weapon": "Gauntlets",
 		"introduction": {
-			"raw": 
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -12849,7 +13168,28 @@
 			}
 		},
 		"videos": null,
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"13000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2800-4000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-70%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-140%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25-35%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A large portion of Yuanwu's potential damage and supportive capabilities on top of Concerto generation comes from his ultimate so gaining access to it preferably on cooldown is incredibly important. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To ensure you have it up in a timely manner we recommend \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25-35% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Energy Regen but depending on your chosen team composition and the enemy you're fighting, you may want to invest into the stat more. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -13005,8 +13345,7 @@
 		"element": "Havoc",
 		"weapon": "Sword",
 		"introduction": {
-			"raw":
-			{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -13692,7 +14031,28 @@
 				"video": "UrnsviS6EFw"
 			}
 		],
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1900-2300+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HAVOC DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"52%-82%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0-20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"How much energy regeneration you'll want on your S2+ Havoc Rover will depend on how you intend to play them. The longer you keep Rover on the field during their Umbra State, basic attacking the less energy regeneration you'll need. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you intend to play Havoc Rover as a Hyper Carry or have them on-field during Umbra for 2 or more full basic attack sequences you can get away with 0 - 10% Energy regeneration and have access to your ultimate during each Umbra burst window when played correctly. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you plan to play Havoc Rover as a Quick Swap damage dealer completing 1 or 0 full basic attack sequences during Umbra we recommend 10 - 20% Energy Regeneration. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It should be noted in all playstyles of Havoc Rover energy regeneration is never undesirable as their Ultimate has a fairly short cooldown and is always an excellent on-demand nuke so gaining access to it faster is never a bad thing - just a lesser priority than damage-focused stats. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -13828,7 +14188,7 @@
 		"element": "Fusion",
 		"weapon": "Sword",
 		"introduction": {
-			"raw":	{
+			"raw": {
 				"data": {},
 				"content": [
 					{
@@ -14444,7 +14804,28 @@
 				"video": "iDV_VMiV1Dc"
 			}
 		],
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1800-2400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15500+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"FUSION DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%-70%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60-75%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Changli's Ultimate is an important part of her damage and something you definitely want to have available right at the point of her rotation where she has 0 Enflamement charges. The reason for this is that her Ultimate grants her maximum Enflamement charges meaning - gaining the Ultimate late will delay your usual rotation or lead to you wasting Enflamement charges neither of which are ideal. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For this reason, it's recommended you build roughly \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy Regen on Changli, but you can get away with 0% depending on the team you pair her with and how much field time you dedicate to other characters. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you find yourself missing Changli's Ultimate window and end up wasting Enflamement try to get a little more Energy Regen or mix up your team comps. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
 		},
@@ -15336,7 +15717,28 @@
 				"video": "u8S130y-ois"
 			}
 		],
-		"synergies": [{"char": "Yinlin", "id":"19", "img":""}, {"char": "Encore", "id":"19", "img":""}, {"char": "Verina", "id":"19", "img":""}, {"char": "Rover(Havoc)", "id":"19", "img":""}],
+		"synergies": [
+			{
+				"char": "Yinlin",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Encore",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Verina",
+				"id": "19",
+				"img": ""
+			},
+			{
+				"char": "Rover(Havoc)",
+				"id": "19",
+				"img": ""
+			}
+		],
 		"endgameStats": {
 			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"ATK: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2000-2400+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"HP: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15000+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"DEF: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1250+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"SPECTRO DMG%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"60%-90% (including Inherent skill)\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT RATE%: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"55-75%+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"CRIT DMG% \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"110-150%+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Energy Regeneration: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"0-35% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Jinhsi's ultimate is not essential to her rotation but it does deal an absurd amount of damage making it desirable to implement in her rotations. \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Unfortunately, it costs 150 Resonance Energy - that combined with Jinshi's incredibly fast and frequent rotations means you won't be gaining access to this ultimate every single rotation even with obscene amounts of Energy Regeneration. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Instead of every rotation, it's best to aim for an ultimate cast every second rotation in most cases. How much energy regen you'll need in order to achieve this varies from team to team and also how you play that team. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Pairing Jinhsi with teammates who spend more time on the field or generate more energy of their own will reduce her requirements with the opposite causing her to need more. As a general guide you can expect to need anywhere between \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"0 - 35%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Energy Regen but erring on the higher side will ensure it. Teammates like Yuanwu who use minimal field time will require more whereas teammates like Yinlin who use more will require less.\",\"marks\":[],\"data\":{}}]}]}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
 		},
@@ -15588,34 +15990,1499 @@
 				"nodeType": "document"
 			}
 		},
-		"dupes": null,
-		"skills": null,
-		"review": null,
-		"pros": null,
-		"cons": null,
+		"dupes": {
+			"dupe1": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Law of Reigns additionally launches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Convolution Matrices at enemies, each dealing Resonance Liberation DMG equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the skill's DMG Multiplier. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe2": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Resonance Skill or Resonance Liberation Cogitation Model increases Crit. DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe3": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Resonance Liberation Cogitation Model increases the DMG of the following Resonance Skill moves by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 63% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Decipher, Deduction, Divergence, and Law of Reigns. This effect can be triggered up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" times. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe4": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Resonance Liberation Cogitation Model grants a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"DMG Bonus to all team members' Resonance Liberation for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe5": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG Multiplier of Outro Skill Chain Rule is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"222%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". The DMG Multiplier of Resonance Liberation Cogitation Model is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe6": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Hypercubes obtained from Resonance Liberation Cogitation Model are enhanced, increasing the DMG Multiplier of Resonance Skill Law of Reigns by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"76%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			}
+		},
+		"skills": [
+			{
+				"name": "Probe",
+				"category": "Active",
+				"type": "Basic Attack",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform a charged attack at the cost of STA, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform a Plunging Attack from mid-air at the cost of STA, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Stage 1 DMG",
+						"Lv1": "16.65%*2",
+						"Lv2": "18.02%*2",
+						"Lv3": "19.39%*2",
+						"Lv4": "21.30%*2",
+						"Lv5": "22.66%*2",
+						"Lv6": "24.23%*2",
+						"Lv7": "26.42%*2",
+						"Lv8": "28.60%*2",
+						"Lv9": "30.79%*2",
+						"Lv10": "33.11%*2"
+					},
+					{
+						"Name": "Stage 2 DMG",
+						"Lv1": "50.10%",
+						"Lv2": "54.21%",
+						"Lv3": "58.32%",
+						"Lv4": "64.07%",
+						"Lv5": "68.18%",
+						"Lv6": "72.91%",
+						"Lv7": "79.48%",
+						"Lv8": "86.05%",
+						"Lv9": "92.62%",
+						"Lv10": "99.61%"
+					},
+					{
+						"Name": "Stage 3 DMG",
+						"Lv1": "20.00%*3",
+						"Lv2": "21.64%*3",
+						"Lv3": "23.28%*3",
+						"Lv4": "25.58%*3",
+						"Lv5": "27.22%*3",
+						"Lv6": "29.10%*3",
+						"Lv7": "31.73%*3",
+						"Lv8": "34.35%*3",
+						"Lv9": "36.98%*3",
+						"Lv10": "39.76%*3"
+					},
+					{
+						"Name": "Stage 4 DMG",
+						"Lv1": "26.68%*2 + 13.34%",
+						"Lv2": "28.87%*2 + 14.44%",
+						"Lv3": "31.06%*2 + 15.53%",
+						"Lv4": "34.12%*2 + 17.06%",
+						"Lv5": "36.31%*2 + 18.16%",
+						"Lv6": "38.83%*2 + 19.42%",
+						"Lv7": "42.33%*2 + 21.17%",
+						"Lv8": "45.83%*2 + 22.92%",
+						"Lv9": "49.33%*2 + 24.67%",
+						"Lv10": "53.05%*2 + 26.53%"
+					},
+					{
+						"Name": "Stage 5 DMG",
+						"Lv1": "100.00%",
+						"Lv2": "108.20%",
+						"Lv3": "116.40%",
+						"Lv4": "127.88%",
+						"Lv5": "136.08%",
+						"Lv6": "145.51%",
+						"Lv7": "158.63%",
+						"Lv8": "171.75%",
+						"Lv9": "184.87%",
+						"Lv10": "198.81%"
+					},
+					{
+						"Name": "HA DMG",
+						"Lv1": "41.65%*2",
+						"Lv2": "45.07%*2",
+						"Lv3": "48.49%*2",
+						"Lv4": "53.27%*2",
+						"Lv5": "56.68%*2",
+						"Lv6": "60.61%*2",
+						"Lv7": "66.07%*2",
+						"Lv8": "71.54%*2",
+						"Lv9": "77.00%*2",
+						"Lv10": "82.81%*2"
+					},
+					{
+						"Name": "Mid-air Attack DMG",
+						"Lv1": "62.00%",
+						"Lv2": "67.09%",
+						"Lv3": "72.17%",
+						"Lv4": "79.29%",
+						"Lv5": "84.37%",
+						"Lv6": "90.22%",
+						"Lv7": "98.36%",
+						"Lv8": "106.49%",
+						"Lv9": "114.62%",
+						"Lv10": "123.27%"
+					},
+					{
+						"Name": "Dodge Counter DMG",
+						"Lv1": "120.00%",
+						"Lv2": "129.84%",
+						"Lv3": "139.68%",
+						"Lv4": "153.46%",
+						"Lv5": "163.30%",
+						"Lv6": "174.62%",
+						"Lv7": "190.36%",
+						"Lv8": "206.10%",
+						"Lv9": "221.85%",
+						"Lv10": "238.58%"
+					},
+					{
+						"Name": "HA STA Cost",
+						"Lv1": "25",
+						"Lv2": "25",
+						"Lv3": "25",
+						"Lv4": "25",
+						"Lv5": "25",
+						"Lv6": "25",
+						"Lv7": "25",
+						"Lv8": "25",
+						"Lv9": "25",
+						"Lv10": "25"
+					},
+					{
+						"Name": "Mid-air Attack STA Cost",
+						"Lv1": "30",
+						"Lv2": "30",
+						"Lv3": "30",
+						"Lv4": "30",
+						"Lv5": "30",
+						"Lv6": "30",
+						"Lv7": "30",
+						"Lv8": "30",
+						"Lv9": "30",
+						"Lv10": "30"
+					}
+				]
+			},
+			{
+				"name": "Deduction",
+				"category": "Active",
+				"type": "Resonance Skill",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Skill DMG",
+						"Lv1": "100.00%",
+						"Lv2": "108.20%",
+						"Lv3": "116.40%",
+						"Lv4": "127.88%",
+						"Lv5": "136.08%",
+						"Lv6": "145.51%",
+						"Lv7": "158.63%",
+						"Lv8": "171.75%",
+						"Lv9": "184.87%",
+						"Lv10": "198.81%"
+					},
+					{
+						"Name": "Cooldown",
+						"Lv1": "5",
+						"Lv2": "5",
+						"Lv3": "5",
+						"Lv4": "5",
+						"Lv5": "5",
+						"Lv6": "5",
+						"Lv7": "5",
+						"Lv8": "5",
+						"Lv9": "5",
+						"Lv10": "5"
+					},
+					{
+						"Name": "Concerto Regen",
+						"Lv1": "7",
+						"Lv2": "7",
+						"Lv3": "7",
+						"Lv4": "7",
+						"Lv5": "7",
+						"Lv6": "7",
+						"Lv7": "7",
+						"Lv8": "7",
+						"Lv9": "7",
+						"Lv10": "7"
+					}
+				]
+			},
+			{
+				"name": "Cogitation Model",
+				"category": "Active",
+				"type": "Resonance Liberation",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Enter Intuition.\\nWhen in Intuition:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Hypercube(s). Each time Resonance Skill Law of Reigns is cast, consume \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Hypercube(s). Intuition ends once all Hypercubes are consumed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack and Heavy Attack are replaced with Basic Attack Pivot - Impale, which performs up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Deduction is replaced with Resonance Skill Divergence, which deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter is replaced with Dodge Counter Unfathomed, considered as Resonance Liberation DMG. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Cogitation Model DMG",
+						"Lv1": "737.42%",
+						"Lv2": "797.89%",
+						"Lv3": "858.35%",
+						"Lv4": "943.01%",
+						"Lv5": "1003.48%",
+						"Lv6": "1073.02%",
+						"Lv7": "1169.76%",
+						"Lv8": "1266.51%",
+						"Lv9": "1363.26%",
+						"Lv10": "1466.06%"
+					},
+					{
+						"Name": "Pivot - Impale Stage 1 DMG",
+						"Lv1": "60.19%",
+						"Lv2": "65.13%",
+						"Lv3": "70.06%",
+						"Lv4": "76.97%",
+						"Lv5": "81.91%",
+						"Lv6": "87.59%",
+						"Lv7": "95.48%",
+						"Lv8": "103.38%",
+						"Lv9": "111.28%",
+						"Lv10": "119.67%"
+					},
+					{
+						"Name": "Pivot - Impale Stage 2 DMG",
+						"Lv1": "30.65%*4",
+						"Lv2": "33.16%*4",
+						"Lv3": "35.67%*4",
+						"Lv4": "39.19%*4",
+						"Lv5": "41.70%*4",
+						"Lv6": "44.59%*4",
+						"Lv7": "48.61%*4",
+						"Lv8": "52.63%*4",
+						"Lv9": "56.65%*4",
+						"Lv10": "60.92%*4"
+					},
+					{
+						"Name": "Pivot - Impale Stage 3 DMG",
+						"Lv1": "67.03%*2",
+						"Lv2": "72.52%*2",
+						"Lv3": "78.02%*2",
+						"Lv4": "85.71%*2",
+						"Lv5": "91.21%*2",
+						"Lv6": "97.53%*2",
+						"Lv7": "106.32%*2",
+						"Lv8": "115.12%*2",
+						"Lv9": "123.91%*2",
+						"Lv10": "133.25%*2"
+					},
+					{
+						"Name": "Divergence DMG",
+						"Lv1": "24.94%*3 + 87.29%*2",
+						"Lv2": "26.99%*3 + 94.45%*2",
+						"Lv3": "29.04%*3 + 101.61%*2",
+						"Lv4": "31.90%*3 + 111.63%*2",
+						"Lv5": "33.94%*3 + 118.79%*2",
+						"Lv6": "36.30%*3 + 127.02%*2",
+						"Lv7": "39.57%*3 + 138.47%*2",
+						"Lv8": "42.84%*3 + 149.93%*2",
+						"Lv9": "46.11%*3 + 161.38%*2",
+						"Lv10": "49.59%*3 + 173.55%*2"
+					},
+					{
+						"Name": "Unfathomed DMG",
+						"Lv1": "19.53%*2 + 156.22%",
+						"Lv2": "21.13%*2 + 169.03%",
+						"Lv3": "22.73%*2 + 181.84%",
+						"Lv4": "24.98%*2 + 199.77%",
+						"Lv5": "26.58%*2 + 212.58%",
+						"Lv6": "28.42%*2 + 227.31%",
+						"Lv7": "30.98%*2 + 247.81%",
+						"Lv8": "33.54%*2 + 268.30%",
+						"Lv9": "36.10%*2 + 288.80%",
+						"Lv10": "38.83%*2 + 310.58%"
+					},
+					{
+						"Name": "Intuition Duration",
+						"Lv1": "24",
+						"Lv2": "24",
+						"Lv3": "24",
+						"Lv4": "24",
+						"Lv5": "24",
+						"Lv6": "24",
+						"Lv7": "24",
+						"Lv8": "24",
+						"Lv9": "24",
+						"Lv10": "24"
+					},
+					{
+						"Name": "Cogitation Model Cooldown",
+						"Lv1": "25",
+						"Lv2": "25",
+						"Lv3": "25",
+						"Lv4": "25",
+						"Lv5": "25",
+						"Lv6": "25",
+						"Lv7": "25",
+						"Lv8": "25",
+						"Lv9": "25",
+						"Lv10": "25"
+					},
+					{
+						"Name": "Divergence Cooldown",
+						"Lv1": "7",
+						"Lv2": "7",
+						"Lv3": "7",
+						"Lv4": "7",
+						"Lv5": "7",
+						"Lv6": "7",
+						"Lv7": "7",
+						"Lv8": "7",
+						"Lv9": "7",
+						"Lv10": "7"
+					},
+					{
+						"Name": "Resonance Cost",
+						"Lv1": "125",
+						"Lv2": "125",
+						"Lv3": "125",
+						"Lv4": "125",
+						"Lv5": "125",
+						"Lv6": "125",
+						"Lv7": "125",
+						"Lv8": "125",
+						"Lv9": "125",
+						"Lv10": "125"
+					},
+					{
+						"Name": "Cogitation Model Concerto Regen",
+						"Lv1": "20",
+						"Lv2": "20",
+						"Lv3": "20",
+						"Lv4": "20",
+						"Lv5": "20",
+						"Lv6": "20",
+						"Lv7": "20",
+						"Lv8": "20",
+						"Lv9": "20",
+						"Lv10": "20"
+					},
+					{
+						"Name": "Divergence Concerto Regen",
+						"Lv1": "10",
+						"Lv2": "10",
+						"Lv3": "10",
+						"Lv4": "10",
+						"Lv5": "10",
+						"Lv6": "10",
+						"Lv7": "10",
+						"Lv8": "10",
+						"Lv9": "10",
+						"Lv10": "10"
+					}
+				]
+			},
+			{
+				"name": "Forever Seeking",
+				"category": "Forte Circuit",
+				"type": "Forte Circuit",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Resonance Skill - Decipher\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Capacity reaches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", Resonance Skill Deduction is replaced with Resonance Skill Decipher.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Capacity to cast Resonance Skill Decipher, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Liberation DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Resonance Skill - Law of Reigns\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in Intuition triggered by Resonance Liberation and Performance Capacity reaches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", Resonance Skill Divergence is replaced with Resonance Skill Law of Reigns.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Performance Capacity to cast Resonance Skill Law of Reigns, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Liberation DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Attack - Revamp\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shortly after casting Resonance Skill Decipher or Resonance Skill Divergence, use Basic Attack to perform Mid-air Attack Revamp at the cost of STA, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Liberation DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Capacity\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Capacity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Every Normal Attack Probe on hit grants Capacity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Every Resonance Skill Deduction on hit grants Capacity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Performance Capacity\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in Intuition triggered by Resonance Liberation:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity when Stage 1 of Basic Attack Pivot - Impale hits a target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity when Stage 2 or 3 of Basic Attack Pivot - Impale hits a target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Performance Capacity for every Resonance Skill Divergence on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity for every Mid-air Attack Revamp on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity for every Dodge Counter Unfathomed on hit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Decipher DMG",
+						"Lv1": "200.10%",
+						"Lv2": "216.51%",
+						"Lv3": "232.92%",
+						"Lv4": "255.89%",
+						"Lv5": "272.30%",
+						"Lv6": "291.17%",
+						"Lv7": "317.42%",
+						"Lv8": "343.68%",
+						"Lv9": "369.93%",
+						"Lv10": "397.82%"
+					},
+					{
+						"Name": "Law of Reigns DMG",
+						"Lv1": "48.15%*4 + 128.40%",
+						"Lv2": "52.10%*4 + 138.93%",
+						"Lv3": "56.05%*4 + 149.46%",
+						"Lv4": "61.58%*4 + 164.20%",
+						"Lv5": "65.53%*4 + 174.73%",
+						"Lv6": "70.07%*4 + 186.84%",
+						"Lv7": "76.39%*4 + 203.69%",
+						"Lv8": "82.70%*4 + 220.53%",
+						"Lv9": "89.02%*4 + 237.38%",
+						"Lv10": "95.73%*4 + 255.28%"
+					},
+					{
+						"Name": "Revamp DMG",
+						"Lv1": "11.00%*4 + 33.00%*2",
+						"Lv2": "11.91%*4 + 35.71%*2",
+						"Lv3": "12.81%*4 + 38.42%*2",
+						"Lv4": "14.07%*4 + 42.21%*2",
+						"Lv5": "14.97%*4 + 44.91%*2",
+						"Lv6": "16.01%*4 + 48.02%*2",
+						"Lv7": "17.45%*4 + 52.35%*2",
+						"Lv8": "18.90%*4 + 56.68%*2",
+						"Lv9": "20.34%*4 + 61.01%*2",
+						"Lv10": "21.87%*4 + 65.61%*2"
+					},
+					{
+						"Name": "Revamp STA Cost",
+						"Lv1": "30",
+						"Lv2": "30",
+						"Lv3": "30",
+						"Lv4": "30",
+						"Lv5": "30",
+						"Lv6": "30",
+						"Lv7": "30",
+						"Lv8": "30",
+						"Lv9": "30",
+						"Lv10": "30"
+					},
+					{
+						"Name": "Decipher Concerto Regen",
+						"Lv1": "7",
+						"Lv2": "7",
+						"Lv3": "7",
+						"Lv4": "7",
+						"Lv5": "7",
+						"Lv6": "7",
+						"Lv7": "7",
+						"Lv8": "7",
+						"Lv9": "7",
+						"Lv10": "7"
+					},
+					{
+						"Name": "Law of Reigns Concerto Regen",
+						"Lv1": "10",
+						"Lv2": "10",
+						"Lv3": "10",
+						"Lv4": "10",
+						"Lv5": "10",
+						"Lv6": "10",
+						"Lv7": "10",
+						"Lv8": "10",
+						"Lv9": "10",
+						"Lv10": "10"
+					},
+					{
+						"Name": "Revamp Concerto Regen",
+						"Lv1": "5",
+						"Lv2": "5",
+						"Lv3": "5",
+						"Lv4": "5",
+						"Lv5": "5",
+						"Lv6": "5",
+						"Lv7": "5",
+						"Lv8": "5",
+						"Lv9": "5",
+						"Lv10": "5"
+					}
+				]
+			},
+			{
+				"name": "Knowing",
+				"category": "Inherent",
+				"type": "Inherent Skill",
+				"description": {
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Gain \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Electro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Bonus after casting Resonance Skill for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", stackable for up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"times.\",\"marks\":[],\"data\":{}}]}]}"
+				},
+				"multipliers": null
+			},
+			{
+				"name": "Focus",
+				"category": "Inherent",
+				"type": "Inherent Skill",
+				"description": {
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When in Intuition triggered by Resonance Liberation, Xiangli Yao's resistance to interruption is enhanced.\",\"marks\":[],\"data\":{}}]}]}"
+				},
+				"multipliers": null
+			},
+			{
+				"name": "Principle",
+				"category": "Transition",
+				"type": "Intro Skill",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Skill DMG",
+						"Lv1": "50.00%*2",
+						"Lv2": "54.10%*2",
+						"Lv3": "58.20%*2",
+						"Lv4": "63.94%*2",
+						"Lv5": "68.04%*2",
+						"Lv6": "72.76%*2",
+						"Lv7": "79.32%*2",
+						"Lv8": "85.88%*2",
+						"Lv9": "92.44%*2",
+						"Lv10": "99.41%*2"
+					},
+					{
+						"Name": "Concerto Regen",
+						"Lv1": "10",
+						"Lv2": "10",
+						"Lv3": "10",
+						"Lv4": "10",
+						"Lv5": "10",
+						"Lv6": "10",
+						"Lv7": "10",
+						"Lv8": "10",
+						"Lv9": "10",
+						"Lv10": "10"
+					}
+				]
+			},
+			{
+				"name": "Chain Rule",
+				"category": "Transition",
+				"type": "Outro Skill",
+				"description": {
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Xiangli Yao will call down a laser beam upon the first target the incoming Resonator's Basic Attack hits, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Electro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"237.63%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Xiangli Yao's ATK to an area. This effect lasts for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"and can be triggered once every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" times.\",\"marks\":[],\"data\":{}}]}]}"
+				},
+				"multipliers": null
+			}
+		],
+		"review": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao is a 5-star Electro Gauntlet wielder who specializes in unleashing strong combos during his Ultimate burst window. What sets him apart from other Ultimate-focused characters, is his unusually long burst duration. This generous window allows for Dodging, Swapping, and even a few mistakes, making his gameplay more forgiving and accessible. Additionally, Xiangli Yao gains Interruption Resistance while his Ultimate buff is active, eliminating one of the most frustrating issues faced by burst-centric characters: being interrupted mid-combo. This resistance significantly reduces his reliance on Swap-Cancels—a challenge that troubles some of his counterparts like Calcharo. To better grasp his abilities and unlock his full potential, let’s dive into his kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As an Ultimate-centric character, Xiangli Yao largely overlooks his non-Ultimate abilities in favor of quickly gaining access to his Ultimate. However, there is one exception - the Resonance Skill: Deduction. This ability delivers an Electro attack that generates a substantial amount of Concerto/Resonance energy, is Swap-Cancellable, and has an impressively short cooldown of just 5 seconds. Xiangli Yao's main combo falls slightly short of producing the required 100 Concerto to consistently execute his Outro. To bridge this gap, weaving in one or two uses of Deduction during your team’s rotations is highly advised. This not only ensures smooth combo execution but also contributes to additional Resonance energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao’s Ultimate Cognition Model is heart of his kit. Upon activation, Xiangli Yao summons a large cube projection, delivering substantial Electro damage while generating a significant amount of Concerto and placing him into the Intuition buffed state for 24 seconds. During this phase, all his abilities—Basic Attack, Resonance Skill, Dodge Counter, Heavy Attack, and Mid-Air Attack—are enhanced, alongside his Forte gauge. One of the key elements introduced by the Ultimate is the acquisition of 3 charges of Hypercube - it's a unique resource that fuels a powerful attack - Law of Reigns. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Your goal after activating Xiangli Yao’s Ultimate and entering the Intuition state is not to perform as many enhanced attacks within the 24-second duration as possible but, instead to focus on expending all 3 of his Hypercube charges on Laws of Reign as fast as possible - as doing this will lead to the most damage per second. Additionally after consuming all 3 charges of Hypercube the Intuition buffed state will end regardless of the remaining duration ready for you to recharge it and repeat the 3 cube burst combo again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao’s Forte Gauge is up next and he actually has access to two of them - one of which is essential to his gameplay (Ultimate empowered) and the other of which can be mostly ignored (Standard).  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His first and standard Forte Gauge is active whenever his Ultimate buffed state is not and is called “Capacity”. Whenever Xiangli Yao uses his standard Resonance Skill or Basic Attacks he generates capacity rapidly and after accumulating a full Forte Gauge worth of it his Resonance Skill -  Deduction is replaced with Resonance Skill - Decipher, which deals more damage and has a separate cooldown. Decipher generates the same Concerto energy and similar Resonance Energy to Deduction and doesn’t directly aid Xiangli Yao with his game plan. For this reason, the standard Forte Gauge is mostly irrelevant and can be treated as a bit of bonus damage whenever it fills. Sometimes some of your Deductions you use to generate Concerto and Resonance energy will be converted to Deciphers but you should treat them the same and still Swap-Cancel them as fast as possible to focus on his Ultimate instead. \\nXiangli Yao’s second Forte Gauge can only be accessed after using his Ultimate Cognition Model and while the Intuition buff remains active. While the Ultimate enhanced Forte Gauge is in effect Xiangli Yao’s Capacity gauge is upgraded into “Performance Capacity” which converts it into a 5-point charge system that can be accumulated by landing hits with any of his Ultimate enhanced abilities. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As mentioned earlier Xiangli Yao’s goal during his Ultimate is to consume all 3 of his Hypercube charges as fast as possible by executing 3 Laws of Reign attacks. The catch to this is that Laws of Reign requires and consumes 5 Performance Capacity charges in order to activate. This means your updated mission now is to generate 5 Performance Capacity and spend it on Laws of Reign 3 times as fast as you can. To do this you’ll want to execute the series of enhanced abilities which generates 5 Performance Capacity as fast as possible while also dealing as much damage as possible. The best combo to do this is by combining Xiangli Yao’s Ultimate enhanced Resonance Skill - Divergence to jump into the air followed by his enhanced Mid-Air Attack - Revamp, you of course want to follow this with Laws of Reign.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate: Skill: Divergence (Builds 2 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Forte: Mid-Air Atk: Revamp (Builds 3 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Forte: Skill: Law of Reigns (Consumes 5 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"That’s 1 Cube down and 2 to go but there’s an issue - while the above combo is the most efficient in terms of time, damage, and resource generation Divergence has a 7-second cooldown so we can’t just spam it 3 times in a row. To solve this we need to weave in one more combo that’s the next most efficient and that is making use of Xiangli Yao’s enhanced 3-part Basic Attack combo. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate: Basic: Pivot - Impale P1 (Builds 1 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate: Basic: Pivot - Impale P2 (Builds 2 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate: Basic: Pivot - Impale P3 (Builds 2 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Forte: Skill: Law of Reigns (Consumes 5 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After executing the Basic Attack combo the Divergence combo should be back off cooldown to use for the third and final cube. After spending your last cube the Ultimate will immediately end and you’ll be back to the start of using a few Deductions in between your other teammates abilities to generate Resonance energy and Concerto until your Ultimate is ready to go once again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Additionally, while performing Xiangli Yao’s Ultimate combos, you will have ample time to incorporate Dodge Counters or Character Swaps - and all generate extra Performance Capacity. Ultimate-enhanced Dodge Counters, in particular, generate 2 Performance Capacity. If these additional charges are available, you can choose to either continue with the standard combo or integrate them, thus skipping some portions of the usual Performance Capacity building sequences to accelerate the burst process.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao's Inherent Skills significantly improve his performance, providing both offensive and defensive advantages. His first inherent skill grants a stackable Electro DMG% boost whenever a Resonance skill is used, accumulating up to four stacks. Each stack provides a 5% damage increase, and the effect lasts for 8 seconds. Given that Xiangli Yao frequently employs Resonance Skills—Deduction, Decipher, Divergence, and Law of Reigns—this buff will remain active throughout most of his combo. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The second Inherent Skill serves as a defensive tool, granting Xiangli Yao Interruption Resistance while the Intuition State is active. This ability is vital, as many of Xiangli Yao’s powerful attacks come with long animations. Without this skill, he would need to rely on Swap-Cancels, much like Calcharo. However, with this ability, Xiangli Yao can execute his attacks freely, without the constant concern of being interrupted mid-combo, allowing for smoother and uninterrupted gameplay.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao is a great Electro-damage dealer, offering a level of accessibility that surpasses many other Ultimate-buff-based characters, without compromising on raw damage potential. His versatile and well-rounded kit makes him a reliable choice, with strong team synergies available right from his release. One of his greatest advantages is his accessibility, as he is available for free for some time after his initial banner drops (during the 1.2 patch). His easy-to-learn playstyle combined with his potent damage output makes him a standout option in his role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"pros": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredibly long and very forgiving burst window, allowing dodging, mistakes, and switching if desired,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Main Combo combines ground and aerial combat which can sometimes allow Xiangli Yao to avoid attacks mid-combo increasing his safety even without dodging,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredibly powerful amplification options via team building lead to big opportunities during his ultimate burst window - stacking Verina + Yinlin outros right before ultimate is very potent,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has great energy and concerto efficiency between his high-generation main combo and incredibly spammable standard Resonance Skill and Forte: Resonance skill (Outside of Ultimate) abilities,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gains interruption resistance (not immunity) during his Ultimate state (Intuition) which should be most of his field time,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He's free at the time of his release! \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"cons": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Main combo takes some getting used to, to pull off in the heat of combat but is manageable when you learn how,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"All main combo animations are very long leaving Xiangli Yao vulnerable to taking damage (even if he is rarely interrupted).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"voiceActors": {
+			"en": "Shaun Mendum",
+			"kr": "Jung Eui Jin",
+			"jpn": "Kobayashi Chiaki",
+			"cn": "Ban Ma"
+		},
+		"buildInfoEcho": {
+			"echo_4_stat": [
+				{
+					"stat": "CRIT DMG"
+				},
+				{
+					"stat": "CRIT Rate"
+				}
+			],
+			"echo_3_stat": [
+				{
+					"stat": "Electro DMG"
+				},
+				{
+					"stat": "ATK%"
+				}
+			],
+			"echo_3a_stat": [
+				{
+					"stat": "Electro DMG"
+				},
+				{
+					"stat": "ATK%"
+				}
+			],
+			"echo_1_stat": [
+				{
+					"stat": "ATK%"
+				}
+			],
+			"echo_1a_stat": [
+				{
+					"stat": "ATK%"
+				}
+			],
+			"echo_sets": [
+				{
+					"name": "Void Thunder",
+					"name2": "",
+					"value": "100%",
+					"notes": "",
+					"main_echo": "Tempest Mephis"
+				},
+				{
+					"name": "Endless Resonance",
+					"name2": "",
+					"value": "101.15%",
+					"notes": "",
+					"main_echo": "Mech Abomination"
+				},
+				{
+					"name": "Void Thunder",
+					"name2": "Endless Resonance",
+					"value": "95.51%",
+					"notes": "",
+					"main_echo": "Mech Abomination"
+				}
+			]
+		},
+		"buildInfoWeapon": [
+			{
+				"weapon": "Verity's Handle",
+				"super": "1",
+				"notes": "",
+				"percent": "118.76%"
+			},
+			{
+				"weapon": "Abyss Surges",
+				"super": "1",
+				"notes": "",
+				"percent": "100%"
+			},
+			{
+				"weapon": "Stonard",
+				"super": "5",
+				"notes": "",
+				"percent": "95.79%"
+			},
+			{
+				"weapon": "Hollow Mirage",
+				"super": "5",
+				"notes": "",
+				"percent": "87.38%"
+			},
+			{
+				"weapon": "Gauntlets of Night",
+				"super": "5",
+				"notes": "",
+				"percent": "78.09%"
+			}
+		],
+		"buildInfoOther": {
+			"substats": "CRIT RATE = CRIT DMG > ATK% > Flat ATK = Liberation DMG%",
+			"substats_comments": null,
+			"skill_priority": ""
+		},
+		"attributeBonus": {
+			"trace1": {
+				"stat": "CRIT DMG",
+				"value": 16
+			},
+			"trace2": {
+				"stat": "ATK%",
+				"value": 12
+			}
+		},
+		"videos": [
+			{
+				"video": "0f9yBd3ld8A"
+			}
+		],
+		"synergies": null,
+		"endgameStats": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1900 - 2500+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30% - 70%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60 - 85%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120 - 170%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0% - 30%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (Optional depending on playstyle and team composition) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In Xiangli Yao's most common teams, he doesn't specifically require any energy regeneration in order to gain access to his ultimate in a timely manner or perform his rotation. With that said if you want to be safe and ensure you always have it on hand acquiring 25% - 30% energy regeneration on gear should smooth things out especially when your team's rotations don't go quite as planned. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"statsInfo": null,
+		"howToPlay": null,
+		"ascensionMaterials": {
+			"ascension": {
+				"name": "Violet Coral",
+				"number": 60
+			},
+			"breakthrough": {
+				"name": "Hidden Thunder Tacet Core",
+				"number": 46
+			},
+			"skill": {
+				"name": "Unending Destruction",
+				"number": 26
+			},
+			"common": [
+				{
+					"name": "LF Whisperin Core",
+					"number_skill": 25,
+					"number_char": 4
+				},
+				{
+					"name": "MF Whisperin Core",
+					"number_skill": 28,
+					"number_char": 12
+				},
+				{
+					"name": "HF Whisperin Core",
+					"number_skill": 40,
+					"number_char": 12
+				},
+				{
+					"name": "FF Whisperin Core",
+					"number_skill": 57,
+					"number_char": 4
+				}
+			],
+			"skill_other": [
+				{
+					"name": "Cadence Seed",
+					"number": 25
+				},
+				{
+					"name": "Cadence Bud",
+					"number": 28
+				},
+				{
+					"name": "Cadence Leaf",
+					"number": 55
+				},
+				{
+					"name": "Cadence Blossom",
+					"number": 67
+				}
+			]
+		},
+		"releaseDate": "2024-09-07",
+		"tierCategory": "DPS",
+		"tierTags": [
+			"Cleave",
+			"Ult"
+		],
+		"ratings": {
+			"tower": 10
+		},
+		"isNew": false,
+		"upcoming": false
+	},
+	{
+		"id": "23",
+		"updatedAt": "September 30th, 2024",
+		"createdAt": "2024-08-04T12:51:57.078Z",
+		"unitId": "24",
+		"devId": 1505,
+		"name": "The Shorekeeper",
+		"slug": "the-shorekeeper",
+		"img": "https://www.prydwen.gg/static/53a7609e743512dbf5f89bb78cc7bab4/b26e2/card_keeper.webp",
+		"img2": "https://www.prydwen.gg/static/53a7609e743512dbf5f89bb78cc7bab4/b26e2/card_keeper.webp",
+		"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hha-active-182494e6.png",
+		"region": "Black Shores",
+		"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+		"smallImage": {
+			"localFile": {
+				"childImageSharp": {
+					"gatsbyImageData": {
+						"layout": "constrained",
+						"backgroundColor": "#f8f8f8",
+						"images": {
+							"fallback": {
+								"src": "/static/2d7e96e49ef73bf0f2f4863363e5b8a0/60b4d/icon_keeper.webp",
+								"srcSet": "/static/2d7e96e49ef73bf0f2f4863363e5b8a0/e73fe/icon_keeper.webp 40w,\n/static/2d7e96e49ef73bf0f2f4863363e5b8a0/61ca6/icon_keeper.webp 80w,\n/static/2d7e96e49ef73bf0f2f4863363e5b8a0/60b4d/icon_keeper.webp 160w",
+								"sizes": "(min-width: 160px) 160px, 100vw"
+							},
+							"sources": []
+						},
+						"width": 160,
+						"height": 160
+					}
+				}
+			}
+		},
+		"cardImage": {
+			"localFile": {
+				"childImageSharp": {
+					"gatsbyImageData": {
+						"layout": "constrained",
+						"backgroundColor": "#f8f8f8",
+						"images": {
+							"fallback": {
+								"src": "/static/53a7609e743512dbf5f89bb78cc7bab4/b26e2/card_keeper.webp",
+								"srcSet": "/static/53a7609e743512dbf5f89bb78cc7bab4/84550/card_keeper.webp 94w,\n/static/53a7609e743512dbf5f89bb78cc7bab4/34f80/card_keeper.webp 187w,\n/static/53a7609e743512dbf5f89bb78cc7bab4/b26e2/card_keeper.webp 374w",
+								"sizes": "(min-width: 374px) 374px, 100vw"
+							},
+							"sources": []
+						},
+						"width": 374,
+						"height": 512
+					}
+				}
+			}
+		},
+		"fullImage": null,
+		"rarity": "5",
+		"element": "Spectro",
+		"weapon": "Rectifier",
+		"introduction": {
+			"raw": {
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"content": [
+							{
+								"data": {},
+								"marks": [],
+								"value": "The Shorekeeper of the Black Shores, a mysterious divine being governing the essence of aloofness, emerges in response to your summon. Having spent eons in guardianship, the first stirrings of emotion and desire awaken within her heart, fostering a firm determination to connect with the world — and with you. ",
+								"nodeType": "text"
+							}
+						],
+						"nodeType": "paragraph"
+					}
+				],
+				"nodeType": "document"
+			}
+		},
+		"dupes": {
+			"dupe1": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Stellarealms generated by Resonance Liberation End Loop gain the following enhancements:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The effective range of the healing and buffs is extended by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"150%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The duration is extended by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Intro Skill Discernment no longer ends the existing Stellarealm. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe2": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Outer Stellarealm now increases the ATK of all nearby party members by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe3": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Resonance Liberation End Loop grants Shorekeeper \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Concerto Energy. This effect can be triggered once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25s.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe4": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" additional Healing Bonus when casting Resonance Skill Chaos Theory. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"dupe5": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Extend the ranges of the pulling effect of Basic Attack Stage\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3 by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and Illation by\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" 30%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"dupe6": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increase the DMG Multiplier of Intro Skill Discernment by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"42%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Casting Intro Skill Discernment increases Shorekeeper's Crit. DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"500%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			}
+		},
+		"skills": [
+			{
+				"name": "Origin Calculus",
+				"category": "Active",
+				"type": "Basic Attack",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Each hit generates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Collapsed Core.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hold the Normal Attack Button to enter Unbound Form, which consumes STA continuously. While in this form, Shorekeeper will:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Generate a segment of Deductive Data every second.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Automatically collect nearby plant collectibles.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Using up all STA or actions such as casting Basic Attack will end the Unbound Form and deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to the target. Each accumulated segment of Deductive Data will convert into a segment of Empirical Data and generate a Collapsed Core.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume STA to perform a Plunging Attack. Each hit generates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Collapsed Core. Quickly Press the Normal Attack Button after the Plunging Attack to perform Basic Attack Stage \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Press the Normal Attack Button after a successful Dodge to attack a target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Stage 1 DMG",
+						"Lv1": "15.99%",
+						"Lv2": "17.30%",
+						"Lv3": "18.61%",
+						"Lv4": "20.45%",
+						"Lv5": "21.76%",
+						"Lv6": "23.26%",
+						"Lv7": "25.36%",
+						"Lv8": "27.46%",
+						"Lv9": "29.55%",
+						"Lv10": "31.78%"
+					},
+					{
+						"Name": "Stage 2 DMG",
+						"Lv1": "12.00%*2",
+						"Lv2": "12.99%*2",
+						"Lv3": "13.97%*2",
+						"Lv4": "15.35%*2",
+						"Lv5": "16.33%*2",
+						"Lv6": "17.47%*2",
+						"Lv7": "19.04%*2",
+						"Lv8": "20.61%*2",
+						"Lv9": "22.19%*2",
+						"Lv10": "23.86%*2"
+					},
+					{
+						"Name": "Stage 3 DMG",
+						"Lv1": "11.73%*3",
+						"Lv2": "12.69%*3",
+						"Lv3": "13.66%*3",
+						"Lv4": "15.00%*3",
+						"Lv5": "15.96%*3",
+						"Lv6": "17.07%*3",
+						"Lv7": "18.61%*3",
+						"Lv8": "20.15%*3",
+						"Lv9": "21.69%*3",
+						"Lv10": "23.32%*3"
+					},
+					{
+						"Name": "Stage 4 DMG",
+						"Lv1": "36.58%",
+						"Lv2": "39.58%",
+						"Lv3": "42.58%",
+						"Lv4": "46.78%",
+						"Lv5": "49.78%",
+						"Lv6": "53.23%",
+						"Lv7": "58.03%",
+						"Lv8": "62.82%",
+						"Lv9": "67.62%",
+						"Lv10": "72.72%"
+					},
+					{
+						"Name": "Heavy Attack DMG",
+						"Lv1": "23.04%",
+						"Lv2": "24.93%",
+						"Lv3": "26.82%",
+						"Lv4": "29.47%",
+						"Lv5": "31.36%",
+						"Lv6": "33.53%",
+						"Lv7": "36.55%",
+						"Lv8": "39.58%",
+						"Lv9": "42.60%",
+						"Lv10": "45.81%"
+					},
+					{
+						"Name": "Plunging Attack DMG",
+						"Lv1": "37.20%",
+						"Lv2": "40.26%",
+						"Lv3": "43.31%",
+						"Lv4": "47.58%",
+						"Lv5": "50.63%",
+						"Lv6": "54.13%",
+						"Lv7": "59.02%",
+						"Lv8": "63.90%",
+						"Lv9": "68.78%",
+						"Lv10": "73.96%"
+					},
+					{
+						"Name": "Dodge Counter DMG",
+						"Lv1": "44.00%*2",
+						"Lv2": "47.61%*2",
+						"Lv3": "51.22%*2",
+						"Lv4": "56.27%*2",
+						"Lv5": "59.88%*2",
+						"Lv6": "64.03%*2",
+						"Lv7": "69.80%*2",
+						"Lv8": "75.57%*2",
+						"Lv9": "81.35%*2",
+						"Lv10": "87.48%*2"
+					},
+					{
+						"Name": "Heavy Attack STA Cost",
+						"Lv1": "25",
+						"Lv2": "25",
+						"Lv3": "25",
+						"Lv4": "25",
+						"Lv5": "25",
+						"Lv6": "25",
+						"Lv7": "25",
+						"Lv8": "25",
+						"Lv9": "25",
+						"Lv10": "25"
+					},
+					{
+						"Name": "Plunging Attack STA Cost",
+						"Lv1": "30",
+						"Lv2": "30",
+						"Lv3": "30",
+						"Lv4": "30",
+						"Lv5": "30",
+						"Lv6": "30",
+						"Lv7": "30",
+						"Lv8": "30",
+						"Lv9": "30",
+						"Lv10": "30"
+					}
+				]
+			},
+			{
+				"name": "Chaos Theory",
+				"category": "Forte Circuit",
+				"type": "Resonance Skill",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Restore HP for all nearby party members and summon \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Dim Star Butterflies, which automatically track and attack a target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Follow up with Basic Attack in time to start the Basic Attack cycle from Stage \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can be performed in mid-air. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Dim Star Butterfly DMG",
+						"Lv1": "15.75%",
+						"Lv2": "17.04%",
+						"Lv3": "18.33%",
+						"Lv4": "20.14%",
+						"Lv5": "21.43%",
+						"Lv6": "22.91%",
+						"Lv7": "24.98%",
+						"Lv8": "27.05%",
+						"Lv9": "29.11%",
+						"Lv10": "31.31%"
+					},
+					{
+						"Name": "Healing",
+						"Lv1": "660 + 3.00%",
+						"Lv2": "715 + 3.25%",
+						"Lv3": "769 + 3.50%",
+						"Lv4": "845 + 3.84%",
+						"Lv5": "899 + 4.09%",
+						"Lv6": "961 + 4.37%",
+						"Lv7": "1047 + 4.76%",
+						"Lv8": "1134 + 5.16%",
+						"Lv9": "1221 + 5.55%",
+						"Lv10": "1313 + 5.97%"
+					},
+					{
+						"Name": "Cooldown",
+						"Lv1": "16",
+						"Lv2": "16",
+						"Lv3": "16",
+						"Lv4": "16",
+						"Lv5": "16",
+						"Lv6": "16",
+						"Lv7": "16",
+						"Lv8": "16",
+						"Lv9": "16",
+						"Lv10": "16"
+					},
+					{
+						"Name": "Concerto Regen",
+						"Lv1": "20",
+						"Lv2": "20",
+						"Lv3": "20",
+						"Lv4": "20",
+						"Lv5": "20",
+						"Lv6": "20",
+						"Lv7": "20",
+						"Lv8": "20",
+						"Lv9": "20",
+						"Lv10": "20"
+					}
+				]
+			},
+			{
+				"name": "End Loop",
+				"category": "Forte Circuit",
+				"type": "Resonance Liberation",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Outer Stellarealm\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Generate the Outer Stellarealm to restore HP for all party members within its effective range continuously. This effect can be triggered once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Inner Stellarealm\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When a party member uses Intro Skill within the Outer Stellarealm, it evolves into the Inner Stellarealm. Within the effective range of the Inner Stellarealm, for every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0.2% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"of Shorekeeper's Energy Regen, all party members gain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0.01%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" bonus Crit. Rate, up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 12.5%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \\nInner Stellarealm has all the effects of the Outer Stellarealm.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Supernal Stellarealm\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When a party member uses Intro Skill within the Inner Stellarealm, it evolves into the Supernal Stellarealm. Within the effective range of the Supernal Stellarealm, for every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0.1% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"of Shorekeeper's Energy Regen, all party members gain a\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 0.01%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increase of Crit. DMG, up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Supernal Stellarealm has all the effects of the Inner Stellarealm.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Supernal Stellarealm is generated, Shorekeeper's first Intro Skill triggered in its duration will be replaced with Intro Skill Discernment. This effect takes place once each time a Supernal Stellarealm is generated. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Healing",
+						"Lv1": "220 + 1.20% HP",
+						"Lv2": "239 + 1.30% HP",
+						"Lv3": "257 + 1.40% HP",
+						"Lv4": "282 + 1.54% HP",
+						"Lv5": "300 + 1.64% HP",
+						"Lv6": "321 + 1.75% HP",
+						"Lv7": "349 + 1.91% HP",
+						"Lv8": "378 + 2.07% HP",
+						"Lv9": "407 + 2.22% HP",
+						"Lv10": "438 + 2.39% HP"
+					},
+					{
+						"Name": "Stellarealm Duration",
+						"Lv1": "30",
+						"Lv2": "30",
+						"Lv3": "30",
+						"Lv4": "30",
+						"Lv5": "30",
+						"Lv6": "30",
+						"Lv7": "30",
+						"Lv8": "30",
+						"Lv9": "30",
+						"Lv10": "30"
+					},
+					{
+						"Name": "Cooldown",
+						"Lv1": "25",
+						"Lv2": "25",
+						"Lv3": "25",
+						"Lv4": "25",
+						"Lv5": "25",
+						"Lv6": "25",
+						"Lv7": "25",
+						"Lv8": "25",
+						"Lv9": "25",
+						"Lv10": "25"
+					},
+					{
+						"Name": "Resonance Cost",
+						"Lv1": "175",
+						"Lv2": "175",
+						"Lv3": "175",
+						"Lv4": "175",
+						"Lv5": "175",
+						"Lv6": "175",
+						"Lv7": "175",
+						"Lv8": "175",
+						"Lv9": "175",
+						"Lv10": "175"
+					},
+					{
+						"Name": "Concerto Regen",
+						"Lv1": "20",
+						"Lv2": "20",
+						"Lv3": "20",
+						"Lv4": "20",
+						"Lv5": "20",
+						"Lv6": "20",
+						"Lv7": "20",
+						"Lv8": "20",
+						"Lv9": "20",
+						"Lv10": "20"
+					}
+				]
+			},
+			{
+				"name": "Astral Chord",
+				"category": "Forte Circuit",
+				"type": "Forte Circuit",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Flare Star Butterfly\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hitting a target with a Normal Attack generates a Collapsed Core, which transforms into a Flare Star Butterfly after \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Flare Star Butterflies automatically track and attack a target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". If there are already \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Collapsed Cores, Shorekeeper's next Normal Attack hit will instantly convert a Collapsed Core into a Flare Star Butterfly.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Illation\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Shorekeeper has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" segments of Empirical Data, casting Heavy Attack will consume all segments to pull in nearby targets, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Meanwhile, all generated Collapsed Cores will instantly transform into Flare Star Butterflies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Transmutation\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Shorekeeper has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" segments of Empirical Data, casting Mid-air Attack will consume all segments to deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Meanwhile, all generated Collapsed Cores will instantly transform into Flare Star Butterflies. Quickly press the Normal Attack Button afterward to perform Basic Attack Stage \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Empirical Data\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shorekeeper can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"segments of Empirical Data.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"segment of Empirical Data when Basic Attack Stage \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1, 2, or 4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"hits a target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"segments of Empirical Data when Basic Attack Stage \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"hits a target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"segment of Empirical Data when Mid-air Attack hits a target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" segment of Empirical Data when Dodge Counter hits a target. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Flare Star Butterfly DMG",
+						"Lv1": "18.76%",
+						"Lv2": "20.29%",
+						"Lv3": "21.83%",
+						"Lv4": "23.99%",
+						"Lv5": "25.52%",
+						"Lv6": "27.29%",
+						"Lv7": "29.75%",
+						"Lv8": "32.21%",
+						"Lv9": "34.67%",
+						"Lv10": "37.29%"
+					},
+					{
+						"Name": "Illation DMG",
+						"Lv1": "9.54%*5",
+						"Lv2": "10.33%*5",
+						"Lv3": "11.11%*5",
+						"Lv4": "12.20%*5",
+						"Lv5": "12.99%*5",
+						"Lv6": "13.89%*5",
+						"Lv7": "15.14%*5",
+						"Lv8": "16.39%*5",
+						"Lv9": "17.64%*5",
+						"Lv10": "18.97%*5"
+					},
+					{
+						"Name": "Transmutation DMG",
+						"Lv1": "37.20%",
+						"Lv2": "40.26%",
+						"Lv3": "43.31%",
+						"Lv4": "47.58%",
+						"Lv5": "50.63%",
+						"Lv6": "54.13%",
+						"Lv7": "59.02%",
+						"Lv8": "63.90%",
+						"Lv9": "68.78%",
+						"Lv10": "73.96%"
+					},
+					{
+						"Name": "Illation STA Cost",
+						"Lv1": "25",
+						"Lv2": "25",
+						"Lv3": "25",
+						"Lv4": "25",
+						"Lv5": "25",
+						"Lv6": "25",
+						"Lv7": "25",
+						"Lv8": "25",
+						"Lv9": "25",
+						"Lv10": "25"
+					},
+					{
+						"Name": "Transmutation STA Cost",
+						"Lv1": "30",
+						"Lv2": "30",
+						"Lv3": "30",
+						"Lv4": "30",
+						"Lv5": "30",
+						"Lv6": "30",
+						"Lv7": "30",
+						"Lv8": "30",
+						"Lv9": "30",
+						"Lv10": "30"
+					},
+					{
+						"Name": "Illation Concerto Regen",
+						"Lv1": "6",
+						"Lv2": "6",
+						"Lv3": "6",
+						"Lv4": "6",
+						"Lv5": "6",
+						"Lv6": "6",
+						"Lv7": "6",
+						"Lv8": "6",
+						"Lv9": "6",
+						"Lv10": "6"
+					},
+					{
+						"Name": "Transmutation Concerto Regen",
+						"Lv1": "6",
+						"Lv2": "6",
+						"Lv3": "6",
+						"Lv4": "6",
+						"Lv5": "6",
+						"Lv6": "6",
+						"Lv7": "6",
+						"Lv8": "6",
+						"Lv9": "6",
+						"Lv10": "6"
+					}
+				]
+			},
+			{
+				"name": "Life Entwined",
+				"category": "Inherent",
+				"type": "Inherent Skill",
+				"description": {
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When a Resonator other than Shorekeeper takes a fatal blow, they will not be knocked out and will instead be healed for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"of Shorekeeper's HP while Shorekeeper loses the same amount of HP. Shorekeeper's HP will not go below \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" from this effect. This effect can be triggered once every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"minutes.\",\"marks\":[],\"data\":{}}]}]}"
+				},
+				"multipliers": null
+			},
+			{
+				"name": "Self Gravitation",
+				"category": "Inherent",
+				"type": "Inherent Skill",
+				"description": {
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When the Resonator on the field is within the effective range of a Stellarealm, Shorekeeper's Energy Regen increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". If Rover is on the same team, Rover's Energy Regen also increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+				},
+				"multipliers": null
+			},
+			{
+				"name": "Proof of Existence",
+				"category": "Transition",
+				"type": "Intro Skill",
+				"description": {
+					"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Enlightenment\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shorekeeper appears to restore HP for all nearby party members and summon \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Dim Star Butterflies, which automatically track and attack a target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This is considered Resonance Skill DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Discernment\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When a Supernal Stellarealm is generated, Shorekeeper's first Intro Skill triggered in its duration will be replaced with Intro Skill Discernment. Casting Discernment ends the current Stellarealm, restores HP for all nearby party members, and deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Spectro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to the targets. This attack is guaranteed to be a Critical Hit dealing Resonance Liberation DMG. The Intro Skill Discernment can only be cast one time for each Supernal Stellarealm generated. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+				},
+				"multipliers": [
+					{
+						"Name": "Enlightenment DMG",
+						"Lv1": "22.79%*5",
+						"Lv2": "24.66%*5",
+						"Lv3": "26.53%*5",
+						"Lv4": "29.14%*5",
+						"Lv5": "31.01%*5",
+						"Lv6": "33.16%*5",
+						"Lv7": "36.15%*5",
+						"Lv8": "39.14%*5",
+						"Lv9": "42.13%*5",
+						"Lv10": "45.30%*5"
+					},
+					{
+						"Name": "Discernment DMG",
+						"Lv1": "9.88%*3 HP",
+						"Lv2": "10.69%*3 HP",
+						"Lv3": "11.50%*3 HP",
+						"Lv4": "12.64%*3 HP",
+						"Lv5": "13.45%*3 HP",
+						"Lv6": "14.38%*3 HP",
+						"Lv7": "15.67%*3 HP",
+						"Lv8": "16.97%*3 HP",
+						"Lv9": "18.26%*3 HP",
+						"Lv10": "19.64%*3 HP"
+					},
+					{
+						"Name": "Enlightenment Healing",
+						"Lv1": "130 + 0.60% HP",
+						"Lv2": "141 + 0.65% HP",
+						"Lv3": "152 + 0.70% HP",
+						"Lv4": "167 + 0.77% HP",
+						"Lv5": "177 + 0.82% HP",
+						"Lv6": "190 + 0.88% HP",
+						"Lv7": "207 + 0.96% HP",
+						"Lv8": "224 + 1.04% HP",
+						"Lv9": "241 + 1.11% HP",
+						"Lv10": "259 + 1.20% HP"
+					},
+					{
+						"Name": "Discernment Healing",
+						"Lv1": "145 + 0.66% HP",
+						"Lv2": "157 + 0.72% HP",
+						"Lv3": "169 + 0.77% HP",
+						"Lv4": "186 + 0.85% HP",
+						"Lv5": "198 + 0.90% HP",
+						"Lv6": "211 + 0.97% HP",
+						"Lv7": "231 + 1.05% HP",
+						"Lv8": "250 + 1.14% HP",
+						"Lv9": "269 + 1.23% HP",
+						"Lv10": "289 + 1.32% HP"
+					},
+					{
+						"Name": "Enlightenment Concerto Regen",
+						"Lv1": "10",
+						"Lv2": "10",
+						"Lv3": "10",
+						"Lv4": "10",
+						"Lv5": "10",
+						"Lv6": "10",
+						"Lv7": "10",
+						"Lv8": "10",
+						"Lv9": "10",
+						"Lv10": "10"
+					},
+					{
+						"Name": "Discernment Concerto Regen",
+						"Lv1": "20",
+						"Lv2": "20",
+						"Lv3": "20",
+						"Lv4": "20",
+						"Lv5": "20",
+						"Lv6": "20",
+						"Lv7": "20",
+						"Lv8": "20",
+						"Lv9": "20",
+						"Lv10": "20"
+					}
+				]
+			},
+			{
+				"name": "Binary Butterfly",
+				"category": "Transition",
+				"type": "Outro Skill",
+				"description": {
+					"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Shorekeeper summons \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Flare Star Butterfly and \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Dim Star Butterfly to circle the Resonator on the field for up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"30s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", granting the following effects: \",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"If the Resonator on the field is hit or launched, tapping the Dodge Button allows the Resonator to immediately recover from the interruption, triggering a successful Dodge. The Resonator launched in the air can land on the ground standing if they are close to the ground. This effect can be triggered up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s).\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"All nearby party members' DMG is Amplified by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+				},
+				"multipliers": null
+			}
+		],
+		"review": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Shorekeeper is a 5-star Spectro Rectifier wielder specializing in healing and supporting her allies.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She shares a similar role to Verina and can similarly fit in almost any team composition. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her unique aspect is her buffs being CRIT-based\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" instead of Attack%, which usually allows her to outperform Verina in the raw damage multiplication department (excluding other synergies). However, unlike Verina, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"she must follow a strict rotation as her buffing capabilities are entirely tied to her Resonance Liberation and Outro\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This isn’t a bad thing, but understanding how to achieve it efficiently and consistently is very important if you want to use The Shorekeeper to her full potential. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now let's dive into her kit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her Resonance Liberation: End Loop has an activation cost of whopping 175 Energy.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Upon its use, she summons the Stellarealm for 30 seconds - a massive ring providing benefits to allies within its radius and generating Shorekeeper 20 Concerto Energy upon activation. Stellarealm features 3 different stages with each offering a benefit that can stack with each other. The initial summon will be in “Outer Stellarealm” variant, but whenever an ally executes an Intro skill within its bounds, it is upgraded to the next stage. The 3 stages are: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Outer Stellarealm (Baseline) \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"- Continuously Heal all allies once every 3 seconds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Inner Stellarealm (After 1 Intro)\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Increases 0.01% Critical Rate per 0.2% of Shorekeeper’s Energy Regeneration up to 12.5% for all allies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Supernal Stellarealm (After 2 Intro)\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Increases 0.02% Critical Damage per 0.1% of Shorekeeper’s Energy Regeneration up to 25% for all allies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After using 2 Intros, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"your party gains Continuous Healing, 12.5% Critical Rate and 25% Critical Damage for the duration of Stellarealm.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" To achieve this though, you’ll need to ensure The Shorekeeper is built with enough Energy Regeneration - the magic number being 250% (150% from Echoes, Weapon, and Passives). Additionally, the 250% Energy Regeneration is a comfortable checkpoint to ensure her timely access to her Ultimate in most team set-ups as well. As her Resonance Liberation features a 25-second cooldown, with careful planning you should have no trouble maintaining its uptime for most of the fight. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her other key supportive ability is her Outro, which grants the entire party a 15% Damage Amplification buff for 30 seconds,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" regardless of how many times they Swap In-or-Out. As an added bonus, whenever the On-Field Resonator is launched/knocked back, you can immediately recover and execute Perfect Dodge followed by a Dodge Counter by tapping the Dodge button. However, this effect is limited to 5 times per application. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These two abilities form the core of her kit and are the focus of everything she will aim to achieve on the field. The game plan is simple: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"generate as much as Concerto Energy as fast as possible, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"summon the Stellarealm and then immediately perform her Outro triggering another character's Intro to upgrade the realm immediately and apply Shorekeeper’s Outro buff,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"after which you only require 1 more Intro to fully upgrade the realm. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fortunately, the rest of her kit is competent at generating Concerto quickly, so let's take a look at that. Her Forte Circuit: Astral Chord is divided into two different charge-based resources - “Collapsed Cores” and “Empirical Data”.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"“Collapsed Cores\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"” are glowing orbs that materialize on the field when triggered and are generated by the use of any of her standard Basic Attacks. These Cores transform into “Flare Star Butterflies” after 6 seconds of spawn - a homing missile attack targeting the closest enemy dealing small damage but generating good Concerto Energy. She can only have 5 Cores active at once, with additional Cores transforming the oldest Core into a Butterfly ignoring the 6-second rule. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"“Empirical Data”\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" also features a 5 charge limit and is generated via her Basic Attacks, but can be only used once you have accumulated all 5, enhancing her next Heavy Attack of Mid-Air Attack, consuming all charges and gaining the following effects: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Enhanced Mid-Air Attack: Forte Transmutation\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Deals Spectro damage, generates good Concerto Energy, and converts all “Collapsed Cores” into “Flare Star Butterflies” instantly and can be followed up by Basic Attack 2.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Enhanced Heavy Attack: Forte Illation\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - Deals Spectro damage, generates good Concerto Energy, converts all “Collapsed Cores” into “Flare Star Butterflies” instantly, and slightly pulls Non Elite/Boss enemies to the center of the ability gathering them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Both abilities are similar, but Forte Illation is preferred as it doesn’t require you to be in Mid-Air and also features Pull, as such use it whenever you have 5 “Empirical Data” to generate additional Concerto Energy and expedite the conversion of “Collapsed Cores” into Concerto generating “Flare Star Butterflies”. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To activate these Forte Abilities, we will need to use her Basic Attacks - mainly her standard 4 Basic Attack combo, which is:  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack 1 (Generates 1 “Collapsed Cores” and 1 “Empirical Data”)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack 2 (Generates 1 “Collapsed Cores” and 1 “Empirical Data”)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack 3 (Generates 1 “Collapsed Cores” and 2 “Empirical Data”)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack 4 (Generates 1 “Collapsed Cores” and 1 “Empirical Data”)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The combo generates enough “Empirical Data” and “Collapsed Cores” to immediately follow up with an enhanced Forte attack of your choice (Illation recommended) after which all Cores will convert to “Flare Star Butterflies” generating a burst of Concerto Energy. Furthermore, her Dodge Counter also generates strong Concerto Energy but should be only utilized if a situation arises. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Shorekeeper’s Resonance Skill isn’t overly connected to the rest of her kit but is an excellent tool for a burst of healing and concerto generation. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Using it grants 20 Concerto energy immediately, heals the party for a decent amount instantly, and summons 5 “Dim Star Butterflies” which operate identically to “Flare Star Butterflies”. Overall, the ability grants 30 Concerto after the butterflies find their target and only has a 16-second cooldown - use it whenever it’s available and you aren’t full on concerto. As a bonus using Basic Attacks right after this ability will skip straight to Basic Attack 2 of the combo. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Lastly let's talk about The Shorekeeper's Intro skill, which she has two of - a standard one and an empowered one accessible only once per Resonance Liberation used.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Both Intro skills heal, deal damage, and generate good Concerto Energy, but the empowered one does it all better at the cost of immediately ending the current Stellarealm regardless of the duration left. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This might look like a steep cost to pay, but when played optimally you should be only switching Shorekeeper in when she needs to refresh the Stellarealm anyway, making this downside negligible. On the upside, empowered Intro generates double Concerto Energy, deals damage based on her HP instead of Attack (resulting in a surprisingly large damage nuke), always hits Critically, and heals slightly more. With all these bonuses, you should always aim to execute the empowered Intro if possible, and the damage dealt is non-negligible if you decide to build into it. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rounding off her kit is her Inherent Skills:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The first offers the standard \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Cheat Death\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" ability we expect from healing characters protecting a fatally wounded ally by transferring half of Shorekeeper’s HP to it instead. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The second one grants Shorekeeper \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10% additional Energy Regen\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" while any Resonator is within the Stellarealm radius (counting towards the 250% Bonus) meaning you only need to get 240% now! As an extra bit of flavor, if Rover is in the team, they too gain the 10% Energy Regeneration bonus. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In conclusion,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Shorekeeper has a packed-to-the-brim supportive kit with excellent healing capabilities\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" but she has a strong reliance on Concerto Energy generation tools such as her Intro and the weapons - Variation or Stellar Symphony (her Signature), without which she will feel less smooth. This can lead to her having weak openers in endgame modes lacking immediate Intro access - such as Tower of Adversity, and longer rotations for those lacking either weapon option. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"However, if you are able to overcome these limitations, she is absolutely a meta powerhouse featuring some of the best supportive capabilities and flexibility in the game. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"pros": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unique and incredible Critical Rate and Critical Damage buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Tremendous continuous healing for the whole team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Full team Damage Amplification that isn’t lost on switching.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Excellent carrier of the Rejuvenating Glow set.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deals surprisingly high damage with the empowered Intro (if built with it in mind).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredibly flexible - can be played in many different teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"cons": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Really wants a weapon with Concerto Energy generation and feels worse without it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can have a bit of a slow start in Tower of Adversity depending on team composition.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lacks the Coordinated Attacks Verina has which lowers her potential in comparison with characters that synergize with that mechanic.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
 		"voiceActors": {
 			"en": "",
 			"kr": "",
 			"jpn": "",
 			"cn": ""
 		},
-		"buildInfoEcho": null,
-		"buildInfoWeapon": null,
-		"buildInfoOther": null,
-		"attributeBonus": null,
-		"videos": null,
+		"buildInfoEcho": {
+			"echo_4_stat": [
+				{
+					"stat": "Healing Bonus"
+				},
+				{
+					"stat": "CRIT DMG"
+				}
+			],
+			"echo_3_stat": [
+				{
+					"stat": "Energy Regen"
+				}
+			],
+			"echo_3a_stat": [
+				{
+					"stat": "Energy Regen"
+				},
+				{
+					"stat": "Spectro DMG"
+				},
+				{
+					"stat": "HP%"
+				}
+			],
+			"echo_1_stat": [
+				{
+					"stat": "HP%"
+				}
+			],
+			"echo_1a_stat": [
+				{
+					"stat": "HP%"
+				}
+			],
+			"echo_sets": [
+				{
+					"name": "Rejuvenating Glow",
+					"name2": "",
+					"value": "",
+					"notes": "",
+					"main_echo": "Bell-Borne Geochelone"
+				}
+			]
+		},
+		"buildInfoWeapon": [
+			{
+				"weapon": "Stellar Symphony",
+				"super": "1",
+				"notes": "",
+				"percent": "115.38%"
+			},
+			{
+				"weapon": "Variation",
+				"super": "5",
+				"notes": "",
+				"percent": "100%"
+			},
+			{
+				"weapon": "Rectifier#25",
+				"super": "5",
+				"notes": "",
+				"percent": "68.38%"
+			},
+			{
+				"weapon": "Rectifier of Voyager",
+				"super": "5",
+				"notes": "",
+				"percent": "56.72%"
+			}
+		],
+		"buildInfoOther": {
+			"substats": "",
+			"substats_comments": "",
+			"skill_priority": ""
+		},
+		"attributeBonus": {
+			"trace1": {
+				"stat": "HP%",
+				"value": 12
+			},
+			"trace2": {
+				"stat": "Healing Bonus",
+				"value": 12
+			}
+		},
+		"videos": [
+			{
+				"video": "18qsttMI_xI"
+			}
+		],
 		"synergies": null,
-		"endgameStats": null,
+		"endgameStats": {
+			"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"HP: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"30000+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"DEF: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1100+ \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Energy Regen: \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"130-140%+\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The entirety of Shorekeeper's kit hinges on having enough ER to ensure she can consistently cast and gain maximum effect from her Resonance Liberation. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"In order to grant herself and her team the maximum possible buffs through her Liberation she needs\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"250% total ER after buffs (150% from echoes, the weapon, and buffs). \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Shorekeeper gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10% ER for free\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" thanks to one of her inherent passives and can pick up an additional 10% if she uses the Fallacy of No Return echo assuming you ensure it's active before casting her Resonance Liberation. \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Thanks to these conditional effects you'll only need \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"130-140% ER\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" on gear in order to reach the 250% needed for the Liberation but if you're finding yourself running short on Energy in your team composition of choice overshooting the energy requirement can be a worthwhile solution. \",\"marks\":[],\"data\":{}}]}]}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+		},
 		"statsInfo": null,
 		"howToPlay": null,
-		"ascensionMaterials": null,
-		"releaseDate": null,
-		"tierCategory": null,
-		"tierTags": null,
-		"ratings": {
-			"tower": 1
+		"ascensionMaterials": {
+			"ascension": {
+				"name": "Novas",
+				"number": 60
+			},
+			"breakthrough": {
+				"name": "Topological Confinement",
+				"number": 46
+			},
+			"skill": {
+				"name": "Sentinel's Dagger",
+				"number": 26
+			},
+			"common": [
+				{
+					"name": "LF Whisperin Core",
+					"number_skill": 25,
+					"number_char": 4
+				},
+				{
+					"name": "MF Whisperin Core",
+					"number_skill": 28,
+					"number_char": 12
+				},
+				{
+					"name": "HF Whisperin Core",
+					"number_skill": 40,
+					"number_char": 12
+				},
+				{
+					"name": "FF Whisperin Core",
+					"number_skill": 57,
+					"number_char": 4
+				}
+			],
+			"skill_other": [
+				{
+					"name": "Lento Helix",
+					"number": 25
+				},
+				{
+					"name": "Adagio Helix",
+					"number": 28
+				},
+				{
+					"name": "Andante Helix",
+					"number": 55
+				},
+				{
+					"name": "Presto Helix",
+					"number": 67
+				}
+			]
 		},
-		"isNew": null,
-		"upcoming": true
+		"releaseDate": "2024-09-29",
+		"tierCategory": "Support",
+		"tierTags": [
+			"Heal"
+		],
+		"ratings": {
+			"tower": 11
+		},
+		"isNew": true,
+		"upcoming": false
 	}
 ]

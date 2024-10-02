@@ -75,33 +75,742 @@
 			"nodeType": "document"
 		}
 	},
-	"dupes": null,
-	"skills": null,
-	"review": null,
-	"pros": null,
-	"cons": null,
-	"voiceActors": {
-		"en": "",
-		"kr": "",
-		"jpn": "",
-		"cn": ""
+	"dupes": {
+		"dupe1": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Law of Reigns additionally launches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Convolution Matrices at enemies, each dealing Resonance Liberation DMG equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the skill's DMG Multiplier. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe2": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Resonance Skill or Resonance Liberation Cogitation Model increases Crit. DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe3": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Resonance Liberation Cogitation Model increases the DMG of the following Resonance Skill moves by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 63% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Decipher, Deduction, Divergence, and Law of Reigns. This effect can be triggered up to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" times. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe4": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Resonance Liberation Cogitation Model grants a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"DMG Bonus to all team members' Resonance Liberation for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe5": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG Multiplier of Outro Skill Chain Rule is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"222%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". The DMG Multiplier of Resonance Liberation Cogitation Model is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		},
+		"dupe6": {
+			"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Hypercubes obtained from Resonance Liberation Cogitation Model are enhanced, increasing the DMG Multiplier of Resonance Skill Law of Reigns by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"76%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		}
 	},
-	"buildInfoEcho": null,
-	"buildInfoWeapon": null,
-	"buildInfoOther": null,
-	"attributeBonus": null,
-	"videos": null,
+	"skills": [
+		{
+			"name": "Probe",
+			"category": "Active",
+			"type": "Basic Attack",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform a charged attack at the cost of STA, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform a Plunging Attack from mid-air at the cost of STA, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Stage 1 DMG",
+					"Lv1": "16.65%*2",
+					"Lv2": "18.02%*2",
+					"Lv3": "19.39%*2",
+					"Lv4": "21.30%*2",
+					"Lv5": "22.66%*2",
+					"Lv6": "24.23%*2",
+					"Lv7": "26.42%*2",
+					"Lv8": "28.60%*2",
+					"Lv9": "30.79%*2",
+					"Lv10": "33.11%*2"
+				},
+				{
+					"Name": "Stage 2 DMG",
+					"Lv1": "50.10%",
+					"Lv2": "54.21%",
+					"Lv3": "58.32%",
+					"Lv4": "64.07%",
+					"Lv5": "68.18%",
+					"Lv6": "72.91%",
+					"Lv7": "79.48%",
+					"Lv8": "86.05%",
+					"Lv9": "92.62%",
+					"Lv10": "99.61%"
+				},
+				{
+					"Name": "Stage 3 DMG",
+					"Lv1": "20.00%*3",
+					"Lv2": "21.64%*3",
+					"Lv3": "23.28%*3",
+					"Lv4": "25.58%*3",
+					"Lv5": "27.22%*3",
+					"Lv6": "29.10%*3",
+					"Lv7": "31.73%*3",
+					"Lv8": "34.35%*3",
+					"Lv9": "36.98%*3",
+					"Lv10": "39.76%*3"
+				},
+				{
+					"Name": "Stage 4 DMG",
+					"Lv1": "26.68%*2 + 13.34%",
+					"Lv2": "28.87%*2 + 14.44%",
+					"Lv3": "31.06%*2 + 15.53%",
+					"Lv4": "34.12%*2 + 17.06%",
+					"Lv5": "36.31%*2 + 18.16%",
+					"Lv6": "38.83%*2 + 19.42%",
+					"Lv7": "42.33%*2 + 21.17%",
+					"Lv8": "45.83%*2 + 22.92%",
+					"Lv9": "49.33%*2 + 24.67%",
+					"Lv10": "53.05%*2 + 26.53%"
+				},
+				{
+					"Name": "Stage 5 DMG",
+					"Lv1": "100.00%",
+					"Lv2": "108.20%",
+					"Lv3": "116.40%",
+					"Lv4": "127.88%",
+					"Lv5": "136.08%",
+					"Lv6": "145.51%",
+					"Lv7": "158.63%",
+					"Lv8": "171.75%",
+					"Lv9": "184.87%",
+					"Lv10": "198.81%"
+				},
+				{
+					"Name": "HA DMG",
+					"Lv1": "41.65%*2",
+					"Lv2": "45.07%*2",
+					"Lv3": "48.49%*2",
+					"Lv4": "53.27%*2",
+					"Lv5": "56.68%*2",
+					"Lv6": "60.61%*2",
+					"Lv7": "66.07%*2",
+					"Lv8": "71.54%*2",
+					"Lv9": "77.00%*2",
+					"Lv10": "82.81%*2"
+				},
+				{
+					"Name": "Mid-air Attack DMG",
+					"Lv1": "62.00%",
+					"Lv2": "67.09%",
+					"Lv3": "72.17%",
+					"Lv4": "79.29%",
+					"Lv5": "84.37%",
+					"Lv6": "90.22%",
+					"Lv7": "98.36%",
+					"Lv8": "106.49%",
+					"Lv9": "114.62%",
+					"Lv10": "123.27%"
+				},
+				{
+					"Name": "Dodge Counter DMG",
+					"Lv1": "120.00%",
+					"Lv2": "129.84%",
+					"Lv3": "139.68%",
+					"Lv4": "153.46%",
+					"Lv5": "163.30%",
+					"Lv6": "174.62%",
+					"Lv7": "190.36%",
+					"Lv8": "206.10%",
+					"Lv9": "221.85%",
+					"Lv10": "238.58%"
+				},
+				{
+					"Name": "HA STA Cost",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Mid-air Attack STA Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				}
+			]
+		},
+		{
+			"name": "Deduction",
+			"category": "Active",
+			"type": "Resonance Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill DMG",
+					"Lv1": "100.00%",
+					"Lv2": "108.20%",
+					"Lv3": "116.40%",
+					"Lv4": "127.88%",
+					"Lv5": "136.08%",
+					"Lv6": "145.51%",
+					"Lv7": "158.63%",
+					"Lv8": "171.75%",
+					"Lv9": "184.87%",
+					"Lv10": "198.81%"
+				},
+				{
+					"Name": "Cooldown",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				},
+				{
+					"Name": "Concerto Regen",
+					"Lv1": "7",
+					"Lv2": "7",
+					"Lv3": "7",
+					"Lv4": "7",
+					"Lv5": "7",
+					"Lv6": "7",
+					"Lv7": "7",
+					"Lv8": "7",
+					"Lv9": "7",
+					"Lv10": "7"
+				}
+			]
+		},
+		{
+			"name": "Cogitation Model",
+			"category": "Active",
+			"type": "Resonance Liberation",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Enter Intuition.\\nWhen in Intuition:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Hypercube(s). Each time Resonance Skill Law of Reigns is cast, consume \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Hypercube(s). Intuition ends once all Hypercubes are consumed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack and Heavy Attack are replaced with Basic Attack Pivot - Impale, which performs up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Deduction is replaced with Resonance Skill Divergence, which deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter is replaced with Dodge Counter Unfathomed, considered as Resonance Liberation DMG. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Cogitation Model DMG",
+					"Lv1": "737.42%",
+					"Lv2": "797.89%",
+					"Lv3": "858.35%",
+					"Lv4": "943.01%",
+					"Lv5": "1003.48%",
+					"Lv6": "1073.02%",
+					"Lv7": "1169.76%",
+					"Lv8": "1266.51%",
+					"Lv9": "1363.26%",
+					"Lv10": "1466.06%"
+				},
+				{
+					"Name": "Pivot - Impale Stage 1 DMG",
+					"Lv1": "60.19%",
+					"Lv2": "65.13%",
+					"Lv3": "70.06%",
+					"Lv4": "76.97%",
+					"Lv5": "81.91%",
+					"Lv6": "87.59%",
+					"Lv7": "95.48%",
+					"Lv8": "103.38%",
+					"Lv9": "111.28%",
+					"Lv10": "119.67%"
+				},
+				{
+					"Name": "Pivot - Impale Stage 2 DMG",
+					"Lv1": "30.65%*4",
+					"Lv2": "33.16%*4",
+					"Lv3": "35.67%*4",
+					"Lv4": "39.19%*4",
+					"Lv5": "41.70%*4",
+					"Lv6": "44.59%*4",
+					"Lv7": "48.61%*4",
+					"Lv8": "52.63%*4",
+					"Lv9": "56.65%*4",
+					"Lv10": "60.92%*4"
+				},
+				{
+					"Name": "Pivot - Impale Stage 3 DMG",
+					"Lv1": "67.03%*2",
+					"Lv2": "72.52%*2",
+					"Lv3": "78.02%*2",
+					"Lv4": "85.71%*2",
+					"Lv5": "91.21%*2",
+					"Lv6": "97.53%*2",
+					"Lv7": "106.32%*2",
+					"Lv8": "115.12%*2",
+					"Lv9": "123.91%*2",
+					"Lv10": "133.25%*2"
+				},
+				{
+					"Name": "Divergence DMG",
+					"Lv1": "24.94%*3 + 87.29%*2",
+					"Lv2": "26.99%*3 + 94.45%*2",
+					"Lv3": "29.04%*3 + 101.61%*2",
+					"Lv4": "31.90%*3 + 111.63%*2",
+					"Lv5": "33.94%*3 + 118.79%*2",
+					"Lv6": "36.30%*3 + 127.02%*2",
+					"Lv7": "39.57%*3 + 138.47%*2",
+					"Lv8": "42.84%*3 + 149.93%*2",
+					"Lv9": "46.11%*3 + 161.38%*2",
+					"Lv10": "49.59%*3 + 173.55%*2"
+				},
+				{
+					"Name": "Unfathomed DMG",
+					"Lv1": "19.53%*2 + 156.22%",
+					"Lv2": "21.13%*2 + 169.03%",
+					"Lv3": "22.73%*2 + 181.84%",
+					"Lv4": "24.98%*2 + 199.77%",
+					"Lv5": "26.58%*2 + 212.58%",
+					"Lv6": "28.42%*2 + 227.31%",
+					"Lv7": "30.98%*2 + 247.81%",
+					"Lv8": "33.54%*2 + 268.30%",
+					"Lv9": "36.10%*2 + 288.80%",
+					"Lv10": "38.83%*2 + 310.58%"
+				},
+				{
+					"Name": "Intuition Duration",
+					"Lv1": "24",
+					"Lv2": "24",
+					"Lv3": "24",
+					"Lv4": "24",
+					"Lv5": "24",
+					"Lv6": "24",
+					"Lv7": "24",
+					"Lv8": "24",
+					"Lv9": "24",
+					"Lv10": "24"
+				},
+				{
+					"Name": "Cogitation Model Cooldown",
+					"Lv1": "25",
+					"Lv2": "25",
+					"Lv3": "25",
+					"Lv4": "25",
+					"Lv5": "25",
+					"Lv6": "25",
+					"Lv7": "25",
+					"Lv8": "25",
+					"Lv9": "25",
+					"Lv10": "25"
+				},
+				{
+					"Name": "Divergence Cooldown",
+					"Lv1": "7",
+					"Lv2": "7",
+					"Lv3": "7",
+					"Lv4": "7",
+					"Lv5": "7",
+					"Lv6": "7",
+					"Lv7": "7",
+					"Lv8": "7",
+					"Lv9": "7",
+					"Lv10": "7"
+				},
+				{
+					"Name": "Resonance Cost",
+					"Lv1": "125",
+					"Lv2": "125",
+					"Lv3": "125",
+					"Lv4": "125",
+					"Lv5": "125",
+					"Lv6": "125",
+					"Lv7": "125",
+					"Lv8": "125",
+					"Lv9": "125",
+					"Lv10": "125"
+				},
+				{
+					"Name": "Cogitation Model Concerto Regen",
+					"Lv1": "20",
+					"Lv2": "20",
+					"Lv3": "20",
+					"Lv4": "20",
+					"Lv5": "20",
+					"Lv6": "20",
+					"Lv7": "20",
+					"Lv8": "20",
+					"Lv9": "20",
+					"Lv10": "20"
+				},
+				{
+					"Name": "Divergence Concerto Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Forever Seeking",
+			"category": "Forte Circuit",
+			"type": "Forte Circuit",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Resonance Skill - Decipher\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Capacity reaches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", Resonance Skill Deduction is replaced with Resonance Skill Decipher.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Capacity to cast Resonance Skill Decipher, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Liberation DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Resonance Skill - Law of Reigns\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in Intuition triggered by Resonance Liberation and Performance Capacity reaches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", Resonance Skill Divergence is replaced with Resonance Skill Law of Reigns.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Performance Capacity to cast Resonance Skill Law of Reigns, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Liberation DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Attack - Revamp\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shortly after casting Resonance Skill Decipher or Resonance Skill Divergence, use Basic Attack to perform Mid-air Attack Revamp at the cost of STA, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Liberation DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Capacity\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Capacity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Every Normal Attack Probe on hit grants Capacity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Every Resonance Skill Deduction on hit grants Capacity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Performance Capacity\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in Intuition triggered by Resonance Liberation:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity when Stage 1 of Basic Attack Pivot - Impale hits a target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity when Stage 2 or 3 of Basic Attack Pivot - Impale hits a target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Performance Capacity for every Resonance Skill Divergence on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity for every Mid-air Attack Revamp on hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obtain\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Performance Capacity for every Dodge Counter Unfathomed on hit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Decipher DMG",
+					"Lv1": "200.10%",
+					"Lv2": "216.51%",
+					"Lv3": "232.92%",
+					"Lv4": "255.89%",
+					"Lv5": "272.30%",
+					"Lv6": "291.17%",
+					"Lv7": "317.42%",
+					"Lv8": "343.68%",
+					"Lv9": "369.93%",
+					"Lv10": "397.82%"
+				},
+				{
+					"Name": "Law of Reigns DMG",
+					"Lv1": "48.15%*4 + 128.40%",
+					"Lv2": "52.10%*4 + 138.93%",
+					"Lv3": "56.05%*4 + 149.46%",
+					"Lv4": "61.58%*4 + 164.20%",
+					"Lv5": "65.53%*4 + 174.73%",
+					"Lv6": "70.07%*4 + 186.84%",
+					"Lv7": "76.39%*4 + 203.69%",
+					"Lv8": "82.70%*4 + 220.53%",
+					"Lv9": "89.02%*4 + 237.38%",
+					"Lv10": "95.73%*4 + 255.28%"
+				},
+				{
+					"Name": "Revamp DMG",
+					"Lv1": "11.00%*4 + 33.00%*2",
+					"Lv2": "11.91%*4 + 35.71%*2",
+					"Lv3": "12.81%*4 + 38.42%*2",
+					"Lv4": "14.07%*4 + 42.21%*2",
+					"Lv5": "14.97%*4 + 44.91%*2",
+					"Lv6": "16.01%*4 + 48.02%*2",
+					"Lv7": "17.45%*4 + 52.35%*2",
+					"Lv8": "18.90%*4 + 56.68%*2",
+					"Lv9": "20.34%*4 + 61.01%*2",
+					"Lv10": "21.87%*4 + 65.61%*2"
+				},
+				{
+					"Name": "Revamp STA Cost",
+					"Lv1": "30",
+					"Lv2": "30",
+					"Lv3": "30",
+					"Lv4": "30",
+					"Lv5": "30",
+					"Lv6": "30",
+					"Lv7": "30",
+					"Lv8": "30",
+					"Lv9": "30",
+					"Lv10": "30"
+				},
+				{
+					"Name": "Decipher Concerto Regen",
+					"Lv1": "7",
+					"Lv2": "7",
+					"Lv3": "7",
+					"Lv4": "7",
+					"Lv5": "7",
+					"Lv6": "7",
+					"Lv7": "7",
+					"Lv8": "7",
+					"Lv9": "7",
+					"Lv10": "7"
+				},
+				{
+					"Name": "Law of Reigns Concerto Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				},
+				{
+					"Name": "Revamp Concerto Regen",
+					"Lv1": "5",
+					"Lv2": "5",
+					"Lv3": "5",
+					"Lv4": "5",
+					"Lv5": "5",
+					"Lv6": "5",
+					"Lv7": "5",
+					"Lv8": "5",
+					"Lv9": "5",
+					"Lv10": "5"
+				}
+			]
+		},
+		{
+			"name": "Knowing",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Gain \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Electro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Bonus after casting Resonance Skill for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", stackable for up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"times.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Focus",
+			"category": "Inherent",
+			"type": "Inherent Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When in Intuition triggered by Resonance Liberation, Xiangli Yao's resistance to interruption is enhanced.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		},
+		{
+			"name": "Principle",
+			"category": "Transition",
+			"type": "Intro Skill",
+			"description": {
+				"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Electro DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+			},
+			"multipliers": [
+				{
+					"Name": "Skill DMG",
+					"Lv1": "50.00%*2",
+					"Lv2": "54.10%*2",
+					"Lv3": "58.20%*2",
+					"Lv4": "63.94%*2",
+					"Lv5": "68.04%*2",
+					"Lv6": "72.76%*2",
+					"Lv7": "79.32%*2",
+					"Lv8": "85.88%*2",
+					"Lv9": "92.44%*2",
+					"Lv10": "99.41%*2"
+				},
+				{
+					"Name": "Concerto Regen",
+					"Lv1": "10",
+					"Lv2": "10",
+					"Lv3": "10",
+					"Lv4": "10",
+					"Lv5": "10",
+					"Lv6": "10",
+					"Lv7": "10",
+					"Lv8": "10",
+					"Lv9": "10",
+					"Lv10": "10"
+				}
+			]
+		},
+		{
+			"name": "Chain Rule",
+			"category": "Transition",
+			"type": "Outro Skill",
+			"description": {
+				"raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Xiangli Yao will call down a laser beam upon the first target the incoming Resonator's Basic Attack hits, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Electro DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"237.63%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Xiangli Yao's ATK to an area. This effect lasts for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"and can be triggered once every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" times.\",\"marks\":[],\"data\":{}}]}]}"
+			},
+			"multipliers": null
+		}
+	],
+	"review": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao is a 5-star Electro Gauntlet wielder who specializes in unleashing strong combos during his Ultimate burst window. What sets him apart from other Ultimate-focused characters, is his unusually long burst duration. This generous window allows for Dodging, Swapping, and even a few mistakes, making his gameplay more forgiving and accessible. Additionally, Xiangli Yao gains Interruption Resistance while his Ultimate buff is active, eliminating one of the most frustrating issues faced by burst-centric characters: being interrupted mid-combo. This resistance significantly reduces his reliance on Swap-Cancels—a challenge that troubles some of his counterparts like Calcharo. To better grasp his abilities and unlock his full potential, let’s dive into his kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As an Ultimate-centric character, Xiangli Yao largely overlooks his non-Ultimate abilities in favor of quickly gaining access to his Ultimate. However, there is one exception - the Resonance Skill: Deduction. This ability delivers an Electro attack that generates a substantial amount of Concerto/Resonance energy, is Swap-Cancellable, and has an impressively short cooldown of just 5 seconds. Xiangli Yao's main combo falls slightly short of producing the required 100 Concerto to consistently execute his Outro. To bridge this gap, weaving in one or two uses of Deduction during your team’s rotations is highly advised. This not only ensures smooth combo execution but also contributes to additional Resonance energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao’s Ultimate Cognition Model is heart of his kit. Upon activation, Xiangli Yao summons a large cube projection, delivering substantial Electro damage while generating a significant amount of Concerto and placing him into the Intuition buffed state for 24 seconds. During this phase, all his abilities—Basic Attack, Resonance Skill, Dodge Counter, Heavy Attack, and Mid-Air Attack—are enhanced, alongside his Forte gauge. One of the key elements introduced by the Ultimate is the acquisition of 3 charges of Hypercube - it's a unique resource that fuels a powerful attack - Law of Reigns. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Your goal after activating Xiangli Yao’s Ultimate and entering the Intuition state is not to perform as many enhanced attacks within the 24-second duration as possible but, instead to focus on expending all 3 of his Hypercube charges on Laws of Reign as fast as possible - as doing this will lead to the most damage per second. Additionally after consuming all 3 charges of Hypercube the Intuition buffed state will end regardless of the remaining duration ready for you to recharge it and repeat the 3 cube burst combo again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao’s Forte Gauge is up next and he actually has access to two of them - one of which is essential to his gameplay (Ultimate empowered) and the other of which can be mostly ignored (Standard).  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His first and standard Forte Gauge is active whenever his Ultimate buffed state is not and is called “Capacity”. Whenever Xiangli Yao uses his standard Resonance Skill or Basic Attacks he generates capacity rapidly and after accumulating a full Forte Gauge worth of it his Resonance Skill -  Deduction is replaced with Resonance Skill - Decipher, which deals more damage and has a separate cooldown. Decipher generates the same Concerto energy and similar Resonance Energy to Deduction and doesn’t directly aid Xiangli Yao with his game plan. For this reason, the standard Forte Gauge is mostly irrelevant and can be treated as a bit of bonus damage whenever it fills. Sometimes some of your Deductions you use to generate Concerto and Resonance energy will be converted to Deciphers but you should treat them the same and still Swap-Cancel them as fast as possible to focus on his Ultimate instead. \\nXiangli Yao’s second Forte Gauge can only be accessed after using his Ultimate Cognition Model and while the Intuition buff remains active. While the Ultimate enhanced Forte Gauge is in effect Xiangli Yao’s Capacity gauge is upgraded into “Performance Capacity” which converts it into a 5-point charge system that can be accumulated by landing hits with any of his Ultimate enhanced abilities. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As mentioned earlier Xiangli Yao’s goal during his Ultimate is to consume all 3 of his Hypercube charges as fast as possible by executing 3 Laws of Reign attacks. The catch to this is that Laws of Reign requires and consumes 5 Performance Capacity charges in order to activate. This means your updated mission now is to generate 5 Performance Capacity and spend it on Laws of Reign 3 times as fast as you can. To do this you’ll want to execute the series of enhanced abilities which generates 5 Performance Capacity as fast as possible while also dealing as much damage as possible. The best combo to do this is by combining Xiangli Yao’s Ultimate enhanced Resonance Skill - Divergence to jump into the air followed by his enhanced Mid-Air Attack - Revamp, you of course want to follow this with Laws of Reign.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate: Skill: Divergence (Builds 2 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Forte: Mid-Air Atk: Revamp (Builds 3 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Forte: Skill: Law of Reigns (Consumes 5 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"That’s 1 Cube down and 2 to go but there’s an issue - while the above combo is the most efficient in terms of time, damage, and resource generation Divergence has a 7-second cooldown so we can’t just spam it 3 times in a row. To solve this we need to weave in one more combo that’s the next most efficient and that is making use of Xiangli Yao’s enhanced 3-part Basic Attack combo. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate: Basic: Pivot - Impale P1 (Builds 1 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate: Basic: Pivot - Impale P2 (Builds 2 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate: Basic: Pivot - Impale P3 (Builds 2 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Forte: Skill: Law of Reigns (Consumes 5 Performance Capacity)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After executing the Basic Attack combo the Divergence combo should be back off cooldown to use for the third and final cube. After spending your last cube the Ultimate will immediately end and you’ll be back to the start of using a few Deductions in between your other teammates abilities to generate Resonance energy and Concerto until your Ultimate is ready to go once again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Additionally, while performing Xiangli Yao’s Ultimate combos, you will have ample time to incorporate Dodge Counters or Character Swaps - and all generate extra Performance Capacity. Ultimate-enhanced Dodge Counters, in particular, generate 2 Performance Capacity. If these additional charges are available, you can choose to either continue with the standard combo or integrate them, thus skipping some portions of the usual Performance Capacity building sequences to accelerate the burst process.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao's Inherent Skills significantly improve his performance, providing both offensive and defensive advantages. His first inherent skill grants a stackable Electro DMG% boost whenever a Resonance skill is used, accumulating up to four stacks. Each stack provides a 5% damage increase, and the effect lasts for 8 seconds. Given that Xiangli Yao frequently employs Resonance Skills—Deduction, Decipher, Divergence, and Law of Reigns—this buff will remain active throughout most of his combo. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The second Inherent Skill serves as a defensive tool, granting Xiangli Yao Interruption Resistance while the Intuition State is active. This ability is vital, as many of Xiangli Yao’s powerful attacks come with long animations. Without this skill, he would need to rely on Swap-Cancels, much like Calcharo. However, with this ability, Xiangli Yao can execute his attacks freely, without the constant concern of being interrupted mid-combo, allowing for smoother and uninterrupted gameplay.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiangli Yao is a great Electro-damage dealer, offering a level of accessibility that surpasses many other Ultimate-buff-based characters, without compromising on raw damage potential. His versatile and well-rounded kit makes him a reliable choice, with strong team synergies available right from his release. One of his greatest advantages is his accessibility, as he is available for free for some time after his initial banner drops (during the 1.2 patch). His easy-to-learn playstyle combined with his potent damage output makes him a standout option in his role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"pros": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredibly long and very forgiving burst window, allowing dodging, mistakes, and switching if desired,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Main Combo combines ground and aerial combat which can sometimes allow Xiangli Yao to avoid attacks mid-combo increasing his safety even without dodging,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredibly powerful amplification options via team building lead to big opportunities during his ultimate burst window - stacking Verina + Yinlin outros right before ultimate is very potent,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has great energy and concerto efficiency between his high-generation main combo and incredibly spammable standard Resonance Skill and Forte: Resonance skill (Outside of Ultimate) abilities,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gains interruption resistance (not immunity) during his Ultimate state (Intuition) which should be most of his field time,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He's free at the time of his release! \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"cons": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Main combo takes some getting used to, to pull off in the heat of combat but is manageable when you learn how,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"All main combo animations are very long leaving Xiangli Yao vulnerable to taking damage (even if he is rarely interrupted).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
+	"voiceActors": {
+		"en": "Shaun Mendum",
+		"kr": "Jung Eui Jin",
+		"jpn": "Kobayashi Chiaki",
+		"cn": "Ban Ma"
+	},
+	"buildInfoEcho": {
+		"echo_4_stat": [
+			{
+				"stat": "CRIT DMG"
+			},
+			{
+				"stat": "CRIT Rate"
+			}
+		],
+		"echo_3_stat": [
+			{
+				"stat": "Electro DMG"
+			},
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_3a_stat": [
+			{
+				"stat": "Electro DMG"
+			},
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_1a_stat": [
+			{
+				"stat": "ATK%"
+			}
+		],
+		"echo_sets": [
+			{
+				"name": "Void Thunder",
+				"name2": "",
+				"value": "100%",
+				"notes": "",
+				"main_echo": "Tempest Mephis"
+			},
+			{
+				"name": "Endless Resonance",
+				"name2": "",
+				"value": "101.15%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			},
+			{
+				"name": "Void Thunder",
+				"name2": "Endless Resonance",
+				"value": "95.51%",
+				"notes": "",
+				"main_echo": "Mech Abomination"
+			}
+		]
+	},
+	"buildInfoWeapon": [
+		{
+			"weapon": "Verity's Handle",
+			"super": "1",
+			"notes": "",
+			"percent": "118.76%"
+		},
+		{
+			"weapon": "Abyss Surges",
+			"super": "1",
+			"notes": "",
+			"percent": "100%"
+		},
+		{
+			"weapon": "Stonard",
+			"super": "5",
+			"notes": "",
+			"percent": "95.79%"
+		},
+		{
+			"weapon": "Hollow Mirage",
+			"super": "5",
+			"notes": "",
+			"percent": "87.38%"
+		},
+		{
+			"weapon": "Gauntlets of Night",
+			"super": "5",
+			"notes": "",
+			"percent": "78.09%"
+		}
+	],
+	"buildInfoOther": {
+		"substats": "CRIT RATE = CRIT DMG > ATK% > Flat ATK = Liberation DMG%",
+		"substats_comments": null,
+		"skill_priority": ""
+	},
+	"attributeBonus": {
+		"trace1": {
+			"stat": "CRIT DMG",
+			"value": 16
+		},
+		"trace2": {
+			"stat": "ATK%",
+			"value": 12
+		}
+	},
+	"videos": [
+		{
+			"video": "0f9yBd3ld8A"
+		}
+	],
 	"synergies": null,
-	"endgameStats": null,
+	"endgameStats": {
+		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1900 - 2500+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ELECTRO DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30% - 70%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60 - 85%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120 - 170%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0% - 30%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (Optional depending on playstyle and team composition) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In Xiangli Yao's most common teams, he doesn't specifically require any energy regeneration in order to gain access to his ultimate in a timely manner or perform his rotation. With that said if you want to be safe and ensure you always have it on hand acquiring 25% - 30% energy regeneration on gear should smooth things out especially when your team's rotations don't go quite as planned. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+	},
 	"statsInfo": null,
 	"howToPlay": null,
-	"ascensionMaterials": null,
-	"releaseDate": null,
-	"tierCategory": null,
-	"tierTags": null,
-	"ratings": {
-		"tower": 1
+	"ascensionMaterials": {
+		"ascension": {
+			"name": "Violet Coral",
+			"number": 60
+		},
+		"breakthrough": {
+			"name": "Hidden Thunder Tacet Core",
+			"number": 46
+		},
+		"skill": {
+			"name": "Unending Destruction",
+			"number": 26
+		},
+		"common": [
+			{
+				"name": "LF Whisperin Core",
+				"number_skill": 25,
+				"number_char": 4
+			},
+			{
+				"name": "MF Whisperin Core",
+				"number_skill": 28,
+				"number_char": 12
+			},
+			{
+				"name": "HF Whisperin Core",
+				"number_skill": 40,
+				"number_char": 12
+			},
+			{
+				"name": "FF Whisperin Core",
+				"number_skill": 57,
+				"number_char": 4
+			}
+		],
+		"skill_other": [
+			{
+				"name": "Cadence Seed",
+				"number": 25
+			},
+			{
+				"name": "Cadence Bud",
+				"number": 28
+			},
+			{
+				"name": "Cadence Leaf",
+				"number": 55
+			},
+			{
+				"name": "Cadence Blossom",
+				"number": 67
+			}
+		]
 	},
-	"isNew": null,
-	"upcoming": true
+	"releaseDate": "2024-09-07",
+	"tierCategory": "DPS",
+	"tierTags": [
+		"Cleave",
+		"Ult"
+	],
+	"ratings": {
+		"tower": 10
+	},
+	"isNew": false,
+	"upcoming": false
 }

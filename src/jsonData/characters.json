@@ -151,5 +151,12 @@
         "name": "Xiangli Yao",
         "tag": "Electro",
         "bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)"
+    },
+    {
+        "id": "23",
+        "img": "https://www.prydwen.gg/static/53a7609e743512dbf5f89bb78cc7bab4/b26e2/card_keeper.webp",
+        "name": "The Shorekeeper",
+        "tag": "Spectro",
+        "bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)"
     }
   ]
