@@ -1,0 +1,740 @@
+{
+    "id": "24",
+    "img": "https://www.prydwen.gg/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/b26e2/card_youhu.webp",
+    "img2": "https://www.prydwen.gg/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/b26e2/card_youhu.webp",
+    "imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hha-active-182494e6.png",
+    "updatedAt": "October 24th, 2024",
+    "createdAt": "2024-08-04T12:01:09.731Z",
+    "bStyle": "linear-gradient(0deg, rgba(119,61,166,1) -79%, rgba(255,255,255,0) 100%)",
+    "region": "Black Shores",
+    "unitId": "23",
+    "devId": 1106,
+    "name": "Youhu",
+    "slug": "youhu",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/017e36528141dbd7900ed716a9bd07b8/60b4d/icon_youhu.webp",
+                            "srcSet": "/static/017e36528141dbd7900ed716a9bd07b8/e73fe/icon_youhu.webp 40w,\n/static/017e36528141dbd7900ed716a9bd07b8/61ca6/icon_youhu.webp 80w,\n/static/017e36528141dbd7900ed716a9bd07b8/60b4d/icon_youhu.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/b26e2/card_youhu.webp",
+                            "srcSet": "/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/84550/card_youhu.webp 94w,\n/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/34f80/card_youhu.webp 187w,\n/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/b26e2/card_youhu.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "rarity": "4",
+    "element": "Glacio",
+    "weapon": "Unknown",
+    "introduction": {
+        "raw": {
+            "data": {},
+            "content": [
+                {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "marks": [],
+                            "value": "Youhu, a natural expert in identifying antiques, is a capable speaker with distinctive tastes. When dealing with treasures and antiques, this jubilant dynamo settles into calm perception, tracing their distant past through their wrinkles and textures. ",
+                            "nodeType": "text"
+                        }
+                    ],
+                    "nodeType": "paragraph"
+                }
+            ],
+            "nodeType": "document"
+        }
+    },
+    "dupes": {
+        "dupe1": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu has a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" chance to gain immunity to damage and interruption after casting Lucky Draw. This effect lasts for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"or until she is switched out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe2": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG bonus of Antithesis, Triplet and Perfect Rhyme on Poetic Essence is doubled.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe3": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu's ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe4": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Every time Resonance Skill Scroll Divination is cast, there is a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" chance that the skill will not enter Cooldown.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe5": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Intro Skill Scroll of Wonders is cast, Youhu's Crit. Rate is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe6": {
+            "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When casting Resonance Skill Antique Appraisal, gain \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" stack of Sky Blue, stackable up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"times, lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"7s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Each stack increases Youhu's Crit. DMG by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+        }
+    },
+    "skills": [
+        {
+            "name": "Frosty Punches",
+            "category": "Active",
+            "type": "Basic Attack",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Basic Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Frost is full, hold the Normal Attack Button to cast Frostfall.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Frost is full during the Fortune Rolling state, release the Normal Attack Button to cast Frostfall. If Youhu cannot cast Frostfall at the moment, perform Lucky Draw once instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu can obtain Frost in the following ways:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Frost is not full, hold Normal Attack Button to enter the Fortune Rolling state and restore Frost over time.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\" When Basic Attacks hit a target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Heavy Attack: Frostfall\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu dashes forward, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and performs Lucky Draw once.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mid-air Attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perform a Plunging Attack at the cost of STA, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Dodge Counter\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Youhu possesses no Antique, quickly press Normal Attack Button right after a successful Dodge to thrust forward, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and perform Lucky Draw once.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": [
+                {
+                    "Name": "Stage 1 DMG",
+                    "Lv1": "23.83%",
+                    "Lv2": "25.79%",
+                    "Lv3": "27.74%",
+                    "Lv4": "30.48%",
+                    "Lv5": "32.43%",
+                    "Lv6": "34.68%",
+                    "Lv7": "37.80%",
+                    "Lv8": "40.93%",
+                    "Lv9": "44.05%",
+                    "Lv10": "47.38%"
+                },
+                {
+                    "Name": "Stage 2 DMG",
+                    "Lv1": "16.05% + 29.81%",
+                    "Lv2": "17.37% + 32.25%",
+                    "Lv3": "18.69% + 34.70%",
+                    "Lv4": "20.53% + 38.12%",
+                    "Lv5": "21.84% + 40.56%",
+                    "Lv6": "23.36% + 43.37%",
+                    "Lv7": "25.46% + 47.28%",
+                    "Lv8": "27.57% + 51.19%",
+                    "Lv9": "29.67% + 55.10%",
+                    "Lv10": "31.91% + 59.26%"
+                },
+                {
+                    "Name": "Stage 3 DMG",
+                    "Lv1": "19.15% + 23.40%",
+                    "Lv2": "20.72% + 25.32%",
+                    "Lv3": "22.29% + 27.24%",
+                    "Lv4": "24.49% + 29.93%",
+                    "Lv5": "26.06% + 31.84%",
+                    "Lv6": "27.86% + 34.05%",
+                    "Lv7": "30.37% + 37.12%",
+                    "Lv8": "32.88% + 40.19%",
+                    "Lv9": "35.40% + 43.26%",
+                    "Lv10": "38.06% + 46.52%"
+                },
+                {
+                    "Name": "Stage 4 DMG",
+                    "Lv1": "58.53%",
+                    "Lv2": "63.33%",
+                    "Lv3": "68.13%",
+                    "Lv4": "74.84%",
+                    "Lv5": "79.64%",
+                    "Lv6": "85.16%",
+                    "Lv7": "92.84%",
+                    "Lv8": "100.52%",
+                    "Lv9": "108.20%",
+                    "Lv10": "116.35%"
+                },
+                {
+                    "Name": "Heavy Attack: Frostfall DMG",
+                    "Lv1": "7.27%*6",
+                    "Lv2": "7.87%*6",
+                    "Lv3": "8.46%*6",
+                    "Lv4": "9.29%*6",
+                    "Lv5": "9.89%*6",
+                    "Lv6": "10.58%*6",
+                    "Lv7": "11.53%*6",
+                    "Lv8": "12.48%*6",
+                    "Lv9": "13.43%*6",
+                    "Lv10": "14.45%*6"
+                },
+                {
+                    "Name": "Mid-air Attack DMG",
+                    "Lv1": "62.00%",
+                    "Lv2": "67.09%",
+                    "Lv3": "72.17%",
+                    "Lv4": "79.29%",
+                    "Lv5": "84.37%",
+                    "Lv6": "90.22%",
+                    "Lv7": "98.36%",
+                    "Lv8": "106.49%",
+                    "Lv9": "114.62%",
+                    "Lv10": "123.27%"
+                },
+                {
+                    "Name": "Dodge Counter DMG",
+                    "Lv1": "14.53%*6",
+                    "Lv2": "15.73%*6",
+                    "Lv3": "16.92%*6",
+                    "Lv4": "18.58%*6",
+                    "Lv5": "19.78%*6",
+                    "Lv6": "21.15%*6",
+                    "Lv7": "23.05%*6",
+                    "Lv8": "24.96%*6",
+                    "Lv9": "26.86%*6",
+                    "Lv10": "28.89%*6"
+                },
+                {
+                    "Name": "Mid-air Attack STA Cost",
+                    "Lv1": "30",
+                    "Lv2": "30",
+                    "Lv3": "30",
+                    "Lv4": "30",
+                    "Lv5": "30",
+                    "Lv6": "30",
+                    "Lv7": "30",
+                    "Lv8": "30",
+                    "Lv9": "30",
+                    "Lv10": "30"
+                }
+            ]
+        },
+        {
+            "name": "Scroll Divination",
+            "category": "Active",
+            "type": "Resonance Skill",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu smashes her scroll down at the enemy, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", restoring HP for all party members nearby, and performs Lucky Draw once.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Lucky Draw\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu obtains a random Antique after the Lucky Draw. With an Antique, her next Basic Attack will activate the corresponding Antique Appraisal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Only one Antique can exist at a time, and the newly drawn Antique will replace the existing one.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Antique Appraisal\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Chime\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Attack the enemy with a Chime, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Chime can effectively reduce the enemy's Vibration Strength.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Ruyi\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Batter the enemy with a Ruyi, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Ruyi has a higher DMG Multiplier.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Ding\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ram into the enemy on a Ding, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Ding can effectively break the enemy's stance.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Mask\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Throw a Mask at enemies in front, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Mask can pull in enemies along its path.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": [
+                {
+                    "Name": "Skill DMG",
+                    "Lv1": "78.70%",
+                    "Lv2": "85.16%",
+                    "Lv3": "91.61%",
+                    "Lv4": "100.64%",
+                    "Lv5": "107.10%",
+                    "Lv6": "114.52%",
+                    "Lv7": "124.84%",
+                    "Lv8": "135.17%",
+                    "Lv9": "145.49%",
+                    "Lv10": "156.46%"
+                },
+                {
+                    "Name": "Scroll Divination Healing",
+                    "Lv1": "1041 + 39.00%",
+                    "Lv2": "1097 + 40.56%",
+                    "Lv3": "1162 + 42.12%",
+                    "Lv4": "1302 + 44.46%",
+                    "Lv5": "1469 + 47.58%",
+                    "Lv6": "1627 + 50.70%",
+                    "Lv7": "1655 + 56.55%",
+                    "Lv8": "1692 + 63.18%",
+                    "Lv9": "1720 + 70.20%",
+                    "Lv10": "1767 + 81.90%"
+                },
+                {
+                    "Name": "Chime DMG",
+                    "Lv1": "20.65% + 25.07%*3 + 51.62%",
+                    "Lv2": "22.34% + 27.13%*3 + 55.85%",
+                    "Lv3": "24.04% + 29.19%*3 + 60.08%",
+                    "Lv4": "26.41% + 32.06%*3 + 66.01%",
+                    "Lv5": "28.10% + 34.12%*3 + 70.24%",
+                    "Lv6": "30.05% + 36.48%*3 + 75.11%",
+                    "Lv7": "32.76% + 39.77%*3 + 81.88%",
+                    "Lv8": "35.46% + 43.06%*3 + 88.65%",
+                    "Lv9": "38.17% + 46.35%*3 + 95.42%",
+                    "Lv10": "41.05% + 49.85%*3 + 102.62%"
+                },
+                {
+                    "Name": "Ruyi DMG",
+                    "Lv1": "68.91% + 84.23%",
+                    "Lv2": "74.56% + 91.13%",
+                    "Lv3": "80.21% + 98.04%",
+                    "Lv4": "88.13% + 107.71%",
+                    "Lv5": "93.78% + 114.61%",
+                    "Lv6": "100.27% + 122.56%",
+                    "Lv7": "109.31% + 133.61%",
+                    "Lv8": "118.36% + 144.66%",
+                    "Lv9": "127.40% + 155.71%",
+                    "Lv10": "137.00% + 167.45%"
+                },
+                {
+                    "Name": "Ding DMG",
+                    "Lv1": "14.38%*6 + 57.49%",
+                    "Lv2": "15.55%*6 + 62.20%",
+                    "Lv3": "16.73%*6 + 66.91%",
+                    "Lv4": "18.38%*6 + 73.51%",
+                    "Lv5": "19.56%*6 + 78.23%",
+                    "Lv6": "20.92%*6 + 83.65%",
+                    "Lv7": "22.80%*6 + 91.19%",
+                    "Lv8": "24.69%*6 + 98.73%",
+                    "Lv9": "26.57%*6 + 106.27%",
+                    "Lv10": "28.57%*6 + 114.28%"
+                },
+                {
+                    "Name": "Mask DMG",
+                    "Lv1": "5.77%*9 + 22.23%",
+                    "Lv2": "6.24%*9 + 24.06%",
+                    "Lv3": "6.71%*9 + 25.88%",
+                    "Lv4": "7.37%*9 + 28.43%",
+                    "Lv5": "7.85%*9 + 30.25%",
+                    "Lv6": "8.39%*9 + 32.35%",
+                    "Lv7": "9.15%*9 + 35.27%",
+                    "Lv8": "9.90%*9 + 38.18%",
+                    "Lv9": "10.66%*9 + 41.10%",
+                    "Lv10": "11.46%*9 + 44.20%"
+                },
+                {
+                    "Name": "Cooldown",
+                    "Lv1": "15",
+                    "Lv2": "15",
+                    "Lv3": "15",
+                    "Lv4": "15",
+                    "Lv5": "15",
+                    "Lv6": "15",
+                    "Lv7": "15",
+                    "Lv8": "15",
+                    "Lv9": "15",
+                    "Lv10": "15"
+                },
+                {
+                    "Name": "Concerto Regen",
+                    "Lv1": "10",
+                    "Lv2": "10",
+                    "Lv3": "10",
+                    "Lv4": "10",
+                    "Lv5": "10",
+                    "Lv6": "10",
+                    "Lv7": "10",
+                    "Lv8": "10",
+                    "Lv9": "10",
+                    "Lv10": "10"
+                },
+                {
+                    "Name": "Chime Concerto Regen",
+                    "Lv1": "10",
+                    "Lv2": "10",
+                    "Lv3": "10",
+                    "Lv4": "10",
+                    "Lv5": "10",
+                    "Lv6": "10",
+                    "Lv7": "10",
+                    "Lv8": "10",
+                    "Lv9": "10",
+                    "Lv10": "10"
+                },
+                {
+                    "Name": "Ding Concerto Regen",
+                    "Lv1": "10",
+                    "Lv2": "10",
+                    "Lv3": "10",
+                    "Lv4": "10",
+                    "Lv5": "10",
+                    "Lv6": "10",
+                    "Lv7": "10",
+                    "Lv8": "10",
+                    "Lv9": "10",
+                    "Lv10": "10"
+                },
+                {
+                    "Name": "Ruyi Concerto Regen",
+                    "Lv1": "10",
+                    "Lv2": "10",
+                    "Lv3": "10",
+                    "Lv4": "10",
+                    "Lv5": "10",
+                    "Lv6": "10",
+                    "Lv7": "10",
+                    "Lv8": "10",
+                    "Lv9": "10",
+                    "Lv10": "10"
+                },
+                {
+                    "Name": "Mask Concerto Regen",
+                    "Lv1": "10",
+                    "Lv2": "10",
+                    "Lv3": "10",
+                    "Lv4": "10",
+                    "Lv5": "10",
+                    "Lv6": "10",
+                    "Lv7": "10",
+                    "Lv8": "10",
+                    "Lv9": "10",
+                    "Lv10": "10"
+                }
+            ]
+        },
+        {
+            "name": "Fortune's Favor",
+            "category": "Active",
+            "type": "Resonance Liberation",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu hurls her scroll at the enemy, causing a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" blast in the area.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On the blast, four buttons will appear. Choose a button within the specified time to obtain the corresponding Antique. Otherwise, obtain one random Antique. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": [
+                {
+                    "Name": "Skill DMG",
+                    "Lv1": "164.58%",
+                    "Lv2": "178.07%",
+                    "Lv3": "191.57%",
+                    "Lv4": "210.46%",
+                    "Lv5": "223.95%",
+                    "Lv6": "239.47%",
+                    "Lv7": "261.06%",
+                    "Lv8": "282.66%",
+                    "Lv9": "304.25%",
+                    "Lv10": "327.19%"
+                },
+                {
+                    "Name": "Cooldown",
+                    "Lv1": "25",
+                    "Lv2": "25",
+                    "Lv3": "25",
+                    "Lv4": "25",
+                    "Lv5": "25",
+                    "Lv6": "25",
+                    "Lv7": "25",
+                    "Lv8": "25",
+                    "Lv9": "25",
+                    "Lv10": "25"
+                },
+                {
+                    "Name": "Resonance Cost",
+                    "Lv1": "100",
+                    "Lv2": "100",
+                    "Lv3": "100",
+                    "Lv4": "100",
+                    "Lv5": "100",
+                    "Lv6": "100",
+                    "Lv7": "100",
+                    "Lv8": "100",
+                    "Lv9": "100",
+                    "Lv10": "100"
+                },
+                {
+                    "Name": "Concerto Regen",
+                    "Lv1": "20",
+                    "Lv2": "20",
+                    "Lv3": "20",
+                    "Lv4": "20",
+                    "Lv5": "20",
+                    "Lv6": "20",
+                    "Lv7": "20",
+                    "Lv8": "20",
+                    "Lv9": "20",
+                    "Lv10": "20"
+                }
+            ]
+        },
+        {
+            "name": "Poetic Essence",
+            "category": "Forte Circuit",
+            "type": "Forte Circuit",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At four Auspices, hold the Normal Attack button to release Poetic Essence, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered as Resonance Skill DMG, while restoring HP for all nearby party members.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu can hold up to four Auspices.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Poetic Essence\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to enemies within the range and additionally obtain one of the following effects based on the Auspice combination:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Free Verse\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Four different types Auspices. Additionally reduce the Vibration Strength of hit enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Antithesis\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": A pair of Auspices. Increase Poetic Essence's DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Double Pun\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Two pairs of Auspices. Additionally restore HP for all nearby party members.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Triplet\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Three identical Auspices. Increase Poetic Essence's DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"175%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Perfect Rhyme\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Four identical Auspices. Simultaneously activate the effects of Free Verse, Double Pun, and Triplet.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Poetic Essence removes all Auspices.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Auspice\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu gains an Auspice through Antique Appraisal. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Use Basic Attack while holding an Antique to receive the corresponding Auspice.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Youhu unlocks Antiques by casting Resonance Skill Scroll Divination, Intro Skill Scroll of Wonders, Heavy Attack Frostfall, Resonance Liberation Fortune's Favor, and Dodge Counter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": [
+                {
+                    "Name": "Poetic Essence Skill DMG",
+                    "Lv1": "18.72%*10",
+                    "Lv2": "20.26%*10",
+                    "Lv3": "21.79%*10",
+                    "Lv4": "23.94%*10",
+                    "Lv5": "25.47%*10",
+                    "Lv6": "27.24%*10",
+                    "Lv7": "29.69%*10",
+                    "Lv8": "32.15%*10",
+                    "Lv9": "34.60%*10",
+                    "Lv10": "37.21%*10"
+                },
+                {
+                    "Name": "Poetic Essence Healing",
+                    "Lv1": "1180 + 44.20%",
+                    "Lv2": "1243 + 45.97%",
+                    "Lv3": "1317 + 47.74%",
+                    "Lv4": "1475 + 50.39%",
+                    "Lv5": "1665 + 53.92%",
+                    "Lv6": "1844 + 57.46%",
+                    "Lv7": "1876 + 64.09%",
+                    "Lv8": "1918 + 71.60%",
+                    "Lv9": "1949 + 79.56%",
+                    "Lv10": "2002 + 92.82%"
+                },
+                {
+                    "Name": "Double Pun Bonus Healing",
+                    "Lv1": "694 + 26.00%",
+                    "Lv2": "731 + 27.04%",
+                    "Lv3": "775 + 28.08%",
+                    "Lv4": "868 + 29.64%",
+                    "Lv5": "979 + 31.72%",
+                    "Lv6": "1085 + 33.80%",
+                    "Lv7": "1103 + 37.70%",
+                    "Lv8": "1128 + 42.12%",
+                    "Lv9": "1147 + 46.80%",
+                    "Lv10": "1178 + 54.60%"
+                },
+                {
+                    "Name": "Concerto Regen",
+                    "Lv1": "20",
+                    "Lv2": "20",
+                    "Lv3": "20",
+                    "Lv4": "20",
+                    "Lv5": "20",
+                    "Lv6": "20",
+                    "Lv7": "20",
+                    "Lv8": "20",
+                    "Lv9": "20",
+                    "Lv10": "20"
+                }
+            ]
+        },
+        {
+            "name": "Treasured Piece",
+            "category": "Inherent",
+            "type": "Inherent Skill",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Restore HP for all nearby party members based on \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the healing provided by Resonance Skill Scroll Divination when Resonance Skill Antique Appraisal is cast.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": null
+        },
+        {
+            "name": "Rare Find",
+            "category": "Inherent",
+            "type": "Inherent Skill",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Glacio DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bonus for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"upon casting Intro Skill Scroll of Wonders.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": null
+        },
+        {
+            "name": "Scroll of Wonders",
+            "category": "Transition",
+            "type": "Intro Skill",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Toss out the scroll and perform Lucky Draw once.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": [
+                {
+                    "Name": "PSkill DMG",
+                    "Lv1": "45.00% + 55.00%",
+                    "Lv2": "48.69% + 59.51%",
+                    "Lv3": "52.38% + 64.02%",
+                    "Lv4": "57.55% + 70.34%",
+                    "Lv5": "61.24% + 74.85%",
+                    "Lv6": "65.48% + 80.04%",
+                    "Lv7": "71.39% + 87.25%",
+                    "Lv8": "77.29% + 94.47%",
+                    "Lv9": "83.20% + 101.68%",
+                    "Lv10": "89.47% + 109.35%"
+                },
+                {
+                    "Name": "Concerto Regen",
+                    "Lv1": "10",
+                    "Lv2": "10",
+                    "Lv3": "10",
+                    "Lv4": "10",
+                    "Lv5": "10",
+                    "Lv6": "10",
+                    "Lv7": "10",
+                    "Lv8": "10",
+                    "Lv9": "10",
+                    "Lv10": "10"
+                }
+            ]
+        },
+        {
+            "name": "Timeless Classics",
+            "category": "Transition",
+            "type": "Outro Skill",
+            "description": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The incoming Resonator has their Coordinated Attack DMG Amplified by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"28s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "multipliers": null
+        }
+    ],
+    "review": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Youhu is a 4-star Glacio Gauntlet wielder specializing in full team heals and Coordinated Attacks amplification - a buff exclusive to her at the time of her release.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" She fulfills a similar role to Baizhi in teams, carrying Support Echoes and Sets, providing full team heals, and having a very strong Single Target buff on her Outro. What sets her apart is Melee combat, higher Field time commitments, and a much more specialized but stronger Outro buff which narrows her applications but also has higher potential. As with most supports her game plan is to trigger and maintain her Outro buff on the target of your choice while taking up as little field time as possible. So let's get started and learn exactly how to do that!\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As we’ve just learned, Youhu's Outro is the focus of her kit and responsible for most of her support potential.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" On its execution she grants the incoming Resonator a whopping\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" 100% Coordinated Attack damage amplification for 28 seconds\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", persisting throughout Swaps. This is the single biggest source of damage amplification for any attack type in the game and is absolutely something that can have teams built around it, provided you have a Resonator with considerable and consistent Coordinated Attack damage output. However, there aren’t too many of them at the time of her release.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"To achieve her game plan of accessing her Outro as fast as possible and maintaining the same, Concerto Generation is essential - the fastest way to generate it is to effectively employ the combined unique mechanics behind her Forte Gauge and Resonance Skill.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Her Resonance skill has a cooldown of 15 seconds, generates 10 Concerto Energy, and grants her “Lucky Draw” - a special effect that grants her one of 4 unique “Antique” buffs at random. While an “Antique” is active, her next Basic Attack is enhanced, becoming “Antique Appraisal” consuming the “Antique” buff, granting 10 Concerto Energy, respectable Resonance Energy, and a unique effect depending on which of the 4 “Antique’s” buffs she had active at the time. Here are the names of all 4 “Antique Appraisal” Attacks, and what they do:\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Chime: \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Reduces enemy’s Vibration Strength substantially allowing for faster Stuns.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Ruyi: \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Deals the highest damage.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Ding: \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Disrupts enemy attacks and actions.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Mask:\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" A ranged attack that displaces enemies hit but has the lowest damage.\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"All “Antique Appraisals” generate the same Resonance and Concerto Energy and have similar animation times, meaning which one you draw doesn't make or break combat in most scenarios.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Her Resonance Skill is definitely the easiest way to access “Antiques” but fortunately it’s far from the only one. Using either of her Intro skill or landing a successful Dodge Counter will grant “Lucky Draw” awarding a random “Antique” - ready for use in an empowered “Antique Appraisal” Basic Attack.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"She can also gain access to “Lucky draw” through a combination of her 4 part Basic Attack combo and baseline Forte Gauge “Frost”, a resource exclusively built and spent by her Heavy and Basic Attacks. When hitting an enemy(s) with her Basic Attacks Youhu will accumulate “Frost”, and once the “Frost” Forte Gauge is fully filled up, she can perform Heavy Attack: Frostfall expending all “Frost\\\" in order to gain Concerto Energy and most importantly “Lucky Draw”. Generally landing a full 4 part Basic Attack combo provides enough “Frost” in order to activate Frostfall opening up the following combo:\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic P1\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic P2\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic P3\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic P4\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Heavy Attack: Frostfall\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Enhanced Basic Attack: Antique Appraisal\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"This combo generates a significant amount of Concerto energy and is good for on-demand access to “Antiques” when you have no other abilities available, but since it takes up a substantial amount of field time to fully execute, tactical use is advised.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Alternatively, if you’re fine with sacrificing the damage, Energy, and Concerto from the Basic Attacks you can instead press and hold Youhu’s Heavy Attack to begin a channel that will quickly accumulate “Frost” which when full will allow for a Heavy Attack: Frostfall without requiring to perform a full Basic Attack combo, saving field time at the cost of resources & damage.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Her Resonance Liberation also grants “Antiques” but in a bit of a different way.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" When attacking with the Liberation a choice between all 4 “Antique Appraisal” types will be presented allowing you to choose the exact “Antique\\\" you want giving you some control over the randomness in her kit.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The last piece of the puzzle is her Forte, which we’ve already covered in half earlier with “Frost”, the second half is a separate resource gauge called “Auspice” and is far more impactful as it directly interacts with her “Antique Appraisal” mechanic.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Every time she uses “Antique Appraisal\\\" she gains an “Auspice” based on the “Antique” used, for a maximum of 4 “Auspices” that can be tracked above the Forte gauge. Upon gathering 4 “Auspices” she can execute “Poetic Essence” by pressing and holding the Basic Attack. \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Doing so consumes all “Auspices” to launch an attack generating 20 Concerto Energy, some Resonance Energy, restoring HP to all party members, and dealing Glacio damage.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" But wait there’s more! Similar to her Resonance skill “Poetic Essence” can gain extra benefits based on the types of the “Antiques\\\" you convert to “Auspices” when you spend. In most cases the more “Auspices” you have of the same “Antique\\\" type when using “Poetic Essence\\\" the more/stronger benefits you can gain. Here are all the bonuses and rules to acquire them:\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Free Verse: 4 “Auspices” of different types (1 + 1 + 1 + 1): Reduces enemy’s Vibration Strength substantially contributing to faster stuns.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Antithesis: 2 “Auspices” of the same type (2 + 1 + 1): Increase “Poetic Essence” DMG by 70%\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Double Pun: 2 pairs of “Auspices” of the same type (2 + 2): Add an extra heal to the effect of “Poetic Essence”.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Triplet: 3 “Auspices” of the same type (3 + 1): Increase “Poetic Essence” DMG by 175%\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"4 “Auspices” of the same type (4): Gain the bonuses of Free Verse, Double Pun and Triplet.\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Youhu has very little control over which “Auspices” she gains outside of the “Antique” selection mechanic on her Resonance Liberation\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Because of this, it can pay off well to use your Liberation as the 3rd or 4th “Antique” in order to try for a better “Auspice” combo. With that said, which “Auspice” you end up triggering isn’t too impactful on her overall role in the team - as none of them impact her Resonance Energy or Concerto Energy generation.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Rounding off her kit, Youhu’s Inherent Skills grants her some nice perks. The first skill “Treasured Palace” adds a heal to each of Youhu’s “Antique Appraisal”, granting up to 30% of the heal generated by her standard Resonance Skill. The second is a 15% Glacio Damage boost upon casting her Intro for 14 seconds. The first improves her sustain capabilities nicely but since damage isn’t her priority, the 2nd isn’t quite as impactful.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"To bring it all together, in order to achieve her game plan of generating Concerto as fast as possible - to execute her Outro quickly and ensure it stays active she should;\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Keep Resonance Skill: Divination on cooldown at all times and follow it up with “Antique Appraisal” for burst concerto generation.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Utilize Intro Skill into “Antique appraisal” to generate the Concerto Energy needed to maintain Outro Buff more easily.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Aim to perform Dodge counters followed by “Antique Appraisal” whenever she has field time and it’s convenient to do so.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When building Concerto Energy for the first use of Outro skill or when missing Concerto Energy to maintain it, use either a full combo of Basic Attacks into a Heavy Attack: Frostfall and “Antique Appraisal\\\" or skip the Basic Attacks by holding Heavy Attack in place of them.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Use Resonance Liberation when available, preferably as the 3rd or 4th “Auspice” to gain a better shot at a beneficial buff.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Use “Poetic Essence” as soon as you have 4 “Auspice”.\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"All in all, Youhu is a solid support in general thanks to her healing and Echo choices and also has a strong niche thanks to her huge coordinated attack amplification. \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"With that said her attacks are on the slower end - it takes more work to generate the Concerto she needs compared to other supports and she lacks the selection of coordinated damage dealers to support at the time of her release. Weighing up both sides Youhu stands as a competent but specialized choice with potential to grow with further support to the coordinated attack archetype, specifically for primary DPS.\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unique and very large Coordinated Attack amplification buff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Good full team healing capabilities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Good carrier of supportive Echos and sets.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack animations are on the slower side for characters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"More limited on team building synergies due to primary buff being limited to coordinated attackers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very Concerto hungry especially on her first rotation without access to her Intro immediately.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "",
+        "kr": "",
+        "jpn": "",
+        "cn": ""
+    },
+    "buildInfoEcho": {
+        "echo_4_stat": [
+            {
+                "stat": "Healing Bonus"
+            }
+        ],
+        "echo_3_stat": [
+            {
+                "stat": "Energy Regen"
+            },
+            {
+                "stat": "ATK%"
+            }
+        ],
+        "echo_3a_stat": [
+            {
+                "stat": "Energy Regen"
+            },
+            {
+                "stat": "ATK%"
+            }
+        ],
+        "echo_1_stat": [
+            {
+                "stat": "ATK%"
+            }
+        ],
+        "echo_1a_stat": [
+            {
+                "stat": "ATK%"
+            }
+        ],
+        "echo_sets": [
+            {
+                "name": "Rejuvenating Glow",
+                "name2": "",
+                "value": "",
+                "notes": "",
+                "main_echo": "Bell-Borne Geochelone"
+            }
+        ]
+    },
+    "buildInfoWeapon": [
+        {
+            "weapon": "Marcato",
+            "super": "5",
+            "notes": "",
+            "percent": ""
+        },
+        {
+            "weapon": "Gauntlets#21D",
+            "super": "5",
+            "notes": "",
+            "percent": ""
+        },
+        {
+            "weapon": "Abyss Surges",
+            "super": "1",
+            "notes": "",
+            "percent": ""
+        },
+        {
+            "weapon": "Celestial Spiral",
+            "super": "5",
+            "notes": "",
+            "percent": ""
+        }
+    ],
+    "buildInfoOther": {
+        "substats": "Energy Regeneration (Until satisfied) = ATK% > FLAT ATK",
+        "substats_comments": "",
+        "skill_priority": ""
+    },
+    "attributeBonus": {
+        "trace1": {
+            "stat": "ATK%",
+            "value": 12
+        },
+        "trace2": {
+            "stat": "CRIT Rate",
+            "value": 8
+        }
+    },
+    "videos": [
+        {
+            "video": "P3Tr35AzJB0"
+        }
+    ],
+    "synergies": null,
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1600 - 2000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14500+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regen\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"~60%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (Can get away with less but may also want more) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The amount of ER Youhu needs depends on how much field time you grant her, the Weapon she has equipped, and the main Echo she is using (Bellborne vs Falacy). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a general rule,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 60%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is a safe bet to ensure you have smooth access to her Liberation but you can absolutely get away with less and conversely you may want to stack more as there isn't much else for Youhu to allocate her Echo Sub and Main Stats towards other than Energy and boosting her Healing via ATK%. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsInfo": null,
+    "howToPlay": null,
+    "ascensionMaterials": {
+        "ascension": {
+            "name": "Violet Coral",
+            "number": 60
+        },
+        "breakthrough": {
+            "name": "Topological Confinement",
+            "number": 46
+        },
+        "skill": {
+            "name": "Monument Bell",
+            "number": 26
+        },
+        "common": [
+            {
+                "name": "Crude Ring",
+                "number_skill": 25,
+                "number_char": 4
+            },
+            {
+                "name": "Basic Ring",
+                "number_skill": 28,
+                "number_char": 12
+            },
+            {
+                "name": "Improved Ring",
+                "number_skill": 40,
+                "number_char": 12
+            },
+            {
+                "name": "Tailored Ring",
+                "number_skill": 57,
+                "number_char": 4
+            }
+        ],
+        "skill_other": [
+            {
+                "name": "Cadence Seed",
+                "number": 25
+            },
+            {
+                "name": "Cadence Bud",
+                "number": 28
+            },
+            {
+                "name": "Cadence Leaf",
+                "number": 55
+            },
+            {
+                "name": "Cadence Blossom",
+                "number": 67
+            }
+        ]
+    },
+    "releaseDate": "2024-10-24",
+    "tierCategory": "Support",
+    "tierTags": [
+        "Heal"
+    ],
+    "ratings": {
+        "tower": 9
+    },
+    "isNew": true,
+    "upcoming": false
+}
