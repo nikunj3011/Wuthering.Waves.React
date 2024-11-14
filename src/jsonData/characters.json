@@ -165,5 +165,12 @@
         "name": "Youhu",
         "tag": "Glacio",
         "bStyle": "linear-gradient(0deg, rgba(119,61,166,1) -79%, rgba(255,255,255,0) 100%)"
+    },
+    {
+        "id": "25",
+        "img": "https://www.prydwen.gg/static/fa50106c1d7d6d2f02033da9c00628f1/b26e2/card_cam.webp",
+        "name": "Camellya",
+        "tag": "Havoc",
+        "bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)"
     }
   ]
