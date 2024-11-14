@@ -1,11 +1,17 @@
 {
-	"id": "288c9ef0-f622-5722-9e27-03a6a493227f",
+	"id": "25",
 	"updatedAt": "November 14th, 2024",
 	"createdAt": "2024-09-17T08:27:52.504Z",
 	"unitId": "25",
 	"devId": 1603,
 	"name": "Camellya",
 	"slug": "camellya",
+	"img": "https://www.prydwen.gg/static/static/fa50106c1d7d6d2f02033da9c00628f1/b26e2/card_cam.webp",
+	"img2": "https://www.prydwen.gg/static/static/fa50106c1d7d6d2f02033da9c00628f1/b26e2/card_cam.webp",
+	"imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hha-active-182494e6.png",
+	"region": "Black Shores",
+	"tag": "Havoc",
+	"bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
 	"smallImage": {
 		"localFile": {
 			"childImageSharp": {
@@ -51,7 +57,24 @@
 	"element": "Havoc",
 	"weapon": "Sword",
 	"introduction": {
-		"raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bloom Bearer from the Black Shores, Camellya is a laid-back character free from shackles, with her personal aroma of \\\"danger.\\\" Intrigued by the belief in fate, she wanders the lands of her own accord, following such a chain of scenarios and its vague guidance. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+		"raw": {
+		"data": {},
+		"content": [
+			{
+				"data": {},
+				"content": [
+					{
+						"data": {},
+						"marks": [],
+						"value": "Bloom Bearer from the Black Shores, Camellya is a laid-back character free from shackles, with her personal aroma of \\\"danger.\\\" Intrigued by the belief in fate, she wanders the lands of her own accord, following such a chain of scenarios and its vague guidance. ",
+						"nodeType": "text"
+					}
+				],
+				"nodeType": "paragraph"
+			}
+		],
+		"nodeType": "document"
+		}
 	},
 	"dupes": {
 		"dupe1": {
