@@ -1,0 +1,883 @@
+{
+    "id": "25",
+    "updatedAt": "November 14th, 2024",
+    "createdAt": "2024-09-17T08:27:52.504Z",
+    "unitId": "25",
+    "devId": 1603,
+    "name": "Camellya",
+    "slug": "camellya",
+    "img": "https://www.prydwen.gg/static/static/fa50106c1d7d6d2f02033da9c00628f1/b26e2/card_cam.webp",
+    "img2": "https://www.prydwen.gg/static/static/fa50106c1d7d6d2f02033da9c00628f1/b26e2/card_cam.webp",
+    "imgRegion": "https://wutheringwaves.kurogames.com/static4.0/assets/hha-active-182494e6.png",
+    "region": "Black Shores",
+    "tag": "Havoc",
+    "bStyle": "linear-gradient(0deg, rgba(234,226,135,1) -79%, rgba(255,255,255,0) 100%)",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#e8e8e8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e98840a9d8725b0851b66b31e0647e9d/60b4d/icon_cam.webp",
+                            "srcSet": "/static/e98840a9d8725b0851b66b31e0647e9d/e73fe/icon_cam.webp 40w,\n/static/e98840a9d8725b0851b66b31e0647e9d/61ca6/icon_cam.webp 80w,\n/static/e98840a9d8725b0851b66b31e0647e9d/60b4d/icon_cam.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#e8e8e8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/fa50106c1d7d6d2f02033da9c00628f1/b26e2/card_cam.webp",
+                            "srcSet": "/static/fa50106c1d7d6d2f02033da9c00628f1/84550/card_cam.webp 94w,\n/static/fa50106c1d7d6d2f02033da9c00628f1/34f80/card_cam.webp 187w,\n/static/fa50106c1d7d6d2f02033da9c00628f1/b26e2/card_cam.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "rarity": "5",
+    "element": "Havoc",
+    "weapon": "Sword",
+    "introduction": {
+        "raw": {
+        "data": {},
+        "content": [
+            {
+                "data": {},
+                "content": [
+                    {
+                        "data": {},
+                        "marks": [],
+                        "value": "Bloom Bearer from the Black Shores, Camellya is a laid-back character free from shackles, with her personal aroma of \\\"danger.\\\" Intrigued by the belief in fate, she wanders the lands of her own accord, following such a chain of scenarios and its vague guidance. ",
+                        "nodeType": "text"
+                    }
+                ],
+                "nodeType": "paragraph"
+            }
+        ],
+        "nodeType": "document"
+        }
+    },
+    "dupes": {
+        "dupe1": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Intro Skill Everblooming increases Camellya's Crit. DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"28%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This effect can be triggered once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Immune to interruptions while casting Ephemeral. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe2": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG Multiplier of Resonance Skill Ephemeral is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe3": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG Multiplier of Resonance Liberation Fervor Efflorescent is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" When in Budding Mode, Camellya's ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"58%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe4": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Everblooming gives all team members \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Basic Attack DMG Bonus for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe5": {
+            "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG Multipliers of Outro Skill Everblooming is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"303% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"and Intro Skill Twining is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"68%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "dupe6": {
+            "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The DMG Multiplier of Forte Circuit's Sweet Dream is additionally increased by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"150%.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Forte Circuit Perennial: \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Within \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15s \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"after casting Ephemeral, if Concerto Energy is full and Perennial is not on cooldown, Resonance Skill is replaced with Perennial.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Casting Perennial consumes \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Concerto Energy and recovers \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Crimson Pistils, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Ephemeral DMG, considered Basic Attack DMG. This skill can be cast once every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"25s\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Camellya enters Budding Mode after casting Perennial and removes all Crimson Buds. The bonus DMG Multiplier granted by Forte Circuit's Sweet Dream is increased to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"250%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Immune to interruptions when casting Perennial. \",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+        }
+    },
+    "skills": [
+        {
+            "name": "Burgeoning",
+            "category": "Active",
+            "type": "Basic Attack",
+            "description": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic Attack\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Perform up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"consecutive attacks, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After performing Basic Attack Stage 3 or Heavy Attack Pruning, hold Normal Attack Button to continuously strike the target, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Basic Attack Stage 4 is automatically followed by Basic Attack Stage 5.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Heavy Attack\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Consume STA to attack the target, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Plunging Attack\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Consume STA to perform Plunging Attack, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Dodge Counter\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Use Basic Attack right after a successful Dodge to attack the target, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "multipliers": [
+                {
+                    "Name": "Basic Attack 1 DMG",
+                    "Lv1": "31.45%",
+                    "Lv2": "34.03%",
+                    "Lv3": "36.61%",
+                    "Lv4": "40.22%",
+                    "Lv5": "42.80%",
+                    "Lv6": "45.77%",
+                    "Lv7": "49.89%",
+                    "Lv8": "54.02%",
+                    "Lv9": "58.15%",
+                    "Lv10": "62.53%"
+                },
+                {
+                    "Name": "Basic Attack 2 DMG",
+                    "Lv1": "23.38%*2",
+                    "Lv2": "25.30%*2",
+                    "Lv3": "27.21%*2",
+                    "Lv4": "29.90%*2",
+                    "Lv5": "31.81%*2",
+                    "Lv6": "34.02%*2",
+                    "Lv7": "37.08%*2",
+                    "Lv8": "40.15%*2",
+                    "Lv9": "43.22%*2",
+                    "Lv10": "46.48%*2"
+                },
+                {
+                    "Name": "Basic Attack 3 DMG",
+                    "Lv1": "25.50%*3",
+                    "Lv2": "27.59%*3",
+                    "Lv3": "29.68%*3",
+                    "Lv4": "32.61%*3",
+                    "Lv5": "34.70%*3",
+                    "Lv6": "37.11%*3",
+                    "Lv7": "40.45%*3",
+                    "Lv8": "43.80%*3",
+                    "Lv9": "47.14%*3",
+                    "Lv10": "50.70%*3"
+                },
+                {
+                    "Name": "Basic Attack 4 DMG",
+                    "Lv1": "12.42%*20",
+                    "Lv2": "13.44%*20",
+                    "Lv3": "14.46%*20",
+                    "Lv4": "15.89%*20",
+                    "Lv5": "16.91%*20",
+                    "Lv6": "18.08%*20",
+                    "Lv7": "19.71%*20",
+                    "Lv8": "21.34%*20",
+                    "Lv9": "22.97%*20",
+                    "Lv10": "24.70%*20"
+                },
+                {
+                    "Name": "Basic Attack 5 DMG",
+                    "Lv1": "24.23%*4",
+                    "Lv2": "26.22%*4",
+                    "Lv3": "28.20%*4",
+                    "Lv4": "30.98%*4",
+                    "Lv5": "32.97%*4",
+                    "Lv6": "35.25%*4",
+                    "Lv7": "38.43%*4",
+                    "Lv8": "41.61%*4",
+                    "Lv9": "44.79%*4",
+                    "Lv10": "48.17%*4"
+                },
+                {
+                    "Name": "Heavy Attack DMG",
+                    "Lv1": "44.33%*3",
+                    "Lv2": "47.97%*3",
+                    "Lv3": "51.60%*3",
+                    "Lv4": "56.69%*3",
+                    "Lv5": "60.33%*3",
+                    "Lv6": "64.51%*3",
+                    "Lv7": "70.32%*3",
+                    "Lv8": "76.14%*3",
+                    "Lv9": "81.96%*3",
+                    "Lv10": "88.14%*3"
+                },
+                {
+                    "Name": "Mid-air Attack DMG",
+                    "Lv1": "33.00%*2",
+                    "Lv2": "35.71%*2",
+                    "Lv3": "38.42%*2",
+                    "Lv4": "42.21%*2",
+                    "Lv5": "44.91%*2",
+                    "Lv6": "48.02%*2",
+                    "Lv7": "52.35%*2",
+                    "Lv8": "56.68%*2",
+                    "Lv9": "61.01%*2",
+                    "Lv10": "65.61%*2"
+                },
+                {
+                    "Name": "Dodge Counter DMG",
+                    "Lv1": "50.00%*3",
+                    "Lv2": "54.10%*3",
+                    "Lv3": "58.20%*3",
+                    "Lv4": "63.94%*3",
+                    "Lv5": "68.04%*3",
+                    "Lv6": "72.75%*3",
+                    "Lv7": "79.31%*3",
+                    "Lv8": "85.87%*3",
+                    "Lv9": "92.43%*3",
+                    "Lv10": "99.40%*3"
+                },
+                {
+                    "Name": "Heavy Attack STA Cost",
+                    "Lv1": "25",
+                    "Lv2": "25",
+                    "Lv3": "25",
+                    "Lv4": "25",
+                    "Lv5": "25",
+                    "Lv6": "25",
+                    "Lv7": "25",
+                    "Lv8": "25",
+                    "Lv9": "25",
+                    "Lv10": "25"
+                },
+                {
+                    "Name": "Plunging Attack STA Cost",
+                    "Lv1": "30",
+                    "Lv2": "30",
+                    "Lv3": "30",
+                    "Lv4": "30",
+                    "Lv5": "30",
+                    "Lv6": "30",
+                    "Lv7": "30",
+                    "Lv8": "30",
+                    "Lv9": "30",
+                    "Lv10": "30"
+                }
+            ]
+        },
+        {
+            "name": "Valse of Bloom and Blight",
+            "category": "Active",
+            "type": "Resonance Skill",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Crimson Blossom\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (considered Basic Attack DMG), then enter Blossom Mode. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This attack can be performed in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blossom Mode\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unable to move in Blossom Mode;\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack and Heavy Attack Pruning are replaced by Basic Attack Vining Waltz: chain together \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"consecutive attacks, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered Basic Attack DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When performing Vining Waltz Stage 3, hold Normal Attack Button to cast Blazing Waltz that deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" before automatically performing Vining Waltz Stage 4.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter is replaced by Dodge Counter Atonement. Normal Attack Button right after a successful Dodge to attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered Basic Attack DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill is replaced by Resonance Skill Floral Ravage. Casting Floral Ravage deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", considered Basic Attack DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill Floral Ravage can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Blossom Mode ends after casting Resonance Skill Floral Ravage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Blossom Mode ends after using the Levitator.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jump is replaced with Basic Attack Vining Ronde. Jump to attack the target at the cost of STA, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (considered Basic Attack DMG). This ends the Blossom Mode.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Using Basic Attack Vining Waltz and Basic Attack Blazing Waltz in mid-air consumes STA.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Resonance Skill Floral Ravage doesn't restore STA.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consume STA continuously to stay suspended on the vines. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": [
+                {
+                    "Name": "Crimson Blossom DMG",
+                    "Lv1": "57.15%*2",
+                    "Lv2": "61.84%*2",
+                    "Lv3": "66.53%*2",
+                    "Lv4": "73.09%*2",
+                    "Lv5": "77.77%*2",
+                    "Lv6": "83.16%*2",
+                    "Lv7": "90.66%*2",
+                    "Lv8": "98.16%*2",
+                    "Lv9": "105.66%*2",
+                    "Lv10": "113.62%*2"
+                },
+                {
+                    "Name": "Vining Waltz 1 DMG",
+                    "Lv1": "48.45%",
+                    "Lv2": "52.43%",
+                    "Lv3": "56.40%",
+                    "Lv4": "61.96%",
+                    "Lv5": "65.94%",
+                    "Lv6": "70.50%",
+                    "Lv7": "76.86%",
+                    "Lv8": "83.22%",
+                    "Lv9": "89.57%",
+                    "Lv10": "96.33%"
+                },
+                {
+                    "Name": "Vining Waltz 2 DMG",
+                    "Lv1": "22.95%*2",
+                    "Lv2": "24.84%*2",
+                    "Lv3": "26.72%*2",
+                    "Lv4": "29.35%*2",
+                    "Lv5": "31.24%*2",
+                    "Lv6": "33.40%*2",
+                    "Lv7": "36.41%*2",
+                    "Lv8": "39.42%*2",
+                    "Lv9": "42.43%*2",
+                    "Lv10": "45.63%*2"
+                },
+                {
+                    "Name": "Vining Waltz 3 DMG",
+                    "Lv1": "11.04%*6",
+                    "Lv2": "11.95%*6",
+                    "Lv3": "12.86%*6",
+                    "Lv4": "14.12%*6",
+                    "Lv5": "15.03%*6",
+                    "Lv6": "16.07%*6",
+                    "Lv7": "17.52%*6",
+                    "Lv8": "18.97%*6",
+                    "Lv9": "20.41%*6",
+                    "Lv10": "21.95%*6"
+                },
+                {
+                    "Name": "Vining Waltz 4 DMG",
+                    "Lv1": "34.00%*3",
+                    "Lv2": "36.79%*3",
+                    "Lv3": "39.58%*3",
+                    "Lv4": "43.48%*3",
+                    "Lv5": "46.27%*3",
+                    "Lv6": "49.47%*3",
+                    "Lv7": "53.93%*3",
+                    "Lv8": "58.39%*3",
+                    "Lv9": "62.85%*3",
+                    "Lv10": "67.59%*3"
+                },
+                {
+                    "Name": "Blazing Waltz DMG",
+                    "Lv1": "11.04%*19",
+                    "Lv2": "11.95%*19",
+                    "Lv3": "12.86%*19",
+                    "Lv4": "14.12%*19",
+                    "Lv5": "15.03%*19",
+                    "Lv6": "16.07%*19",
+                    "Lv7": "17.52%*19",
+                    "Lv8": "18.97%*19",
+                    "Lv9": "20.41%*19",
+                    "Lv10": "21.95%*19"
+                },
+                {
+                    "Name": "Floral Ravage DMG",
+                    "Lv1": "26.46%*5",
+                    "Lv2": "28.63%*5",
+                    "Lv3": "30.80%*5",
+                    "Lv4": "33.84%*5",
+                    "Lv5": "36.01%*5",
+                    "Lv6": "38.51%*5",
+                    "Lv7": "41.98%*5",
+                    "Lv8": "45.45%*5",
+                    "Lv9": "48.92%*5",
+                    "Lv10": "52.61%*5"
+                },
+                {
+                    "Name": "Vining Ronde DMG",
+                    "Lv1": "26.64%*3",
+                    "Lv2": "28.82%*3",
+                    "Lv3": "31.00%*3",
+                    "Lv4": "34.06%*3",
+                    "Lv5": "36.24%*3",
+                    "Lv6": "38.76%*3",
+                    "Lv7": "42.25%*3",
+                    "Lv8": "45.74%*3",
+                    "Lv9": "49.24%*3",
+                    "Lv10": "52.95%*3"
+                },
+                {
+                    "Name": "Atonement DMG",
+                    "Lv1": "57.00%*2",
+                    "Lv2": "61.68%*2",
+                    "Lv3": "66.35%*2",
+                    "Lv4": "72.90%*2",
+                    "Lv5": "77.57%*2",
+                    "Lv6": "82.95%*2",
+                    "Lv7": "90.42%*2",
+                    "Lv8": "97.90%*2",
+                    "Lv9": "105.38%*2",
+                    "Lv10": "113.33%*2"
+                },
+                {
+                    "Name": "Cooldown",
+                    "Lv1": "4",
+                    "Lv2": "4",
+                    "Lv3": "4",
+                    "Lv4": "4",
+                    "Lv5": "4",
+                    "Lv6": "4",
+                    "Lv7": "4",
+                    "Lv8": "4",
+                    "Lv9": "4",
+                    "Lv10": "4"
+                },
+                {
+                    "Name": "Crimson Blossom Concerto Regen",
+                    "Lv1": "7",
+                    "Lv2": "7",
+                    "Lv3": "7",
+                    "Lv4": "7",
+                    "Lv5": "7",
+                    "Lv6": "7",
+                    "Lv7": "7",
+                    "Lv8": "7",
+                    "Lv9": "7",
+                    "Lv10": "7"
+                },
+                {
+                    "Name": "Floral Ravage Concerto Regen",
+                    "Lv1": "7",
+                    "Lv2": "7",
+                    "Lv3": "7",
+                    "Lv4": "7",
+                    "Lv5": "7",
+                    "Lv6": "7",
+                    "Lv7": "7",
+                    "Lv8": "7",
+                    "Lv9": "7",
+                    "Lv10": "7"
+                },
+                {
+                    "Name": "Vining Waltz 1 STA Cost",
+                    "Lv1": "5",
+                    "Lv2": "5",
+                    "Lv3": "5",
+                    "Lv4": "5",
+                    "Lv5": "5",
+                    "Lv6": "5",
+                    "Lv7": "5",
+                    "Lv8": "5",
+                    "Lv9": "5",
+                    "Lv10": "5"
+                },
+                {
+                    "Name": "Vining Waltz 2 STA Cost",
+                    "Lv1": "5",
+                    "Lv2": "5",
+                    "Lv3": "5",
+                    "Lv4": "5",
+                    "Lv5": "5",
+                    "Lv6": "5",
+                    "Lv7": "5",
+                    "Lv8": "5",
+                    "Lv9": "5",
+                    "Lv10": "5"
+                },
+                {
+                    "Name": "Vining Waltz 3 STA Cost",
+                    "Lv1": "5",
+                    "Lv2": "5",
+                    "Lv3": "5",
+                    "Lv4": "5",
+                    "Lv5": "5",
+                    "Lv6": "5",
+                    "Lv7": "5",
+                    "Lv8": "5",
+                    "Lv9": "5",
+                    "Lv10": "5"
+                },
+                {
+                    "Name": "Vining Waltz 4 STA Cost",
+                    "Lv1": "5",
+                    "Lv2": "5",
+                    "Lv3": "5",
+                    "Lv4": "5",
+                    "Lv5": "5",
+                    "Lv6": "5",
+                    "Lv7": "5",
+                    "Lv8": "5",
+                    "Lv9": "5",
+                    "Lv10": "5"
+                },
+                {
+                    "Name": "Blazing Waltz STA Cost",
+                    "Lv1": "5",
+                    "Lv2": "5",
+                    "Lv3": "5",
+                    "Lv4": "5",
+                    "Lv5": "5",
+                    "Lv6": "5",
+                    "Lv7": "5",
+                    "Lv8": "5",
+                    "Lv9": "5",
+                    "Lv10": "5"
+                },
+                {
+                    "Name": "Vining Ronde STA Cost",
+                    "Lv1": "5",
+                    "Lv2": "5",
+                    "Lv3": "5",
+                    "Lv4": "5",
+                    "Lv5": "5",
+                    "Lv6": "5",
+                    "Lv7": "5",
+                    "Lv8": "5",
+                    "Lv9": "5",
+                    "Lv10": "5"
+                },
+                {
+                    "Name": "STA Cost Per Second When Suspended",
+                    "Lv1": "5",
+                    "Lv2": "5",
+                    "Lv3": "5",
+                    "Lv4": "5",
+                    "Lv5": "5",
+                    "Lv6": "5",
+                    "Lv7": "5",
+                    "Lv8": "5",
+                    "Lv9": "5",
+                    "Lv10": "5"
+                }
+            ]
+        },
+        {
+            "name": "Fervor Efflorescent",
+            "category": "Active",
+            "type": "Resonance Liberation",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This attack can be performed in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": [
+                {
+                    "Name": "Skill DMG",
+                    "Lv1": "605.00%",
+                    "Lv2": "654.61%",
+                    "Lv3": "704.22%",
+                    "Lv4": "773.68%",
+                    "Lv5": "823.29%",
+                    "Lv6": "880.34%",
+                    "Lv7": "959.72%",
+                    "Lv8": "1039.09%",
+                    "Lv9": "1118.47%",
+                    "Lv10": "1202.81%"
+                },
+                {
+                    "Name": "Cooldown",
+                    "Lv1": "25",
+                    "Lv2": "25",
+                    "Lv3": "25",
+                    "Lv4": "25",
+                    "Lv5": "25",
+                    "Lv6": "25",
+                    "Lv7": "25",
+                    "Lv8": "25",
+                    "Lv9": "25",
+                    "Lv10": "25"
+                },
+                {
+                    "Name": "Resonance Energy Cost",
+                    "Lv1": "125",
+                    "Lv2": "125",
+                    "Lv3": "125",
+                    "Lv4": "125",
+                    "Lv5": "125",
+                    "Lv6": "125",
+                    "Lv7": "125",
+                    "Lv8": "125",
+                    "Lv9": "125",
+                    "Lv10": "125"
+                },
+                {
+                    "Name": "Concerto Regen",
+                    "Lv1": "20",
+                    "Lv2": "20",
+                    "Lv3": "20",
+                    "Lv4": "20",
+                    "Lv5": "20",
+                    "Lv6": "20",
+                    "Lv7": "20",
+                    "Lv8": "20",
+                    "Lv9": "20",
+                    "Lv10": "20"
+                }
+            ]
+        },
+        {
+            "name": "Vegetative Universe",
+            "category": "Forte Circuit",
+            "type": "Forte Circuit",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hitting a target with Normal Attack, Basic Attack Vining Waltz, Basic Attack Blazing Waltz, Basic Attack Vining Ronde, Dodge Counter Atonement , Resonance Skill Crimson Blossom, and Resonance Skill Floral Ravage consumes Crimson Pistils. The Energy Regen Multiplier of this attack is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"150%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consuming \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Crimson Pistils recovers \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Concerto Energy and obtains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Each bud lasts for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"times.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Forte Circuit: Ephemeral\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Concerto Energy is fully recovered, and Ephemeral is not on Cooldown, Resonance Skill is replaced with Ephemeral.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Ephemeral consumes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Concerto Energy and deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to the targets. This damage is considered Basic Attack DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Camellya enters Budding Mode after casting Ephemeral.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This can be cast in mid-air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Budding Mode\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Sweet Dream: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Increase the DMG Multiplier of Normal Attack, Basic Attack Vining Waltz, Basic Attack Blazing Waltz, Basic Attack Vining Ronde, Dodge Counter Atonement, Resonance Skill Crimson Blossom, and Resonance Skill Floral Ravage by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Ephemeral consumes all Crimson Buds. Each Crimson Bud consumed additionally increases the DMG Multiplier of Sweet Dream by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in Budding Mode, Camellya cannot gain Crimson Buds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in Budding Mode, the Energy Regen Multiplier of Normal Attack, Basic Attack Vining Waltz, Basic Attack Blazing Waltz, Basic Attack Vining Ronde, Dodge Counter Atonement, Resonance Skill Crimson Blossom, and Resonance Skill Floral Ravage is reduced to\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 0%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Budding Mode ends when Camellya is switched off the field.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Budding Mode ends when all Crimson Pistils are consumed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Crimson Pistil\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Camellya can hold up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Crimson Pistils.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Casting Intro Skill Everblooming recovers \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Crimson Pistils.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Activating Forte Circuit's Ephemeral recovers \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Crimson Pistils.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": [
+                {
+                    "Name": "Ephemeral DMG",
+                    "Lv1": "635.00%",
+                    "Lv2": "687.07%",
+                    "Lv3": "739.14%",
+                    "Lv4": "812.04%",
+                    "Lv5": "864.11%",
+                    "Lv6": "923.99%",
+                    "Lv7": "1007.31%",
+                    "Lv8": "1090.62%",
+                    "Lv9": "1173.93%",
+                    "Lv10": "1262.45%"
+                },
+                {
+                    "Name": "Budding Mode Duration",
+                    "Lv1": "15",
+                    "Lv2": "15",
+                    "Lv3": "15",
+                    "Lv4": "15",
+                    "Lv5": "15",
+                    "Lv6": "15",
+                    "Lv7": "15",
+                    "Lv8": "15",
+                    "Lv9": "15",
+                    "Lv10": "15"
+                },
+                {
+                    "Name": "Ephemeral Cooldown",
+                    "Lv1": "25",
+                    "Lv2": "25",
+                    "Lv3": "25",
+                    "Lv4": "25",
+                    "Lv5": "25",
+                    "Lv6": "25",
+                    "Lv7": "25",
+                    "Lv8": "25",
+                    "Lv9": "25",
+                    "Lv10": "25"
+                }
+            ]
+        },
+        {
+            "name": "Seedbed",
+            "category": "Inherent",
+            "type": "Inherent Skill",
+            "description": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Gain \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Bonus. DMG dealt by Heavy Attack Pruning is now considered Basic Attack DMG.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "multipliers": null
+        },
+        {
+            "name": "Epiphyte",
+            "category": "Inherent",
+            "type": "Inherent Skill",
+            "description": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Gain \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"15%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Bonus. Gain increased resistance to interruption when casting Basic Attack, Basic Attack Vining Waltz, and Basic Attack Blazing Waltz.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "multipliers": null
+        },
+        {
+            "name": "Everblooming",
+            "category": "Transition",
+            "type": "Intro Skill",
+            "description": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Attack the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Havoc DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "multipliers": [
+                {
+                    "Name": "Skill DMG",
+                    "Lv1": "100.00%",
+                    "Lv2": "108.20%",
+                    "Lv3": "116.40%",
+                    "Lv4": "127.88%",
+                    "Lv5": "136.08%",
+                    "Lv6": "145.51%",
+                    "Lv7": "158.63%",
+                    "Lv8": "171.75%",
+                    "Lv9": "184.87%",
+                    "Lv10": "198.81%"
+                },
+                {
+                    "Name": "Concerto Regen",
+                    "Lv1": "10",
+                    "Lv2": "10",
+                    "Lv3": "10",
+                    "Lv4": "10",
+                    "Lv5": "10",
+                    "Lv6": "10",
+                    "Lv7": "10",
+                    "Lv8": "10",
+                    "Lv9": "10",
+                    "Lv10": "10"
+                }
+            ]
+        },
+        {
+            "name": "Twining",
+            "category": "Transition",
+            "type": "Outro Skill",
+            "description": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Attack the target, dealing \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"329.24%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Camellya's ATK.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After activating Forte Circuit's Ephemeral, the next Outro Skill Twining deals additional \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Havoc DMG\",\"marks\":[{\"type\":\"underline\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"459.02%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Camellya's ATK. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "multipliers": null
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Camellya is a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5-star Havoc Sword wielder\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" who specializes in dealing overwhelming Basic Attack-focused AoE damage. She fulfills a similar role to Jiyan in teams - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"a Hyper Carry with high field time requirements and an AoE wrecking ball. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"However what she differs in, is that she is far less reliant on her Ultimate, and as a Basic Attack user, she works best with different teammates. Furthermore, she possesses the ability to generate an unparalleled amount of Concerto Energy and then use it to activate Special Abilities to empower her kit dramatically. She is also currently the only character in-game \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"who is able to consume Concerto outside of Outro and Intro Skill\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and doing so is part of her strongest rotations. With that said let's learn how to generate and spend that Concerto for maximum damage! \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Camellya is a character that's all about specialized Airborne states and the enhanced abilities and buffs they come up with.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" As such, gaining access to (and executing optimal combos within them) is her main goal. She has access to two specialized states - the weaker “Blossom Mode” and the more powerful “Budding Mode”. Entering either state launches Camellya Airborne and keeps her there until she exits herself with an appropriate ability. Both of these modes restrict her movement to Dashes and Dash-based attacks only. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"“Blossom Mode” lasts indefinitely or until canceled, whereas the “Budding Mode” only remains active for a short while. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"“Blossom mode” and the enhanced abilities it offers are easily accessible at almost all times during combat and is superior in almost every way to her standard Ground-based mode of play. “Budding Mode” in contrast offers a similar array of enhanced attacks but is much harder to enter - requiring Concerto Energy to do so - but in return, it grants her incredibly potent buffs while active. Based on this her basic play pattern is as follows: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Enter “Blossom Mode”.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Execute Enhanced Abilities until enough Concerto Energy is generated.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Enter “Budding Mode”.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Execute Buffed Enhanced Abilities until forced to exit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now, with the basics covered let's break down each of her abilities to get into specifics.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her Resonance skill “Crimson Blossom” has a 4-second cooldown, deals damage, and causes her to become Airborne, immediately entering “Blossom Mode”.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" While in “Blossom Mode” or “Budding Mode” each of the following abilities is enhanced:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attacks 1, 2, 3, 4, 5 –> Vining Waltz 1, 2, 3, 4\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic/Heavy Attack (Hold) –> Blazing Waltz\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Resonance Skill –> Floral Ravage\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter –> Atonement\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jump –> Vining Ronde\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As we’ve learned already, each enhanced ability is much stronger than the original. Her enhanced Basic Attack - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Vining Waltz\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is the bread and butter of her combo. It causes her to dash toward targets while performing Spinning Whipping attacks that target all enemies in a wide arc around her. Using all 4 parts of this attack is optimal, but after the 3rd attack, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"she has the option to press and hold the Basic Attack to begin spinning in place performing Blazing Waltz instead, which deals tremendous damage to all targets in range over its duration. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Blazing Waltz is almost always a worthwhile addition to every Basic Attack combo making the heart of her rotation.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill: Basic Attack: Vining Waltz 1\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill: Basic Attack: Vining Waltz 2\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill: Basic Attack: Vining Waltz 3\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill: Blazing Waltz (Full Channel)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill: Basic Attack: Vining Waltz 4\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her enhanced Resonance Skill - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Floral Ravage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" shares the same 4-second cooldown as Crimson Blossom, deals damage, and causes her to immediately exit “Blossom Mode” and become Ground-based once again. Floral Ravage is best used as a finisher and should be only used when you’re prepared to wait-out the cooldown to get Airborne and access “Blossom Mode” again via Crimson Blossom or are about to switch Camellya off the field.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her enhanced Dodge Counter isn’t important to her core rotation but can be used when Dodging is necessary and is useful for Concerto Energy generation if you find yourself in need of (which as we’ll find out when we get to her Forte explanation, that it can be quite an important tool to have in your arsenal)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Similar to her Dodge Counter her enhanced “Jump” is also situationally useful for Concerto Energy generation, but moves her position much higher into the air making targeting more challenging - often needing to execute her Mid-Air Attack to reposition.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her Forte Gauge is next and it does a lot.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" The main component of her Forte is a resource called “Crimson Pistils” which can be tracked on the Forte Gauge itself. Camellya can hold up to 100 “Crimson Pistils” at a time and can recover 100 of them via either her Intro Skill or her Special Forte Ability - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Ephemeral\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When Camellya has “Crimson Pistils” and uses any of the following abilities she consumes them for bonuses:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Any Ground-based Normal Attack (Basic, Heavy, Mid-Air, Dodge Counter)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack: Vining Waltz\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic Attack: Blazing Waltz\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jump: Vining Ronde\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dodge Counter: Atonement\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill: Crimson Blossom\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill: Floral Ravage\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Each ability consumes a varying amount of “Crimson Pistils” but when any attack does so, its Energy Regen Multiplier increases by 150% for that attack. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Additionally, for every 10 “Crimson Pistils” consumed Camellya gains 4 Concerto Energy plus another resource called “Crimson Buds” which can be stacked up to 10 times and which we’ll use in a bit (100 “Crimson Pistils” = 10  “Crimson Buds” stacks).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The other function of Camellya’s Forte is granting her access to the alternative enhanced Resonance Skill - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Ephemeral\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" we mentioned earlier. Ephemeral deals massive Havoc damage with a huge 25-second cooldown and a whopping 100 Concerto Energy activation requirement. Upon acquiring 100 Concerto Energy - and as long as it’s not on cooldown - her Resonance Skill will be converted to Ephemeral automatically. Using it consumes 70 Concerto Energy leaving you with 30 left, recovers all 100 “Crimson Pistils” and causes her to enter “Budding Mode”.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"“Budding Mode” is the second of her specialized states that lasts until she is switched off the field or all the “Crimson Pistils” generated via Ephemeral are consumed. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"While within “Budding Mode” every attack capable of consuming “Crimson Pistils” listed earlier is massively enhanced gaining a 50% increase to their Base Damage Multiplier (96.33% x 1.5 = 144.5%). Furthermore, Camellya increases this bonus a further 5% for every “Crimson Bud” she possesses when using Ephemeral - for 10 stacks max (10 stacks = 50% additional bonus); for a potential total “Budding Mode” bonus of 100% Additional Damage Multipliers. As a trade-off, during “Budding mode” instead of gaining the usual Energy Regen bonus from consuming “Crimson Pistils”, Camellya has her Energy Regen Multiplier bonus on “Crimson Pistils” consuming abilities set to 0% and cannot generate “Crimson Buds”. However, she still gains Concerto Energy for every 10 “Crimson Pistils” consumed. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Thus, her Forte and “Budding Mode” by extension are both the fuel and payoff for her kit, and playing around them is essential. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her Intro not only is essential for generating “Crimson Pistils” but also generates an above-average 20 Concerto Energy on use\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", making it all the more important when pursuing quick access to Ephemeral and “Budding Mode”. Aim to have her Intro available before switching to her whenever possible.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Resonance Liberation or Ultimate is simply a large Havoc damage nuke that generates a sizable amount of Concerto Energy as fuel for her rotation while sharing a 25-second cooldown with Ephemeral, making aligning the two ideal. As her Ultimate does not benefit from “Budding Mode’s” damage multipliers, it makes it a good option to use beforehand to quickly build Concerto Energy to reach Ephemeral faster.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Outro simply deals a large amount of Havoc damage with an additional large hit granted if she used Ephemeral before activating it - something she already very much intended on doing. As for her Normal Attacks - they aren't that useful in her mostly Airborne kit, rotation, or game plan making them situational additions only used in specific scenarios when aiming to achieve certain goals.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lastly, rounding out her kit - her Inherent Skills grants her some handy bonuses. Her first Inherent Skill - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Epiphyte \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"offers her a passive 15% Havoc damage bonus and causes her Ground-based Basic Attacks plus Airborne Vining Waltz and Blazing Waltz to gain increased Interruption resistance. Damage% bonuses are always welcome but the Interruption resistance is a huge boon for Camellya as she spends most of her time performing a combination of Vining Waltz and Blazing Waltz, meaning she retains this resistance for most of her total field time. Her second Inherent Skill - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Seedbed \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"at the time of our testing was much harder to use, it converts her Heavy Attack to Basic Attack damage and causes it to grant 15% Havoc damage on use \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"(The English translation that appears does not match its in-game effect)\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This bonus is great, but using this ability makes her playstyle more challenging and a little awkward requiring her to mix Aerial and Ground-based attacks - the worth of this skill is currently up in the air (we’re waiting for an updated translation or ability effect).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Bringing it all together, Camellya’s full game plan is focused on building Concerto Energy and “Crimson Buds” to access and empower Ephemeral for a massive burst damage window, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"switch out, and bide time while waiting for her 25-second cooldowns to become available. To achieve an optimal rotation Camellya must generate 100 Concerto Energy quickly through any means necessary to access Ephemeral, execute an optimal burst rotation while rebuilding her Concerto Energy to 100, follow that up with her Outro, and then switch out. Here is what a combination of all her abilities can look like in order to first build 100 Concerto Energy quickly then rebuild the additional 70 required for the Outro.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Intro\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Crimson Blossom (Enters “Blossom State”)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Ultimate (For Concerto Generation)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Basic Attack: Vining Waltz 1\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Basic Attack: Vining Waltz 2\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Basic Attack: Vining Waltz 3\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Blazing Waltz (Full Channel)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Basic Attack: Vining Waltz 4\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Forte: Skill: Ephemeral (Enters “Budding State”)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Basic Attack: Vining Waltz 1\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Basic Attack: Vining Waltz 2\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Basic Attack: Vining Waltz 3\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Blazing Waltz (Full Channel)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Basic Attack: Vining Waltz 4\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Skill: Floral Ravage\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Outro\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This combo generates exactly 170 Concerto Energy and 8 “Crimson Buds” before Ephemeral (90% Additional Damage Multiplier) making it a strong option for those looking for a clean-cut rotation without too many additions. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"One thing to be on the lookout for though, is if you miss an ability or part of a Blazing Waltz Charge you’ll be short on Concerto Energy required and will need to weave in other attacks as a substitute.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In conclusion, Camellya is a Resonator that is relatively easy to get your head around as she possesses excellent AoE damage potential and isn’t too reliant on her Ultimate outside of the Concerto Energy it provides. Her long rotation and cooldowns put her firmly in the Hypercarry category, but unlike others, she still has passable AoE damage without her cooldowns (Ultimate and “Budding Mode”) just relying on “Blossom mode”. Being constantly Airborne, with movement limited to Attack based Dashes and Dodges might not be everyone's cup of tea and/or hard to get used to but if you can she certainly packs a punch as one of the top DPS in the game at the time of her release.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Excellent AoE damage in a large radius making her one of the top AoE DPS.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Easy to understand and play with a little bit of practice.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Still capable of dealing great damage even without access to her Ultimate - unlike other characters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gains Interruption resistance throughout the majority of her combo.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Spin to Win.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Less mobile than other characters during her rotation due to her kit requiring her to channel abilities or be Airborne most of the time.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"May have less efficient rotations against highly mobile enemies due to her channeled abilities missing some of their duration due to enemy movement.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Missing a portion of (or entire) abilities interrupts her vital Concerto Energy generation, meaning you'll need to add in other abilities to compensate.\",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Trust me, you can't fix her.\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "voiceActors": {
+        "en": "",
+        "kr": "",
+        "jpn": "",
+        "cn": ""
+    },
+    "buildInfoEcho": {
+        "echo_4_stat": [
+            {
+                "stat": "CRIT DMG"
+            },
+            {
+                "stat": "CRIT Rate"
+            }
+        ],
+        "echo_3_stat": [
+            {
+                "stat": "Havoc DMG"
+            },
+            {
+                "stat": "ATK%"
+            }
+        ],
+        "echo_3a_stat": [
+            {
+                "stat": "Havoc DMG"
+            }
+        ],
+        "echo_1_stat": [
+            {
+                "stat": "ATK%"
+            }
+        ],
+        "echo_1a_stat": [
+            {
+                "stat": "ATK%"
+            }
+        ],
+        "echo_sets": [
+            {
+                "name": "Havoc Eclipse",
+                "name2": "",
+                "value": "100%",
+                "notes": "",
+                "main_echo": "Dreamless"
+            },
+            {
+                "name": "Endless Resonance",
+                "name2": "",
+                "value": "98.87%",
+                "notes": "",
+                "main_echo": "Dreamless"
+            },
+            {
+                "name": "Havoc Eclipse",
+                "name2": "Endless Resonance",
+                "value": "91.05%",
+                "notes": "",
+                "main_echo": "Dreamless"
+            }
+        ]
+    },
+    "buildInfoWeapon": [
+        {
+            "weapon": "Red Spring",
+            "super": "5",
+            "notes": "",
+            "percent": "140.15%"
+        },
+        {
+            "weapon": "Red Spring",
+            "super": "1",
+            "notes": "",
+            "percent": "116.07%"
+        },
+        {
+            "weapon": "Emerald of Genesis",
+            "super": "1",
+            "notes": "",
+            "percent": "100%"
+        },
+        {
+            "weapon": "Lumingloss",
+            "super": "5",
+            "notes": "",
+            "percent": "87.92%"
+        },
+        {
+            "weapon": "Commando of Conviction",
+            "super": "5",
+            "notes": "",
+            "percent": "86.06%"
+        },
+        {
+            "weapon": "Endless Collapse",
+            "super": "5",
+            "notes": "",
+            "percent": "84.22%"
+        },
+        {
+            "weapon": "Lunar Cutter",
+            "super": "5",
+            "notes": "",
+            "percent": "81.63%"
+        },
+        {
+            "weapon": "Sword of Night",
+            "super": "5",
+            "notes": "",
+            "percent": "72.65%"
+        }
+    ],
+    "buildInfoOther": {
+        "substats": "Energy Regeneration (Until Breakpoint) >= CRIT RATE = CRIT DMG > ATK% > Basic DMG% > Flat ATK",
+        "substats_comments": null,
+        "skill_priority": ""
+    },
+    "attributeBonus": {
+        "trace1": {
+            "stat": "CRIT DMG",
+            "value": 16
+        },
+        "trace2": {
+            "stat": "ATK%",
+            "value": 12
+        }
+    },
+    "videos": [
+        {
+            "video": "__6ChxZLgdU"
+        }
+    ],
+    "synergies": null,
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1900-2600+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14000+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1100+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HAVOC DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%-70%+ \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(45% - 85% With Inherent Passive) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"55-75%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"110-150%+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-30%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Camellya isn't reliant on her ultimate to deal damage but it is part of her optimal rotation due to the Concerto and damage it contributes. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Camellya has in-built Energy Regeneration in her kit, allowing her to get away with less than other characters but some is still recommended to ensure she remains consistent - \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10-30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is what we recommend (note you can get away with less in some teams and playstyles). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsInfo": null,
+    "howToPlay": null,
+    "ascensionMaterials": {
+        "ascension": {
+            "name": "Nova",
+            "number": 60
+        },
+        "breakthrough": {
+            "name": "Topological Confinement",
+            "number": 46
+        },
+        "skill": {
+            "name": "Dreamless Feather",
+            "number": 26
+        },
+        "common": [
+            {
+                "name": "LF Whisperin Core",
+                "number_skill": 25,
+                "number_char": 4
+            },
+            {
+                "name": "MF Whisperin Core",
+                "number_skill": 28,
+                "number_char": 12
+            },
+            {
+                "name": "HF Whisperin Core",
+                "number_skill": 40,
+                "number_char": 12
+            },
+            {
+                "name": "FF Whisperin Core",
+                "number_skill": 57,
+                "number_char": 4
+            }
+        ],
+        "skill_other": [
+            {
+                "name": "Inert Metallic Drip",
+                "number": 25
+            },
+            {
+                "name": "Reactive Metallic Drip",
+                "number": 28
+            },
+            {
+                "name": "Polarized Metallic Drip",
+                "number": 55
+            },
+            {
+                "name": "Heterized Metallic Drip",
+                "number": 67
+            }
+        ]
+    },
+    "releaseDate": "2024-11-14",
+    "tierCategory": "DPS",
+    "tierTags": [
+        "AoE"
+    ],
+    "ratings": {
+        "tower": 10
+    },
+    "isNew": true,
+    "upcoming": false
+}
